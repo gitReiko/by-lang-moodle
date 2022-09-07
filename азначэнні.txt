@@ -1,5 +1,10 @@
 
 backup = рэзервовая копія
 Dashboard = Адукаванне
+event = падзея
 exercise = практыкаванне
+gradebook = журнал падзей
+grouping = групаванняў
+rating = ацэнкі
+Teacher = Настаўнік
 workshop = майстэрня
