@@ -1,6 +1,7 @@
 
 backup = рэзервовая копія
 Dashboard = Адукаванне
+enrolments = залічэнні
 event = падзея
 exercise = практыкаванне
 gradebook = журнал падзей
