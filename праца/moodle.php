@@ -616,88 +616,88 @@ $string['edhelpenablespelling'] = 'Уключае ці адключае прав
 $string['edhelpfontfamily'] = 'Уласцівасць сям\'я шрыфтоў уяўляе сабою спіс імёнаў сем\'яў шрыфтоў і/ці агульных імёнаў сем\'яў. Імёны сем\'яў павінны быць падзелены коскаю.';
 $string['edhelpfontlist'] = 'Вызначце шрыфты, што выкарыстоўваюцца ў выпадаючым меню рэдактараў.';
 $string['edhelpfontsize'] = 'Памер шрыфту па змаўчанні ўсталёўвае памер шрыфту. <br />Дапушчальныя значэнні, напрыклад: medium, large, smaller, larger, 10pt, 11px.';
-$string['edit'] = 'Edit';
-$string['edita'] = 'Edit {$a}';
-$string['editcategorysettings'] = 'Edit category settings';
-$string['editcategorythis'] = 'Edit this category';
-$string['editcoursesettings'] = 'Edit course settings';
-$string['editfiles'] = 'Edit files';
-$string['editgroupprofile'] = 'Edit group profile';
-$string['editinga'] = 'Editing {$a}';
-$string['editingteachershort'] = 'Editor';
-$string['editlock'] = 'This value cannot be edited!';
-$string['editmode'] = 'Edit mode';
-$string['editmyprofile'] = 'Edit profile';
-$string['editorbgcolor'] = 'Background-color';
-$string['editorcleanonpaste'] = 'Clean Word HTML on paste';
-$string['editorcommonsettings'] = 'Common settings';
-$string['editordefaultfont'] = 'Default font';
-$string['editorenablespelling'] = 'Enable spellchecking';
-$string['editorfontlist'] = 'Fontlist';
-$string['editorfontsize'] = 'Default font-size';
-$string['editorpreferences'] = 'Editor preferences';
-$string['editorresettodefaults'] = 'Reset to default values';
-$string['editorsettings'] = 'Editor settings';
-$string['editorshortcutkeys'] = 'Editor shortcut keys';
-$string['editsection'] = 'Edit section';
-$string['editsectionname'] = 'Edit section name';
-$string['editsettings'] = 'Edit settings';
-$string['editsummary'] = 'Edit summary';
-$string['editthisactivity'] = 'Edit this activity';
-$string['editthiscategory'] = 'Edit this category';
-$string['edittitle'] = 'Edit title';
-$string['edittitleinstructions'] = 'Escape to cancel, Enter when finished';
-$string['edituser'] = 'Edit user accounts';
-$string['edulevel'] = 'All events';
-$string['edulevel_help'] = '* Teaching - actions performed by a teacher, e.g. updating a resource
-* Participating - actions performed by a student, e.g. posting in a forum
-* Other - actions performed by a user with a role other than teacher or student';
-$string['edulevelother'] = 'Other';
-$string['edulevelparticipating'] = 'Participating';
-$string['edulevelteacher'] = 'Teaching';
-$string['email'] = 'Email address';
-$string['emailactive'] = 'Email activated';
-$string['emailagain'] = 'Email (again)';
-$string['emailalreadysent'] = 'A password reset email has already been sent. Please check your email.';
-$string['emailcharset'] = 'Email charset';
-$string['emailconfirm'] = 'Confirm your account';
-$string['emailconfirmation'] = 'Hi,
+$string['edit'] = 'Рэдагаваць';
+$string['edita'] = 'Рэдагаваць {$a}';
+$string['editcategorysettings'] = 'Рэдагаваць налады катэгорыі';
+$string['editcategorythis'] = 'Рэдагаваць гэтую катэгорыю';
+$string['editcoursesettings'] = 'Рэдагаваць налады курса';
+$string['editfiles'] = 'Рэдагаваць файлы';
+$string['editgroupprofile'] = 'Рэдагаваць профіль групы';
+$string['editinga'] = 'Рэдагаванне {$a}';
+$string['editingteachershort'] = 'Рэдактар';
+$string['editlock'] = 'Гэтае значэнне нельга рэдагаваць!';
+$string['editmode'] = 'Рэжым рэдагавання';
+$string['editmyprofile'] = 'Рэдагаваць профіль';
+$string['editorbgcolor'] = 'Колер фону';
+$string['editorcleanonpaste'] = 'Чысціць Word HTML падчас устаўкі';
+$string['editorcommonsettings'] = 'Агульныя налады';
+$string['editordefaultfont'] = 'Шрыфт па змаўчанні';
+$string['editorenablespelling'] = 'Уключыць праверку арфаграфіі';
+$string['editorfontlist'] = 'Спіс шрыфтоў';
+$string['editorfontsize'] = 'Памер шрыфту па змаўчанні';
+$string['editorpreferences'] = 'Перавагі рэдактара';
+$string['editorresettodefaults'] = 'Скід да значэнняў па змаўчанні';
+$string['editorsettings'] = 'Налады рэдактара';
+$string['editorshortcutkeys'] = 'Хуткія клавішы рэдактара';
+$string['editsection'] = 'Рэдагаваць падзел';
+$string['editsectionname'] = 'Рэдагаваць назву падзелу';
+$string['editsettings'] = 'Рэдагаваць налады';
+$string['editsummary'] = 'Рэдагаваць кароткае апісанне';
+$string['editthisactivity'] = 'Рэдагаваць гэтую актыўнасць';
+$string['editthiscategory'] = 'Рэдагаваць гэтую катэгорыю';
+$string['edittitle'] = 'Рэдагаваць назву';
+$string['edittitleinstructions'] = 'Escape для скасавання, Enter для завяршэння';
+$string['edituser'] = 'Рэдагаваць акаўнты карыстальнікаў';
+$string['edulevel'] = 'Усе падзеі';
+$string['edulevel_help'] = '* Навучанні - дзеянні, выкананыя настаўнікам, напрыклад, абнаўленне рэсурсу
+* Удзелы - дзеянні, выкананыя студэнтам, напрыклад, камунікаванне на форуме
+* Іншае - дзеянні, выкананыя карыстальнікам не настаўнікам і не студэнтам';
+$string['edulevelother'] = 'Іншае';
+$string['edulevelparticipating'] = 'Удзел';
+$string['edulevelteacher'] = 'Навучанне';
+$string['email'] = 'Email адрас';
+$string['emailactive'] = 'Email актываваны';
+$string['emailagain'] = 'Email (ізноў)';
+$string['emailalreadysent'] = 'Email для скіду пароля ўжо адпраўлены. Калі ласка, праверце свой email.';
+$string['emailcharset'] = 'Кадоўка emailа';
+$string['emailconfirm'] = 'Пацвердзіце свой акаўнт';
+$string['emailconfirmation'] = 'Вітаем,
 
-A new account has been requested at \'{$a->sitename}\'
-using your email address.
+На сайце \'{$a->sitename}\' быў створаны новы акаўнт
+з дапамогай вашага emailа.
 
-To confirm your new account, please go to this web address:
+Каб пацвердзіць стварэнне новага акаўнта, перайдзіце па гэтай спасылцы:
 
 {$a->link}
 
-In most mail programs, this should appear as a blue link
-which you can just click on.  If that doesn\'t work,
-then cut and paste the address into the address
-line at the top of your web browser window.
+У большасці паштовых праграм гэта павінна адлюстроўвацца 
+ў выглядзе сіняй спасылкі, на якую льга проста націснуць.  
+Калі пераход па спасылцы не працуе, скапіюйце спасылку ў 
+адрасны радок у верхняй частцы акна вашага браўзара.
 
-If you need help, please contact the site administrator,
+Калі вам патрэбна дапамога, звярніцеся да адміністратара сайта,
 {$a->admin}';
-$string['emailconfirmationresend'] = 'Resend confirmation email';
-$string['emailconfirmationsubject'] = '{$a}: account confirmation';
-$string['emailconfirmsent'] = '<p>An email should have been sent to your address at <b>{$a}</b></p>
-   <p>It contains easy instructions to complete your registration.</p>
-   <p>If you continue to have difficulty, contact the site administrator.</p>';
-$string['emailconfirmsentfailure'] = 'Confirmation email failed to send';
-$string['emailconfirmsentsuccess'] = 'Confirmation email sent successfully';
-$string['emaildigest'] = 'Email digest type';
-$string['emaildigest_help'] = 'This is the daily digest setting that forums will use by default.
+$string['emailconfirmationresend'] = 'Паўторнае адправіць пацверджанне на email';
+$string['emailconfirmationsubject'] = '{$a}: пацверджанне акаўнта';
+$string['emailconfirmsent'] = '<p>Email павінен быць адпраўлены на вашы адрас <b>{$a}</b></p>
+   <p>Ён утрымлівае простыя інструкцыі для завяршэння рэгістрацыі.</p>
+   <p>Калі ў вас па-ранейшаму ўзнікаюць цяжкасці, звярніцеся да адміністратара сайта.</p>';
+$string['emailconfirmsentfailure'] = 'Не ўдалося адправіць email з пацверджаннем';
+$string['emailconfirmsentsuccess'] = 'Email з пацверджаннем паспяхова адпраўлены';
+$string['emaildigest'] = 'Тып рассылкі email';
+$string['emaildigest_help'] = 'Гэта налада штодзённай рассылкі, якую форумы будуць выкарыстоўваць па змаўчанні.
 
-* No digest - you will receive one e-mail per forum post;
-* Digest - complete posts - you will receive one digest e-mail per day containing the complete contents of each forum post;
-* Digest - subjects only - you will receive one digest e-mail per day containing just the subject of each forum post.
+* Няма рассылкі - вы будзеце атрымліваць па адным электронным лісце на кожнае паведамленне форума;
+* Рассылка - поўныя паведамленні  - вы будзеце атрымліваць адну рассылку ў дзень, што змяшчае ўсе паведамленні форума;
+* Рассылка - толькі тэмы - вы будзеце атрымліваць адну рассылку ў дзень, што змяшчае толькі тэму кожнага паведамлення форума.
 
-You can also choose a different setting for each forum if you wish.';
-$string['emaildigestcomplete'] = 'Complete (daily email with full posts)';
-$string['emaildigestoff'] = 'No digest (single email per forum post)';
-$string['emaildigestsubjects'] = 'Subjects (daily email with subjects only)';
-$string['emaildisable'] = 'This email address is disabled';
-$string['emaildisableclick'] = 'Click here to disable all email from being sent to this address';
-$string['emaildisplay'] = 'Email display';
+Вы таксама можаце абраць розныя налады для кожнага форума, калі жадаеце.';
+$string['emaildigestcomplete'] = 'Поўная (штодзённы email з усімі паведамленнямі)';
+$string['emaildigestoff'] = 'Няма рассылкі (на кожнае паведамленне асобны email)';
+$string['emaildigestsubjects'] = 'Тэмы (штодзённы email, які ўтрымлівае толькі тэмы)';
+$string['emaildisable'] = 'Гэты адрас email адключаны';
+$string['emaildisableclick'] = 'Націсніце тут, каб адключыць адпраўленне ўсіх emailаў на гэты адрас';
+$string['emaildisplay'] = 'Адлюстраванне emailа';
 $string['emaildisplay_help'] = 'Privileged users (such as teachers and managers) will always be able to see your email address.';
 $string['emaildisplaycourse'] = 'Allow only other course participants to see my email address';
 $string['emaildisplaycoursemembersonly'] = '(Visible to other course participants)';
