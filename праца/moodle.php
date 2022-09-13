@@ -698,118 +698,120 @@ $string['emaildigestsubjects'] = 'Тэмы (штодзённы email, які ў�
 $string['emaildisable'] = 'Гэты адрас email адключаны';
 $string['emaildisableclick'] = 'Націсніце тут, каб адключыць адпраўленне ўсіх emailаў на гэты адрас';
 $string['emaildisplay'] = 'Адлюстраванне emailа';
-$string['emaildisplay_help'] = 'Privileged users (such as teachers and managers) will always be able to see your email address.';
-$string['emaildisplaycourse'] = 'Allow only other course participants to see my email address';
-$string['emaildisplaycoursemembersonly'] = '(Visible to other course participants)';
-$string['emaildisplayeveryone'] = '(Visible to everyone)';
-$string['emaildisplayhide'] = '(Hidden from all non-privileged users)';
-$string['emaildisplayno'] = 'Hide my email address from non-privileged users';
-$string['emaildisplayyes'] = 'Allow everyone to see my email address';
-$string['emailenable'] = 'This email address is enabled';
-$string['emailenableclick'] = 'Click here to re-enable all email being sent to this address';
-$string['emailexists'] = 'This email address is already registered.';
-$string['emailexistshintlink'] = 'Recover forgotten username or password';
-$string['emailexistssignuphint'] = 'Perhaps you created an account in the past? {$a}';
-$string['emailformat'] = 'Email format';
-$string['emailmustbereal'] = 'Note: your email address must be a real one';
-$string['emailnotallowed'] = 'Email addresses in these domains are not allowed ({$a})';
-$string['emailnotfound'] = 'The email address was not found in the database';
-$string['emailonlyallowed'] = 'This email is not one of those that are allowed ({$a})';
-$string['emailpasswordchangeinfo'] = 'Hi {$a->firstname},
+$string['emaildisplay_help'] = 'Прывілеяваныя карыстальнікі (напрыклад, настаўніка і кіраўнікі) заўсёды могуць бачыць вашы адрас email.';
+$string['emaildisplaycourse'] = 'Дазволіць толькі іншым удзельнікам курса бачыць мой адрас email';
+$string['emaildisplaycoursemembersonly'] = '(Бачны іншым удзельнікам курса)';
+$string['emaildisplayeveryone'] = '(Бачны ўсім)';
+$string['emaildisplayhide'] = '(Схаваны ад усіх непрывілеяваных карыстальнікаў)';
+$string['emaildisplayno'] = 'Схаваць мой адрас email ад непрывілеяваных карыстальнікаў';
+$string['emaildisplayyes'] = 'Дазволіць усім бачыць мой адрас email';
+$string['emailenable'] = 'Гэты адрас email ўключаны';
+$string['emailenableclick'] = 'Націсніце тут, каб паўторна дазволіць адпраўленне ўсіх лістоў на гэты email';
+$string['emailexists'] = 'Гэты адрас email ўжо зарэгістраваны.';
+$string['emailexistshintlink'] = 'Аднавіць забыты username ці пароль';
+$string['emailexistssignuphint'] = 'Магчыма, вы стварылі акаўнт раней? {$a}';
+$string['emailformat'] = 'Фармат emailа';
+$string['emailmustbereal'] = 'Нататка: вашы адрас email павінен быць рэальным';
+$string['emailnotallowed'] = 'Адрасы emailаў ў гэтых даменах не дапускаюцца ({$a})';
+$string['emailnotfound'] = 'Email адрас не знойдзены ў базе дадзеных';
+$string['emailonlyallowed'] = 'Гэты email не належыць да ліку дазволеных ({$a})';
+$string['emailpasswordchangeinfo'] = 'Вітаем {$a->firstname},
 
-Someone (probably you) has requested a new password for your
-account \'{$a->username}\' on \'{$a->sitename}\'.
+Хтосьці (магчыма, вы) запытаў новы пароль для вашага
+акаўнта \'{$a->username}\' на \'{$a->sitename}\'.
 
-To change your password, please go to the following web address:
-
-{$a->link}
-
-In most mail programs, this should appear as a blue link
-which you can just click on.  If that doesn\'t work,
-then cut and paste the address into the address
-line at the top of your web browser window.
-
-If you need help, please contact the site administrator,
-{$a->admin}';
-$string['emailpasswordchangeinfodisabled'] = 'Hi {$a->firstname},
-
-Someone (probably you) has requested a new password for your account on \'{$a->sitename}\'.
-
-Unfortunately your account on this site is disabled, so the password cannot be reset. Please contact the site administrator {$a->admin}.';
-$string['emailpasswordchangeinfofail'] = 'Hi {$a->firstname},
-
-Someone (probably you) has requested a new password for your account on \'{$a->sitename}\'.
-
-Unfortunately passwords cannot be reset on this site. Please contact the site administrator {$a->admin}.';
-$string['emailpasswordchangeinfosubject'] = '{$a}: Change password information';
-$string['emailpasswordconfirmation'] = 'Hi {$a->firstname},
-
-Someone (probably you) has requested a new password for your
-account on \'{$a->sitename}\'.
-
-To confirm this and have a new password sent to you via email,
-go to the following web address:
+Каб скінуць пароль, перайдзіце па наступнай спасылцы:
 
 {$a->link}
 
-In most mail programs, this should appear as a blue link
-which you can just click on.  If that doesn\'t work,
-then cut and paste the address into the address
-line at the top of your web browser window.
+У большасці паштовых праграм гэта павінна адлюстроўвацца 
+ў выглядзе сіняй спасылкі, на якую льга проста націснуць.  
+Калі пераход па спасылцы не працуе, скапіюйце спасылку ў 
+адрасны радок у верхняй частцы акна вашага браўзара.
 
-If you need help, please contact the site administrator,
+Калі вам патрэбна дапамога, звярніцеся да адміністратара сайта,
 {$a->admin}';
-$string['emailpasswordconfirmationsubject'] = '{$a}: Change password confirmation';
-$string['emailpasswordconfirmmaybesent'] = '<p>If you supplied a correct username or unique email address then an email should have been sent to you.</p>
-   <p>It contains easy instructions to confirm and complete this password change.
-If you continue to have difficulty, please contact the site administrator.</p>';
-$string['emailpasswordconfirmnoemail'] = '<p>The user account you specified does not have a recorded email address.</p>
-   <p>Please contact the site administrator.</p>';
-$string['emailpasswordconfirmnotsent'] = '<p>The user detail you supplied does not identify an existing user account.</p>
-   <p>Please check the information you entered, then try again.
-If you continue to have difficulty, please contact the site administrator.</p>';
-$string['emailpasswordconfirmsent'] = 'An email should have been sent to your address at <b>{$a}</b>.
-<br />It contains easy instructions to confirm and complete this password change.
-If you continue to have difficulty, contact the site administrator.';
-$string['emailpasswordsent'] = 'Thank you for confirming the change of password.
-An email containing your new password has been sent to your address at<br /><b>{$a->email}</b>.<br />
-The new password was automatically generated - you might like to
-<a href="{$a->link}">change your password</a> to something easier to remember.';
-$string['emailresetconfirmation'] = 'Hi {$a->firstname},
+$string['emailpasswordchangeinfodisabled'] = 'Вітаем {$a->firstname},
 
-A password reset was requested for your account \'{$a->username}\' at {$a->sitename}.
+Хтосьці (магчыма, вы) запытаў новы пароль для вашага
+акаўнта на \'{$a->sitename}\'.
 
-To confirm this request, and set a new password for your account, please
-go to the following web address:
+На жаль, вашы акаўнт на гэтым сайце адключаны, таму пароль не можа быць скінуты. Калі ласка, звяжыцеся з адміністратарам сайта {$a->admin}.';
+$string['emailpasswordchangeinfofail'] = 'Вітаем {$a->firstname},
+
+Хтосьці (магчыма, вы) запытаў новы пароль для вашага
+акаўнта на \'{$a->sitename}\'.
+
+На жаль, паролі на гэтым сайце скінуць нельга. Калі ласка, звяжыцеся з адміністратарам сайта {$a->admin}.';
+$string['emailpasswordchangeinfosubject'] = '{$a}: Змяніць інфармацыю пароля';
+$string['emailpasswordconfirmation'] = 'Вітаем {$a->firstname},
+
+Хтосьці (магчыма, вы) запытаў новы пароль для вашага
+акаўнта на \'{$a->sitename}\'.
+
+Каб пацвердзіць гэтае і атрымаць новы пароль па emailу,
+перайдзіце па наступнай спасылцы:
 
 {$a->link}
-(This link is valid for {$a->resetminutes} minutes from the time this reset was first requested)
 
-If this password reset was not requested by you, no action is needed.
+У большасці паштовых праграм гэта павінна адлюстроўвацца 
+ў выглядзе сіняй спасылкі, на якую льга проста націснуць.  
+Калі пераход па спасылцы не працуе, скапіюйце спасылку ў 
+адрасны радок у верхняй частцы акна вашага браўзара.
 
-If you need help, please contact the site administrator,
+Калі вам патрэбна дапамога, звярніцеся да адміністратара сайта,
 {$a->admin}';
-$string['emailresetconfirmationsubject'] = '{$a}: Password reset request';
-$string['emailresetconfirmsent'] = 'An email has been sent to your address at <b>{$a}</b>.
-<br />It contains easy instructions to confirm and complete this password change.
-If you continue to have difficulty, contact the site administrator.';
-$string['emailstop'] = 'Disable notifications';
-$string['emailtoprivatefiles'] = 'You can also e-mail files as attachments straight to your private files space. Simply attach your files to an e-mail and send it to {$a}';
-$string['emailtoprivatefilesdenied'] = 'Your administrator has disabled the option to upload your own private files.';
-$string['emailvia'] = '{$a->name} (via {$a->siteshortname})';
-$string['emojicategoryactivities'] = 'Activities';
-$string['emojicategoryanimalsnature'] = 'Animals & nature';
-$string['emojicategoryflags'] = 'Flags';
-$string['emojicategoryfooddrink'] = 'Food & drink';
-$string['emojicategoryobjects'] = 'Objects';
-$string['emojicategorypeoplebody'] = 'People & body';
-$string['emojicategoryrecent'] = 'Recent';
-$string['emojicategorysmileysemotion'] = 'Smileys & emotion';
-$string['emojicategorysymbols'] = 'Symbols';
-$string['emojicategorytravelplaces'] = 'Travel & places';
-$string['emptycmids'] = 'Empty course module IDs';
-$string['emptydragdropregion'] = 'empty region';
-$string['emptysectionids'] = 'Empty section IDs';
+$string['emailpasswordconfirmationsubject'] = '{$a}: Пацверджанне змены пароля';
+$string['emailpasswordconfirmmaybesent'] = '<p>Калі вы ўказалі слушны username ці ўнікальны адрас email, то вам павінен быў быць адпраўлена ліст.</p>
+   <p>У ім утрымваюцца простыя інструкцыі для пацверджання і завяршэння змены пароля.
+   Калі ў вас па-ранейшаму ўзнікаюць цяжкасці, звярніцеся да адміністратара сайта.</p>';
+$string['emailpasswordconfirmnoemail'] = '<p>У ўказанага вамі акаўнта карыстальніка няма зарэгістраванага адраса email.</p>
+   <p>Калі ласка, звяжыцеся з адміністратарам сайта.</p>';
+$string['emailpasswordconfirmnotsent'] = '<p>Уведзеныя вамі дадзеныя карыстальніка не ідэнтыфікуюць існага акаўнта карыстальніка.</p>
+   <p>Калі ласка, праверце ўведзеную інфармацыю і паўтарыце спробу.
+   Калі ў вас па-ранейшаму ўзнікаюць цяжкасці, звярніцеся да адміністратара сайта.</p>';
+$string['emailpasswordconfirmsent'] = 'Ліст павінен быў быць адпраўлена на вашы адрас email <b>{$a}</b>.
+<br />У ім утрымваюцца простыя інструкцыі для пацверджання і завяршэння змены пароля.
+Калі ў вас па-ранейшаму ўзнікаюць цяжкасці, звярніцеся да адміністратара сайта.';
+$string['emailpasswordsent'] = 'Дзякуй за пацверджанне змены пароля.
+Email з новым паролем быў адпраўлены на вашы адрас<br /><b>{$a->email}</b>.<br />
+Новы пароль быў згенераваны аўтаматычна. Магчыма, вы пажадаеце
+<a href="{$a->link}">змяніць вашы пароль</a> на лягчэйшы для запамінання.';
+$string['emailresetconfirmation'] = 'Вітаем {$a->firstname},
+
+Для вашага акаўнта \'{$a->username}\' быў запытаны скід пароля на {$a->sitename}.
+
+Каб пацвердзіць гэты запыт і ўсталяваць новы пароль для вашага акаўнта, 
+калі ласка перайдзіце па наступнай спасылцы:
+
+{$a->link}
+(Гэтая спасылка сапраўдная цягам {$a->resetminutes} хвілінаў з моманту, калі гэты скід быў запытаны ўпершыню)
+
+Калі гэты скід пароля быў запытаны не вамі, ніякіх дзеянняў распачынаць не трэба.
+
+Калі вам патрэбна дапамога, звярніцеся да адміністратара сайта,
+{$a->admin}';
+$string['emailresetconfirmationsubject'] = '{$a}: Запыт на скід пароля';
+$string['emailresetconfirmsent'] = 'Email быў адпраўлены па адрасе <b>{$a}</b>.
+<br />У ім утрымваюцца простыя інструкцыі для пацверджання і завяршэння змены пароля.
+Калі ў вас па-ранейшаму ўзнікаюць цяжкасці, звярніцеся да адміністратара сайта.';
+$string['emailstop'] = 'Адключыць паведамленні';
+$string['emailtoprivatefiles'] = 'Вы таксама можаце адпраўляць файлы па emailу ў відзе ўкладанняў прама ў сваю асабістую файлавую прастору. Проста прымацуйце свае файлы да emailу і адпраўце яго па адрасе {$a}';
+$string['emailtoprivatefilesdenied'] = 'Вашы адміністратар адключыў магчымасць загрузкі асабістых файлаў.';
+$string['emailvia'] = '{$a->name} (праз {$a->siteshortname})';
+$string['emojicategoryactivities'] = 'Актыўнасці';
+$string['emojicategoryanimalsnature'] = 'Жывёлы & прырода';
+$string['emojicategoryflags'] = 'Сцягі';
+$string['emojicategoryfooddrink'] = 'Ежа & напоі';
+$string['emojicategoryobjects'] = 'Аб\'екты';
+$string['emojicategorypeoplebody'] = 'Людзі & цела';
+$string['emojicategoryrecent'] = 'Нядаўнія';
+$string['emojicategorysmileysemotion'] = 'Смайлікі & эмоцыі';
+$string['emojicategorysymbols'] = 'Знакі';
+$string['emojicategorytravelplaces'] = 'Вандроўкі & месцы';
+$string['emptycmids'] = 'Пустыя ідэнтыфікатары модуляў курса';
+$string['emptydragdropregion'] = 'пусты рэгіён';
+$string['emptysectionids'] = 'Пустыя ідэнтыфікатары падзелаў';
 $string['enable'] = 'Enable';
 $string['encryptedcode'] = 'Encrypted code';
 $string['enddate'] = 'Course end date';
@@ -1443,10 +1445,10 @@ Your current login information is now:
 Please go to this page to change your password:
    {$a->link}
 
-In most mail programs, this should appear as a blue link
-which you can just click on.  If that doesn\'t work,
-then cut and paste the address into the address
-line at the top of your web browser window.
+У большасці паштовых праграм гэта павінна адлюстроўвацца 
+ў выглядзе сіняй спасылкі, на якую льга проста націснуць.  
+Калі пераход па спасылцы не працуе, скапіюйце спасылку ў 
+адрасны радок у верхняй частцы акна вашага браўзара.
 
 Cheers from the \'{$a->sitename}\' administrator,
 {$a->signoff}';
@@ -1478,10 +1480,10 @@ Your current login information is now:
 To start using \'{$a->sitename}\', login at
    {$a->link}
 
-In most mail programs, this should appear as a blue link
-which you can just click on.  If that doesn\'t work,
-then cut and paste the address into the address
-line at the top of your web browser window.
+У большасці паштовых праграм гэта павінна адлюстроўвацца 
+ў выглядзе сіняй спасылкі, на якую льга проста націснуць.  
+Калі пераход па спасылцы не працуе, скапіюйце спасылку ў 
+адрасны радок у верхняй частцы акна вашага браўзара.
 
 Cheers from the \'{$a->sitename}\' administrator,
 {$a->signoff}';
