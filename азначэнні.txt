@@ -7,5 +7,6 @@ exercise = практыкаванне
 gradebook = журнал падзей
 grouping = групаванняў
 rating = ацэнкі
+Starred = Упадабанае
 Teacher = Настаўнік
 workshop = майстэрня
