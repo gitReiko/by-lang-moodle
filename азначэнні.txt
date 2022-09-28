@@ -5,8 +5,11 @@ enrolments = залічэнні
 event = падзея
 exercise = практыкаванне
 gradebook = журнал падзей
+Grouping = Групаванне
 grouping = групаванняў
+Hits = наведванне
 rating = ацэнкі
 Starred = Упадабанае
 Teacher = Настаўнік
 workshop = майстэрня
+
