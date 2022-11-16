@@ -8,8 +8,8 @@ gradebook = журнал падзей
 Grouping = Групаванне
 grouping = групаванняў
 Hits = наведванне
+Insight = прадказанне
 rating = ацэнкі
 Starred = Упадабанае
 Teacher = Настаўнік
 workshop = майстэрня
-
