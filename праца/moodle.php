@@ -241,7 +241,7 @@ $string['category'] = 'Катэгорыя';
 $string['categoryadded'] = 'Катэгорыя \'{$a}\' была дададзена';
 $string['categorybulkaction'] = 'Масавыя дзеянні для абраных катэгорый';
 $string['categorycontents'] = 'Падкатэгорыі і курсы';
-$string['categorycurrentcontents'] = 'Кантэнт {$a}';
+$string['categorycurrentcontents'] = 'Змесціва {$a}';
 $string['categorydeleted'] = 'Катэгорыя \'{$a}\' была выдалена';
 $string['categoryduplicate'] = 'Катэгорыя з назвай \'{$a}\' ужо існуе!';
 $string['categoryheader'] = 'Меню катэгорыі';
@@ -312,8 +312,8 @@ $string['confirmdeletesection'] = 'Вы канчаткова ўпэўненыя,
 $string['confirmed'] = 'Вашая рэгістрацыя пацверджана';
 $string['confirmednot'] = 'Вашая рэгістрацыя яшчэ не пацверджана. Калі ласка, праверце сваю паштовую скрынку на наяўнасць электроннага ліста з пацверджаннем.';
 $string['considereddigitalminor'] = 'Вы занадта маладыя, каб стварыць акаўнт на гэтым сайце.';
-$string['content'] = 'Кантэнт';
-$string['contentbank'] = 'Банк кантэнту';
+$string['content'] = 'Змесціва';
+$string['contentbank'] = 'Банк кантэнта';
 $string['contentexport_aboutthiscourse'] = 'Сцісла пра курс';
 $string['contentexport_coursesummary'] = 'Гэты файл з\'яўляецца часткаю змесціва, загружанага з сайта <a href="{$a->courselink}">{$a->coursename}</a>.';
 $string['contentexport_footersummary'] = 'Гэты файл з\'яўляецца часткаю змесціва, загружанага з <a href="{$a->courselink}">{$a->coursename}</a> карыстальнікам {$a->userfullname} {$a->date}.';
@@ -708,7 +708,7 @@ $string['emaildisplayyes'] = 'Дазволіць усім бачыць мой і
 $string['emailenable'] = 'Гэты адрас імэйл ўключаны';
 $string['emailenableclick'] = 'Націсніце тут, каб паўторна дазволіць адпраўленне ўсіх лістоў на гэты email';
 $string['emailexists'] = 'Гэты адрас імэйл ўжо зарэгістраваны.';
-$string['emailexistshintlink'] = 'Аднавіць забыты username ці пароль';
+$string['emailexistshintlink'] = 'Аднавіць забыты логін ці пароль';
 $string['emailexistssignuphint'] = 'Магчыма, вы стварылі акаўнт раней? {$a}';
 $string['emailformat'] = 'Фармат імэйла';
 $string['emailmustbereal'] = 'Нататка: вашы адрас імэйл павінен быць рэальным';
@@ -762,7 +762,7 @@ $string['emailpasswordconfirmation'] = 'Вітаем {$a->firstname},
 Калі вам патрэбна дапамога, звярніцеся да адміністратара сайта,
 {$a->admin}';
 $string['emailpasswordconfirmationsubject'] = '{$a}: Пацверджанне змены пароля';
-$string['emailpasswordconfirmmaybesent'] = '<p>Калі вы ўказалі слушны username ці ўнікальны адрас email, то вам павінен быў быць адпраўлена ліст.</p>
+$string['emailpasswordconfirmmaybesent'] = '<p>Калі вы ўказалі слушны логін ці ўнікальны адрас email, то вам павінен быў быць адпраўлена ліст.</p>
    <p>У ім утрымваюцца простыя інструкцыі для пацверджання і завяршэння змены пароля.
    Калі ў вас па-ранейшаму ўзнікаюць цяжкасці, звярніцеся да адміністратара сайта.</p>';
 $string['emailpasswordconfirmnoemail'] = '<p>У ўказанага вамі акаўнта карыстальніка няма зарэгістраванага адраса email.</p>
@@ -822,7 +822,7 @@ $string['entercourse'] = 'Націсніце, каб увайсці ў гэты 
 $string['enteremail'] = 'Увядзіце свой адрас імэйла';
 $string['enteremailaddress'] = 'Увядзіце свой адрас імэйл, каб скінуць свой
    пароль, таксама новы пароль адпраўлены на імэйл.';
-$string['enterusername'] = 'Увядзіце свой username';
+$string['enterusername'] = 'Увядзіце свой логін';
 $string['entries'] = 'Запісы';
 $string['error'] = 'Памылка';
 $string['errorcreatingactivity'] = 'Нельга стварыць экзэмпляр актыўнасці \'{$a}\'';
@@ -833,13 +833,13 @@ $string['eventcommentcreated'] = 'Каментар створаны';
 $string['eventcommentdeleted'] = 'Каментар выдалены';
 $string['eventcommentsviewed'] = 'Каментар прагледжаны';
 $string['eventconfiglogcreated'] = 'Створаны журнал канфігурацыі';
-$string['eventcontentviewed'] = 'Кантэнт прагледжаны';
+$string['eventcontentviewed'] = 'Змесціва прагледжана';
 $string['eventcoursebackupcreated'] = 'Створана рэзервовая копія курса';
 $string['eventcoursecategorycreated'] = 'Катэгорыя створана';
 $string['eventcoursecategorydeleted'] = 'Катэгорыя выдалена';
 $string['eventcoursecategoryupdated'] = 'Катэгорыя абноўлена';
 $string['eventcoursecategoryviewed'] = 'Катэгорыя прагледжана';
-$string['eventcoursecontentdeleted'] = 'Кантэнт курса выдалены';
+$string['eventcoursecontentdeleted'] = 'Змесціва курса выдалена';
 $string['eventcoursecreated'] = 'Курс створаны';
 $string['eventcoursedeleted'] = 'Курс выдалены';
 $string['eventcourseinformationviewed'] = 'Прагледжана кароткае апісанне курса';
@@ -912,7 +912,7 @@ $string['filereaderror'] = 'Немагчыма прачытаць файл \'{$a
 $string['files'] = 'Файлы';
 $string['filesanduploads'] = 'Файлы і загрузкі';
 $string['filesfolders'] = 'Файлы/тэчкі';
-$string['fileuploadwithcontent'] = 'Загрузка файлаў не павінна ўключаць параметр content';
+$string['fileuploadwithcontent'] = 'Загрузка файлаў не павінна ўключаць параметр кантэнт';
 $string['filloutallfields'] = 'Калі ласка, запоўніце ўсе палі гэтай формы';
 $string['filter'] = 'Фільтр';
 $string['filteroption'] = '{$a->criteria}: {$a->value}';
@@ -945,8 +945,8 @@ $string['forcepasswordresetnotice'] = 'Вашы цяперашні пароль 
    {$a}';
 $string['forcetheme'] = 'Прымусовая тэма';
 $string['forgotaccount'] = 'Забылі пароль?';
-$string['forgotten'] = 'Забылі свой username ці пароль?';
-$string['forgottenduplicate'] = 'Адрас імэйл выкарыстоўваецца некалькімі акаўнтамі, калі ласка, увядзіце замест яго username';
+$string['forgotten'] = 'Забылі свой логін ці пароль?';
+$string['forgottenduplicate'] = 'Адрас імэйл выкарыстоўваецца некалькімі акаўнтамі, калі ласка, увядзіце замест яго логін';
 $string['forgotteninvalidurl'] = 'Няслушная спасылка скіду пароля';
 $string['format'] = 'Фармат';
 $string['format_help'] = 'Фармат курса вызначае макет старонкі курса.
@@ -1158,8 +1158,8 @@ $string['interestslist'] = 'Спіс інтарэсаў';
 $string['interestslist_help'] = 'Увядзіце па чарзе свае інтарэсы, якія потым будуць адлюстроўвацца на старонцы вашага профілю ў выглядзе тэгаў.';
 $string['invalidemail'] = 'Няслушны адрас імэйла';
 $string['invalidlogin'] = 'Няслушны ўваход, паспрабуйце ізноў';
-$string['invalidusername'] = 'Username можа ўтрымліваць толькі маленькія літары і лічбы, падкрэсленне (_), злучок (-), кропку (.) або сімвал (@).';
-$string['invalidusernameupload'] = 'Няслушны username';
+$string['invalidusername'] = 'Логін можа ўтрымліваць толькі маленькія літары і лічбы, падкрэсленне (_), злучок (-), кропку (.) або сімвал (@).';
+$string['invalidusernameupload'] = 'Няслушны логін';
 $string['ip_address'] = 'IP адрас';
 $string['jump'] = 'Перайсці';
 $string['jumpto'] = 'Перайсці да...';
@@ -1217,8 +1217,8 @@ $string['loginsite'] = 'Увайсці на сайт';
 $string['loginsteps'] = 'Для поўнага доступу да гэтага сайта спачатку трэба стварыць акаўнт.';
 $string['loginstepsnone'] = '<p>Вітаем!</p>
 <p>Для поўнага доступу да курсаў вам трэба стварыць акаўнт.</p>
-<p>Усе, што вам трэба зрабіць, гэта прыдумаць username і пароль і выкарыстаць іх у форме на гэтай старонцы!</p>
-<p>Калі нехта іншы ўжо абраў вашы username, вам давядзецца паўтарыць спробу, выкарыстоўваючы іншы username.</p>';
+<p>Усе, што вам трэба зрабіць, гэта прыдумаць логін і пароль і выкарыстаць іх у форме на гэтай старонцы!</p>
+<p>Калі нехта іншы ўжо абраў вашы логін, вам давядзецца паўтарыць спробу, выкарыстоўваючы іншы логін.</p>';
 $string['loginto'] = 'Увайсці на {$a}';
 $string['logoof'] = 'Выйсці з {$a}';
 $string['logout'] = 'Выйсці';
@@ -1234,7 +1234,7 @@ $string['maincoursepage'] = 'Галоўная старонка курса';
 $string['makeafolder'] = 'Стварыць тэчку';
 $string['makeavailable'] = 'Зрабіць даступным';
 $string['makeeditable'] = 'Калі вы зробіце \'{$a}\' рэдактоўным працэсам вэб-сервера (напрыклад, apache), то вы зможаце рэдагаваць гэты файл наўпрост з гэтай старонкі';
-$string['makethismyhome'] = 'Зрабіць гэта маёй хатняй старонкай';
+$string['makethismyhome'] = 'Зрабіць гэта маёй дамашняй старонкай';
 $string['makeunavailable'] = 'Зрабіць недаступным';
 $string['manageblocks'] = 'Блокі';
 $string['managecategories'] = 'Кіраваць катэгорыямі курсаў';
@@ -1283,7 +1283,7 @@ $string['messageprovider:badgerecipientnotice'] = 'Паведамленні ат
 $string['messageprovider:competencyplancomment'] = 'Апублікаваны каментар да навучальнага плана';
 $string['messageprovider:competencyusercompcomment'] = 'Апублікаваны каментар да кампетэнцыі';
 $string['messageprovider:coursecompleted'] = 'Курс завершаны';
-$string['messageprovider:coursecontentupdated'] = 'Змены кантэнту курса';
+$string['messageprovider:coursecontentupdated'] = 'Змены змесціва курса';
 $string['messageprovider:courserequestapproved'] = 'Паведамленне пра ўхваленне запыту на стварэнне курса';
 $string['messageprovider:courserequested'] = 'Паведамленне пра запыт на стварэнне курса';
 $string['messageprovider:courserequestrejected'] = 'Паведамленне пра адхіленне запыту на стварэнне курса';
@@ -1329,120 +1329,120 @@ $string['missingstudent'] = 'Трэба абраць нешта';
 $string['missingsummary'] = 'Адсутнічае кароткае апісанне';
 $string['missingteacher'] = 'Трэба абраць нешта';
 $string['missingurl'] = 'Адсутнічае спасылка';
-$string['missingusername'] = 'Адсутнічае username';
-$string['moddoesnotsupporttype'] = 'Module {$a->modname} does not support uploads of type {$a->type}';
-$string['modhide'] = 'Hide';
-$string['modified'] = 'Modified';
-$string['modshow'] = 'Show';
-$string['moduleintro'] = 'Description';
-$string['modulesetup'] = 'Setting up module tables';
-$string['modulesuccess'] = '{$a} tables have been set up correctly';
-$string['modulesused'] = 'Modules used';
-$string['modvisible'] = 'Availability';
-$string['modvisible_help'] = 'If the availability is set to \'Show on course page\', the activity or resource is available to students (subject to any access restrictions which may be set).
+$string['missingusername'] = 'Адсутнічае логін';
+$string['moddoesnotsupporttype'] = 'Модуль {$a->modname} не падтрымлівае загрузкі тыпу {$a->type}';
+$string['modhide'] = 'Схаваць';
+$string['modified'] = 'Зменены';
+$string['modshow'] = 'Паказаць';
+$string['moduleintro'] = 'Апісанне';
+$string['modulesetup'] = 'Усталёўка табліц модуляў';
+$string['modulesuccess'] = '{$a} табліц было ўсталявана слушна';
+$string['modulesused'] = 'Выкарыстаныя модулі';
+$string['modvisible'] = 'Даступнасць';
+$string['modvisible_help'] = 'Калі даступнасць усталявана як \'Паказаць на старонцы курса\', то актыўнасць ці рэсурс даступныя для студэнтаў (улічвае ўсё усталяваныя абмежаванні доступу).
 
-If the availability is set to \'Hide from students\', the activity or resource is only available to users with permission to view hidden activities (by default, users with the role of teacher or non-editing teacher).';
-$string['modvisiblehiddensection'] = 'Availability';
-$string['modvisiblehiddensection_help'] = 'If the availability is set to \'Hide from students\', the activity or resource is only available to users with permission to view hidden activities (by default, users with the role of teacher or non-editing teacher).
+Калі даступнасць усталявана як \'Хаваць ад студэнтаў\', то актыўнасць ці рэсурс даступна толькі карыстальнікам, якія маюць дазвол на прагляд схаваных актыўнасцяў (па змаўчанні, карыстальнікам з роллю настаўніка ці не рэдагавальнага настаўніка).';
+$string['modvisiblehiddensection'] = 'Даступнасць';
+$string['modvisiblehiddensection_help'] = 'Калі даступнасць усталявана як \'Хаваць ад студэнтаў\', то актыўнасць ці рэсурс даступныя толькі карыстальнікам, якія маюць дазвол на прагляд схаваных актыўнасцяў (па змаўчанні, карыстальнікам з роллю настаўніка ці не рэдагавальнага настаўніка).
 
-If the course contains many activities or resources, the course page may be simplified by setting the availability to \'Make available but not shown on course page\'. In this case, a link to the activity or resource must be provided from elsewhere, such as from a page resource. The activity would still be listed in the gradebook and other reports.';
-$string['modvisiblewithstealth'] = 'Availability';
-$string['modvisiblewithstealth_help'] = 'If the availability is set to \'Show on course page\', the activity or resource is available to students (subject to any access restrictions which may be set).
+Калі курс утрымлівае шмат актыўнасцяў ці рэсурсаў, старонку курса льга спрасціць, усталяваўшы параметр даступнасці як \'Зрабіць даступным, але не паказаным на старонцы курса\'. У гэтым выпадку спасылка на актыўнасць ці рэсурс павінна быць пададзена з іншага месца, напрыклад, з рэсурсу старонкі. Актыўнасць усё адно будзе паказана ў журнале адзнак і іншых справаздачах.';
+$string['modvisiblewithstealth'] = 'Даступнасць';
+$string['modvisiblewithstealth_help'] = 'Калі даступнасць усталявана як \'Паказаць на старонцы курса\', the activity or resource is available to students (улічвае ўсё усталяваныя абмежаванні доступу).
 
-If the availability is set to \'Hide from students\', the activity or resource is only available to users with permission to view hidden activities (by default, users with the role of teacher or non-editing teacher).
+Калі даступнасць усталявана як \'Хаваць ад студэнтаў\', то актыўнасць ці рэсурс даступныя толькі карыстальнікам, якія маюць дазвол на прагляд схаваных актыўнасцяў (па змаўчанні, карыстальнікам з роллю настаўніка ці не рэдагавальнага настаўніка).
 
-If the course contains many activities or resources, the course page may be simplified by setting the availability to \'Make available but not shown on course page\'. In this case, a link to the activity or resource must be provided from elsewhere, such as from a page resource. The activity would still be listed in the gradebook and other reports.';
-$string['month'] = 'Month';
-$string['months'] = 'Months';
-$string['moodledocs'] = 'Moodle Docs';
-$string['moodledocslink'] = 'Help and documentation';
-$string['moodlelogo'] = 'Moodle logo';
-$string['moodlerelease'] = 'Moodle release';
-$string['moodleservicesandsupport'] = 'Services and support';
-$string['moodleversion'] = 'Moodle version';
-$string['more'] = 'more';
-$string['moreactions'] = 'More actions';
-$string['morehelp'] = 'More help';
-$string['morehelpaboutmodule'] = 'More help about the {$a} activity';
-$string['moreinfo'] = 'More info';
-$string['moreinformation'] = 'More information about this error';
-$string['moremenu'] = 'More';
-$string['morenavigationlinks'] = 'More...';
-$string['moreprofileinfoneeded'] = 'Please tell us more about yourself';
-$string['mostrecently'] = 'most recently';
-$string['move'] = 'Move';
-$string['movecategoriessuccess'] = 'Successfully moved {$a->count} categories into category \'{$a->to}\'';
-$string['movecategoriestotopsuccess'] = 'Successfully moved {$a->count} categories to top level';
-$string['movecategorycontentto'] = 'Move into';
-$string['movecategorysuccess'] = 'Successfully moved category \'{$a->moved}\' into category \'{$a->to}\'';
-$string['movecategoryto'] = 'Move category to:';
-$string['movecategorytotopsuccess'] = 'Successfully moved category \'{$a->moved}\' to top level';
-$string['movecontent'] = 'Move {$a}';
-$string['movecontentafter'] = 'After "{$a}"';
-$string['movecontentstoanothercategory'] = 'Move contents to another category';
-$string['movecontenttothetop'] = 'To the top of the list';
-$string['movecoursemodule'] = 'Move resource';
-$string['movecoursesection'] = 'Move section';
-$string['movecourseto'] = 'Move course to:';
-$string['movedown'] = 'Move down';
-$string['movefilestohere'] = 'Move files to here';
-$string['movefull'] = 'Move {$a} to this location';
-$string['movehere'] = 'Move to here';
-$string['moveleft'] = 'Move left';
-$string['moveright'] = 'Move right';
-$string['movesection'] = 'Move section {$a}';
-$string['moveselectedcategoriesto'] = 'Move selected categories to';
-$string['moveselectedcoursesto'] = 'Move selected courses to...';
-$string['movetoanotherfolder'] = 'Move to another folder';
-$string['moveup'] = 'Move up';
+Калі курс утрымлівае шмат актыўнасцяў ці рэсурсаў, старонку курса льга спрасціць, усталяваўшы параметр даступнасці як \'Зрабіць даступным, але не паказаным на старонцы курса\'. У гэтым выпадку спасылка на актыўнасць ці рэсурс павінна быць пададзена з іншага месца, напрыклад, з рэсурсу старонкі. Актыўнасць усё адно будзе паказана ў журнале адзнак і іншых справаздачах.';
+$string['month'] = 'Месяц';
+$string['months'] = 'Месяцаў';
+$string['moodledocs'] = 'Дакументы Moodle';
+$string['moodledocslink'] = 'Дапамога і дакументацыя';
+$string['moodlelogo'] = 'Лагатып Moodle';
+$string['moodlerelease'] = 'Выпуск Moodle';
+$string['moodleservicesandsupport'] = 'Сэрвісы і падтрымка';
+$string['moodleversion'] = 'Версія Moodle';
+$string['more'] = 'болей';
+$string['moreactions'] = 'Болей дзеянняў';
+$string['morehelp'] = 'Болей дапамогі';
+$string['morehelpaboutmodule'] = 'Болей дапамогі для актыўнасці {$a}';
+$string['moreinfo'] = 'Болей інфармацыі';
+$string['moreinformation'] = 'Болей інфармацыі пра гэтую памылку';
+$string['moremenu'] = 'Болей';
+$string['morenavigationlinks'] = 'Болей...';
+$string['moreprofileinfoneeded'] = 'Калі ласка, раскажыце нам болей пра сябе';
+$string['mostrecently'] = 'самы апошні';
+$string['move'] = 'Перасунуць';
+$string['movecategoriessuccess'] = '{$a->count} катэгорый паспяхова перасунута ў катэгорыю \'{$a->to}\'';
+$string['movecategoriestotopsuccess'] = '{$a->count} катэгорый паспяхова перасунута на верхні ровень';
+$string['movecategorycontentto'] = 'Перасунуць у';
+$string['movecategorysuccess'] = 'Катэгорыя \'{$a->moved}\' паспяхова перасунута ў катэгорыю \'{$a->to}\'';
+$string['movecategoryto'] = 'Перасунуць катэгорыю ў:';
+$string['movecategorytotopsuccess'] = 'Катэгорыя \'{$a->moved}\' паспяхова перасунута на верхні ровень';
+$string['movecontent'] = 'Перасунуць {$a}';
+$string['movecontentafter'] = 'Пасля "{$a}"';
+$string['movecontentstoanothercategory'] = 'Перасунуць змесціва ў іншую катэгорыю';
+$string['movecontenttothetop'] = 'У верх спіса';
+$string['movecoursemodule'] = 'Перасунуць рэсурс';
+$string['movecoursesection'] = 'Перасунуць падзел';
+$string['movecourseto'] = 'Перасунуць курс у:';
+$string['movedown'] = 'Перасунуць уніз';
+$string['movefilestohere'] = 'Перасуньце файлы сюды';
+$string['movefull'] = 'Перасуньце {$a} у гэтае месца';
+$string['movehere'] = 'Перасуньце сюды';
+$string['moveleft'] = 'Перасунуць налева';
+$string['moveright'] = 'Перасунуць направа';
+$string['movesection'] = 'Перасунуць падзел {$a}';
+$string['moveselectedcategoriesto'] = 'Перасунуць абраныя катэгорыі ў';
+$string['moveselectedcoursesto'] = 'Перасунуць абраныя курсы ў...';
+$string['movetoanotherfolder'] = 'Перасунуць у іншую тэчку';
+$string['moveup'] = 'Перасунуць угару';
 $string['msnid'] = 'MSN ID';
-$string['mustchangepassword'] = 'The new password must be different than the current one';
-$string['mustconfirm'] = 'You need to confirm your account';
-$string['mycourses'] = 'My courses';
-$string['myfiles'] = 'My private files';
-$string['myfilesmanage'] = 'Manage my private files';
-$string['myhome'] = 'Dashboard';
-$string['mymoodledashboard'] = 'My Moodle dashboard';
-$string['myprofile'] = 'My profile';
-$string['name'] = 'Name';
-$string['namedfiletoolarge'] = 'The file \'{$a->filename}\' is too large and cannot be uploaded';
-$string['nameforlink'] = 'What do you want to call this link?';
-$string['nameforpage'] = 'Name';
-$string['navigation'] = 'Navigation';
-$string['needed'] = 'Needed';
-$string['networkdropped'] = 'We have detected that your Internet connection is unreliable or has been interrupted.<br />
-Please be aware that changes may not be saved properly until your connection improves.';
-$string['never'] = 'Never';
-$string['neverdeletelogs'] = 'Never delete logs';
-$string['new'] = 'New';
-$string['newaccount'] = 'New account';
-$string['newactivityname'] = 'New name for activity {$a}';
-$string['newcourse'] = 'New course';
-$string['newloginnotificationbodyfull'] = '<p>Hi {$a->userfullname},</p>
-<p>Your {$a->sitename} account was just signed in to from a new device.</p>
+$string['mustchangepassword'] = 'Новы пароль мусіць адрознівацца ад цяперашняга пароля';
+$string['mustconfirm'] = 'Вам трэба пацвердзіць свой акаўнт';
+$string['mycourses'] = 'Мае курсы';
+$string['myfiles'] = 'Мае асабістыя файлы';
+$string['myfilesmanage'] = 'Кіраваць маімі асабістымі файламі';
+$string['myhome'] = 'Мой дом';
+$string['mymoodledashboard'] = 'Мой дом Moodle';
+$string['myprofile'] = 'Мой профіль';
+$string['name'] = 'Назва';
+$string['namedfiletoolarge'] = 'Файл \'{$a->filename}\' завялікі і не можа быць загружаны';
+$string['nameforlink'] = 'Як вы жадаеце назваць гэтую спасылку?';
+$string['nameforpage'] = 'NНазваame';
+$string['navigation'] = 'Навігацыя';
+$string['needed'] = 'Патрэбна';
+$string['networkdropped'] = 'Мы выявілі, што вашае інтэрнэт-злучэнне ненадзейна альбо было перапынена.<br />
+Калі ласка, майце на ўвазе, што змены могуць не захавацца належным чынам, пакуль вашае злучэнне не палепшыцца.';
+$string['never'] = 'Ніколі';
+$string['neverdeletelogs'] = 'Ніколі не выдаляць логаў';
+$string['new'] = 'Новы';
+$string['newaccount'] = 'Новы акаўнт';
+$string['newactivityname'] = 'Новая назва для актыўнасці {$a}';
+$string['newcourse'] = 'Новы курс';
+$string['newloginnotificationbodyfull'] = '<p>Прывітанне {$a->userfullname},</p>
+<p>На вашы акаўнт {$a->sitename} толькі што быў здзейснены ўваход з новай прылады.</p>
 <ul>
-<li>Your account: {$a->username} {$a->useremail}</li>
+<li>Вашы акаўнт: {$a->username} {$a->useremail}</li>
 <li>{$a->logintime}</li>
-<li>Device: {$a->logindevice}</li>
+<li>Прылада: {$a->logindevice}</li>
 <li>IP: {$a->loginip}</li>
 </ul>
-<p>If this was you, then you don\'t need to do anything.</p>
-<p>If you don\'t recognise this activity, please <a href="{$a->changepasswordlink}">change your password</a>.</p>';
-$string['newloginnotificationbodysmall'] = 'Your {$a} account was just signed in to from a new device.';
-$string['newloginnotificationtitle'] = 'New sign in to your {$a} account';
-$string['newpassword'] = 'New password';
-$string['newpassword_help'] = 'Enter a new password or leave blank to keep current password.';
-$string['newpasswordfromlost'] = '<strong>NOTICE:</strong> Your <strong>Current password</strong> will have been sent to you in the <strong>second</strong> of the two emails sent as part of the lost password recovery process. Make sure you have received your replacement password before continuing with this screen.';
-$string['newpasswordtext'] = 'Hi {$a->firstname},
+<p>Калі гэта былі вы, то вам нічога не трэба рабіць.</p>
+<p>Калі гэта былі не вы, калі ласка, <a href="{$a->changepasswordlink}">змяніце вашы пароль</a>.</p>';
+$string['newloginnotificationbodysmall'] = 'На вашы акаўнт {$a} толькі што быў здзейснены ўваход з новай прылады.';
+$string['newloginnotificationtitle'] = 'Новы ўваход на вашы акаўнт {$a}';
+$string['newpassword'] = 'Новы пароль';
+$string['newpassword_help'] = 'Увядзіце новы пароль альбо пакіньце пустым, каб захаваць цяперашні пароль.';
+$string['newpasswordfromlost'] = '<strong>УВАГА:</strong> Вашы <strong>Новы пароль</strong> будзе адпраўлены вам ўва <strong>другім</strong> з двух імэйлаў, якія будуць адпраўлены вам у рамках працэсу аднаўлення згубленага пароля. Пераканайцеся, што вы атрымалі пароль для замены, перш чым працягніце працу з гэтым экранам.';
+$string['newpasswordtext'] = 'Прывітанне {$a->firstname},
 
-Your account password at \'{$a->sitename}\' has been reset
-and you have been issued with a new temporary password.
+Пароль вашага акаўнта на сайце \'{$a->sitename}\' быў скінуты
+і вам быў выдадзены новы часовы пароль.
 
-Your current login information is now:
-   username: {$a->username}
-   password: {$a->newpassword}
+Ваша цяперашняя інфармацыя для ўваходу:
+   логін: {$a->username}
+   пароль: {$a->newpassword}
 
-Please go to this page to change your password:
+   Калі ласка, перайдзіце на гэтую старонку, каб змяніць свой пароль:
    {$a->link}
 
 У большасці паштовых праграм гэта павінна адлюстроўвацца 
@@ -1450,7 +1450,7 @@ Please go to this page to change your password:
 Калі пераход па спасылцы не працуе, скапіюйце спасылку ў 
 адрасны радок у верхняй частцы акна вашага браўзара.
 
-Cheers from the \'{$a->sitename}\' administrator,
+Віншаванні ад адміністратара сайта \'{$a->sitename}\',
 {$a->signoff}';
 $string['newpicture'] = 'New picture';
 $string['newpicture_help'] = 'To add a new picture, browse and select an image (in JPG or PNG format) then click "Update profile". The image will be cropped to a square and resized to 100x100 pixels.';
@@ -1837,8 +1837,8 @@ $string['restoredaccountinfo'] = 'This account was imported from another server 
 $string['restorefinished'] = 'Restore completed successfully';
 $string['restoremnethostidmismatch'] = 'MNet host id of user \'{$a}\' does not match local MNet host ID.';
 $string['restoreto'] = 'Restore to';
-$string['restoretositeadding'] = 'Warning: You are about to restore to the site home, adding data to it!';
-$string['restoretositedeleting'] = 'Warning: You are about to restore to the site home, deleting data from it first!';
+$string['restoretositeadding'] = 'Warning: You are about to restore to the дом сайта, adding data to it!';
+$string['restoretositedeleting'] = 'Warning: You are about to restore to the дом сайта, deleting data from it first!';
 $string['restoreuserconflict'] = 'Trying to restore user \'{$a}\' from backup file will cause conflict';
 $string['restoreuserinfofailed'] = 'The restore process has stopped because you don\'t have permission to restore user data.';
 $string['restoreusersprecheck'] = 'Checking user data';
@@ -1986,7 +1986,7 @@ $string['showingacourses'] = 'Showing all {$a} courses';
 $string['showingxofycourses'] = 'Showing courses {$a->start} to {$a->end} of {$a->total} courses';
 $string['showlistofcourses'] = 'Show list of courses';
 $string['showmodulecourse'] = 'Show list of courses containing activity';
-$string['showoncoursepage'] = 'Show on course page';
+$string['showoncoursepage'] = 'Паказаць на старонцы курса';
 $string['showonly'] = 'Show only';
 $string['showperpage'] = 'Show {$a} per page';
 $string['showpopoverwindow'] = 'Show popover window';
@@ -2007,7 +2007,7 @@ $string['sitedefaultspecified'] = 'Site default ({$a})';
 $string['siteerrors'] = 'Site errors';
 $string['sitefiles'] = 'Site files';
 $string['sitefilesused'] = 'Site files used in this course';
-$string['sitehome'] = 'Site home';
+$string['sitehome'] = 'Дом сайта';
 $string['sitelegacyfiles'] = 'Legacy site files';
 $string['sitelogs'] = 'Site logs';
 $string['sitenews'] = 'Site announcements';
