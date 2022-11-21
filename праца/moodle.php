@@ -495,7 +495,7 @@ $string['currentcourseadding'] = 'Абраны курс, дадаць у яго 
 $string['currentcoursedeleting'] = 'Абраны курс, спачатку выдаліць';
 $string['currentlanguage'] = 'Абраная мова';
 $string['currentlocaltime'] = 'вашы абраны мясцовы час';
-$string['currentpicture'] = 'Абраны малюнак';
+$string['currentpicture'] = 'Абраная выява';
 $string['currentrelease'] = 'Інфармацыя пра абраны выпуск';
 $string['currentversion'] = 'Абраная версія';
 $string['databasechecking'] = 'Абнаўленне базы дадзеных Moodle з версіі {$a->oldversion} да {$a->newversion}';
@@ -1005,7 +1005,7 @@ $string['grade'] = 'Адзнака';
 $string['gradenoun'] = 'Адзнака';
 $string['grades'] = 'Адзнакі';
 $string['gradeverb'] = 'Ацаніць';
-$string['gravatarenabled'] = '<a href="https://www.gravatar.com/">Gravatar</a> быў уключаны для гэтага сайта. Калі вы не загрузіце малюнак профілю, Moodle паспрабуе загрузіць для вас малюнак профілю з Gravatar.';
+$string['gravatarenabled'] = '<a href="https://www.gravatar.com/">Gravatar</a> быў уключаны для гэтага сайта. Калі вы не загрузіце выяву профілю, Moodle паспрабуе загрузіць для вас выяву профілю з Gravatar.';
 $string['group'] = 'Група';
 $string['groupadd'] = 'Дадаць новую групу';
 $string['groupaddusers'] = 'Дадаць абраных у групу';
@@ -1053,7 +1053,7 @@ $string['hideadvancedsettings'] = 'Дадатковыя налады хаван�
 $string['hidechartdata'] = 'Схаваць дадзеныя графіка';
 $string['hidefromstudents'] = 'Схаваць ад студэнтаў';
 $string['hideoncoursepage'] = 'Зрабіць даступным, але не паказваць на старонцы курса';
-$string['hidepicture'] = 'Схаваць малюнак';
+$string['hidepicture'] = 'Схаваць выяву';
 $string['hidepopoverwindow'] = 'Схаваць усплывальнае акно';
 $string['hidesection'] = 'Схаваць падзел {$a}';
 $string['hidesettings'] = 'Налады хавання';
@@ -1452,32 +1452,32 @@ $string['newpasswordtext'] = 'Прывітанне {$a->firstname},
 
 Віншаванні ад адміністратара сайта \'{$a->sitename}\',
 {$a->signoff}';
-$string['newpicture'] = 'New picture';
-$string['newpicture_help'] = 'To add a new picture, browse and select an image (in JPG or PNG format) then click "Update profile". The image will be cropped to a square and resized to 100x100 pixels.';
-$string['newpictureusernotsetup'] = 'A profile picture can only be added once all required profile information has been saved.';
-$string['newsectionname'] = 'New name for section {$a}';
-$string['newsitem'] = 'news item';
-$string['newsitems'] = 'announcements';
-$string['newsitemsnumber'] = 'Number of announcements';
-$string['newsitemsnumber_help'] = 'The announcements forum is a special forum which is created automatically in the course, has forced subscription set by default, and only users with appropriate permissions (by default teachers) can post in it.
+$string['newpicture'] = 'Новая выява';
+$string['newpicture_help'] = 'Каб дадаць новую выяву, знайдзіце і абярыце выяву (у фармаце JPG альбо PNG), потым націсніце "Абнавіць профіль". Выява будзе абрэзана да квадрата і зменена да памеру 100x100 пікселяў.';
+$string['newpictureusernotsetup'] = 'Выява профілю можа быць дададзены толькі пасля захавання ўсёй патрэбнай інфармацыі профілю.';
+$string['newsectionname'] = 'Новая назва падзелу {$a}';
+$string['newsitem'] = 'навіна';
+$string['newsitems'] = 'аб\'явы';
+$string['newsitemsnumber'] = 'Колькасць аб\'яваў';
+$string['newsitemsnumber_help'] = 'Форум аб\'яваў - гэта адмысловы форум, які ствараецца аўтаматычна ў курсе, па змаўчанні мае прымусовую падпіску, і толькі карыстальнікі з адпаведнымі правамі (па змаўчанні настаўнікі) могуць пісаць у ім.
 
-This setting determines how many recent announcements appear in the latest announcements block.
+Гэтая налада вызначае, колькі апошніх аб\'яваў будзе адлюстроўвацца ў блоку апошніх аб\'яваў.
 
-If an announcements forum is not required in the course, this setting should be set to zero.';
-$string['newuser'] = 'New user';
-$string['newusernewpasswordsubj'] = 'New user account';
-$string['newusernewpasswordtext'] = 'Hi {$a->firstname},
+Калі форум аб\'яваў не патрэбен у курсе, гэтую наладу трэба ўсталяваць на нуль.';
+$string['newuser'] = 'Новы карыстальнік';
+$string['newusernewpasswordsubj'] = 'Новы акаўнт карыстальніка';
+$string['newusernewpasswordtext'] = 'Прывітанне {$a->firstname},
 
-A new account has been created for you at \'{$a->sitename}\'
-and you have been issued with a new temporary password.
+Для вас быў створаны новы акаўнт на сайце \'{$a->sitename}\'
+і вам быў выдадзены новы часовы пароль.
 
-Your current login information is now:
-   username: {$a->username}
-   password: {$a->newpassword}
-             (you will have to change your password
-              when you login for the first time)
+Ваша цяперашняя інфармацыя для ўваходу:
+   логін: {$a->username}
+   пароль: {$a->newpassword}
+             (вам давядзецца змяніць свой пароль
+              пры першым уваходзе ў сістэму)
 
-To start using \'{$a->sitename}\', login at
+Каб пачаць выкарыстоўваць \'{$a->sitename}\', увайдзіце па спасылцы
    {$a->link}
 
 У большасці паштовых праграм гэта павінна адлюстроўвацца 
@@ -1485,31 +1485,31 @@ To start using \'{$a->sitename}\', login at
 Калі пераход па спасылцы не працуе, скапіюйце спасылку ў 
 адрасны радок у верхняй частцы акна вашага браўзара.
 
-Cheers from the \'{$a->sitename}\' administrator,
+Віншаванні ад адміністратара сайта \'{$a->sitename}\',
 {$a->signoff}';
-$string['newusers'] = 'New users';
-$string['newwindow'] = 'New window';
-$string['next'] = 'Next';
-$string['nextpage'] = 'Next page';
-$string['nextsection'] = 'Next section';
-$string['no'] = 'No';
-$string['noblockstoaddhere'] = 'There are no blocks that you can add to this page.';
-$string['nobody'] = 'Nobody';
-$string['nochange'] = 'No change';
-$string['nocomments'] = 'No comments';
-$string['nocourses'] = 'No courses';
-$string['nocoursesfound'] = 'No courses were found with the words \'{$a}\'';
-$string['nocoursestarttime'] = 'The course does not have a start date.';
-$string['nocoursesyet'] = 'No courses in this category';
-$string['nodstpresets'] = 'The administrator has not enabled Daylight Savings Time support.';
-$string['nofilesselected'] = 'No files have been selected to restore';
-$string['nofilesyet'] = 'No files have been uploaded to your course yet';
-$string['nofiltersapplied'] = 'No filters applied';
-$string['nograde'] = 'No grade';
-$string['nohelpforactivityorresource'] = 'There is currently no help associated with this resource or activity';
-$string['noimagesyet'] = 'No images have been uploaded to your course yet';
-$string['nologsfound'] = 'No logs have been found';
-$string['nomatchingusers'] = 'No users match \'{$a}\'';
+$string['newusers'] = 'Новыя карыстальнікі';
+$string['newwindow'] = 'Новае акно';
+$string['next'] = 'Далей';
+$string['nextpage'] = 'Наступная старонка';
+$string['nextsection'] = 'Наступны падзел';
+$string['no'] = 'Не';
+$string['noblockstoaddhere'] = 'На гэтай старонцы няма блокаў, якія вы можаце дадаць.';
+$string['nobody'] = 'Ніхто';
+$string['nochange'] = 'Няма зменаў';
+$string['nocomments'] = 'Няма каментароў';
+$string['nocourses'] = 'Няма курсаў';
+$string['nocoursesfound'] = 'Курсы якія змяшчаюць фразу \'{$a}\' не знойдзены';
+$string['nocoursestarttime'] = 'Курс не мае даты пачатку.';
+$string['nocoursesyet'] = 'У гэтай катэгорыі няма курсаў';
+$string['nodstpresets'] = 'Адміністратар не ўключыў падтрымкі пераходу на летні час.';
+$string['nofilesselected'] = 'Не абрана ніводнага файла для аднаўлення';
+$string['nofilesyet'] = 'У вашы курс яшчэ не загружана ніводнага файла';
+$string['nofiltersapplied'] = 'Фільтры не ўжываюцца';
+$string['nograde'] = 'Няма адзнакі';
+$string['nohelpforactivityorresource'] = 'Цяпер няма дапамогі, злучанай з гэтым рэсурсам альбо актыўнасцю';
+$string['noimagesyet'] = 'У вашы курс яшчэ не загружана ніводнай выявы';
+$string['nologsfound'] = 'Логі не знойдзены';
+$string['nomatchingusers'] = 'Няма карыстальнікаў адпаведных \'{$a}\'';
 $string['nomorecourses'] = 'No more matching courses could be found';
 $string['nomoreidnumber'] = 'Not using an idnumber to avoid collisions';
 $string['none'] = 'None';
@@ -2232,7 +2232,7 @@ $string['update'] = 'Update';
 $string['updated'] = 'Updated {$a}';
 $string['updatemymoodleoff'] = 'Stop customising this page';
 $string['updatemymoodleon'] = 'Customise this page';
-$string['updatemyprofile'] = 'Update profile';
+$string['updatemyprofile'] = 'Абнавіць профіль';
 $string['updatesevery'] = 'Updates every {$a} seconds';
 $string['updatethis'] = 'Update this {$a}';
 $string['updatethiscourse'] = 'Update this course';
