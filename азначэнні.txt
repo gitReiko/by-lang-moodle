@@ -12,6 +12,7 @@ grouping = групаванняў
 Hits = наведванне
 images = выява
 Insight = прадказанне
+Non-editing teacher = Не рэдагавальны настаўнік
 rating = ацэнкі
 report = справаздача
 Starred = Упадабанае
