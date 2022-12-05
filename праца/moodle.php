@@ -1753,32 +1753,31 @@ $string['recreatedcategory'] = 'Адноўленая катэгорыя {$a}';
 $string['redirect'] = 'Перанакіраванне';
 $string['reducesections'] = 'Зменшыць колькасць падзелаў';
 $string['refresh'] = 'Абнавіць';
-$string['refreshingevents'] = 'Refreshing events';
-$string['registration'] = 'Moodle registration';
-$string['registrationcontact'] = 'Contact from the public';
-$string['registrationcontactno'] = 'No, I do not want to be contacted by other people';
-$string['registrationcontactyes'] = 'Yes, provide a form for other Moodlers to contact me';
-$string['registrationemail'] = 'Email notifications';
-$string['registrationinfo'] = '<p>This page allows you to register your Moodle site with moodle.org.  Registration is free.
-The main benefit of registering is that you will be added to a low-volume mailing list
-for important notifications such as security alerts and new releases of Moodle.</p>
-<p>By default, your information will be kept private, and will never be sold or passed on to anyone else.  The only
-   reason for collecting this information is for support purposes, and to help build up a statistical
-   picture of the Moodle community as a whole.</p>
-<p>If you choose, you can allow your site name, country and URL to be added to the public list of Moodle Sites.</p>
-<p>All new registrations are verified manually before they are added to the list, but once you are added you can update your registration (and your entry on the public list) at any time by resubmitting this form.</p>';
-$string['registrationinfotitle'] = 'Registration information';
-$string['registrationno'] = 'No, I do not wish to receive any emails';
-$string['registrationsend'] = 'Send registration information to moodle.org';
-$string['registrationyes'] = 'Yes, notify me of new Moodle releases, security alerts and other important news';
-$string['reject'] = 'Reject';
-$string['rejectdots'] = 'Reject...';
-$string['relativedatesmode'] = 'Relative dates mode';
-$string['relativedatesmode_help'] = 'Display course or activity dates relative to the user\'s start date in the course.
+$string['refreshingevents'] = 'Абнаўленне падзей';
+$string['registration'] = 'Рэгістрацыя Moodle';
+$string['registrationcontact'] = 'Кантакты з грамадскасцю';
+$string['registrationcontactno'] = 'Не, я не жадаю, каб са мной кантактавалі іншыя людзі';
+$string['registrationcontactyes'] = 'Так, даць форму для кантакту са мной іншым Мудлерам';
+$string['registrationemail'] = 'Імэйл паведамленні';
+$string['registrationinfo'] = '<p>Гэтая старонка дазваляе вам зарэгістраваць вашы сайт Moodle на moodle.org.  Рэгістрацыя дармавая.
+Асноўнай перавагай рэгістрацыі з\'яўляецца тое, што вы будзеце дададзены ў спіс рассылкі 
+з маленькім аб\'ёмам інфармацыі для атрымання важных паведамленняў, 
+такіх як папярэджанні пра бяспеку і новыя версіі Moodle.</p>
+<p>Па змаўчанні вашая інфармацыя будзе прыватнай і ніколі не будзе прададзена ці перададзена некаму іншаму.  Адзіная прычына збору гэтай інфармацыі - гэта падтрымка і стварэнне статыстычнай карціны ўсёй супольнасці Moodle.</p>
+<p>Па жаданні, вы можаце дазволіць дадаць назву, краіну і спасылку вашага сайта ў публічны спіс сайтаў Moodle.</p>
+<p>Усе новыя рэгістрацыі правяраюцца ўручную перад даданнем у спіс, але пасля дадання вы можаце абнавіць сваю рэгістрацыю (і свой запіс у публічным спісе) у любы час, паўторна адправіўшы гэтую форму.</p>';
+$string['registrationinfotitle'] = 'Рэгістрацыйная інфармацыя';
+$string['registrationno'] = 'Не, я не жадаю атрымліваць ніякіх паведамленняў па імэйле';
+$string['registrationsend'] = 'Адправіць рэгістрацыйную інфармацыю на moodle.org';
+$string['registrationyes'] = 'Так, апавяшчаць мяне пра новыя рэлізы Moodle, папярэджанні пра бяспеку і іншыя важныя навіны';
+$string['reject'] = 'Адхіліць';
+$string['rejectdots'] = 'Адхіленне...';
+$string['relativedatesmode'] = 'Рэжым адносных датаў';
+$string['relativedatesmode_help'] = 'Адлюстраванне датаў курса ці актыўнасцяў адносна даты пачатку навучання карыстальніка ў курсе.
 
-The user\'s course start date will be their enrolment start date, unless they are enrolled before the course begins in which case their start date will be the course start date.
+Датай пачатку курса для карыстальніка будзе дата залічэння яго на курс, калі толькі ён не будзе залічаны да пачатку курса, у гэтым выпадку яго датай пачатку будзе дата пачатку курса.
 
-WARNING: This is an experimental feature and not all activities may support it. Once the course has been created, this course setting can no longer be changed.';
+ПАПЯРЭДЖАННЕ: Гэта эксперыментальная функцыя, і магчыма не ўсе актыўнасці яе падтрымліваюць. Пасля стварэння курса гэтая налада курса болей не можа быць зменена.';
 $string['relativedatesmode_warning'] = '<strong>Warning:</strong> Relative dates mode cannot be changed once the course has been created.';
 $string['reload'] = 'Reload';
 $string['remoteappuser'] = 'Remote {$a} User';
