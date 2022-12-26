@@ -15,6 +15,7 @@ grouping = групаванняў
 Hits = наведванне
 images = выява
 Insight = прадказанне
+log = лог
 manager = кіроўны
 Non-editing teacher = Не рэдагавальны настаўнік
 rating = ацэнкі
