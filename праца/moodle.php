@@ -2132,33 +2132,33 @@ $string['teacherroles'] = '{$a} роляў';
 $string['teachers'] = 'Настаўнікі';
 $string['textcopiedtoclipboard'] = 'Тэкст, скапіяваны ў буфер памену';
 $string['textediting'] = 'Тэкставы рэдактар';
-$string['textediting_help'] = 'If an HTML editor such as Atto or TinyMCE is selected, text input areas will have a toolbar with buttons for easily adding content.
+$string['textediting_help'] = 'Калі абраны HTML рэдактар, такі як Atto ці TinyMCE, вобласць уводу тэксту будзе мець панэль прыладаў з кнопкамі для зручнага дадання змесціва.
 
-If \'plain text area\' is selected, a format for text input areas such as HTML or Markdown can be chosen.
+Калі абрана \'вобласць простага тэксту\', льга абраць фармат для абласцей уводу тэксту, напрыклад, HTML ці Markdown.
 
-The list of available text editors is determined by the site administrator.';
-$string['texteditor'] = 'Use standard web forms';
+Спіс даступных тэкставых рэдактараў вызначаецца адміністратарам сайта.';
+$string['texteditor'] = 'Выкарыстоўваць стандартныя вэб-формы';
 $string['textellipsis'] = '{$a}...';
-$string['textformat'] = 'Plain text format';
-$string['thanks'] = 'Thanks';
-$string['theme'] = 'Theme';
-$string['themes'] = 'Themes';
-$string['themesaved'] = 'New theme saved';
-$string['therearecourses'] = 'There are {$a} courses';
-$string['thereareno'] = 'There are no {$a} in this course';
-$string['thiscategory'] = 'This category';
-$string['thiscategorycontains'] = 'This category contains';
-$string['time'] = 'Time';
-$string['timecreated'] = 'Time created';
-$string['timecreatedcourse'] = 'Course time created';
-$string['timesplitting:deciles'] = 'Last tenth';
-$string['timesplitting:deciles_help'] = 'This analysis interval divides the course into tenths (10 equal parts), with each prediction being based on the data of only the most recent previous tenth.';
-$string['timesplitting:decilesaccum'] = 'All previous tenths';
-$string['timesplitting:decilesaccum_help'] = 'This analysis interval divides the course into tenths (10 equal parts), with each prediction being based on the accumulated data of all previous tenths.';
-$string['timesplitting:nosplitting'] = 'No time limits';
-$string['timesplitting:nosplitting_help'] = 'No analysis interval is defined for this model.';
-$string['timesplitting:onemonthafterstart'] = 'One month after start';
-$string['timesplitting:onemonthafterstart_help'] = 'This analysis interval generates a prediction 1 month after the analysable start.';
+$string['textformat'] = 'Просты тэкставы фармат';
+$string['thanks'] = 'Падзякі';
+$string['theme'] = 'Тэма';
+$string['themes'] = 'Тэмы';
+$string['themesaved'] = 'Новая тэма захавана';
+$string['therearecourses'] = 'Існуе {$a} курсаў';
+$string['thereareno'] = 'У гэтым курсе няма {$a}';
+$string['thiscategory'] = 'Гэтая катэгорыя';
+$string['thiscategorycontains'] = 'Гэтая катэгорыя ўтрымлівае';
+$string['time'] = 'Час';
+$string['timecreated'] = 'Час стварэння';
+$string['timecreatedcourse'] = 'Час стварэння курса';
+$string['timesplitting:deciles'] = 'Апошняя дзясятая';
+$string['timesplitting:deciles_help'] = 'Гэты інтэрвал аналізу дзеліць курс на дзясятыя (10 роўных частак), пры гэтым кожны прагноз засноўваецца на даных толькі апошняй папярэдняй дзясятай.';
+$string['timesplitting:decilesaccum'] = 'Усе папярэднія дзясятыя';
+$string['timesplitting:decilesaccum_help'] = 'Гэты інтэрвал аналізу дзеліць курс на дзясятыя (10 роўных частак), пры гэтым кожны прагноз засноўваецца на запашаных даных усіх папярэдніх дзясятых.';
+$string['timesplitting:nosplitting'] = 'Без абмежаванняў часу';
+$string['timesplitting:nosplitting_help'] = 'Для гэтай мадэлі не вызначаны інтэрвал аналізу.';
+$string['timesplitting:onemonthafterstart'] = 'Праз месяц пасля пачатку';
+$string['timesplitting:onemonthafterstart_help'] = 'Гэты інтэрвал аналізу генеруе прагноз праз 1 месяц пасля пачатку аналізавання.';
 $string['timesplitting:oneweekafterstart'] = 'One week after start';
 $string['timesplitting:oneweekafterstart_help'] = 'This analysis interval generates a prediction 1 week after the analysable start.';
 $string['timesplitting:past3days'] = 'Past 3 days';
