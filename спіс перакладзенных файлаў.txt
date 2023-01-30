@@ -1,0 +1,4 @@
+
+Core subsystems
+core --------------------- moodle.php --- 100%
+core_access -------------- accesskey 
