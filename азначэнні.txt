@@ -20,6 +20,7 @@ manager = кіроўны
 Non-editing teacher = Не рэдагавальны настаўнік
 rating = ацэнкі
 report = справаздача
+restrictions = Абмежаванні
 scale = Шкала
 Starred = Упадабанае
 Teacher = Настаўнік
