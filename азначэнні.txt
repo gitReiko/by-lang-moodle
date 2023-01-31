@@ -19,6 +19,7 @@ log = лог
 manager = кіроўны
 Non-editing teacher = Не рэдагавальны настаўнік
 rating = ацэнкі
+region = вобласць
 report = справаздача
 restrictions = Абмежаванні
 scale = Шкала
