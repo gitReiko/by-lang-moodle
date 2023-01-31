@@ -7,4 +7,8 @@ core_adminpresets ---------------- adminpresets.php
 core_analytics ------------------- analytics.php 
 core_antivirus ------------------- antivirus.php 
 core_auth ------------------------ auth.php 
-core_availability ---------------- availability.php 
+core_availability ---------------- availability.php ------------------ 100%
+core_backup ---------------------- backup.php
+core_badges ---------------------- badges.php
+core_block ----------------------- block.php
+

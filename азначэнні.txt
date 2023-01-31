@@ -2,6 +2,7 @@
 announcements = аб\'явы аб\'яваў
 backtrace = адваротны шлях
 backup = рэзервовая копія
+condition = умова (плагіна абмежаванняў)
 content = змесціва (для агульнага тэрміна), кантэнту (для базы кантэнту)
 custom = наладжвальны
 Dashboard = Адукаванне
@@ -10,7 +11,6 @@ event = падзея
 exercise = практыкаванне
 feed (RSS) = стужка
 gradebook = журнал адзнак
-Grouping = Групаванне
 grouping = групаванняў
 Hits = наведванне
 images = выява
