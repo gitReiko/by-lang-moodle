@@ -25,12 +25,12 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['addall'] = 'Add all';
-$string['addsel'] = 'Add to selection';
-$string['allfilteredusers'] = 'All filtered ({$a->count}/{$a->total})';
-$string['allselectedusers'] = 'All selected ({$a->count}/{$a->total})';
-$string['allusers'] = 'All users ({$a})';
-$string['available'] = 'Available';
+$string['addall'] = 'Дадаць усіх';
+$string['addsel'] = 'Дадаць да абрання';
+$string['allfilteredusers'] = 'Усе адфільтраваныя ({$a->count}/{$a->total})';
+$string['allselectedusers'] = 'Усе абраныя ({$a->count}/{$a->total})';
+$string['allusers'] = 'Усе карыстальнікі ({$a})';
+$string['available'] = 'Даступныя';
 $string['confirmmessage'] = 'Do you really want to send the message above to all these users?<br />{$a}';
 $string['deleteduser'] = 'Deleted user';
 $string['nofilteredusers'] = 'No users found (0/{$a})';
