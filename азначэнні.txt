@@ -13,6 +13,7 @@ feed (RSS) = стужка
 gradebook = журнал адзнак
 grouping = групаванняў
 Hits = наведванне
+home = дом сайта
 images = выява
 Insight = прадказанне
 log = лог

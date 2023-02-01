@@ -10,5 +10,6 @@ core_auth ------------------------ auth.php
 core_availability ---------------- availability.php ------------------ 100%
 core_backup ---------------------- backup.php
 core_badges ---------------------- badges.php
-core_block ----------------------- block.php
-
+core_block ----------------------- block.php ------------------------- 100%
+core_blog ------------------------ blog.php 
+core_bulkusers ------------------- bulkusers.php
