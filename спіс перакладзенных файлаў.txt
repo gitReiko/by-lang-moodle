@@ -12,4 +12,8 @@ core_backup ---------------------- backup.php
 core_badges ---------------------- badges.php
 core_block ----------------------- block.php ------------------------- 100%
 core_blog ------------------------ blog.php 
-core_bulkusers ------------------- bulkusers.php
+core_bulkusers ------------------- bulkusers.php --------------------- 100%
+core_cache ----------------------- cache.php
+core_calendar -------------------- calendar.php
+
+
