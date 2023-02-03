@@ -27,5 +27,6 @@ restrictions = Абмежаванні
 scale = Шкала
 Starred = Упадабанае
 Teacher = Настаўнік
+Upcoming = будучы
 Username = логін
 workshop = майстэрня
