@@ -15,5 +15,7 @@ core_blog ------------------------ blog.php
 core_bulkusers ------------------- bulkusers.php --------------------- 100%
 core_cache ----------------------- cache.php
 core_calendar -------------------- calendar.php ---------------------- 100%
-core_cohort ---------------------- cohort.php
-
+core_cohort ---------------------- cohort.php ------------------------ 100%
+core_comment --------------------- comment.php 
+core_competency ------------------ competency.php 
+core_completion ------------------ completion.php 
