@@ -16,6 +16,6 @@ core_bulkusers ------------------- bulkusers.php --------------------- 100%
 core_cache ----------------------- cache.php
 core_calendar -------------------- calendar.php ---------------------- 100%
 core_cohort ---------------------- cohort.php ------------------------ 100%
-core_comment --------------------- comment.php 
+core_comment --------------------- comment.php ----------------------- 100%
 core_competency ------------------ competency.php 
 core_completion ------------------ completion.php 

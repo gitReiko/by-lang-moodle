@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['commentsubcontext'] = 'Comments';
-$string['privacy:metadata:comment'] = 'Stores comments of users.';
-$string['privacy:metadata:comment:content'] = 'Stores the text of the comment.';
-$string['privacy:metadata:comment:timecreated'] = 'Time a comment was created.';
-$string['privacy:metadata:comment:userid'] = 'The user who made the comment.';
+$string['commentsubcontext'] = 'Каментары';
+$string['privacy:metadata:comment'] = 'Захоўвае каментары карыстальнікаў.';
+$string['privacy:metadata:comment:content'] = 'Захоўвае тэкст каментароў.';
+$string['privacy:metadata:comment:timecreated'] = 'Час стварэння каментара.';
+$string['privacy:metadata:comment:userid'] = 'Аўтар каментара.';
