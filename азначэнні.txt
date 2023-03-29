@@ -2,7 +2,9 @@
 announcements = аб\'явы аб\'яваў
 backtrace = адваротны шлях
 backup = рэзервовая копія
+Bulk = масавы
 capability = здольнасць
+Checkbox = Сцяжок
 cohort = Кагорта
 completion = Выкананне
 condition = умова (плагіна абмежаванняў)
