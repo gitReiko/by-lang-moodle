@@ -64,11 +64,11 @@ $string['completion_setby:manual:done'] = 'Актыўнасць {$a->activitynam
 $string['completion_setby:manual:markdone'] = 'Актыўнасць {$a->activityname} адзначана {$a->setby} як не выкананая. Націсніце, каб адзначыць як выкананая.';
 $string['completionrequirements'] = 'Патрабаванні выканання для {$a}';
 $string['coursealreadyfinished'] = 'Курс ужо завершаны';
-$string['coursecontentnotification'] = 'Адправіць паведамленне пра змену кантэнту';
+$string['coursecontentnotification'] = 'Адправіць паведамленне пра змену змесціва';
 $string['coursecontentnotification_help'] = 'Пастаўце галачку, каб паведаміць удзельнікаў курса пра новую ці змененую актыўнасць або рэсурс. Паведамленне атрымаюць толькі тыя карыстальнікі, якія могуць атрымаць доступ да актыўнасці ці рэсурсу.';
-$string['coursecontentnotifnew'] = '{$a->coursename} новы кантэнт';
+$string['coursecontentnotifnew'] = '{$a->coursename} новае змесціва';
 $string['coursecontentnotifnewbody'] = '<p>Модуль <a href="{$a->link}">{$a->modulename}</a> тыпу {$a->moduletypename} быў даданы ў курсе <a href="{$a->courselink}">{$a->coursename}</a>.</p><p><a href="{$a->notificationpreferenceslink}">Змяніць перавагі паведамленняў</a></p>';
-$string['coursecontentnotifupdate'] = '{$a->coursename} кантэнт зменены';
+$string['coursecontentnotifupdate'] = '{$a->coursename} змесціва зменена';
 $string['coursecontentnotifupdatebody'] = '<p>Модуль <a href="{$a->link}">{$a->modulename}</a> тыпу {$a->moduletypename} быў зменены ў курсе <a href="{$a->courselink}">{$a->coursename}</a>.</p><p><a href="{$a->notificationpreferenceslink}">Змяніць перавагі паведамленняў</a></p>';
 $string['coursenotyetfinished'] = 'Курс дагэтуль не завершаны';
 $string['coursenotyetstarted'] = 'Курс яшчэ не пачаты';
@@ -80,11 +80,11 @@ $string['customfield_visibility'] = 'Бачны для';
 $string['customfield_visibility_help'] = 'Гэта налада вызначае, хто можа праглядаць назву і значэнне карыстальніцкага поля ў спісе курсаў ці ў фільтры даступных карыстальніцкіх палёў у Адукаванні.';
 $string['customfield_visibletoall'] = 'Усіх';
 $string['customfield_visibletoteachers'] = 'Настаўнікаў';
-$string['customfieldsettings'] = 'Common course custom fields settings';
-$string['downloadcontent'] = 'Include in course content download';
-$string['downloadcontent_help'] = 'Should this activity or resource be included in the zip file of course content available for download? File, Folder, Page and Label can be fully downloaded. For all other activities and resources, only the name and description are downloaded. This option requires download course content to be enabled in the course settings.
+$string['customfieldsettings'] = 'Агульныя налады ўласных палёў курса';
+$string['downloadcontent'] = 'Уключыць у спампоўку змесціва курса';
+$string['downloadcontent_help'] = 'Ці трэба ўключаць гэтую актыўнасць ці рэсурс у zip-файл са змесцівам курса, даступны для спампоўкі? Файл, Тэчка, Старонка і Цэтлік могуць быць цалкам спампованы. Для ўсіх астатніх тыпаў актыўнасцяў і рэсурсаў спампоўваецца толькі назва і апісанне. Гэтая опцыя патрабуе, каб у наладах курса была ўключана функцыя спампоўвання змесціва курса.
 
-The setting has no effect on mobile app content download for offline usage.';
+Гэтая налада не ўплывае на спампоўванне змесціва ў мабільным дадатку для афлайн выкарыстання.';
 $string['downloadcourseconfirmation'] = 'You are about to download a zip file of course content (excluding items which cannot be downloaded and any files larger than {$a}).';
 $string['downloadcoursecontent'] = 'Download course content';
 $string['downloadcoursecontent_help'] = 'This setting determines whether course content may be downloaded by users with the download course content capability (by default users with the role of student or teacher).';
