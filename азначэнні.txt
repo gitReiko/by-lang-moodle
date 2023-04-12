@@ -6,6 +6,7 @@ Bulk = масавы
 capability = здольнасць
 Checkbox = Сцяжок
 cohort = Кагорта
+competencies = кампетэнцыя
 completion = Выкананне
 condition = умова (плагіна абмежаванняў)
 content = змесціва (для агульнага тэрміна), кантэнту (для базы кантэнту)

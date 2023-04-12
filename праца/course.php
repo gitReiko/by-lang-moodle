@@ -85,45 +85,45 @@ $string['downloadcontent'] = 'Уключыць у спампоўку змесц�
 $string['downloadcontent_help'] = 'Ці трэба ўключаць гэтую актыўнасць ці рэсурс у zip-файл са змесцівам курса, даступны для спампоўкі? Файл, Тэчка, Старонка і Цэтлік могуць быць цалкам спампованы. Для ўсіх астатніх тыпаў актыўнасцяў і рэсурсаў спампоўваецца толькі назва і апісанне. Гэтая опцыя патрабуе, каб у наладах курса была ўключана функцыя спампоўвання змесціва курса.
 
 Гэтая налада не ўплывае на спампоўванне змесціва ў мабільным дадатку для афлайн выкарыстання.';
-$string['downloadcourseconfirmation'] = 'You are about to download a zip file of course content (excluding items which cannot be downloaded and any files larger than {$a}).';
-$string['downloadcoursecontent'] = 'Download course content';
-$string['downloadcoursecontent_help'] = 'This setting determines whether course content may be downloaded by users with the download course content capability (by default users with the role of student or teacher).';
-$string['enabledownloadcoursecontent'] = 'Enable download course content';
-$string['errorendbeforestart'] = 'The end date ({$a}) is before the course start date.';
-$string['favourite'] = 'Starred course';
-$string['gradetopassnotset'] = 'This course does not have a grade to pass set. It may be set in the grade item of the course (Gradebook setup).';
-$string['informationformodule'] = 'Information about the {$a} activity';
-$string['module'] = 'Activity';
-$string['noaccesssincestartinfomessage'] = 'Hi {$a->userfirstname},
-<p>A number of students in {$a->coursename} have never accessed the course.</p>';
-$string['nocourseactivity'] = 'Not enough course activity between the start and the end of the course';
-$string['nocourseendtime'] = 'The course does not have an end time';
-$string['nocoursesections'] = 'No course sections';
-$string['nocoursestudents'] = 'No students';
-$string['norecentaccessesinfomessage'] = 'Hi {$a->userfirstname},
-<p>A number of students in {$a->coursename} have not accessed the course recently.</p>';
-$string['noteachinginfomessage'] = 'Hi {$a->userfirstname},
-<p>Courses with start dates in the next week have been identified as having no teacher or student enrolments.</p>';
-$string['participants:perpage'] = 'Number of participants per page';
-$string['participants:perpage_help'] = 'The number of users shown per page on the participants page in each course.';
-$string['participantsnavigation'] = 'Participants tertiary navigation.';
-$string['privacy:completionpath'] = 'Course completion';
-$string['privacy:favouritespath'] = 'Course starred information';
-$string['privacy:metadata:activityfavouritessummary'] = 'The course system contains information about which items from the activity chooser have been starred by the user.';
-$string['privacy:metadata:completionsummary'] = 'The course contains completion information about the user.';
-$string['privacy:metadata:favouritessummary'] = 'The course contains information relating to the course being starred by the user.';
-$string['privacy:perpage'] = 'The number of courses to show per page.';
-$string['recommend'] = 'Recommend';
-$string['recommendcheckbox'] = 'Recommend activity: {$a}';
-$string['relativedatessubmissionduedateafter'] = '{$a->datediffstr} after course start';
-$string['relativedatessubmissionduedatebefore'] = '{$a->datediffstr} before course start';
-$string['searchactivitiesbyname'] = 'Search for activities by name';
-$string['searchresults'] = 'Search results: {$a}';
-$string['studentsatriskincourse'] = 'Students at risk in {$a} course';
-$string['studentsatriskinfomessage'] = 'Hi {$a->userfirstname},
-<p>Students in the {$a->coursename} course have been identified as being at risk.</p>';
-$string['submitsearch'] = 'Submit search';
-$string['target:coursecompetencies'] = 'Students at risk of not achieving the competencies assigned to a course';
+$string['downloadcourseconfirmation'] = 'Вы збіраецеся спампаваць zip-файл са змесцівам курса (за выняткам прадметаў, якія нельга спампаваць, і ўсіх файлаў памерам больш за {$a}).';
+$string['downloadcoursecontent'] = 'Спампаваць змесціва курса';
+$string['downloadcoursecontent_help'] = 'Гэтая налада вызначае, ці могуць спампоўваць змесціва курса карыстальнікі са здольнасцю спампоўкі змесціва курса (па змаўчанні - гэта карыстальнікі з роллю студэнт ці настаўнік).';
+$string['enabledownloadcoursecontent'] = 'Дазволіць спампоўку змесціва курса';
+$string['errorendbeforestart'] = 'Дата сканчэння ({$a}) стаіць раней за дату пачатку курса.';
+$string['favourite'] = 'Упадабаны курс';
+$string['gradetopassnotset'] = 'Для гэтага курса не усталявана прахадная адзнака. Яе льга ўсталяваць ў прадмеце адзнакі курса (налада Журнала адзнак).';
+$string['informationformodule'] = 'Інфармацыя пра актыўнасць {$a}';
+$string['module'] = 'Актыўнасць';
+$string['noaccesssincestartinfomessage'] = 'Прывітанне {$a->userfirstname},
+<p>{$a->coursename} студэнтаў ніколі не захадзіла ў курс.</p>';
+$string['nocourseactivity'] = 'У курсе недастаткова актыўнасцяў між пачаткам і канцом курса';
+$string['nocourseendtime'] = 'Курс не мае дату сканчэння';
+$string['nocoursesections'] = 'Курс не мае падзелаў';
+$string['nocoursestudents'] = 'Курс не мае студэнтаў';
+$string['norecentaccessesinfomessage'] = 'Прывітанне {$a->userfirstname},
+<p>{$a->coursename} студэнтаў не захадзіла ў курс апошнім часам.</p>';
+$string['noteachinginfomessage'] = 'Прывітанне {$a->userfirstname},
+<p>Курсы, якія пачынаюцца на наступным тыдні, не маюць залічаных настаўнікаў ці студэнтаў.</p>';
+$string['participants:perpage'] = 'Колькасць удзельнікаў на старонцы';
+$string['participants:perpage_help'] = 'Колькасць карыстальнікаў, якая будзе адлюстроўвацца на старонцы ўдзельнікаў у кожным курсе.';
+$string['participantsnavigation'] = 'Удзельнікі трацёвай навігацыі.';
+$string['privacy:completionpath'] = 'Выкананне курса';
+$string['privacy:favouritespath'] = 'Інфармацыя пра ўпадабанае курса';
+$string['privacy:metadata:activityfavouritessummary'] = 'Сістэма курса ўтрымлівае інфармацыю пра прадметы, якія ўпадабалі карыстальнікі праз выбарнік актыўнасці.';
+$string['privacy:metadata:completionsummary'] = 'Курс утрымлівае інфармацыю выканання карыстальніка.';
+$string['privacy:metadata:favouritessummary'] = 'Курс утрымлівае інфармацыю, звязаную з упадабаным карыстальніка ў курсе.';
+$string['privacy:perpage'] = 'Колькасць курсаў, што будзе адлюстроўвацца на старонцы.';
+$string['recommend'] = 'Рэкамендаваць';
+$string['recommendcheckbox'] = 'Рэкамендаваць актыўнасць: {$a}';
+$string['relativedatessubmissionduedateafter'] = '{$a->datediffstr} пасля пачатку курса';
+$string['relativedatessubmissionduedatebefore'] = '{$a->datediffstr} да пачатку курса';
+$string['searchactivitiesbyname'] = 'Шукаць актыўнасці па назве';
+$string['searchresults'] = 'Вынікі пошуку: {$a}';
+$string['studentsatriskincourse'] = 'Студэнты рызыкуюць у курсе {$a}';
+$string['studentsatriskinfomessage'] = 'Прывітанне {$a->userfirstname},
+<p>{$a->coursename} студэнтаў у курсе знаходзяцца ў зоне рыска.</p>';
+$string['submitsearch'] = 'Спраўдзіць пошук';
+$string['target:coursecompetencies'] = 'Студэнты рызыкуюць не дасягнуць кампетэнцыяў, замацаваныя за курсам';
 $string['target:coursecompetencies_help'] = 'This target describes whether a student is at risk of not achieving the competencies assigned to a course. This target considers that all competencies assigned to the course must be achieved by the end of the course.';
 $string['target:coursecompletion'] = 'Students at risk of not meeting the course completion conditions';
 $string['target:coursecompletion_help'] = 'This target describes whether the student is considered at risk of not meeting the course completion conditions.';
