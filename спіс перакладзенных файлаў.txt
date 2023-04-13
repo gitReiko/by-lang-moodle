@@ -1,6 +1,6 @@
 
 Core subsystems
-core ----------------------------- moodle.php ------------------------ 100% +++
+core ----------------------------- moodle.php ------------------------ 100%
 core_access ---------------------- access.php ------------------------ 100% 
 core_admin ----------------------- admin.php 
 core_adminpresets ---------------- adminpresets.php 
@@ -21,4 +21,12 @@ core_competency ------------------ competency.php
 core_completion ------------------ completion.php -------------------- 100%
 core_contentbank ----------------- contentbank.php
 core_countries ------------------- countries.php
-core_course ---------------------- course.php
+core_course ---------------------- course.php ------------------------ 100%
+core_courseformat ---------------- courseformat.php
+core_currencies ------------------ currencies.php
+core_customfield ----------------- customfield.php
+core_dbtransfer ------------------ dbtransfer.php
+core_debug ----------------------- debug.php
+core_editor ---------------------- editor.php
+
+

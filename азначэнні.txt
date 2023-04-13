@@ -44,6 +44,7 @@ restrictions = Абмежаванні
 scale = Шкала
 Starred = Упадабанае
 tabs = Укладкі
+target = мэта
 Teacher = Настаўнік
 tick box = галачка
 Timeline block = блок Часовая шкала
