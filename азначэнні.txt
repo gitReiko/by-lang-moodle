@@ -42,6 +42,7 @@ region = вобласць
 report = справаздача
 restrictions = Абмежаванні
 scale = Шкала
+shortcuts = хуткія выявы
 Starred = Упадабанае
 tabs = Укладкі
 target = мэта

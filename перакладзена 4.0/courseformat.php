@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['courseindex'] = 'Course index';
-$string['preference:coursesectionspreferences'] = 'Section user preferences for course {$a}';
-$string['privacy:metadata:preference:coursesectionspreferences'] = 'Section user preferences like collapsed and expanded.';
+$string['courseindex'] = 'Індэкс курса';
+$string['preference:coursesectionspreferences'] = 'Падзел перавагаў карыстальніка для курса {$a}';
+$string['privacy:metadata:preference:coursesectionspreferences'] = 'Падзел карыстальніцкіх перавагаў, напрыклад, згорнута ці разгорнута.';
