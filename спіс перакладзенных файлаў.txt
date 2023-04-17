@@ -27,6 +27,7 @@ core_currencies ------------------ currencies.php
 core_customfield ----------------- customfield.php
 core_dbtransfer ------------------ dbtransfer.php
 core_debug ----------------------- debug.php
-core_editor ---------------------- editor.php
-
+core_editor ---------------------- editor.php ------------------------ 100%
+core_edufields ------------------- edufields.php
+core_enrol ----------------------- enrol.php
 
