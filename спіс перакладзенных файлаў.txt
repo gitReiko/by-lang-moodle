@@ -29,5 +29,9 @@ core_dbtransfer ------------------ dbtransfer.php
 core_debug ----------------------- debug.php
 core_editor ---------------------- editor.php ------------------------ 100%
 core_edufields ------------------- edufields.php
-core_enrol ----------------------- enrol.php
-
+core_enrol ----------------------- enrol.php ------------------------- 100%
+core_error ----------------------- error.php
+core_favourites ------------------ favourites.php
+core_fileconverter --------------- fileconverter.php
+core_files ----------------------- files.php
+core_filters --------------------- filters.php

@@ -45,6 +45,7 @@ restrictions = Абмежаванні
 scale = Шкала
 shortcuts = хуткія выявы
 Starred = Упадабанае
+Suspended = Заблакаваны
 tabs = Укладкі
 target = мэта
 Teacher = Настаўнік
