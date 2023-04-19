@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'favourites', language 'en', version '4.0'.
+ * Strings for component 'fileconverter', language 'en', version '4.0'.
  *
- * @package     favourites
+ * @package     fileconverter
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,11 +25,4 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['privacy:metadata:favourite'] = 'Stores references to items which have been starred.';
-$string['privacy:metadata:favourite:component'] = 'The component which the starred item belongs to e.g. core_user';
-$string['privacy:metadata:favourite:itemid'] = 'The identifier for the item being starred';
-$string['privacy:metadata:favourite:itemtype'] = 'The starred item type e.g. course';
-$string['privacy:metadata:favourite:ordering'] = 'A number used to order starred items of the same type';
-$string['privacy:metadata:favourite:timecreated'] = 'The time when the item was starred';
-$string['privacy:metadata:favourite:timemodified'] = 'The time when the starred item was last modified';
-$string['privacy:metadata:favourite:userid'] = 'The ID of the user who starred the item';
+$string['privacy:metadata:plugintypefileconverter'] = 'Падсістэма канвертаваньня файлаў дзейнічае як канал перадачы запытаў ад плагінаў да розных плагінаў канвертаваньня файлаў.';
