@@ -34,4 +34,6 @@ core_error ----------------------- error.php
 core_favourites ------------------ favourites.php -------------------- 100% ***
 core_fileconverter --------------- fileconverter.php ----------------- 100% ***
 core_files ----------------------- files.php ------------------------- 100% ***
-core_filters --------------------- filters.php
+core_filters --------------------- filters.php ----------------------- 100% ***
+core_form ------------------------ form.php
+core_grades ---------------------- grades.php
