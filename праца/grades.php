@@ -25,25 +25,25 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['activities'] = 'Activities';
-$string['addcategory'] = 'Add category';
-$string['addcategoryerror'] = 'Could not add category.';
-$string['addexceptionerror'] = 'Error occurred while adding exception for userid:gradeitem';
-$string['addfeedback'] = 'Add feedback';
-$string['addgradeletter'] = 'Add a grade letter';
-$string['addidnumbers'] = 'Add ID numbers';
-$string['additem'] = 'Add grade item';
-$string['additionalfeedback'] = 'Additional feedback';
-$string['addoutcome'] = 'Add an outcome';
-$string['addoutcomeitem'] = 'Add outcome item';
-$string['addscale'] = 'Add a scale';
-$string['adjustedweight'] = 'Weight adjusted';
-$string['aggregateextracreditmean'] = 'Mean of grades (with extra credits)';
-$string['aggregatemax'] = 'Highest grade';
-$string['aggregatemean'] = 'Mean of grades';
-$string['aggregatemedian'] = 'Median of grades';
-$string['aggregatemin'] = 'Lowest grade';
-$string['aggregatemode'] = 'Mode of grades';
+$string['activities'] = 'Актыўнасьці';
+$string['addcategory'] = 'Дадаць катэгорыю';
+$string['addcategoryerror'] = 'Нельга дадаць катэгорыю.';
+$string['addexceptionerror'] = 'Адбылася памылка падчас даданьня выключэньне для userid:gradeitem';
+$string['addfeedback'] = 'Дадаць водгук';
+$string['addgradeletter'] = 'Дадаць літару адзнакі';
+$string['addidnumbers'] = 'Дадаць ID нумары';
+$string['additem'] = 'Дадаць прадмет адзнакі';
+$string['additionalfeedback'] = 'Дадатковы водгук';
+$string['addoutcome'] = 'Дадаць вынік';
+$string['addoutcomeitem'] = 'Дадаць прадмет выніку';
+$string['addscale'] = 'Дадаць шкалу';
+$string['adjustedweight'] = 'Скарэктаваная вага';
+$string['aggregateextracreditmean'] = 'Тлумачэньне адзнак (з дадатковымі крэдытамі)';
+$string['aggregatemax'] = 'Найвышэйшая адзнака';
+$string['aggregatemean'] = 'Тлумачэньне адзнак';
+$string['aggregatemedian'] = 'Медыяна адзнак';
+$string['aggregatemin'] = 'Найнізкая адзнака';
+$string['aggregatemode'] = 'Рэжым адзнак';
 $string['aggregatenotonlygraded'] = 'Include empty grades';
 $string['aggregateonlygraded'] = 'Exclude empty grades';
 $string['aggregateonlygraded_help'] = 'An empty grade is a grade which is missing from the gradebook. It may be from an assignment submission which has not yet been graded or from a quiz which has not yet been attempted etc.
