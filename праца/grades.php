@@ -44,22 +44,22 @@ $string['aggregatemean'] = 'Тлумачэньне адзнак';
 $string['aggregatemedian'] = 'Медыяна адзнак';
 $string['aggregatemin'] = 'Найнізкая адзнака';
 $string['aggregatemode'] = 'Рэжым адзнак';
-$string['aggregatenotonlygraded'] = 'Include empty grades';
-$string['aggregateonlygraded'] = 'Exclude empty grades';
-$string['aggregateonlygraded_help'] = 'An empty grade is a grade which is missing from the gradebook. It may be from an assignment submission which has not yet been graded or from a quiz which has not yet been attempted etc.
+$string['aggregatenotonlygraded'] = 'Уключыць пустыя адзнакі';
+$string['aggregateonlygraded'] = 'Выключыць пустыя адзнакі';
+$string['aggregateonlygraded_help'] = 'Пустая адзнака - гэта адзнака, якая адсутнічае ў журнале адзнак. Ёй можа быць адзнака за заданьне пададзенае на ацэньваньне, але дагэтуль не ацэненае, ці тэст, спробу якога пакуль не пачалі, і г.д.
 
-This setting determines whether empty grades are not included in the aggregation or are counted as minimal grades, for example 0 for an assignment graded between 0 and 100.';
-$string['aggregateoutcomes'] = 'Include outcomes in aggregation';
-$string['aggregateoutcomes_help'] = 'If enabled, outcomes are included in the aggregation. This may result in an unexpected category total.';
-$string['aggregatesonly'] = 'Change to aggregates only';
-$string['aggregatesubcatsupgradedgrades'] = 'Note: The aggregation setting "Aggregate including subcategories" has been removed as part of a site upgrade. Since "Aggregate including subcategories" was previously used in this course, it is recommended that you review this change in the gradebook.';
-$string['aggregatesum'] = 'Natural';
-$string['aggregateweightedmean'] = 'Weighted mean of grades';
-$string['aggregateweightedmean2'] = 'Simple weighted mean of grades';
-$string['aggregation'] = 'Aggregation';
-$string['aggregation_help'] = 'The aggregation determines how grades in a category are combined, such as
+Гэтая налада вызначае, ці трэба пустыя адзнакі агрэгаваць і улічваць як мінімальныя, напрыклад, 0 для заданьня, якое ацэньваецца ад 0 да 100.';
+$string['aggregateoutcomes'] = 'Уключыць вынікі падчас агрэгаваньня';
+$string['aggregateoutcomes_help'] = 'Калі ўключана, вынікі будуць уключаны падчас агрэгаваньня. Гэта можа прывесьці да начаканага падрахунка катэгорыяў.';
+$string['aggregatesonly'] = 'Зьмяніць на толькі агрэгаваньні';
+$string['aggregatesubcatsupgradedgrades'] = 'Нататка: Налада агрэгаваньня "Агрэгаваць, уключая падкатэгорыі" была выдалена як частка абнаўленьня сайта. Паколькі "Агрэгаваць, уключая падкатэгорыі" раней выкарыстоўвалася ў гэтым курсе, рэкамендуецца праглядзець гэтую зьмену ў журнале адзнак.';
+$string['aggregatesum'] = 'Натуральнае';
+$string['aggregateweightedmean'] = 'Сярэднеўзважанае значэньне адзнак';
+$string['aggregateweightedmean2'] = 'Простае сярэднеўзважанае значэньне адзнак';
+$string['aggregation'] = 'Агрэгацыя';
+$string['aggregation_help'] = 'Агрэгацыя вызначае шлях аб\'яднаньня адзнак у катэгорыі, напрыклад 
 
-* Mean of grades - The sum of all grades divided by the total number of grades
+* Сярэдняе значэньне адзнак - Сума ўсіх адзнак, дзеленая на агульную колькасьць адзнак
 * Median of grades - The middle grade when grades are arranged in order of size
 * Lowest grade
 * Highest grade

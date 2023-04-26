@@ -2,6 +2,11 @@
 Advanced = прасунуты
 announcements = аб\'явы аб\'яваў
 assign = прызначаць
+assignment = заданьне
+assignment submission = заданьне пададзенае на адзнаку (ацэньваньне)
+quiz = тэст
+outcomes = вынікі (grade)
+attempt = спроба
 backtrace = адваротны шлях
 backup = рэзервовая копія
 Bulk = масавы
