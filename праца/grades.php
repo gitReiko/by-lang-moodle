@@ -38,12 +38,12 @@ $string['addoutcome'] = 'Дадаць вынік';
 $string['addoutcomeitem'] = 'Дадаць прадмет выніку';
 $string['addscale'] = 'Дадаць шкалу';
 $string['adjustedweight'] = 'Скарэктаваная вага';
-$string['aggregateextracreditmean'] = 'Тлумачэньне адзнак (з дадатковымі крэдытамі)';
+$string['aggregateextracreditmean'] = 'Сярэдняя адзнака (з дадатковай адзнакай)';
 $string['aggregatemax'] = 'Найвышэйшая адзнака';
-$string['aggregatemean'] = 'Тлумачэньне адзнак';
-$string['aggregatemedian'] = 'Медыяна адзнак';
+$string['aggregatemean'] = 'Сярэдняя адзнака';
+$string['aggregatemedian'] = 'Медыянная адзнака';
 $string['aggregatemin'] = 'Найнізкая адзнака';
-$string['aggregatemode'] = 'Рэжым адзнак';
+$string['aggregatemode'] = 'Найчастая адзнака';
 $string['aggregatenotonlygraded'] = 'Уключыць пустыя адзнакі';
 $string['aggregateonlygraded'] = 'Выключыць пустыя адзнакі';
 $string['aggregateonlygraded_help'] = 'Пустая адзнака - гэта адзнака, якая адсутнічае ў журнале адзнак. Ёй можа быць адзнака за заданьне пададзенае на ацэньваньне, але дагэтуль не ацэненае, ці тэст, спробу якога пакуль не пачалі, і г.д.
@@ -53,31 +53,31 @@ $string['aggregateoutcomes'] = 'Уключыць вынікі падчас аг�
 $string['aggregateoutcomes_help'] = 'Калі ўключана, вынікі будуць уключаны падчас агрэгаваньня. Гэта можа прывесьці да начаканага падрахунка катэгорыяў.';
 $string['aggregatesonly'] = 'Зьмяніць на толькі агрэгаваньні';
 $string['aggregatesubcatsupgradedgrades'] = 'Нататка: Налада агрэгаваньня "Агрэгаваць, уключая падкатэгорыі" была выдалена як частка абнаўленьня сайта. Паколькі "Агрэгаваць, уключая падкатэгорыі" раней выкарыстоўвалася ў гэтым курсе, рэкамендуецца праглядзець гэтую зьмену ў журнале адзнак.';
-$string['aggregatesum'] = 'Натуральнае';
-$string['aggregateweightedmean'] = 'Сярэднеўзважанае значэньне адзнак';
-$string['aggregateweightedmean2'] = 'Простае сярэднеўзважанае значэньне адзнак';
+$string['aggregatesum'] = 'Натуральная';
+$string['aggregateweightedmean'] = 'Сярэднеўзважаная адзнака';
+$string['aggregateweightedmean2'] = 'Простая сярэднеўзважаная адзнака';
 $string['aggregation'] = 'Агрэгацыя';
 $string['aggregation_help'] = 'Агрэгацыя вызначае шлях аб\'яднаньня адзнак у катэгорыі, напрыклад 
 
-* Сярэдняе значэньне адзнак - Сума ўсіх адзнак, дзеленая на агульную колькасьць адзнак
-* Median of grades - The middle grade when grades are arranged in order of size
-* Lowest grade
-* Highest grade
-* Mode of grades - The grade that occurs the most frequently
-* Natural - The sum of all grade values scaled by weight';
-$string['aggregation_link'] = 'grade/aggregation';
-$string['aggregationcoef'] = 'Aggregation coefficient';
-$string['aggregationcoefextra'] = 'Extra credit';
-$string['aggregationcoefextra_help'] = 'If the aggregation is \'Natural\' or \'Simple weighted mean\' and the extra credit checkbox is ticked, the grade item\'s maximum grade is not added to the category\'s maximum grade. This will result in the possibility of achieving the maximum grade in the category without having the maximum grade in all the grade items. If the site administrator has enabled grades over the maximum, there might be grades over the maximum.
+* Сярэдняя адзнака - Сума ўсіх адзнак, дзеленая на агульную колькасьць адзнак
+* Медыянная адзнака - Сярэдняя адзнака, калі адзнакі зьмесцаваны па парадку ўзрастаньня
+* Найнізкая адзнака
+* Найвышэйшая адзнака
+* Найчастая - Адзнака, якая сустракаецца найболей часта
+* Натуральная - Сума ўсіх значэньняў адзнак, маштабаваных па вазе';
+$string['aggregation_link'] = 'адзнака/агрэгацыя';
+$string['aggregationcoef'] = 'Каэфіцыент агрэгацыі';
+$string['aggregationcoefextra'] = 'Дадатковая адзнака';
+$string['aggregationcoefextra_help'] = 'Калі выкарыстоўваецца агрэгацыя \'Натуральная\' ці \'Простая сярэднеўзважаная адзнака\' і сьцяжок дадатковая адзнака ўключаны, максімальная адзнака прадмета адзнакі не дадаецца да максімальнай адзнакі катэгорыі. Гэта можа прывесьці да магчымасьці атрымаць максімальную адзнаку ў катэгорыі, ня маючы максімальнай адзнакі па ўсім прадметам адзнакі. Калі адміністратар сайта ўключыў адзнакі вышэйшыя за максімум, то могуць з\'явіцца адзнакі вышэйшыя за максімум.
 
-If the aggregation is \'Mean of grades (with extra credits)\' and the extra credit is set to a value greater than zero, the extra credit is the factor by which the grade is multiplied before adding it to the total after the computation of the mean.';
-$string['aggregationcoefextra_link'] = 'grade/aggregation';
-$string['aggregationcoefextrasum'] = 'Extra credit';
-$string['aggregationcoefextrasum_help'] = 'If the extra credit checkbox is ticked, the grade item\'s maximum grade is not added to the category\'s maximum grade, resulting in the possibility of achieving the maximum grade (or grades over the maximum if enabled by the site administrator) in the category without having the maximum grade in all the grade items.';
-$string['aggregationcoefextrasum_link'] = 'grade/aggregation';
+Калі выкарыстоўваецца \'Сярэдняя адзнака (з дадатковай адзнакай)\' і дадатковая адзнака ўсталявана на значэньне адрознае ад нуля, то дадатковая адзнака з\'яўляецца каэфіцыентам, на які памнажаецца адзнака перад даданьнем яе да выніку пасьля вылічэньня сярэдняга значэньня.';
+$string['aggregationcoefextra_link'] = 'адзнака/агрэгацыя';
+$string['aggregationcoefextrasum'] = 'Дадатковая адзнака';
+$string['aggregationcoefextrasum_help'] = 'Калі сьцяжок дадатковая адзнака ўключаны, максімальная адзнака прадмета адзнакі не дадаецца да максімальнай адзнакі катэгорыі. У выніку з\'яўляецца магчымасьць дасягненьня максімальнай адзнакі (ці адзнакі вышэйшай за максімальную, калі гэтае дазволена адміністратарам сайта) у катэгорыі, ня маючы максімальнай адзнакі ўва ўсіх прадметах адзнакі.';
+$string['aggregationcoefextrasum_link'] = 'адзнака/агрэгацыя';
 $string['aggregationcoefextrasumabbr'] = '+';
-$string['aggregationcoefextraweight'] = 'Extra credit weight';
-$string['aggregationcoefextraweight_help'] = 'If the extra credit weight is set to a value greater than zero, the grade acts as extra credit during aggregation. The number is the factor by which the grade is multiplied before adding it to the total for the computation of the mean.';
+$string['aggregationcoefextraweight'] = 'Вага дадатковай адзнакі';
+$string['aggregationcoefextraweight_help'] = 'Калі вага дадатковай адзнакі ўсталявана на значэньне адрознае ад нуля, адзнака дзейнічае як дадатковая адзнака падчас агрэгаваньня. Лічба - гэта каэфіцыент, на які памнажаецца адзнака перад даданнем яе да выніковай сумы для разліку сярэдняга значэньня.';
 $string['aggregationcoefextraweight_link'] = 'grade/aggregation';
 $string['aggregationcoefweight'] = 'Item weight';
 $string['aggregationcoefweight_help'] = 'The item weight is used in the category aggregation to influence the importance of the item compared with other grade items in the same category.';
