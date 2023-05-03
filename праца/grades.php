@@ -362,69 +362,69 @@ $string['gradetype_help'] = 'Існуе 4 тыпа адзнак:
 
 * Адсутнічае - Ацьневаньне не магчыма
 * Значэньне - Лічбавае значэньне з максімумам і мінімумам
-* Scale - An item in a list
-* Text - Feedback only
+* Шкала - Прадмет са сьпіса 
+* Тэкст - Толькі водгук
 
-Only value and scale grade types may be aggregated. The grade type for an activity-based grade item is set on the activity settings page.';
-$string['gradevaluetoobig'] = 'One of the grade values is larger than the allowed grade maximum of {$a}';
-$string['gradeview'] = 'View grade';
-$string['gradewasmodifiedduringediting'] = 'The grade entered for {$a->itemname} for {$a->username} was ignored because it was more recently updated by someone else.';
-$string['gradeweighthelp'] = 'Grade weight help';
-$string['gradingmodulename'] = 'Grading ({$a})';
-$string['groupavg'] = 'Group average';
-$string['hidden'] = 'Hidden';
-$string['hidden_help'] = 'If ticked, grades are hidden from students. A hidden until date may be set if desired, to release grades after grading is completed.';
-$string['hiddenasdate'] = 'Show submitted date for hidden grades';
-$string['hiddenasdate_help'] = 'If user can not see hidden grades show date of submission instead of \'-\'.';
-$string['hiddenuntil'] = 'Hidden until';
-$string['hiddenuntildate'] = 'Hidden until: {$a}';
-$string['hideadvanced'] = 'Hide advanced features';
-$string['hideaverages'] = 'Hide averages';
-$string['hidecalculations'] = 'Hide calculations';
-$string['hidecategory'] = 'Hidden';
-$string['hideeyecons'] = 'Hide show/hide icons';
-$string['hidefeedback'] = 'Hide feedback';
-$string['hideforcedsettings'] = 'Hide forced settings';
-$string['hideforcedsettings_help'] = 'Do not show forced settings in grading UI.';
-$string['hidegroups'] = 'Hide groups';
-$string['hidelocks'] = 'Hide locks';
-$string['hidenooutcomes'] = 'Show outcomes';
-$string['hidequickfeedback'] = 'Hide quick feedback';
-$string['hideranges'] = 'Hide ranges';
-$string['hidetotalifhiddenitems'] = 'Hide totals if they contain hidden items';
-$string['hidetotalifhiddenitems_help'] = 'This setting specifies whether totals which contain hidden grade items are shown to students or replaced with a hyphen (-). If shown, the total may be calculated either excluding or including hidden items.
+Толькі адзнакі тыпа значэньне і шкала могуць быць агрэгаваны. Тып адзнакі для прадмета адзнакі, заснаванага на актыўнасьці, льга ўсталяваць на старонцы наладаў актыўнасьці.';
+$string['gradevaluetoobig'] = 'Адно са значэньняў адзнакі болей за дазволены максімум адзнакі {$a}';
+$string['gradeview'] = 'Прагляд адзнакі';
+$string['gradewasmodifiedduringediting'] = 'Адзнака, надрукаваная для {$a->itemname} - {$a->username}, была праігнаравана, бо была абноўлена некім іншым.';
+$string['gradeweighthelp'] = 'Дапамога для вагі адзнакі';
+$string['gradingmodulename'] = 'Ацэньваньне ({$a})';
+$string['groupavg'] = 'Сярэдняе па групе';
+$string['hidden'] = 'Схавана';
+$string['hidden_help'] = 'Калі сьцяжок усталяваны, адзнакі будуць схаваны ад студэнтаў. Пры жаданьні льга ўсталяваць схаваную дату, каб адкрыць адзнакі пасьля выкананьня ацэньваньня.';
+$string['hiddenasdate'] = 'Паказаць дату адпраўленьня для схаваных адзнак';
+$string['hiddenasdate_help'] = 'Калі карыстальнік ня можа бачыць схаваныя адзнакі, паказваць дату адпраўленьня заміж \'-\'.';
+$string['hiddenuntil'] = 'Схавана да';
+$string['hiddenuntildate'] = 'Схавана да: {$a}';
+$string['hideadvanced'] = 'Схаваць прасунутыя функцыі';
+$string['hideaverages'] = 'Схаваць сярэднія';
+$string['hidecalculations'] = 'Схаваць разьлікі';
+$string['hidecategory'] = 'Схавана';
+$string['hideeyecons'] = 'Схаваць/паказаць выявы';
+$string['hidefeedback'] = 'Схаваць водгук';
+$string['hideforcedsettings'] = 'Схаваць прымусовыя налады';
+$string['hideforcedsettings_help'] = 'Не паказваць прымусовыя налады падчас ацэньваньня КІ.';
+$string['hidegroups'] = 'Схаваць групы';
+$string['hidelocks'] = 'Схаваць блакаваньні';
+$string['hidenooutcomes'] = 'Паказаць вынікі';
+$string['hidequickfeedback'] = 'Схаваць хуткі водгук';
+$string['hideranges'] = 'Схаваць дыяпазоны';
+$string['hidetotalifhiddenitems'] = 'Схаваць вынікі, калі яны маюць схаваныя прадметы';
+$string['hidetotalifhiddenitems_help'] = 'Гэтая налада вызначае, ці будуць вынікі, якія маюць схаваныя прадметы адзнакі, паказаны студэнтам ці заменены злучком (-). Калі яны паказваюцца, то вынік можа быць разьлічаны як з улікам схаваных прадметаў, так і без уліка.
 
-If hidden items are excluded, the total will be different to the total seen by the teacher in the grader report, since the teacher always sees totals calculated from all items, hidden or unhidden. If hidden items are included, students may be able to calculate the hidden items.';
-$string['hidetotalshowexhiddenitems'] = 'Show totals excluding hidden items';
-$string['hidetotalshowinchiddenitems'] = 'Show totals including hidden items';
-$string['hideverbose'] = 'Hide {$a->category} {$a->itemmodule} {$a->itemname}';
-$string['highgradeascending'] = 'Sort by high grade ascending';
-$string['highgradedescending'] = 'Sort by high grade descending';
-$string['highgradeletter'] = 'High';
-$string['identifier'] = 'Identify user by';
-$string['idnumbers'] = 'ID numbers';
-$string['ignore'] = 'Ignore';
-$string['import'] = 'Import';
-$string['importcsv'] = 'Import CSV';
-$string['importcsv_help'] = 'Grades can be imported via a CSV file with format as follows:
+Калі схаваныя прадметы выключаны, вынік будзе адрозьнівацца ад таго, што будзе бачыць настаўнік у справаздачы адзначніка, бо настаўнік заўжды бачыць вынік, разьлічаны для ўсіх прадметаў, схаваных і паказаных. Калі схаваныя прадметы ўключаны, студэнты змогуць вылічыць схаваныя прадметы.';
+$string['hidetotalshowexhiddenitems'] = 'Паказаць вынікі, выключая схаваныя прадметы';
+$string['hidetotalshowinchiddenitems'] = 'Паказаць вынікі, уключая схаваныя прадметы';
+$string['hideverbose'] = 'Схаваць {$a->category} {$a->itemmodule} {$a->itemname}';
+$string['highgradeascending'] = 'Сартаваць па найвышэйшай па ўзрастаньні';
+$string['highgradedescending'] = 'Сартаваць па найвышэйшай па ўбываньні';
+$string['highgradeletter'] = 'Высокая';
+$string['identifier'] = 'Ідэнтыфікаваць карыстальніка па';
+$string['idnumbers'] = 'ID нумары';
+$string['ignore'] = 'Ігнараваць';
+$string['import'] = 'Імпарт';
+$string['importcsv'] = 'Імпарт CSV';
+$string['importcsv_help'] = 'Адзнакі льга імпартаваць CSV файлам з наступным фарматам:
 
-* Each line of the file contains one record
-* Each record is a series of data separated by the selected separator
-* The first record contains a list of fieldnames defining the format of the rest of the file
-* A fieldname containing user identity data is required - either username or ID number or email address
+* Кожны радок файла ўтрымлівае адзін запіс
+* Кожны запіс - серыя дадзеных, падзеленых абраным падзельнікам
+* Першы запіс утрымлівае сьпіс назваў палёў, якія вызначаюць фармат наступнай частцы файла
+* Патрабуецца поле, якое зьмяшчае ідэнтыфікацыйныя дадзеныя карыстальніка - або логін, або ID нумар, або імэйл.
 
-A file of the correct format can be obtained by first exporting some grades. The file can then be edited and saved as a CSV file.';
-$string['importcsv_link'] = 'grade/import/csv/index';
-$string['importcustom'] = 'Import as custom outcomes (only this course)';
-$string['importdata'] = 'Data';
-$string['importdata_help'] = 'Grades may be pasted directly from an OpenDocument or Excel spreadsheet with format as follows:
+Файл слушнага фармату льга атрымаць, шляхам экспартаваньня часткі адзнак. Потым атрыманы файл льга адрэдагаваць і захаваць як CSV файл.';
+$string['importcsv_link'] = 'адзнака/імпарт/csv/індэкс';
+$string['importcustom'] = 'Імпартаваць як уласныя вынікі (толькі гэты курс)';
+$string['importdata'] = 'Дата';
+$string['importdata_help'] = 'Адзнакі льга ўставіць прама з электроннай табліцы OpenDocument ці Excel у наступным фармаце:
 
-* At least one column should contain user identity data - username, email address or ID number.
-* Other columns should have headings as for existing activities or grade items.
+* Прынамсі адзін слупок мусіць мець дадзеныя індэнтыфікацыі карыстальніка - логін, імэйл ці ID нумар.
+* Іншыя слупкі мусяць мець загалоўкі для існых актыўнасьцяў ці прадметаў адзнакі.
 
-A correctly formatted spreadsheet can be obtained by first exporting some grades. The spreadsheet can then be edited to add more grades and saved.
+Электронную табліцу слушнага фармату льга атрымаць, шляхам экспартаваньня часткі адзнак. Потым атрыманую табліцу льга адрэдагаваць, каб дадаць болей адзнак і захаваць.
 
-Select and copy the columns you want to import from the spreadsheet and then paste them into this field.';
+Абярыце і скапіруйце слупкі, якія жадаеце імпартаваць з электроннай табліцы, а потым устаўце іх у гэтае поле.';
 $string['importerror'] = 'An error occurred, this script wasn\'t called with the right parameters.';
 $string['importfailed'] = 'Import failed. No data was imported.';
 $string['importfeedback'] = 'Import feedback';
@@ -536,8 +536,8 @@ If this is set to \'Yes\', any existing grades will be rescaled so that the perc
 For example, if this option is set to \'Yes\', changing the maximum grade on an item from 10 to 20 would cause a grade of 6/10 (60%) to be rescaled to 12/20 (60%). With this option set to \'No\', the grade would change from 6/10 (60%) to 6/20 (30%), requiring manual adjustment of the grade items to ensure correct scores.';
 $string['modgradetype'] = 'Type';
 $string['modgradetypenone'] = 'Адсутнічае';
-$string['modgradetypepoint'] = 'Point';
-$string['modgradetypescale'] = 'Scale';
+$string['modgradetypepoint'] = 'Балы';
+$string['modgradetypescale'] = 'Шкала';
 $string['morethanmax'] = 'The grade entered for {$a->itemname} for {$a->username} is more than the maximum allowed';
 $string['moveselectedto'] = 'Move selected items to';
 $string['movingelement'] = 'Moving {$a}';
@@ -837,7 +837,7 @@ $string['totalweightnot100'] = 'The total weight is not equal to 100';
 $string['turnfeedbackoff'] = 'Turn feedback off';
 $string['turnfeedbackon'] = 'Turn feedback on';
 $string['typenone'] = 'None';
-$string['typescale'] = 'Scale';
+$string['typescale'] = 'Шкала';
 $string['typescale_help'] = 'This setting determines the scale used when using the scale grade type. The scale for an activity-based grade item is set on the activity settings page.';
 $string['typetext'] = 'Text';
 $string['typevalue'] = 'Value';
