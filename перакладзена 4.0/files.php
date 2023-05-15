@@ -27,12 +27,12 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['privacy:metadata:core_userkey'] = 'Закрыты токен створаны і захаваны. Гэты токен льга выкарыстоўваць для доступу к файлам Moodle без патрэбы ўваходу на сайт.';
 $string['privacy:metadata:files'] = 'Запіс запампованых ці апублічаных файлаў карыстальнікаў';
-$string['privacy:metadata:files:author'] = 'Аўтар зьмесціва файла';
-$string['privacy:metadata:files:contenthash'] = 'Хэш зьмесціва файла';
+$string['privacy:metadata:files:author'] = 'Аўтар зьмесьціва файла';
+$string['privacy:metadata:files:contenthash'] = 'Хэш зьмесьціва файла';
 $string['privacy:metadata:files:filename'] = 'Назва файла ў яго вобласьці файлаў';
 $string['privacy:metadata:files:filepath'] = 'Шлях да файла ў яго вобласьці файлаў';
 $string['privacy:metadata:files:filesize'] = 'Памер файла';
-$string['privacy:metadata:files:license'] = 'Ліцэнзія зьмесціва файла';
+$string['privacy:metadata:files:license'] = 'Ліцэнзія зьмесьціва файла';
 $string['privacy:metadata:files:mimetype'] = 'MIME тып файла';
 $string['privacy:metadata:files:source'] = 'Крыніца файла';
 $string['privacy:metadata:files:timecreated'] = 'Час стварэньня файла';

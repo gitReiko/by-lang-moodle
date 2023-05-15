@@ -18,22 +18,22 @@ core_calendar -------------------- calendar.php ---------------------- 100%
 core_cohort ---------------------- cohort.php ------------------------ 100%
 core_comment --------------------- comment.php ----------------------- 100%
 core_competency ------------------ competency.php 
-core_completion ------------------ completion.php -------------------- 100%
+core_completion ------------------ completion.php -------------------- 100% ***
 core_contentbank ----------------- contentbank.php
 core_countries ------------------- countries.php
-core_course ---------------------- course.php ------------------------ 100%
-core_courseformat ---------------- courseformat.php
+core_course ---------------------- course.php ------------------------ 100% ***
+core_courseformat ---------------- courseformat.php ------------------ 100% ***
 core_currencies ------------------ currencies.php
 core_customfield ----------------- customfield.php
 core_dbtransfer ------------------ dbtransfer.php
 core_debug ----------------------- debug.php
-core_editor ---------------------- editor.php ------------------------ 100%
+core_editor ---------------------- editor.php ------------------------ 100% ***
 core_edufields ------------------- edufields.php
-core_enrol ----------------------- enrol.php ------------------------- 100%
+core_enrol ----------------------- enrol.php ------------------------- 100% ***
 core_error ----------------------- error.php
 core_favourites ------------------ favourites.php -------------------- 100% ***
 core_fileconverter --------------- fileconverter.php ----------------- 100% ***
 core_files ----------------------- files.php ------------------------- 100% ***
 core_filters --------------------- filters.php ----------------------- 100% ***
 core_form ------------------------ form.php -------------------------- 100% ***
-core_grades ---------------------- grades.php
+core_grades ---------------------- grades.php ------------------------ 100% ***
