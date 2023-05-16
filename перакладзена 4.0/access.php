@@ -25,22 +25,22 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['access'] = 'Даступнасць';
-$string['accesshelp'] = 'Дапамога даступнасці';
+$string['access'] = 'Даступнасьць';
+$string['accesshelp'] = 'Дапамога даступнасьці';
 $string['accesskey'] = 'Ключ доступу, {$a}';
-$string['accessstatement'] = 'Стан даступнасці';
-$string['activitynext'] = 'Наступная актыўнасці';
-$string['activityprev'] = 'Папярэднія актыўнасці';
+$string['accessstatement'] = 'Стан даступнасьці';
+$string['activitynext'] = 'Наступная актыўнасьці';
+$string['activityprev'] = 'Папярэднія актыўнасьці';
 $string['breadcrumb'] = 'Паласа навігацыі';
 $string['eventcontextlocked'] = 'Кантэкст замарожаны';
 $string['eventcontextunlocked'] = 'Кантэкст размарожаны';
 $string['hideblocka'] = 'Схаваць блок {$a}';
 $string['showblocka'] = 'Паказаць блок {$a}';
 $string['sitemap'] = 'Мапа сайту';
-$string['skipa'] = 'Прапусціць {$a}';
-$string['skipblock'] = 'Прапусціць блок';
-$string['skipnavigation'] = 'Прапусціць навігацыю';
-$string['skipto'] = 'Прапусціць да {$a}';
-$string['tocontent'] = 'Прапусціць да асноўнага кантэнту';
-$string['tonavigation'] = 'Ісці да навігацыі';
+$string['skipa'] = 'Прапусьціць {$a}';
+$string['skipblock'] = 'Прапусьціць блок';
+$string['skipnavigation'] = 'Прапусьціць навігацыю';
+$string['skipto'] = 'Прапусьціць да {$a}';
+$string['tocontent'] = 'Прапусьціць да асноўнага кантэнту';
+$string['tonavigation'] = 'Ісьці да навігацыі';
 $string['youarehere'] = 'Вы тут';

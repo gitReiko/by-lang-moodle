@@ -1,22 +1,22 @@
 
 Core subsystems
-core ----------------------------- moodle.php ------------------------ 100%
-core_access ---------------------- access.php ------------------------ 100% 
+core ----------------------------- moodle.php ------------------------ 100% 2.б
+core_access ---------------------- access.php ------------------------ 100% ***
 core_admin ----------------------- admin.php 
 core_adminpresets ---------------- adminpresets.php 
 core_analytics ------------------- analytics.php 
 core_antivirus ------------------- antivirus.php 
 core_auth ------------------------ auth.php 
-core_availability ---------------- availability.php ------------------ 100%
+core_availability ---------------- availability.php ------------------ 100% ***
 core_backup ---------------------- backup.php
 core_badges ---------------------- badges.php
-core_block ----------------------- block.php ------------------------- 100%
+core_block ----------------------- block.php ------------------------- 100% ***
 core_blog ------------------------ blog.php 
-core_bulkusers ------------------- bulkusers.php --------------------- 100%
+core_bulkusers ------------------- bulkusers.php --------------------- 100% ***
 core_cache ----------------------- cache.php
-core_calendar -------------------- calendar.php ---------------------- 100%
-core_cohort ---------------------- cohort.php ------------------------ 100%
-core_comment --------------------- comment.php ----------------------- 100%
+core_calendar -------------------- calendar.php ---------------------- 100% ***
+core_cohort ---------------------- cohort.php ------------------------ 100% ***
+core_comment --------------------- comment.php ----------------------- 100% ***
 core_competency ------------------ competency.php 
 core_completion ------------------ completion.php -------------------- 100% ***
 core_contentbank ----------------- contentbank.php
