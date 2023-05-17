@@ -1,6 +1,6 @@
 
 Core subsystems
-core ----------------------------- moodle.php ------------------------ 100% 2.б
+core ----------------------------- moodle.php ------------------------ 100% ***
 core_access ---------------------- access.php ------------------------ 100% ***
 core_admin ----------------------- admin.php 
 core_adminpresets ---------------- adminpresets.php 
