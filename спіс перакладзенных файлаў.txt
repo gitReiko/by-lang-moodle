@@ -1,39 +1,41 @@
 
 Core subsystems
-core ----------------------------- moodle.php ------------------------ 100% ***
-core_access ---------------------- access.php ------------------------ 100% ***
+core ----------------------------- moodle.php ------------------------ 100%
+core_access ---------------------- access.php ------------------------ 100%
 core_admin ----------------------- admin.php 
 core_adminpresets ---------------- adminpresets.php 
 core_analytics ------------------- analytics.php 
 core_antivirus ------------------- antivirus.php 
 core_auth ------------------------ auth.php 
-core_availability ---------------- availability.php ------------------ 100% ***
+core_availability ---------------- availability.php ------------------ 100%
 core_backup ---------------------- backup.php
 core_badges ---------------------- badges.php
-core_block ----------------------- block.php ------------------------- 100% ***
+core_block ----------------------- block.php ------------------------- 100%
 core_blog ------------------------ blog.php 
-core_bulkusers ------------------- bulkusers.php --------------------- 100% ***
+core_bulkusers ------------------- bulkusers.php --------------------- 100%
 core_cache ----------------------- cache.php
-core_calendar -------------------- calendar.php ---------------------- 100% ***
-core_cohort ---------------------- cohort.php ------------------------ 100% ***
-core_comment --------------------- comment.php ----------------------- 100% ***
+core_calendar -------------------- calendar.php ---------------------- 100%
+core_cohort ---------------------- cohort.php ------------------------ 100%
+core_comment --------------------- comment.php ----------------------- 100%
 core_competency ------------------ competency.php 
-core_completion ------------------ completion.php -------------------- 100% ***
+core_completion ------------------ completion.php -------------------- 100%
 core_contentbank ----------------- contentbank.php
 core_countries ------------------- countries.php
-core_course ---------------------- course.php ------------------------ 100% ***
-core_courseformat ---------------- courseformat.php ------------------ 100% ***
+core_course ---------------------- course.php ------------------------ 100%
+core_courseformat ---------------- courseformat.php ------------------ 100%
 core_currencies ------------------ currencies.php
 core_customfield ----------------- customfield.php
 core_dbtransfer ------------------ dbtransfer.php
 core_debug ----------------------- debug.php
-core_editor ---------------------- editor.php ------------------------ 100% ***
+core_editor ---------------------- editor.php ------------------------ 100%
 core_edufields ------------------- edufields.php
-core_enrol ----------------------- enrol.php ------------------------- 100% ***
+core_enrol ----------------------- enrol.php ------------------------- 100%
 core_error ----------------------- error.php
-core_favourites ------------------ favourites.php -------------------- 100% ***
-core_fileconverter --------------- fileconverter.php ----------------- 100% ***
-core_files ----------------------- files.php ------------------------- 100% ***
-core_filters --------------------- filters.php ----------------------- 100% ***
-core_form ------------------------ form.php -------------------------- 100% ***
-core_grades ---------------------- grades.php ------------------------ 100% ***
+core_favourites ------------------ favourites.php -------------------- 100%
+core_fileconverter --------------- fileconverter.php ----------------- 100%
+core_files ----------------------- files.php ------------------------- 100%
+core_filters --------------------- filters.php ----------------------- 100%
+core_form ------------------------ form.php -------------------------- 100%
+core_grades ---------------------- grades.php ------------------------ 100%
+core_grading --------------------- grading.php
+core_group ----------------------- group.php
