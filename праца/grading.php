@@ -25,32 +25,32 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['activemethodinfo'] = '\'{$a->method}\' is selected as the active grading method for the \'{$a->area}\' area';
-$string['activemethodinfonone'] = 'There is no advanced grading method selected for the \'{$a->area}\' area. Simple direct grading will be used.';
-$string['changeactivemethod'] = 'Change active grading method to';
-$string['clicktoclose'] = 'click to close';
-$string['error:gradingunavailable'] = 'The advanced grading method is not correctly set. Please check the whole forum grading options in the forum settings.';
-$string['error:notinrange'] = 'Invalid grade \'{$a->grade}\' provided. Grades must be between 0 and {$a->maxgrade}.';
-$string['exc_gradingformelement'] = 'Unable to instantiate grading form element';
-$string['formnotavailable'] = 'An advanced grading method was selected but the grading form still needs to be defined.';
-$string['gradingformunavailable'] = 'Please note: the advanced grading form is not ready at the moment. Simple grading method will be used until the form has a valid status.';
-$string['gradingmanagement'] = 'Advanced grading';
-$string['gradingmanagementtitle'] = 'Advanced grading: {$a->component} ({$a->area})';
-$string['gradingmethod'] = 'Grading method';
-$string['gradingmethod_help'] = 'Choose the advanced grading method that should be used for calculating grades in the given context.
+$string['activemethodinfo'] = '\'{$a->method}\' абраны ў якасьці актыўнага метаду ацэньваньня для вобласьці \'{$a->area}\'';
+$string['activemethodinfonone'] = 'Для вобласьці \'{$a->area}\' не абраны прасунуты метад ацэньваньня. Таму будзе выкарыстоўвацца наўпростае ацэньваньне.';
+$string['changeactivemethod'] = 'Зьмяніць актыўны метад ацэньваньня на';
+$string['clicktoclose'] = 'націсьніце, каб закрыць';
+$string['error:gradingunavailable'] = 'Хібна наладжаны прасунуты метад ацэньваньня. Калі ласка, праверце ўсе параметры налад форума.';
+$string['error:notinrange'] = 'Пададзена хібная адзнака \'{$a->grade}\'. Адзнакі мусяць быць між 0 і {$a->maxgrade}.';
+$string['exc_gradingformelement'] = 'Нельга стварыць элемент формы ацэньваньня';
+$string['formnotavailable'] = 'Абраны прасунуты метад ацэньваньня, але форму ацэньваньня дагэтуль трэба вызначыць.';
+$string['gradingformunavailable'] = 'Калі ласка зьвярніце ўвагу: форма прасунутага ацэньваньня не гатовая дагэтуль. Наўпростае ацэньваньне будзе выкарыстоўвацца да моманту слушанага статусу формы.';
+$string['gradingmanagement'] = 'Прасунутае ацэньваньне';
+$string['gradingmanagementtitle'] = 'Прасунутае ацэньваньне: {$a->component} ({$a->area})';
+$string['gradingmethod'] = 'Метад ацэньваньня';
+$string['gradingmethod_help'] = 'Абярыце прасунуты метад ацэньваньня, які трэба выкарыстоўваць для разьліку адзнак у дадзеным кантэксьце.
 
-To disable advanced grading and switch back to the default grading mechanism, choose \'Simple direct grading\'.';
-$string['gradingmethodnone'] = 'Simple direct grading';
-$string['gradingmethods'] = 'Grading methods';
-$string['manageactionclone'] = 'Create new grading form from a template';
-$string['manageactiondelete'] = 'Delete the currently defined form';
-$string['manageactiondeleteconfirm'] = 'You are going to delete the grading form \'{$a->formname}\' and all the associated information from \'{$a->component} ({$a->area})\'. Please make sure you understand the following consequences:
+Для адключэньня прасунутага ацэньваньня і вяртаньня да стандартнага механізму ацэньваньня, абярыце \'Наўпростае ацэньваньне\'.';
+$string['gradingmethodnone'] = 'Наўпростае ацэньваньне';
+$string['gradingmethods'] = 'Метады ацэньваньня';
+$string['manageactionclone'] = 'Стварыць новую форму ацэньваньня з шаблону';
+$string['manageactiondelete'] = 'Выдаліць вызначаную на гэты момант форму';
+$string['manageactiondeleteconfirm'] = 'Вы зьбіраецеся выдаліць форму ацэньваньня \'{$a->formname}\' і ўсю асацыяваную інфармацыю з \'{$a->component} ({$a->area})\'. Калі ласка, пераканайцеся, што вы разумееце наступствы:
 
-* There is no way to undo this operation.
-* You can switch to another grading method including the \'Simple direct grading\' without deleting this form.
-* All the information about how the grading forms are filled will be lost.
-* The calculated result grades stored in the gradebook will not be affected. However the explanation of how they were calculated will not be available.
-* This operation does not affect eventual copies of this form in other activities.';
+* Не існуе шляху скасаваньня гэтай аперацыі.
+* Вы можаце зьмяніць метад ацэньваньня, у тым ліку на \'Наўпростае ацэньваньне\' без выдаленьня гэтай формы.
+* Уся інфармацыя надрукаваная ў формы ацэньваньня будзе страчана.
+* Разьлічаныя выніковыя адзнакі, што захоўваюцца ў журнале адзнак, ня будуць закранутыя. Але будуць адсутнічаць тлумачэньні іхняга разьліку.
+* Гэтая аперацыя не ўплывае на магчымыя копіі гэтай формы ў іншых актыўнасьцях.';
 $string['manageactiondeletedone'] = 'The form was successfully deleted';
 $string['manageactionedit'] = 'Edit the current form definition';
 $string['manageactionnew'] = 'Define new grading form from scratch';

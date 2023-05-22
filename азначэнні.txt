@@ -1,6 +1,7 @@
 
 Advanced = прасунуты
 announcements = аб\'явы аб\'яваў
+area = вобласьць
 assign = прызначаць
 assignment = заданьне
 assignment submission = заданьне пададзенае на адзнаку (ацэньваньне)
