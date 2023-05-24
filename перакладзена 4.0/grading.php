@@ -82,17 +82,17 @@ $string['privacy:metadata:grading_instances:timemodified'] = 'Час апошн�
 $string['privacy:metadata:gradingformpluginsummary'] = 'Дадзеныя метаду ацэньваньня.';
 $string['searchownforms'] = 'уключыць мае ўласныя формы';
 $string['searchtemplate'] = 'Пошук форм ацэньваньня';
-$string['searchtemplate_help'] = 'Тут вы можаце знайсьці форму ацэньваньня і выкарыстаць яе ў якасьці шаблону для новай формы ацэньваньня. Проста надрукуйце словы, якія мусяць знаходзіцца ў назве формы, ці апісаньні, ці ў целе формы. Каб знайсьці фразу ўключыце ўвесь запыт у двайныя двухкосьсі.
+$string['searchtemplate_help'] = 'Тут вы можаце знайсьці форму ацэньваньня і выкарыстаць яе ў якасьці шаблону для новай формы ацэньваньня. Проста надрукуйце словы, якія мусяць знаходзіцца ў назьве формы, ці апісаньні, ці ў целе формы. Каб знайсьці фразу ўключыце ўвесь запыт у двайныя двухкосьсі.
 
-By default, only the grading forms that have been saved as shared templates are included in the search results. You can also include all your own grading forms in the search results. This way, you can simply re-use your grading forms without sharing them. Only forms marked as \'Ready for use\' can be re-used this way.';
-$string['statusdraft'] = 'Draft';
-$string['statusready'] = 'Ready for use';
-$string['templatedelete'] = 'Delete';
-$string['templatedeleteconfirm'] = 'You are going to delete the shared template \'{$a}\'. Deleting a template does not affect existing forms that were created from it.';
-$string['templateedit'] = 'Edit';
-$string['templatepick'] = 'Use this template';
-$string['templatepickconfirm'] = 'Do you want to use the grading form \'{$a->formname}\' as a template for the new grading form in \'{$a->component} ({$a->area})\'?';
-$string['templatepickownform'] = 'Use this form as a template';
-$string['templatesource'] = 'Location: {$a->component} ({$a->area})';
-$string['templatetypeown'] = 'Own form';
-$string['templatetypeshared'] = 'Shared template';
+Па стандарту ў вынікі пошука ўключаюцца толькі тыя формы ацэньваньня, якія захаваны як агульныя шаблоны. Таксама вы можаце ўключыць у вынікі пошуку ўсе свае ўласныя формы ацэньваньня. Такім чынам, вы можаце наўпрост паўторна выкарыстоўваць свае формы ацэньваньня без агульнага доступу. Гэтым шляхам льга паўторна выкарыстоўваць толькі формы, азначаныя як \'Гатовыя для выкарыстаньня\'.';
+$string['statusdraft'] = 'Праэкт';
+$string['statusready'] = 'Гатовыя для выкарыстаньня';
+$string['templatedelete'] = 'Выдаліць';
+$string['templatedeleteconfirm'] = 'Вы зьбіраецеся выдаліць агульны шаблон \'{$a}\'. Выдаленьне шаблону не ўплывае на існыя формы, якія былі створаны на яго грунце.';
+$string['templateedit'] = 'Рэдагаваць';
+$string['templatepick'] = 'Выкарыстоўваць гэты шаблон';
+$string['templatepickconfirm'] = 'Вы жадаеце выкарыстоўваць форму ацэньваньня \'{$a->formname}\' у якасьці шаблону для новай формы ацэньваньня ў \'{$a->component} ({$a->area})\'?';
+$string['templatepickownform'] = 'Выкарыстаць гэтую форму як шаблон';
+$string['templatesource'] = 'Месцаваньне: {$a->component} ({$a->area})';
+$string['templatetypeown'] = 'Уласная форма';
+$string['templatetypeshared'] = 'Агульныя шаблоны';
