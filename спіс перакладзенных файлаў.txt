@@ -38,4 +38,27 @@ core_filters --------------------- filters.php ----------------------- 100%
 core_form ------------------------ form.php -------------------------- 100%
 core_grades ---------------------- grades.php ------------------------ 100%
 core_grading --------------------- grading.php ----------------------- 100%
-core_group ----------------------- group.php
+core_group ----------------------- group.php ------------------------- 100%
+core_h5p ------------------------- h5p.php 
+core_hub ------------------------- hub.php 
+core_imscc ----------------------- imscc.php 
+core_install --------------------- install.php 
+core_iso6392 --------------------- iso6392.php 
+core_langconfig ------------------ langconfig.php 
+core_license --------------------- license.php 
+core_mathslib -------------------- mathslib.php 
+core_media ----------------------- media.php 
+core_message --------------------- message.php 
+core_mimetypes ------------------- mimetypes.php 
+core_mnet ------------------------ mnet.php 
+core_my -------------------------- my.php 
+core_notes ----------------------- notes.php 
+core_pagetype -------------------- pagetype.php 
+core_payment --------------------- payment.php 
+core_pix ------------------------- pix.php 
+core_plagiarism ------------------ plagiarism.php 
+core_plugin ---------------------- plugin.php 
+core_portfolio ------------------- portfolio.php 
+core_privacy --------------------- privacy.php 
+core_question -------------------- question.php
+core_rating ---------------------- rating.php

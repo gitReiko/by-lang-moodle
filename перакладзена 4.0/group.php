@@ -30,15 +30,15 @@ $string['addgroup'] = 'Дадаць карыстальніка ў групу';
 $string['addgroupstogrouping'] = 'Дадаць групу ў групаваньне';
 $string['addgroupstogroupings'] = 'Дадаць/выдаліць групы';
 $string['adduserstogroup'] = 'Дадаць/выдаліць карыстальнікаў';
-$string['allocateby'] = 'Размеркаваць чальцоў';
+$string['allocateby'] = 'Разьмеркаваць чальцоў';
 $string['anygrouping'] = '[Усякае групаваньне]';
 $string['autocreategroups'] = 'Аўтастварэньне груп';
 $string['backtogroupings'] = 'Вярнуцца да групаваньняў';
 $string['backtogroups'] = 'Вярнуцца да групаў';
 $string['badnamingscheme'] = 'Мусіць утрымліваць роўна адзін знак \'@\' ці \'#\'';
-$string['byfirstname'] = 'Алфавітна па імі, прозвішчы';
+$string['byfirstname'] = 'Алфавітна па імі, прозьвішчы';
 $string['byidnumber'] = 'Алфавітна па ID нумару';
-$string['bylastname'] = 'Алфавітна па прозвішчы, імі';
+$string['bylastname'] = 'Алфавітна па прозьвішчы, імі';
 $string['createautomaticgrouping'] = 'Стварыць аўтаматычнае групаваньне';
 $string['creategroup'] = 'Стварыць групу';
 $string['creategrouping'] = 'Стварыць групаваньне';
@@ -75,7 +75,7 @@ $string['errorinvalidgroup'] = 'Памылка, няслушная група {$
 $string['errorremovenotpermitted'] = 'Вы ня маеце дазволу для выдаленьня аўтаматычна даданага чальца групы {$a}';
 $string['errorselectone'] = 'Калі ласка, абярыце адну групу да абраньня гэтай налады';
 $string['errorselectsome'] = 'Калі ласка, абярыце адну ці некалькі груп да абраньня гэтай налады';
-$string['evenallocation'] = 'Нататка: Каб размеркаваньне групаў было раўнамерным, фактычная колькасьць чальцоў у групе можа адрознівацца ад вызначанага вамі.';
+$string['evenallocation'] = 'Нататка: Каб разьмеркаваньне групаў было раўнамерным, фактычная колькасьць чальцоў у групе можа адрозьнівацца ад вызначанага вамі.';
 $string['eventgroupcreated'] = 'Група створана';
 $string['eventgroupdeleted'] = 'Група выдалена';
 $string['eventgroupingcreated'] = 'Групаваньне створана';
@@ -112,91 +112,89 @@ $string['groupmembers'] = 'Чальцы групы';
 $string['groupmemberssee'] = 'Праглядзець чальцоў групы';
 $string['groupmembersselected'] = 'Чальцы абранай групы';
 $string['groupmode'] = 'Групавы рэжым';
-$string['groupmode_help'] = 'This setting has 3 options:
+$string['groupmode_help'] = 'Гэтая налада мае 3 варыянты:
 
-* No groups
-* Separate groups - Each group member can only see their own group, others are invisible
-* Visible groups - Each group member works in their own group, but can also see other groups
+* Бяз груп
+* Ізаляваныя групы - Кожны чалец групы можа бачыць толькі чальцоў сваёй групы, іншыя схаваныя
+* Бачныя групы - Кожны чалец групы можа бачыць чальцоў сваёй і іншых груп
 
-The group mode defined at course level is the default mode for all activities within the course. Each activity that supports groups can also define its own group mode, though if the group mode is forced at course level, the group mode setting for each activity is ignored.';
-$string['groupmodeforce'] = 'Force group mode';
-$string['groupmodeforce_help'] = 'If group mode is forced, then the course group mode is applied to every activity in the course. Group mode settings in each activity are then ignored.';
-$string['groupmy'] = 'My group';
-$string['groupname'] = 'Group name';
-$string['groupnameexists'] = 'The group name \'{$a}\' already exists in this course, please choose another one.';
-$string['groupnotamember'] = 'Sorry, you are not a member of that group';
-$string['groups'] = 'Groups';
-$string['groupscount'] = 'Groups ({$a})';
-$string['groupsettingsheader'] = 'Groups';
-$string['groupsgroupings'] = 'Groups & groupings';
-$string['groupsinselectedgrouping'] = 'Groups in:';
-$string['groupsnone'] = 'No groups';
-$string['groupsonly'] = 'Groups only';
-$string['groupspreview'] = 'Groups preview';
-$string['groupsseparate'] = 'Separate groups';
-$string['groupsvisible'] = 'Visible groups';
-$string['grouptemplate'] = 'Group @';
-$string['hidepicture'] = 'Hide picture';
-$string['importgroups'] = 'Import groups';
-$string['importgroups_help'] = 'Groups may be imported via text file. The format of the file should be as follows:
+Групавы рэжым вызначаны на узроўні курса і з\'яўляецца стандартным рэжымам для ўсіх актыўнасьцяў у межах курса. Кожная актыўнасьць, якая падтрымлівае групы, таксама можа вызначыць уласны групавы рэжым, але калі групавы рэжым прымусова ўсталёваны на ўзроўні курса, налады групавога рэжыма для кожнай актыўнасьці будуць ігнаравацца.';
+$string['groupmodeforce'] = 'Прымусовы групавы рэжым';
+$string['groupmodeforce_help'] = 'Калі ўсталяваны прымусовы групавы рэжым, то групавы рэжым ужываецца да кожнай актыўнасьці курса. Налады групавога рэжыму ўсіх актыўнасьцяў будуць ігнаравацца.';
+$string['groupmy'] = 'Мая група';
+$string['groupname'] = 'Назва групы';
+$string['groupnameexists'] = 'Назва групы \'{$a}\' ужо існуе ў гэтым курсе, калі ласка, абярыце іншую.';
+$string['groupnotamember'] = 'Прабачце, вы ня чалец гэтай групы';
+$string['groups'] = 'Групы';
+$string['groupscount'] = 'Групы ({$a})';
+$string['groupsettingsheader'] = 'Групы';
+$string['groupsgroupings'] = 'Групы & групаваньні';
+$string['groupsinselectedgrouping'] = 'Груп у:';
+$string['groupsnone'] = 'Бяз груп';
+$string['groupsonly'] = 'Толькі групы';
+$string['groupspreview'] = 'Перадпрагляд груп';
+$string['groupsseparate'] = 'Ізаляваныя групы';
+$string['groupsvisible'] = 'Бачныя групы';
+$string['grouptemplate'] = 'Група @';
+$string['hidepicture'] = 'Схаваць выяву';
+$string['importgroups'] = 'Імпартаваць групы';
+$string['importgroups_help'] = 'Групы льга імпартаваць праз тэкставы файл. Фармат файла мусіць быць наступным:
 
-* Each line of the file contains one record
-* Each record is a series of data separated by the selected separator
-* The first record contains a list of fieldnames defining the format of the rest of the file
-* Required fieldname is groupname
-* Optional fieldnames are groupidnumber, description, enrolmentkey, groupingname, enablemessaging';
-$string['importgroups_link'] = 'group/import';
-$string['includeonlyactiveenrol'] = 'Include only active enrolments';
-$string['includeonlyactiveenrol_help'] = 'If enabled, suspended users will not be included in groups.';
-$string['javascriptrequired'] = 'This page requires JavaScript to be enabled.';
-$string['memberofgroup'] = 'Group member of: {$a}';
-$string['members'] = 'Members per group';
-$string['membersofselectedgroup'] = 'Members of:';
-$string['mygroups'] = 'My groups';
-$string['namingscheme'] = 'Naming scheme';
-$string['namingscheme_help'] = 'The at symbol (@) may be used to create groups with names containing letters. For example Group @ will generate groups named Group A, Group B, Group C, ...
-
-The hash symbol (#) may be used to create groups with names containing numbers. For example Group # will generate groups named Group 1, Group 2, Group 3, ...';
-$string['newgrouping'] = 'New grouping';
-$string['newpicture'] = 'New picture';
-$string['newpicture_help'] = 'Select an image in JPG or PNG format. The image will be cropped to a square and resized to 100x100 pixels.';
-$string['noallocation'] = 'No allocation';
-$string['nogroup'] = 'No group';
-$string['nogrouping'] = 'No grouping';
-$string['nogroups'] = 'There are no groups set up in this course yet';
-$string['nogroupsassigned'] = 'No groups assigned';
-$string['nopermissionforcreation'] = 'Can\'t create group "{$a}" as you don\'t have the required permissions';
-$string['nosmallgroups'] = 'Prevent last small group';
-$string['notingroup'] = 'Ignore users in groups';
-$string['notingrouping'] = 'Not in a grouping';
-$string['notingrouplist'] = 'Not in a group';
-$string['nousersinrole'] = 'There are no suitable users in the selected role';
-$string['number'] = 'Group/member count';
-$string['numgroups'] = 'Number of groups';
-$string['nummembers'] = 'Members per group';
-$string['othergroups'] = 'Other groups';
-$string['overview'] = 'Overview';
-$string['potentialmembers'] = 'Potential members: {$a}';
-$string['potentialmembs'] = 'Potential members';
-$string['printerfriendly'] = 'Printer-friendly display';
-$string['privacy:metadata:core_message'] = 'The group conversations';
-$string['privacy:metadata:groups'] = 'A record of group membership.';
-$string['privacy:metadata:groups:groupid'] = 'The ID of the group.';
-$string['privacy:metadata:groups:timeadded'] = 'The timestamp indicating when the user was added to the group.';
-$string['privacy:metadata:groups:userid'] = 'The ID of the user which is associated to the group.';
-$string['random'] = 'Randomly';
-$string['removefromgroup'] = 'Remove user from group {$a}';
-$string['removefromgroupconfirm'] = 'Do you really want to remove user "{$a->user}" from group "{$a->group}"?';
-$string['removegroupfromselectedgrouping'] = 'Remove group from grouping';
-$string['removegroupingsmembers'] = 'Remove all groups from groupings';
-$string['removegroupsmembers'] = 'Remove all group members';
-$string['removeselectedusers'] = 'Remove selected users';
-$string['selectfromgroup'] = 'Select members from group';
-$string['selectfromgrouping'] = 'Select members from grouping';
-$string['selectfromrole'] = 'Select members with role';
-$string['showgroupsingrouping'] = 'Show groups in grouping';
-$string['showmembersforgroup'] = 'Show members for group';
-$string['toomanygroups'] = 'Insufficient users to populate this number of groups - there are only {$a} users in the selected role.';
-$string['usercount'] = 'User count';
-$string['usercounttotal'] = 'User count ({$a})';
-$string['usergroupmembership'] = 'Selected user\'s membership:';
+* Кожны радок файла ўтрымлівае адзін запіс
+* Кожны запіс уяўляе сабою серыю дадзеных, падзеленых абраным падзельнікам
+* Первы запіс утрымлівае сьпіс назваў палёў, які вызначае фармат астатняй часткі файла
+* Патрабаваная назва поля - groupname
+* Дадатковыя назвы палёў - groupidnumber, description, enrolmentkey, groupingname, enablemessaging';
+$string['importgroups_link'] = 'група/імпарт';
+$string['includeonlyactiveenrol'] = 'Уключаць толькі актыўныя залічэньні';
+$string['includeonlyactiveenrol_help'] = 'Калі ўключана, заблакаваныя карыстальнікі ня будуць уключацца ў групы.';
+$string['javascriptrequired'] = 'На гэтай старонцы трэба ўключыць JavaScript.';
+$string['memberofgroup'] = 'Чалец групы: {$a}';
+$string['members'] = 'Чальцоў у групе';
+$string['membersofselectedgroup'] = 'Чальцы:';
+$string['mygroups'] = 'Мае групы';
+$string['namingscheme'] = 'Схема названьня';
+$string['namingscheme_help'] = 'Знак (@) льга выкарыстоўваць для стварэньня груп, якія ўтрымліваюць літары. Напрыклад, Группа @ згенеруе групы з назвамі Группа A, Группа B, Группа C, ....';
+$string['newgrouping'] = 'Новае групаваньне';
+$string['newpicture'] = 'Новая выява';
+$string['newpicture_help'] = 'Абярыце выяву з фарматам JPG ці PNG. Выява будзе абрэзана да квадрата і памера 100x100 пікселяў.';
+$string['noallocation'] = 'Без разьмеркаваньня';
+$string['nogroup'] = 'Бяз груп';
+$string['nogrouping'] = 'Без групаваньняў';
+$string['nogroups'] = 'Гэты курс дагэтуль ня мае створаных груп';
+$string['nogroupsassigned'] = 'Няма прызначыных груп';
+$string['nopermissionforcreation'] = 'Нельга стварыць групу "{$a}", бо вы ня маеце патрэбных дазволаў';
+$string['nosmallgroups'] = 'Запазьбегчы апошнюю малую групу';
+$string['notingroup'] = 'Ігнараваць карыстальнікаў у групах';
+$string['notingrouping'] = 'Не ў групаваньні';
+$string['notingrouplist'] = 'Не ў групе';
+$string['nousersinrole'] = 'Ня маецца прыдатных карыстальнікаў для абранай ролі';
+$string['number'] = 'Колькасьць груп/чальцоў';
+$string['numgroups'] = 'Колькасьць груп';
+$string['nummembers'] = 'Чальцоў у групе';
+$string['othergroups'] = 'Іншыя групы';
+$string['overview'] = 'Агляд';
+$string['potentialmembers'] = 'Патэнцыйныя чальцы: {$a}';
+$string['potentialmembs'] = 'Патэнцыйныя чальцы';
+$string['printerfriendly'] = 'Зручнае для друку адлюстраваньне';
+$string['privacy:metadata:core_message'] = 'Групавыя гутаркі';
+$string['privacy:metadata:groups'] = 'Запіс пра чалецтва ў групе.';
+$string['privacy:metadata:groups:groupid'] = 'ID групы.';
+$string['privacy:metadata:groups:timeadded'] = 'Часовая метка (timestamp), якая паказвае, калі карыстальнік быў даданы ў групу.';
+$string['privacy:metadata:groups:userid'] = 'ID карыстальніка, асацыяванага з групай.';
+$string['random'] = 'Выпадкова';
+$string['removefromgroup'] = 'Выдаліць карыстальніка з групы {$a}';
+$string['removefromgroupconfirm'] = 'Вы сапраўды жадаеце выдаліць карыстальніка "{$a->user}" з групы "{$a->group}"?';
+$string['removegroupfromselectedgrouping'] = 'Выдаліць групу з групаваньня';
+$string['removegroupingsmembers'] = 'Выдаліць усе групы з групаваньняў';
+$string['removegroupsmembers'] = 'Выдаліць усіх чальцоў групы';
+$string['removeselectedusers'] = 'Выдаліць абраных карыстальнікаў';
+$string['selectfromgroup'] = 'Выбраць чальцоў з групы';
+$string['selectfromgrouping'] = 'Выбраць чальцоў з групаваньня';
+$string['selectfromrole'] = 'Выбраць чальцоў з рольлю';
+$string['showgroupsingrouping'] = 'Паказаць групы ў групаваньні';
+$string['showmembersforgroup'] = 'Паказаць чальцоў для групы';
+$string['toomanygroups'] = 'Недастатковая колькасьць карыстальнікаў для запаўненьня гэтай колькасьці груп - існуе толькі {$a} карыстальнікаў з абранай рольлю.';
+$string['usercount'] = 'Колькасьць карыстальнікаў';
+$string['usercounttotal'] = 'Колькасьць карыстальнікаў ({$a})';
+$string['usergroupmembership'] = 'Чалецтва абранага карыстальніка:';
