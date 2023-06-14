@@ -25,16 +25,16 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['allrightsreserved'] = 'All rights reserved';
-$string['cannotdeletecore'] = 'Cannot delete a standard licence';
-$string['cannotdeletelicenseinuse'] = 'Cannot delete a licence which is currently assigned to one or more files';
+$string['allrightsreserved'] = 'Усе правы абаронены';
+$string['cannotdeletecore'] = 'Нельга выдаліць стандартную ліцэнзію';
+$string['cannotdeletelicenseinuse'] = 'Нельга выдаліць ліцэнзію, якая зараз прызначана аднаму ці некалькім файлам';
 $string['cc'] = 'Creative Commons';
 $string['cc-nc'] = 'Creative Commons - No Commercial';
 $string['cc-nc-nd'] = 'Creative Commons - No Commercial NoDerivs';
 $string['cc-nc-sa'] = 'Creative Commons - No Commercial ShareAlike';
 $string['cc-nd'] = 'Creative Commons - NoDerivs';
 $string['cc-sa'] = 'Creative Commons - ShareAlike';
-$string['licensenotfoundshortname'] = 'Cannot find a licence with the short name \'{$a}\'';
-$string['missinglicensesortorder'] = 'Cannot set licence order, one or more installed licences is missing from new order';
-$string['public'] = 'Public domain';
-$string['unknown'] = 'Licence not specified';
+$string['licensenotfoundshortname'] = 'Не атрымоўваецца знайсьці ліцэнзію з кароткай назвай \'{$a}\'';
+$string['missinglicensesortorder'] = 'Нельга ўсталяваць чаргу ліцэнзіяў, бо адна ці некалькі ўсталяваных ліцэнзіяў адсутнічаюць ў новай чарзе';
+$string['public'] = 'Грамадзкі набытак';
+$string['unknown'] = 'Ліцэнзія ня вызначана';
