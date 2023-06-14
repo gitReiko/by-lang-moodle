@@ -44,7 +44,7 @@ core_hub ------------------------- hub.php
 core_imscc ----------------------- imscc.php 
 core_install --------------------- install.php 
 core_iso6392 --------------------- iso6392.php 
-core_langconfig ------------------ langconfig.php 
+core_langconfig ------------------ langconfig.php -------------------- 100%
 core_license --------------------- license.php 
 core_mathslib -------------------- mathslib.php 
 core_media ----------------------- media.php 
