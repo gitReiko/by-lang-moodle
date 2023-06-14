@@ -45,8 +45,8 @@ core_imscc ----------------------- imscc.php
 core_install --------------------- install.php 
 core_iso6392 --------------------- iso6392.php 
 core_langconfig ------------------ langconfig.php -------------------- 100%
-core_license --------------------- license.php  ---------------------- 100%
-core_mathslib -------------------- mathslib.php 
+core_license --------------------- license.php ----------------------- 100%
+core_mathslib -------------------- mathslib.php ---------------------- 100%
 core_media ----------------------- media.php 
 core_message --------------------- message.php 
 core_mimetypes ------------------- mimetypes.php 
