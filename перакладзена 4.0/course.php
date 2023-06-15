@@ -64,12 +64,12 @@ $string['completion_setby:manual:done'] = 'Актыўнасьць {$a->activityn
 $string['completion_setby:manual:markdone'] = 'Актыўнасьць {$a->activityname} адзначана {$a->setby} як не выкананая. Націсьніце, каб адзначыць як выкананая.';
 $string['completionrequirements'] = 'Патрабаваньні выкананьня для {$a}';
 $string['coursealreadyfinished'] = 'Курс ужо завершаны';
-$string['coursecontentnotification'] = 'Адправіць паведамленьне пра зьмену зьмесьціва';
-$string['coursecontentnotification_help'] = 'Пастаўце галачку, каб паведаміць удзельнікаў курса пра новую ці зьмененую актыўнасьць або рэсурс. Паведамленьне атрымаюць толькі тыя карыстальнікі, якія могуць атрымаць доступ да актыўнасьці ці рэсурсу.';
+$string['coursecontentnotification'] = 'Адправіць абвестку пра зьмену зьмесьціва';
+$string['coursecontentnotification_help'] = 'Пастаўце галачку, каб абвясьціць удзельнікаў курса пра новую ці зьмененую актыўнасьць або рэсурс. Абвестку атрымаюць толькі тыя карыстальнікі, якія могуць атрымаць доступ да актыўнасьці ці рэсурсу.';
 $string['coursecontentnotifnew'] = '{$a->coursename} новае зьмесьціва';
-$string['coursecontentnotifnewbody'] = '<p>Модуль <a href="{$a->link}">{$a->modulename}</a> тыпу {$a->moduletypename} быў даданы ў курсе <a href="{$a->courselink}">{$a->coursename}</a>.</p><p><a href="{$a->notificationpreferenceslink}">Зьмяніць перавагі паведамленьняў</a></p>';
+$string['coursecontentnotifnewbody'] = '<p>Модуль <a href="{$a->link}">{$a->modulename}</a> тыпу {$a->moduletypename} быў даданы ў курсе <a href="{$a->courselink}">{$a->coursename}</a>.</p><p><a href="{$a->notificationpreferenceslink}">Зьмяніць перавагі абвестак</a></p>';
 $string['coursecontentnotifupdate'] = '{$a->coursename} зьмесьціва зьменена';
-$string['coursecontentnotifupdatebody'] = '<p>Модуль <a href="{$a->link}">{$a->modulename}</a> тыпу {$a->moduletypename} быў зьменены ў курсе <a href="{$a->courselink}">{$a->coursename}</a>.</p><p><a href="{$a->notificationpreferenceslink}">Зьмяніць перавагі паведамленьняў</a></p>';
+$string['coursecontentnotifupdatebody'] = '<p>Модуль <a href="{$a->link}">{$a->modulename}</a> тыпу {$a->moduletypename} быў зьменены ў курсе <a href="{$a->courselink}">{$a->coursename}</a>.</p><p><a href="{$a->notificationpreferenceslink}">Зьмяніць перавагі абвестак</a></p>';
 $string['coursenotyetfinished'] = 'Курс дагэтуль не завершаны';
 $string['coursenotyetstarted'] = 'Курс яшчэ не пачаты';
 $string['coursetoolong'] = 'Курс задоўгі';
