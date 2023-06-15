@@ -48,8 +48,8 @@ core_langconfig ------------------ langconfig.php -------------------- 100%
 core_license --------------------- license.php ----------------------- 100%
 core_mathslib -------------------- mathslib.php ---------------------- 100%
 core_media ----------------------- media.php ------------------------- 100% 
-core_message --------------------- message.php  ---------------------- 100% 
-core_mimetypes ------------------- mimetypes.php 
+core_message --------------------- message.php ----------------------- 100% 
+core_mimetypes ------------------- mimetypes.php --------------------- 100% 
 core_mnet ------------------------ mnet.php 
 core_my -------------------------- my.php 
 core_notes ----------------------- notes.php 
