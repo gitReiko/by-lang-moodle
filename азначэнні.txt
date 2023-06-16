@@ -63,6 +63,7 @@ Mean (average grade) = сярэдняя прыблізная
 message = паведамленьне
 multilang = шматмоўе
 Mute = Заглушыць 
+my moodle = прыладавай
 Non-editing teacher = Не рэдагавальны настаўнік
 notification = абвестка, абвяшчэньне
 optional = Дадаткова
