@@ -25,11 +25,11 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['availableplugins'] = 'Available plugins';
-$string['configenableplagiarism'] = 'This will allow administrators to configure plagiarism plugins (if installed)';
-$string['configplagiarismplugins'] = 'Please choose the plagiarism plugin you would like to configure';
-$string['enableplagiarism'] = 'Enable plagiarism plugins';
-$string['manageplagiarism'] = 'Manage plagiarism plugins';
-$string['nopluginsinstalled'] = 'No plagiarism plugins are installed.';
-$string['plagiarism'] = 'Plagiarism';
-$string['privacy:metadata:plagiarism'] = 'The plagiarism subsystem acts as a channel, passing requests from plugins to the various plagiarism plugins.';
+$string['availableplugins'] = 'Даступныя плагіны';
+$string['configenableplagiarism'] = 'Гэтае дазволіць адміністратарам наладжваць плагіны плагіяту (калі яны ўсталяваны)';
+$string['configplagiarismplugins'] = 'Калі ласка, абярыце плагін плагіяту, які жадаеце наладзіць';
+$string['enableplagiarism'] = 'Уключыць плагіны плагіяту';
+$string['manageplagiarism'] = 'Кіраваць плагінамі плагіяту';
+$string['nopluginsinstalled'] = 'Плагіны плагіяту не ўсталяваны.';
+$string['plagiarism'] = 'Плагіят';
+$string['privacy:metadata:plagiarism'] = 'Падсістэма плагіяту працуе як канал перадачы запытаў ад плагінаў да розных плагінаў плагіяту.';

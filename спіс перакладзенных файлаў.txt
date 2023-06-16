@@ -56,7 +56,7 @@ core_notes ----------------------- notes.php ------------------------- 100%
 core_pagetype -------------------- pagetype.php ---------------------- 100% 
 core_payment --------------------- payment.php 
 core_pix ------------------------- pix.php --------------------------- 100%
-core_plagiarism ------------------ plagiarism.php 
+core_plagiarism ------------------ plagiarism.php -------------------- 100%
 core_plugin ---------------------- plugin.php 
 core_portfolio ------------------- portfolio.php 
 core_privacy --------------------- privacy.php 

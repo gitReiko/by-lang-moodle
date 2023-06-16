@@ -75,6 +75,7 @@ Page = Старонка (мод)
 pass grade = прахадная адзнака
 permission = дазвол
 picker = выбарнік
+plagiarism = плагіят
 plugins = плагін
 points = балы (grade)
 post = пост, паста, пасты, посьціць (форум)
