@@ -59,6 +59,6 @@ core_pix ------------------------- pix.php --------------------------- 100%
 core_plagiarism ------------------ plagiarism.php -------------------- 100%
 core_plugin ---------------------- plugin.php 
 core_portfolio ------------------- portfolio.php 
-core_privacy --------------------- privacy.php 
+core_privacy --------------------- privacy.php ----------------------- 100%
 core_question -------------------- question.php
 core_rating ---------------------- rating.php

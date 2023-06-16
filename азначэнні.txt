@@ -80,6 +80,7 @@ plugins = плагін
 points = балы (grade)
 post = пост, паста, пасты, посьціць (форум)
 Privacy = Прыватнасьць
+processing = апрацоўка
 quiz = тэст
 rank (grade) = Рэйтынг
 rating = рэйтынг
