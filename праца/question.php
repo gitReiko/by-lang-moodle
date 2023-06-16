@@ -115,50 +115,50 @@ $string['createnewquestion'] = 'Стварыць новае пытаньне ...
 $string['cwrqpfs'] = 'Выпадковыя пытаньні, абіраюць пытаньні з падкатэгорыяў.';
 $string['cwrqpfsinfo'] = '<p>Падчас абнаўленьня да Moodle 1.9 пытаньні будуць падзелены па катэгорыям у розных кантэкстах. Статус супольнага выкарыстаньня часткі катэгорыяў пытаньняў і пытаньняў на вашым сайце будзе зьменены. Гэта патрэбна ў рэдкіх выпадках, калі абраньне аднога ці некалькіх \'выпадковых\' пытаньняў у тэсьце наладжана з мешаніны супольных і не супольных катэгорыяў (як гэта адбываецца на гэтым сайце). Тое адбываецца, калі \'выпадковае\' пытаньне ладзіць выбар з падкатэгорыяў, а адна ці некалькі падкатэгорыяў маюць іншы статус супольнага пытаньня, чым у бацькавай катэгорыі, зь якой створана выпадковае пытаньне.</p><p>Наступныя катэгорыі пытаньняў, зь якіх \'выпадковыя\' пытаньні ў бацькавых катэгорыях абіраюць пытаньні, будуць мець статус супольнага выкарыстаньня, які будзе зьменены на той жа статус супольнага выкарыстаньня, што і катэгорыя з \'выпадковым\' пытаньнем падчас абнаўленьня да Moodle 1.9. Статус супольнага выкарыстаньня будзе зьменены для наступных катэгорыяў. Пытаньні, якія будуць працягваць працаваць ува ўсіх існуючых тэстах, пакуль вы ня выдалены з гэтых тэстаў.</p>';
 $string['cwrqpfsnoprob'] = 'Ніводная катэгорыя пытаньняў на вашым сайце не закранутая праблемай \'Выпадковыя пытаньні абіраюць пытаньні з падкатэгорыяў\'.';
-$string['decimalplacesingrades'] = 'Decimal places in grades';
-$string['defaultfor'] = 'Default for {$a}';
-$string['defaultinfofor'] = 'The default category for questions shared in context \'{$a}\'.';
-$string['defaultmark'] = 'Default mark';
-$string['defaultmarkmustbepositive'] = 'The default mark must be positive.';
-$string['deletecoursecategorywithquestions'] = 'There are questions in the question bank associated with this course category. If you proceed, they will be deleted. You may wish to move them first, using the question bank interface.';
-$string['deletequestioncheck'] = 'Are you absolutely sure you want to delete \'{$a}\'?';
-$string['deletequestionscheck'] = 'Are you absolutely sure you want to delete the following questions?<br /><br />{$a}';
-$string['deletingbehaviour'] = 'Deleting question behaviour \'{$a}\'';
-$string['deletingqtype'] = 'Deleting question type \'{$a}\'';
-$string['didnotmatchanyanswer'] = '[Did not match any answer]';
-$string['disabled'] = 'Disabled';
-$string['displayoptions'] = 'Display options';
-$string['disterror'] = 'The distribution {$a} caused problems';
-$string['donothing'] = 'Don\'t copy or move files or change links.';
-$string['editcategories'] = 'Edit categories';
-$string['editcategories_help'] = 'Rather than keeping everything in one big list, questions may be arranged into categories and subcategories.
+$string['decimalplacesingrades'] = 'Лічбавыя знакі ў адзнаках';
+$string['defaultfor'] = 'Стандартнае для {$a}';
+$string['defaultinfofor'] = 'Стандартная катэгорыя для пытаньняў з супольным выкарыстаньнем у кантэксьце \'{$a}\'.';
+$string['defaultmark'] = 'Стандартная пазнака';
+$string['defaultmarkmustbepositive'] = 'Стандартная пазнака мусіць быць станоўчай.';
+$string['deletecoursecategorywithquestions'] = 'У банке пытаньняў маюцца пытаньні, зьвязаныя з гэтай катэгорыяй курса. Калі вы працягнеце, яны будуць выдалены. Магчыма, вы пажадаеце спачатку перасунуць іх ува інтэрфэйсе банка пытаньняў.';
+$string['deletequestioncheck'] = 'Вы абсалютна ўпэўнены, што жадаеце выдаліць \'{$a}\'?';
+$string['deletequestionscheck'] = 'Вы абсалютна ўпэўнены, што жадаеце выдаліць наступныя пытаньні?<br /><br />{$a}';
+$string['deletingbehaviour'] = 'Выдаленьне паводзінаў пытаньня \'{$a}\'';
+$string['deletingqtype'] = 'Выдаленьне тыпу пытаньня \'{$a}\'';
+$string['didnotmatchanyanswer'] = '[Не адпавядае ніводнаму адказу]';
+$string['disabled'] = 'Адключана';
+$string['displayoptions'] = 'Налады адлюстраваньня';
+$string['disterror'] = 'Размеркаваньне {$a} выклікала праблемы';
+$string['donothing'] = 'Не капіюйце, не перасоўвайце файлы і не зьмяняйце спасылкі.';
+$string['editcategories'] = 'Рэдагаваць катэгорыі';
+$string['editcategories_help'] = 'Заміж захоўваньня ўсяго ў адным вялікім сьпісе, пытаньні льга падзяліць на катэгорыі і падкатэгорыі.
 
-Each category has a context which determines where the questions in the category can be used:
+Кожная катэгорыя мае кантэкст, які вызначае месца, дзе пытаньні гэтай катэгорыі льга выкарыстаць:
 
-* Activity context - Questions only available in the activity module
-* Course context - Questions available in all activity modules in the course
-* Course category context - Questions available in all activity modules and courses in the course category
-* System context - Questions available in all courses and activities on the site
+* Кантэкст актыўнасьці - Пытаньні будуць даступныя толькі ўва актыўнасьці
+* Кантэкст курса - Пытаньні будуць даступныя ўва ўсіх актыўнасьцях курса
+* Кантэкст катэгорыяў курса - Пытаньні будуць даступныя ўва ўсіх курсах і актыўнасьцях катэгорыі курсаў
+* Кантэкст сістэмы - Пытаньні будуць даступныя ўва ўсіх актыўнасьцях і курсах сайта
 
-Categories are also used for random questions, as questions are selected from a particular category.';
-$string['editcategories_link'] = 'question/category';
-$string['editcategory'] = 'Edit category';
-$string['editingcategory'] = 'Editing a category';
-$string['editingquestion'] = 'Editing a question';
-$string['editquestion'] = 'Edit question';
-$string['editquestions'] = 'Edit questions';
-$string['editthiscategory'] = 'Edit this category';
-$string['emptyxml'] = 'Unknown error - empty imsmanifest.xml';
-$string['enabled'] = 'Enabled';
-$string['erroraccessingcontext'] = 'Cannot access context';
-$string['errordeletingquestionsfromcategory'] = 'Error deleting questions from category {$a}.';
-$string['errorduringpost'] = 'Error occurred during post-processing!';
-$string['errorduringpre'] = 'Error occurred during pre-processing!';
-$string['errorduringproc'] = 'Error occurred during processing!';
-$string['errorduringregrade'] = 'Could not regrade question {$a->qid}, going to state {$a->stateid}.';
-$string['errorfilecannotbecopied'] = 'Error: cannot copy file {$a}.';
-$string['errorfilecannotbemoved'] = 'Error: cannot move file {$a}.';
-$string['errorfileschanged'] = 'Error: files linked to from questions have changed since form was displayed.';
+Таксама катэгорыі выкарыстоўваюцца для стварэньня выпадковых пытаньняў, бо яны бяруцца з катэгорыяў.';
+$string['editcategories_link'] = 'пытаньне/катэгорыя';
+$string['editcategory'] = 'Рэдагаваць катэгорыю';
+$string['editingcategory'] = 'Рэдагаваньне катэгорыі';
+$string['editingquestion'] = 'Рэдагаваньне пытаньня';
+$string['editquestion'] = 'Рэдагаваць пытаньне';
+$string['editquestions'] = 'Рэдагаваць пытаньні';
+$string['editthiscategory'] = 'Рэдагаваць гэтую катэгорыю';
+$string['emptyxml'] = 'Невядомая памылка - пусты imsmanifest.xml';
+$string['enabled'] = 'Уключана';
+$string['erroraccessingcontext'] = 'Адсутнічае доступ да кантэксту';
+$string['errordeletingquestionsfromcategory'] = 'Памылка выдаленьня пытаньняў з катэгорыі {$a}.';
+$string['errorduringpost'] = 'Памылка адбылася падчас пост-апрацоўкі!';
+$string['errorduringpre'] = 'Памылка адбылася падчас перад-апрацоўкі!';
+$string['errorduringproc'] = 'Памылка адбылася падчас апрацоўкі!';
+$string['errorduringregrade'] = 'Не ўдалося пераацаніць пытаньне {$a->qid}, вяртаньне да статусу {$a->stateid}.';
+$string['errorfilecannotbecopied'] = 'Памылка: нельга капіяваць файл {$a}.';
+$string['errorfilecannotbemoved'] = 'Памылка: нельга перасунуць файл {$a}.';
+$string['errorfileschanged'] = 'Памылка: файлы, на якія спасылаюцца пытаньні, зьмяніліся з моманту адлюстраваньня формы.';
 $string['erroritemappearsmorethanoncewithdifferentweight'] = 'The question ({$a}) appears more than once with different weights in different positions of the test. This is not currently supported by the statistics report and may make the statistics for this question unreliable.';
 $string['errormanualgradeoutofrange'] = 'The grade {$a->grade} is not between 0 and {$a->maxgrade} for question {$a->name}. The score and comment have not been saved.';
 $string['errormovingquestions'] = 'Error while moving questions with ids {$a}.';

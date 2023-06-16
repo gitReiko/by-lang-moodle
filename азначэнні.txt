@@ -61,6 +61,7 @@ Label = Цэтлік (мод)
 locked = заблакавана
 log = лог
 manager = кіроўны
+mark = пазнака
 Mean (average grade) = сярэдняя прыблізная
 message = паведамленьне
 multilang = шматмоўе
