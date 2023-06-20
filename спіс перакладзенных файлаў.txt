@@ -1,5 +1,6 @@
 
 Core subsystems
+
 core ----------------------------- moodle.php ------------------------ 100%
 core_access ---------------------- access.php ------------------------ 100%
 core_admin ----------------------- admin.php 
@@ -62,3 +63,18 @@ core_portfolio ------------------- portfolio.php
 core_privacy --------------------- privacy.php ----------------------- 100%
 core_question -------------------- question.php ---------------------- 100%
 core_rating ---------------------- rating.php ------------------------ 100%
+core_reportbuilder --------------- reportbuilder.php 
+core_repository ------------------ repository.php 
+core_role ------------------------ role.php 
+core_rss ------------------------- rss.php
+core_search ---------------------- search.php
+core_table ----------------------- table.php
+core_tag ------------------------- tag.php
+core_timezones ------------------- timezones.php 
+core_user ------------------------ user.php
+core_userkey --------------------- userkey.php
+core_webservice ------------------ webservice.php
+core_xapi ------------------------ xapi.php
+
+Standard plugins
+
