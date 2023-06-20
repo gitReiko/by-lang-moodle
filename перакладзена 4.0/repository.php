@@ -1,0 +1,271 @@
+<?php
+// This file is part of Moodle - https://moodle.org/
+//
+// Moodle is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// Moodle is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
+
+/**
+ * Strings for component 'repository', language 'en', version '4.0'.
+ *
+ * @package     repository
+ * @category    string
+ * @copyright   1999 Martin Dougiamas and contributors
+ * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
+defined('MOODLE_INTERNAL') || die();
+
+$string['accessiblefilepicker'] = 'Даступны выбарнік файлаў';
+$string['activaterep'] = 'Актыўныя рэпазітары';
+$string['activerepository'] = 'Даступныя плагіны рэпазітару';
+$string['activitybackup'] = 'Рэзервовая копія актыўнасьці';
+$string['add'] = 'Дадаць';
+$string['addfile'] = 'Дадаць...';
+$string['addfiletext'] = 'Дадаць файл';
+$string['addplugin'] = 'Дадаць плагін рэпазітару';
+$string['aliaseschange'] = 'На гэты файл {$a} маюцца спасылкі. Калі вы працягніце, то цяперашнія месцы спасыланьня на гэты файл, будуць аўтаматычна абноўленны, каб выкарыстоўваць копію заміж файла.';
+$string['allowexternallinks'] = 'Дазволіць вонкавыя спасылкі';
+$string['areacategoryintro'] = 'Прэзентаваньне катэгорыі';
+$string['areacourseintro'] = 'Прэзентаваньне курса';
+$string['areacourseoverviewfiles'] = 'Выява курса';
+$string['areamainfile'] = 'Галоўны файл';
+$string['arearoot'] = 'Сістэма';
+$string['areauserbackup'] = 'Рэзервовая копія карыстальніка';
+$string['areauserdraft'] = 'Чарнавікі';
+$string['areauserpersonal'] = 'Прыватныя файлы';
+$string['areauserprofile'] = 'Профіль';
+$string['attachedfiles'] = 'Укладзеныя файлы';
+$string['attachment'] = 'Укладаньне';
+$string['author'] = 'Аўтар';
+$string['automatedbackup'] = 'Аўтаматычныя рэзервовыя копіі';
+$string['back'] = 'Назад';
+$string['backtodraftfiles'] = 'Вярнуцца да чарнавога кіраўніка файлаў';
+$string['cachecleared'] = 'Кэшаваныя файлы выдалены';
+$string['cacheexpire'] = 'Кэш пратэрмінаваны';
+$string['cannotaccessparentwin'] = 'Падчас выкарыстаньня HTTPS рэпазітар не абнаўляецца аўтаматычна. Заміж гэтага вам трэба вярнуцца ў меню выбарніка файлаў і зноў абраць рэпазітар.';
+$string['cannotdelete'] = 'Нельга выдаліць гэты файл.';
+$string['cannotdownload'] = 'Нельга спампаваць гэты файл.';
+$string['cannotdownloaddir'] = 'Нельга спампаваць гэтую тэчку.';
+$string['cannotinitplugin'] = 'Выклік plugin_init няўдалы.';
+$string['cannotunzipcontentunreadable'] = 'Нельга разархіваваць гэты файл, бо зьмесьціва файлы нельга прачытаць.';
+$string['cannotunzipextractfileerror'] = 'Нельга разархіваваць гэты файл, бо большую частку файлаў нельга прачытаць.';
+$string['cannotunzipquotaexceeded'] = 'Нельга разархіваваць гэты файл, бо перавышаны максімальны памер, які дазваляецца ў гэтай чарнавой вобласьці.';
+$string['choosealink'] = 'Абраць спасылку...';
+$string['chooselicense'] = 'Абраць ліцэнзію';
+$string['chooselicense_help'] = 'Перайдзіце па гэтых спасылках для атрыманьня дадатковай інфармацыі пра даступныя варыянты ліцэнзіяў:';
+$string['cleancache'] = 'Ачысьціць мае файлы кэшу';
+$string['close'] = 'Закрыць';
+$string['commonrepositorysettings'] = 'Агульныя налады рэпазітару';
+$string['configallowexternallinks'] = 'Гэтая опцыя дазваляе ўсіх карыстальнікам абіраць, ці будуць вонкавыя медыя капіявацца ў Moodle. Калі гэтая опцыя выключана, тады медыя заўжды капіюецца ў Moodle (звычайна гэта лепей для агульнай цэласнасьці ды бясьпекі дадзеных). Калі опцыя ўключана, тады карыстальнікі змогуць абіраць кожны раз, калі яны дадаюць медыя ў тэкст.';
+$string['configcacheexpire'] = 'Час, цягам якога сьпісы файлаў кэшуюцца лакальна (у сякундах) падчас прагляду вонкавых рэпазітараў.';
+$string['configgetfiletimeout'] = 'Час чаканьня ў сякундах для спампоўкі вонкавага файлу ў Moodle.';
+$string['configsaved'] = 'Канфігурацыя захаваная!';
+$string['configsyncfiletimeout'] = 'Час чаканьня ў сякундах для сінхранізаваньня памеру вонкавага файлу.';
+$string['configsyncimagetimeout'] = 'Час чаканьня ў сякундах для спампоўкі файла выявы з вонкавага рэпазітару падчас сінхранізаваньня.';
+$string['confirmdelete'] = 'Вы ўпэўнены, што жадаеце выдаліць рэпазітар {$a}? Калі вы абярэце "Працягнуць і спампаваць", спасылкі файлаў на вонкавы кантэнт будуць спампованы ў Moodle. Тое можа заняць працяглы час.';
+$string['confirmdeletefile'] = 'Вы ўпэўненыя, што жадаеце выдаліць гэты файл?';
+$string['confirmdeletefilewithhref'] = 'Вы ўпэўненыя, што жадаеце выдаліць гэты файл? На гэты файл маецца {$a} спасылак. Калі вы працягнеце, то месцаваньні, якія цяпер спасылаюцца на файл, будуць аўтаматычна абноўлены, каб выкарыстоўваць копію заміж файлу.';
+$string['confirmdeletefolder'] = 'Вы ўпэўнены, што жадаеце выдаліць гэтую тэчку? Усе файлы і падтэчкі будуць выдалены.';
+$string['confirmdeleteselectedfile'] = 'Вы ўпэўнены, што жадаеце выдаліць абраныя файлы {$a}?';
+$string['confirmremove'] = 'Вы ўпэўнены, што жадаеце выдаліць гэты плагін рэпазітару, яго опцыі ды <strong>ўсе яго экзэмпляры</strong> - {$a}? Калі вы абярэце "Працягнуць і спампаваць", спасылкі файлаў на вонкавыя кантэнты будуць спампаваныя ў Moodle. Гэта можа заняць працяглы час.';
+$string['confirmrenamefile'] = 'Вы ўпэўнены, што жадаеце пераназваць/перасунуць гэты файл?';
+$string['confirmrenamefolder'] = 'Вы ўпэўнены, што жадаеце перасунуць/пераназваць гэтую тэчку? Усе месцаваньні, што зараз спасылаюцца на файлы ў гэтай тэчцы мусяць быць аўтаматычна абноўлены, каб выкарыстоўваць копіі заміж файлаў.';
+$string['continueuninstall'] = 'Працягнуць';
+$string['continueuninstallanddownload'] = 'Працягнуць і спампаваць';
+$string['copying'] = 'Капіяваньне';
+$string['coursebackup'] = 'Рэзервовая копія курса';
+$string['create'] = 'Стварыць';
+$string['createfolder'] = 'Стварыць тэчку';
+$string['createfolderfail'] = 'Нельга стварыць гэтыю тэчку';
+$string['createfoldersuccess'] = 'Стварэньне тэчкі пасьпяховае';
+$string['createinstance'] = 'Стварыць экзэмпляр рэпазітару';
+$string['createrepository'] = 'Стварыць экзэмпляр рэпазітару';
+$string['createxxinstance'] = 'Стварыць экзэмпляр "{$a}"';
+$string['date'] = 'Дата';
+$string['datecreated'] = 'Створана';
+$string['deleted'] = 'Рэпазітар выдалены';
+$string['deleterepository'] = 'Выдаліць гэты рэпазітар';
+$string['detailview'] = 'Глядзець дэталі';
+$string['dimensions'] = 'Памеры';
+$string['disabled'] = 'Адключана';
+$string['displayasdetails'] = 'Адлюстраваць як дэталі файлу';
+$string['displayasicons'] = 'Адлюстраваць як выяву файлу';
+$string['displayastree'] = 'Адлюстраваць як дрэва файлу';
+$string['displaydetails'] = 'Адлюстраваць тэчку з дэталямі файлаў';
+$string['displayicons'] = 'Адлюстраваць тэчку з выявамі файлаў';
+$string['displaytree'] = 'Адлюстраваць тэчку з дрэвам файлаў';
+$string['download'] = 'Спампаваць';
+$string['downloadallfiles'] = 'Спампаваць усе файлы';
+$string['downloadfolder'] = 'Спампаваць усё';
+$string['downloadsucc'] = 'Файл быў пасьпяхова спампаваны';
+$string['draftareanofiles'] = 'Нельга спампаваць, бо ўкладзеныя файлы адсутнічаюць';
+$string['editrepositoryinstance'] = 'Рэдагаваць экзэмпляр рэпазітару';
+$string['emptylist'] = 'Пусты сьпіс';
+$string['emptytype'] = 'Нельга стварыць тып рэпазітару: назва тыпу адсутнічае';
+$string['enablecourseinstances'] = 'Дазволіць карыстальнікам дадаваць экзэмпляры рэпазітараў у курс';
+$string['enableuserinstances'] = 'Дазволіць карыстальнікам дадаваць экзэмпляры рэпазітараў у карыстальніцкі кантэкст';
+$string['enter'] = 'Увесьці';
+$string['entername'] = 'Калі ласка, увядзіце назву тэчцы';
+$string['enternewname'] = 'Калі ласка, увядзіце новую назву файлу';
+$string['error'] = 'Адбылася невядомая памылка!';
+$string['errordoublereference'] = 'Нельга перазапісаць файл са спасылкай, бо спасылкі на гэты файл ужо існуюць.';
+$string['errornotyourfile'] = 'Вы можаце абраць толькі файлы, якія дадалі.';
+$string['errorpostmaxsize'] = 'Файл, які вы спрабуеце запампаваць занадта вялікі для апрацоўкі на сэрверы.';
+$string['erroruniquename'] = 'Назва экзэмпляру рэпазітару мусіць быць унікальнай.';
+$string['errorwhilecommunicatingwith'] = 'Памылка падчас камунікаваньня з рэпазітарам \'{$a}\'.';
+$string['errorwhiledownload'] = 'Адбылася памылка падчас спампоўваньня файлу: {$a}';
+$string['existingrepository'] = 'Гэты рэпазітар ужо існуе';
+$string['federatedsearch'] = 'Федэрацыйны пошук';
+$string['fileexists'] = 'Назва файлу ўжо выкарыстоўваецца, калі ласка, абярыце іншую назву';
+$string['fileexistsdialog_editor'] = 'Файл з такой назвай ужо ўкладзены ў тэкст, які вы рэдагуеце.';
+$string['fileexistsdialog_filemanager'] = 'Файл з такой назвай ужо ўкладзены';
+$string['fileexistsdialogheader'] = 'Файл існуе';
+$string['filename'] = 'Назва файлу';
+$string['filenotnull'] = 'Вы мусіце абраць файл для запампоўкі.';
+$string['filepicker'] = 'Выбарнік файлаў';
+$string['filesaved'] = 'Файл быў захаваны';
+$string['filesizenull'] = 'Нельга вызначыць памер файлу';
+$string['folderexists'] = 'Назва файлу ўжо выкарыстоўваецца, калі ласка, абярыце іншую назву';
+$string['foldernotfound'] = 'Тэчка ня знойдзена';
+$string['folderrecurse'] = 'Тэчку нельга перасунуць ува яе ўласную падтэчку.';
+$string['getfile'] = 'Абраць гэты файл';
+$string['getfiletimeout'] = 'Атрымаць час чаканьня файлу';
+$string['help'] = 'Дапамога';
+$string['iconview'] = 'Прагляд выявамі';
+$string['imagesize'] = '{$a->width} x {$a->height} px';
+$string['instance'] = 'экзэмпляр';
+$string['instancedeleted'] = 'Экзэмпляр выдалены';
+$string['instances'] = 'Экзэмпляры рэпазітараў';
+$string['instancesforcourses'] = 'Агульныя экзэмпляры для ўсяго курса {$a}';
+$string['instancesforsite'] = 'Агульныя экзэмпляры для ўсяго сайту {$a}';
+$string['instancesforusers'] = 'Прыватныя экзэмпляры карыстальніка {$a}';
+$string['invalidfiletype'] = 'Тып файлу {$a} ня можа быць прыняты.';
+$string['invalidjson'] = 'Хібны JSON радок';
+$string['invalidparams'] = 'Хібныя параметры';
+$string['invalidplugin'] = 'Хібны рэпазітар плагіна {$a}';
+$string['invalidrepositoryid'] = 'Хібны ID рэпазітару';
+$string['isactive'] = 'Актыўны?';
+$string['keyword'] = 'Ключавое слова';
+$string['lastmodified'] = 'Апошняя зьмена';
+$string['license'] = 'Ліцэнзія';
+$string['linkexternal'] = 'Вонкавая спасылка';
+$string['listview'] = 'Прагляд у якасьці сьпіса';
+$string['loading'] = 'Запампоўка...';
+$string['login'] = 'Увайсьці ў вашы акаўнт';
+$string['logintoaccount'] = 'Увайсьці ў вашы акаўнт {$a}';
+$string['logout'] = 'Выйсьці';
+$string['lostsource'] = 'Памылка. Крыніца адсутнічае. {$a}';
+$string['makefilecontrolledlink'] = 'Стварыць спасылку на файл з кантролем доступу';
+$string['makefileinternal'] = 'Стварыць копію файлу';
+$string['makefilelink'] = 'Спасылка на вонкавы файл';
+$string['makefilereference'] = 'Спасылка на файл';
+$string['manage'] = 'Кіраваньне рэпазітарамі';
+$string['manageinstances'] = 'Кіраваньне экзэмплярамі';
+$string['manageurl'] = 'Кіраваньне';
+$string['manageuserrepository'] = 'Кіраваньне асабістымі рэпазітарамі';
+$string['missingsourcekey'] = 'Ключ крыніцы адсутнічае. Гэты ключ таксама трэба падаць для атрыманьня файла.';
+$string['moving'] = 'Перасоўваньне';
+$string['name'] = 'Назва';
+$string['newfolder'] = 'Новая тэчка';
+$string['newfoldername'] = 'Новая назва тэчкі';
+$string['noenter'] = 'Нічога не ўведзена';
+$string['nofilesattached'] = 'Файлы не ўкладзены';
+$string['nofilesavailable'] = 'Файлы не даступныя';
+$string['nofilesselected'] = 'Файлы не абраныя';
+$string['nolicenses'] = 'Адсутнічаюць даступныя ліцэнзіі';
+$string['nomorefiles'] = 'Укладаньні болей не дазволены';
+$string['nopathselected'] = 'Шлях прызначэньня дагэтуль не абраны (двойчы націсьніце на галіну дрэва, каб абраць)';
+$string['nopermissiontoaccess'] = 'Дазволы на доступ да гэтага рэпазітару адсутнічаюць.';
+$string['norepositoriesavailable'] = 'На жаль, ніводны з вашых цяперашніх рэпазітараў ня можа вярнуць файлы ў патрэбным фармаце.';
+$string['norepositoriesexternalavailable'] = 'На жаль, ніводны з вашых цяперашніх рэпазітараў ня можа вярнуць вонкавыя файлы.';
+$string['noresult'] = 'Вынікі пошуку адсутнічаюць';
+$string['notyourinstances'] = 'Вы ня можаце праглядаць/рэдагаваць экзэмпляры рэпазітараў іншых карыстальнікаў';
+$string['off'] = 'Уключаны, ці схаваны';
+$string['on'] = 'Уключаны і бачны';
+$string['openpicker'] = 'Абярыце файл...';
+$string['operation'] = 'Аперацыя';
+$string['original'] = 'Арыгінал';
+$string['originalextensionchange'] = 'Арыгінальнае пашырэньне файлу была зьменена як частка зьмены назвы файлу. Зьмена пашырэньня з ".{$a->originalextension}" на ".{$a->newextension}" можа прывесьці да таго, што файл будзе нельга адкрыць.';
+$string['originalextensionremove'] = 'Арыгінальнае пашырэньне файлу была выдалена як частка зьмены назвы файлу. Выдаленьне пашырэньня ".{$a}" хутчэй за ўсё прывядзе да немагчымасьці адкрыцьця файлу.';
+$string['overwrite'] = 'Перазапісаць';
+$string['overwriteall'] = 'Перазапісаць усё';
+$string['path'] = 'Шлях';
+$string['plugin'] = 'Плагіны рэпазітараў';
+$string['pluginerror'] = 'Памылкі ў плагіне рэпазітару.';
+$string['pluginname'] = 'Назва плагіна рэпазітару.';
+$string['pluginnamehelp'] = 'Калі пакінуць гэтае значэньне пустым, будзе выкарыстоўвацца стандартная назва.';
+$string['popup'] = 'Націсьніце кнопку "Увайсьці", каб увайсьці';
+$string['popupblockeddownload'] = 'Вакно спампоўкі заблакавана, калі ласка, дазвольце выплыўное вакно, і паспрабуйце ізноў.';
+$string['preview'] = 'Перадпрагляд';
+$string['privacy:metadata:repository'] = 'Кампанент Рэпазітар захоўвае тыпы рэпазітараў у ядры падсістэмы.';
+$string['privacy:metadata:repository_instances'] = 'Кампанент плагін Рэпазітар захоўвае дадзеныя экзэмпляраў рэпазітару ў ядры падсістэмы.';
+$string['privacy:metadata:repository_instances:name'] = 'Карыстальніцкая назва экзэмпляру рэпазітару.';
+$string['privacy:metadata:repository_instances:password'] = 'Неабавязковы пароль усталяваны для экзэмпляру рэпазітару.';
+$string['privacy:metadata:repository_instances:timecreated'] = 'Дата/час стварэньня для экзэмпляру рэпазітару.';
+$string['privacy:metadata:repository_instances:timemodified'] = 'Дата/час зьмены для экзэмпляру рэпазітару.';
+$string['privacy:metadata:repository_instances:typeid'] = 'ID тыпу для экзэмпляру рэпазітару.';
+$string['privacy:metadata:repository_instances:userid'] = 'ID карыстаьльніка, які валодае экзэмплярам рэпазітару.';
+$string['privacy:metadata:repository_instances:username'] = 'Неабавязковы логін усталяваны для экзэмпляру рэпазітару.';
+$string['privatefilesof'] = '{$a} Прыватныя файлы';
+$string['readonlyinstance'] = 'Вы ня можаце рэдагаваць/выдаліць экзэмляр толькі для чытаньня';
+$string['referencesexist'] = 'Існуе {$a} спасылак на гэты файл';
+$string['referenceslist'] = 'Спасылкі';
+$string['refresh'] = 'Абнавіць';
+$string['refreshnonjsfilepicker'] = 'Калі ласка, зачыніце гэтае вакно і абнавіце не javascript выбарнік файлаў';
+$string['removed'] = 'Рэпазітар выдалены';
+$string['renameall'] = 'Пераназваць усё';
+$string['renameto'] = 'Пераназваць на "{$a}"';
+$string['repositories'] = 'Рэпазітары';
+$string['repository'] = 'Рэпазітар';
+$string['repositorycourse'] = 'Рэпазітары курса';
+$string['repositoryerror'] = 'Вонкавы рэпазітар вяртае памылку: {$a}';
+$string['repositoryicon'] = 'Выява рэпазітару';
+$string['save'] = 'Захваць';
+$string['saveas'] = 'Захваць як';
+$string['saved'] = 'Захавана';
+$string['saving'] = 'Захаваньне';
+$string['search'] = 'Пошук';
+$string['searching'] = 'Шукаць у';
+$string['searchrepo'] = 'Шукаць рэпазітар';
+$string['sectionbackup'] = 'Рэзервовая копія падзелу';
+$string['select'] = 'Абраць';
+$string['setmainfile'] = 'Усталяваць галоўным файлам';
+$string['setmainfile_help'] = 'Калі ў тэчцы маецца некалькі файлаў, то галоўным з\'яўляецца той, які адлюстроўваецца на старонцы прагляду. Іншыя файлы, такія як выявы ці відэа могуць быць убудаваныя. У кіраўніку файлаў галоўны файл вылучаецца тлустай назвай.';
+$string['settings'] = 'Налады';
+$string['setupdefaultplugins'] = 'Наладжваньне стандартнага плагінаў рэпазітараў';
+$string['siteinstances'] = 'Экзэмпляры рэпазітараў сайту';
+$string['size'] = 'Памер';
+$string['sourcekeymismatch'] = 'Спасылка крыніцы не адпавядае ключу крыніцы.';
+$string['submit'] = 'Адправіць';
+$string['sync'] = 'Сінх';
+$string['syncfiletimeout'] = 'Сінх час чаканьня файлу';
+$string['syncimagetimeout'] = 'Сінх час чаканьня выявы';
+$string['thumbview'] = 'Прагляд у відзе выяваў';
+$string['title'] = 'Абраць файл...';
+$string['type'] = 'Тып';
+$string['typenotvisible'] = 'Тып ня бачны';
+$string['undisclosedreference'] = '(Не раскрыта)';
+$string['undisclosedsource'] = '(Не раскрыта)';
+$string['unknownoriginal'] = 'Невядома';
+$string['unknownsource'] = 'Невядомая крыніца';
+$string['unzipped'] = 'Разархіваваны пасьпяхова';
+$string['upload'] = 'Запампаваць гэты файл';
+$string['uploading'] = 'Запампоўка...';
+$string['uploadsucc'] = 'Файл быў запампованы пасьпяхова';
+$string['uselatestfile'] = 'Выкарыстаць апошні файл';
+$string['usenonjsfilemanager'] = 'Адкрыць кіраўнік файлаў у новым акне';
+$string['usenonjsfilepicker'] = 'Адкрыць выбарнік файлаў у новым акне';
+$string['usercontextrepositorydisabled'] = 'Вы ня можаце рэдагаваць гэты рэпазітар у кантэксьце карыстальніка';
+$string['wrongcontext'] = 'Вы ня маеце доступу да гэтага кантэксту';
+$string['xhtmlerror'] = 'Верагодна, вы выкарыстоўваеце строгі загаловак XHTML. Частка кампанентаў YUI не працуе ў гэтым рэжыме. Калі ласка, адключыце яго.';
+$string['ziped'] = 'Архіраваньне тэчкі пасьпяховае';

@@ -64,7 +64,7 @@ core_privacy --------------------- privacy.php ----------------------- 100%
 core_question -------------------- question.php ---------------------- 100%
 core_rating ---------------------- rating.php ------------------------ 100%
 core_reportbuilder --------------- reportbuilder.php 
-core_repository ------------------ repository.php 
+core_repository ------------------ repository.php -------------------- 100%
 core_role ------------------------ role.php 
 core_rss ------------------------- rss.php
 core_search ---------------------- search.php
