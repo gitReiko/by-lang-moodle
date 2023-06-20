@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['eventxapipost'] = 'Post xAPI statement';
-$string['privacy:metadata'] = 'The xAPI library does not store any personal data.';
+$string['eventxapipost'] = 'Апублікаваць паведамленьне xAPI';
+$string['privacy:metadata'] = 'Бібліятэка xAPI не захоўвае ніякіх асабістых дадзеных.';

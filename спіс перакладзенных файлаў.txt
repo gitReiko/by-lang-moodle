@@ -74,7 +74,7 @@ core_timezones ------------------- timezones.php
 core_user ------------------------ user.php
 core_userkey --------------------- userkey.php
 core_webservice ------------------ webservice.php
-core_xapi ------------------------ xapi.php
+core_xapi ------------------------ xapi.php -------------------------- 100%
 
 Standard plugins
 
