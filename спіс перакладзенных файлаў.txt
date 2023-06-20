@@ -66,7 +66,7 @@ core_rating ---------------------- rating.php ------------------------ 100%
 core_reportbuilder --------------- reportbuilder.php 
 core_repository ------------------ repository.php -------------------- 100%
 core_role ------------------------ role.php 
-core_rss ------------------------- rss.php
+core_rss ------------------------- rss.php --------------------------- 100%
 core_search ---------------------- search.php
 core_table ----------------------- table.php
 core_tag ------------------------- tag.php
