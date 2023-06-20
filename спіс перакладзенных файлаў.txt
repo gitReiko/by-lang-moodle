@@ -60,5 +60,5 @@ core_plagiarism ------------------ plagiarism.php -------------------- 100%
 core_plugin ---------------------- plugin.php 
 core_portfolio ------------------- portfolio.php 
 core_privacy --------------------- privacy.php ----------------------- 100%
-core_question -------------------- question.php
+core_question -------------------- question.php ---------------------- 100%
 core_rating ---------------------- rating.php
