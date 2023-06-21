@@ -72,7 +72,7 @@ core_table ----------------------- table.php ------------------------- 100%
 core_tag ------------------------- tag.php --------------------------- 100%
 core_timezones ------------------- timezones.php 
 core_user ------------------------ user.php
-core_userkey --------------------- userkey.php
+core_userkey --------------------- userkey.php ----------------------- 100%
 core_webservice ------------------ webservice.php
 core_xapi ------------------------ xapi.php -------------------------- 100%
 
