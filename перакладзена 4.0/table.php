@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['downloadas'] = 'Download table data as';
-$string['missingrequiredfields'] = 'One or more required filters were missing ({$a})';
-$string['privacy:metadata'] = 'The Table API does not currently store any user data';
+$string['downloadas'] = 'Спампаваць дадзеныя табліцы як';
+$string['missingrequiredfields'] = 'Адсутнічае адзін ці некалькі патрэбных фільтраў ({$a})';
+$string['privacy:metadata'] = 'API Табліцы ў гэты час не захоўвае аніякіх карыстальніцкіх дадзеных.';
