@@ -67,7 +67,7 @@ core_reportbuilder --------------- reportbuilder.php
 core_repository ------------------ repository.php -------------------- 100%
 core_role ------------------------ role.php 
 core_rss ------------------------- rss.php --------------------------- 100%
-core_search ---------------------- search.php
+core_search ---------------------- search.php ------------------------ 100%
 core_table ----------------------- table.php
 core_tag ------------------------- tag.php
 core_timezones ------------------- timezones.php 
