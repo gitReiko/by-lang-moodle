@@ -77,4 +77,15 @@ core_webservice ------------------ webservice.php
 core_xapi ------------------------ xapi.php -------------------------- 100%
 
 Standard plugins
+antivirus_clamav ----------------- antivirus_clamav.php -------------- 100%
+
+
+
+
+
+
+
+
+
+
 
