@@ -80,8 +80,8 @@ Standard plugins
 antivirus_clamav ----------------- antivirus_clamav.php -------------- 100%
 assignfeedback_comments ---------- assignfeedback_comments.php ------- 100%
 assignfeedback_editpdf ----------- assignfeedback_editpdf.php -------- 100%
-assignfeedback_file -------------- assignfeedback_file.php
-
+assignfeedback_file -------------- assignfeedback_file.php ----------- 100%
+assignfeedback_offline ----------- assignfeedback_offline.php -------- 100%
 
 
 
