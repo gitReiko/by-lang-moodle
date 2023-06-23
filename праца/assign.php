@@ -25,106 +25,106 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['activityattachments'] = 'Assignment activity attachments';
-$string['activitydate:submissionsdue'] = 'Due:';
-$string['activitydate:submissionsopen'] = 'Opens:';
-$string['activitydate:submissionsopened'] = 'Opened:';
-$string['activityeditor'] = 'Activity instructions';
-$string['activityeditor_help'] = 'The actions you would like the student to complete for this assignment. This is only shown on the submission page where a students edits and submits their assignment.';
-$string['activityoverview'] = 'You have assignments that need attention';
-$string['addattempt'] = 'Allow another attempt';
-$string['addnewattempt'] = 'Add a new attempt';
-$string['addnewattempt_help'] = 'This will create a new blank submission for you to work on.';
-$string['addnewattemptfromprevious'] = 'Add a new attempt based on previous submission';
-$string['addnewattemptfromprevious_help'] = 'This will copy the contents of your previous submission to a new submission for you to work on.';
-$string['addnewgroupoverride'] = 'Add group override';
-$string['addnewuseroverride'] = 'Add user override';
-$string['addsubmission'] = 'Add submission';
-$string['addsubmission_help'] = 'You have not made a submission yet.';
-$string['allocatedmarker'] = 'Allocated Marker';
-$string['allocatedmarker_help'] = 'Marker allocated to this submission.';
-$string['allowsubmissions'] = 'Allow the user to continue making submissions to this assignment.';
-$string['allowsubmissionsanddescriptionfromdatesummary'] = 'The assignment details and submission form will be available from <strong>{$a}</strong>';
-$string['allowsubmissionsfromdate'] = 'Allow submissions from';
-$string['allowsubmissionsfromdate_help'] = 'If enabled, students will not be able to submit before this date. If disabled, students will be able to start submitting right away.';
-$string['allowsubmissionsfromdatesummary'] = 'This assignment will accept submissions from <strong>{$a}</strong>';
-$string['allowsubmissionsshort'] = 'Allow submission changes';
-$string['alwaysshowdescription'] = 'Always show description';
-$string['alwaysshowdescription_help'] = 'If disabled, the assignment description above will only become visible to students on the "Allow submissions from" date.';
-$string['applytoteam'] = 'Apply grades and feedback to entire group';
-$string['assign:addinstance'] = 'Add a new assignment';
-$string['assign:editothersubmission'] = 'Edit another student\'s submission';
-$string['assign:exportownsubmission'] = 'Export own submission';
-$string['assign:grade'] = 'Grade assignment';
-$string['assign:grantextension'] = 'Grant extension';
-$string['assign:manageallocations'] = 'Manage markers allocated to submissions';
-$string['assign:managegrades'] = 'Review and release grades';
-$string['assign:manageoverrides'] = 'Manage assignment overrides';
-$string['assign:receivegradernotifications'] = 'Receive grader submission notifications';
-$string['assign:releasegrades'] = 'Release grades';
-$string['assign:revealidentities'] = 'Reveal student identities';
-$string['assign:reviewgrades'] = 'Review grades';
-$string['assign:showhiddengrader'] = 'See the identity of a hidden grader';
-$string['assign:submit'] = 'Submit assignment';
-$string['assign:view'] = 'View assignment';
-$string['assign:viewblinddetails'] = 'View student identities when anonymous submissions are enabled';
-$string['assign:viewgrades'] = 'View grades';
-$string['assign:viewownsubmissionsummary'] = 'View own submission summary';
-$string['assignfeedback'] = 'Feedback plugin';
-$string['assignfeedbackpluginname'] = 'Feedback plugin';
-$string['assignmentisdue'] = 'Assignment is due';
-$string['assignmentmail'] = '{$a->grader} has posted some feedback on your
-assignment submission for \'{$a->assignment}\'
+$string['activityattachments'] = 'Укладаньні актыўнасьці заданьне';
+$string['activitydate:submissionsdue'] = 'Да:';
+$string['activitydate:submissionsopen'] = 'Адкрываецца:';
+$string['activitydate:submissionsopened'] = 'Адкрыта:';
+$string['activityeditor'] = 'Інструкцыі актыўнасьці';
+$string['activityeditor_help'] = 'Дзеяньні, якія вы жадаеце, каб студэнт выканаў для гэтага заданьня. Інструкцыі адлюстроўваюцца толькі на старонцы прадстаўленьня, дзе студэнты рэдагуюць і адпраўляюць сваё заданьне.';
+$string['activityoverview'] = 'Вы маеце заданьні, якія патрабуюць увагі';
+$string['addattempt'] = 'Дазволіць наступную спробу';
+$string['addnewattempt'] = 'Дадаць новую спробу';
+$string['addnewattempt_help'] = 'Гэта створыць новае пустое прадстаўленьне для вашай працы.';
+$string['addnewattemptfromprevious'] = 'Дадаць новую спробу, заснаваную на папярэднім прадстаўленьні';
+$string['addnewattemptfromprevious_help'] = 'Гэта скапіюе зьмесьціва вашага папярэдняга прадстаўленьня для новага, над якім вы будзеце працаваць.';
+$string['addnewgroupoverride'] = 'Дадаць перавызначэньне групы';
+$string['addnewuseroverride'] = 'Дадаць перавызначэньне карыстальніка';
+$string['addsubmission'] = 'Дадаць прадстаўленьне';
+$string['addsubmission_help'] = 'Вы дагэтуль не зрабілі прадстаўленьне.';
+$string['allocatedmarker'] = 'Разьмеркаваны Правяральнік';
+$string['allocatedmarker_help'] = 'Правяральнік разьмеркаваны да гэтага прадстаўленьня.';
+$string['allowsubmissions'] = 'Дазволіць карыстальніку працягваць выкананьне прадстаўленьня.';
+$string['allowsubmissionsanddescriptionfromdatesummary'] = 'Дэталі заданьня і форма прадстаўленьня будуць даступныя ў <strong>{$a}</strong>';
+$string['allowsubmissionsfromdate'] = 'Дазволіць прадстаўленьні ад';
+$string['allowsubmissionsfromdate_help'] = 'Калі ўключана, студэнты будуць здольныя адправіць прадстаўленьні пасьля азначанай даты. Калі адключана, студэнты змогуць адпраўляць прадстаўленьні адразу.';
+$string['allowsubmissionsfromdatesummary'] = 'Гэтае заданьне будзе прынімаць прадстаўленьні ад <strong>{$a}</strong>';
+$string['allowsubmissionsshort'] = 'Дазволіць зьмены прадстаўленьняў';
+$string['alwaysshowdescription'] = 'Заўжды паказваць апісаньні';
+$string['alwaysshowdescription_help'] = 'Калі адключана, то вышэйшае апісаньне заданьня будзе бачна для студэнтаў толькі ў дату "Дазволіць прадстаўленьні ад".';
+$string['applytoteam'] = 'Ужываць адзнаку і водгук для ўсёй групы';
+$string['assign:addinstance'] = 'Даданьне новага заданьня';
+$string['assign:editothersubmission'] = 'Рэдагаваньне прадстаўленьня наступнага студэнта';
+$string['assign:exportownsubmission'] = 'Экспарт уласнага прадстаўленьня';
+$string['assign:grade'] = 'Ацэньваньне заданьня';
+$string['assign:grantextension'] = 'Дараваньне падаўжэньня';
+$string['assign:manageallocations'] = 'Кіраваньне разьмеркаванымі правяральнікамі для прадстаўленьняў';
+$string['assign:managegrades'] = 'Прагляд і вызваленьне адзнак';
+$string['assign:manageoverrides'] = 'Кіраваньне перавызначэньнямі заданьняў';
+$string['assign:receivegradernotifications'] = 'Атрыманьне абвестак ад ацэньніка прадстаўленьняў';
+$string['assign:releasegrades'] = 'Вызваленьне адзнак';
+$string['assign:revealidentities'] = 'Выяўленьне асобаў студэнтаў';
+$string['assign:reviewgrades'] = 'Агляд адзнак';
+$string['assign:showhiddengrader'] = 'Бачаньне асобы схаванага ацэньніка';
+$string['assign:submit'] = 'Адпраўленьне заданьня';
+$string['assign:view'] = 'Прагляд заданьня';
+$string['assign:viewblinddetails'] = 'Бачаньне асоб студэнтаў падчас уключанага ананімнага прадстаўленьня';
+$string['assign:viewgrades'] = 'Прагляд адзнак';
+$string['assign:viewownsubmissionsummary'] = 'Прагляд вынікаў уласнага прадстаўленьня';
+$string['assignfeedback'] = 'Плагін водгука';
+$string['assignfeedbackpluginname'] = 'Плагін водгука';
+$string['assignmentisdue'] = 'Заданьне трэба выканаць да';
+$string['assignmentmail'] = '{$a->grader} даў водгук на вашае
+прадстаўленьне заданьня \'{$a->assignment}\'
 
-You can see it appended to your assignment submission:
+Вы можаце ўбачыць яго ўва ўкладаньні да вашага прадстаўленьня заданьня:
 
     {$a->url}';
-$string['assignmentmailhtml'] = '<p>{$a->grader} has posted some feedback on your
-assignment submission for \'<i>{$a->assignment}</i>\'.</p>
-<p>You can see it appended to your <a href="{$a->url}">assignment submission</a>.</p>';
-$string['assignmentmailsmall'] = '{$a->grader} has posted some feedback on your
-assignment submission for \'{$a->assignment}\' You can see it appended to your submission';
-$string['assignmentname'] = 'Assignment name';
-$string['assignmentplugins'] = 'Assignment plugins';
-$string['assignmentsperpage'] = 'Assignments per page';
-$string['assignsubmission'] = 'Submission plugin';
-$string['assignsubmissionpluginname'] = 'Submission plugin';
-$string['assigntimeleft'] = 'Time left';
-$string['attemptheading'] = 'Attempt {$a->attemptnumber}: {$a->submissionsummary}';
-$string['attempthistory'] = 'Previous attempts';
-$string['attemptnumber'] = 'Attempt number';
-$string['attemptreopenmethod'] = 'Additional attempts';
-$string['attemptreopenmethod_help'] = 'This setting determines whether a student can make additional attempts at the assignment. For each attempt, the grade and feedback are saved, and can be viewed by the teacher and the student. The available options are:
+$string['assignmentmailhtml'] = '<p>{$a->grader} даў водгук на вашае
+прадстаўленьне заданьня \'<i>{$a->assignment}</i>\'.</p>
+<p>Вы можаце ўбачыць яго ўва ўкладаньні да вашага <a href="{$a->url}">прадстаўленьня заданьня</a>.</p>';
+$string['assignmentmailsmall'] = '{$a->grader} даў водгук на вашае
+прадстаўленьне заданьня \'{$a->assignment}\' Вы можаце ўбачыць яго ўва ўкладаньні вашага прадстаўленьня';
+$string['assignmentname'] = 'Назва заданьня';
+$string['assignmentplugins'] = 'Плагіны заданьня';
+$string['assignmentsperpage'] = 'Заданьняў на старонцы';
+$string['assignsubmission'] = 'Плагін прадстаўленьня';
+$string['assignsubmissionpluginname'] = 'Плагін прадстаўленьня';
+$string['assigntimeleft'] = 'Часу засталося';
+$string['attemptheading'] = 'Спроба {$a->attemptnumber}: {$a->submissionsummary}';
+$string['attempthistory'] = 'Папярэднія спробы';
+$string['attemptnumber'] = 'Нумар спробы';
+$string['attemptreopenmethod'] = 'Дадатковыя спробы';
+$string['attemptreopenmethod_help'] = 'Гэтая налада вызначае, ці можа студэнт рабіць дадатковыя спробы выкананьня заданьня. Для кожнай спробы захоўваецца адзнака і водгук. Студэнт і настаўнік могуць іх праглядзець. Магчымыя опцыі:
 
-* Never - Only one attempt is possible.
-* Manually - Additional attempts may be allowed by a teacher.
-* Automatically until pass - Additional attempts are allowed automatically until the student achieves the grade to pass set in the gradebook for this assignment.';
-$string['attemptreopenmethod_manual'] = 'Manually';
-$string['attemptreopenmethod_none'] = 'Never';
-$string['attemptreopenmethod_untilpass'] = 'Automatically until pass';
-$string['attemptsettings'] = 'Attempt settings';
-$string['availability'] = 'Availability';
-$string['back'] = 'Back';
-$string['backtoassignment'] = 'Back to assignment';
-$string['batchoperationconfirmaddattempt'] = 'Allow another attempt for selected submissions?';
-$string['batchoperationconfirmdownloadselected'] = 'Download selected submissions?';
-$string['batchoperationconfirmgrantextension'] = 'Grant an extension to all selected submissions?';
-$string['batchoperationconfirmlock'] = 'Lock all selected submissions?';
-$string['batchoperationconfirmremovesubmission'] = 'Remove selected submissions?';
-$string['batchoperationconfirmreverttodraft'] = 'Revert selected submissions to draft?';
-$string['batchoperationconfirmsetmarkingallocation'] = 'Set marking allocation for all selected submissions?';
-$string['batchoperationconfirmsetmarkingworkflowstate'] = 'Set marking workflow state for all selected submissions?';
-$string['batchoperationconfirmunlock'] = 'Unlock all selected submissions?';
-$string['batchoperationlock'] = 'lock submissions';
-$string['batchoperationreverttodraft'] = 'revert submissions to draft';
-$string['batchoperationsdescription'] = 'With selected...';
-$string['batchoperationunlock'] = 'unlock submissions';
-$string['batchsetallocatedmarker'] = 'Set allocated marker for {$a} selected user(s).';
-$string['batchsetmarkingworkflowstateforusers'] = 'Set marking workflow state for {$a} selected user(s).';
-$string['beginassignment'] = 'Begin assignment';
-$string['blindmarking'] = 'Anonymous submissions';
-$string['blindmarking_help'] = 'Anonymous submissions hide the identity of students from markers. Anonymous submission settings will be locked once a submission or grade has been made in relation to this assignment.';
-$string['blindmarkingenabledwarning'] = 'Anonymous submissions are enabled for this activity. Grades will not be added to the gradebook until student identities are revealed via the grading action menu.';
+* Ніколі - Магчыма толькі адна спроба
+* Ручныя - Настаўнік можа дазваляць дадатковыя спробы
+* Аўтаматычныя пакуль ня пройдзе - Дадатковыя спробы дазваляюцца аўтаматычна пакуль студэнт не дасягне прахадную адзнаку ў журнале адзнак для гэтага заданьня.';
+$string['attemptreopenmethod_manual'] = 'Ручныя';
+$string['attemptreopenmethod_none'] = 'Ніколі';
+$string['attemptreopenmethod_untilpass'] = 'Аўтаматычныя пакуль ня пройдзе';
+$string['attemptsettings'] = 'Налады спробаў';
+$string['availability'] = 'Даступнасьць';
+$string['back'] = 'Назад';
+$string['backtoassignment'] = 'Назад да заданьня';
+$string['batchoperationconfirmaddattempt'] = 'Дазволіць наступную спробу для абраных прадстаўленьняў?';
+$string['batchoperationconfirmdownloadselected'] = 'Спампаваць абраныя прадстаўленьні?';
+$string['batchoperationconfirmgrantextension'] = 'Дараваць падаўжэньне для ўсіх абраных прадстаўленьняў?';
+$string['batchoperationconfirmlock'] = 'Заблакаваць усе абраныя прадстаўленьні?';
+$string['batchoperationconfirmremovesubmission'] = 'Выдаліць абраныя прадстаўленьні?';
+$string['batchoperationconfirmreverttodraft'] = 'Вярнуць абраныя прадстаўленьні да чарнавіка?';
+$string['batchoperationconfirmsetmarkingallocation'] = 'Усталяваць пазнакі разьмеркаваньня для ўсіх абраных прадстаўленьняў?';
+$string['batchoperationconfirmsetmarkingworkflowstate'] = 'Усталяваць статус правяранага працоўнага струменя для ўсіх абраных прадстаўленьняў?';
+$string['batchoperationconfirmunlock'] = 'Адблакаваць усе абраныя прадстаўленьні?';
+$string['batchoperationlock'] = 'блакаваць прадстаўленьні';
+$string['batchoperationreverttodraft'] = 'вярнуць прадстаўленьні да чарнавіка';
+$string['batchoperationsdescription'] = 'З абранымі...';
+$string['batchoperationunlock'] = 'адлакаваць прадстаўленьні';
+$string['batchsetallocatedmarker'] = 'Усталяваць разьмеркаваньне правяральніка для {$a} абраных карыстальнікаў.';
+$string['batchsetmarkingworkflowstateforusers'] = 'Усталяваць статус правяранага працоўнага струменя для {$a} абраных карыстальнікаў.';
+$string['beginassignment'] = 'Пачаць заданьне';
+$string['blindmarking'] = 'Ананімныя прадстаўленьні';
+$string['blindmarking_help'] = 'Ананімныя прадстаўленьні ўтойваюць асобы студэнтаў ад правяральнікаў. Налады ананімнага прадстаўленьня будуць заблакаваныя пасьля адпраўкі першага прадстаўленьня ці выстаўленьня адзнакі для зьвязанага заданьня.';
+$string['blindmarkingenabledwarning'] = 'Для гэтай актыўнасьці ўключаны ананімныя прадстаўленьні. Адзнакі будуць даданы ў журнал адзнак пасьля выяўленьня асобы студэнта праз меню дзеяньняў ацэньваньня.';
 $string['cachedef_overrides'] = 'User and group override information';
 $string['calendardue'] = '{$a} is due';
 $string['calendargradingdue'] = '{$a} is due to be graded';
