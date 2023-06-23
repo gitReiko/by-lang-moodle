@@ -82,6 +82,7 @@ assignfeedback_comments ---------- assignfeedback_comments.php ------- 100%
 assignfeedback_editpdf ----------- assignfeedback_editpdf.php -------- 100%
 assignfeedback_file -------------- assignfeedback_file.php ----------- 100%
 assignfeedback_offline ----------- assignfeedback_offline.php -------- 100%
+assignsubmission_comments -------- assignsubmission_comments.php ----- 100%
 
 
 
