@@ -84,7 +84,7 @@ assignfeedback_file -------------- assignfeedback_file.php ----------- 100%
 assignfeedback_offline ----------- assignfeedback_offline.php -------- 100%
 assignsubmission_comments -------- assignsubmission_comments.php ----- 100%
 assignsubmission_file ------------ assignsubmission_file.php --------- 100%
-
+assignsubmission_onlinetext ------ assignsubmission_onlinetext.php --- 100%
 
 
 
