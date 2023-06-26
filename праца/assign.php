@@ -125,197 +125,198 @@ $string['beginassignment'] = 'Пачаць заданьне';
 $string['blindmarking'] = 'Ананімныя прадстаўленьні';
 $string['blindmarking_help'] = 'Ананімныя прадстаўленьні ўтойваюць асобы студэнтаў ад правяральнікаў. Налады ананімнага прадстаўленьня будуць заблакаваныя пасьля адпраўкі першага прадстаўленьня ці выстаўленьня адзнакі для зьвязанага заданьня.';
 $string['blindmarkingenabledwarning'] = 'Для гэтай актыўнасьці ўключаны ананімныя прадстаўленьні. Адзнакі будуць даданы ў журнал адзнак пасьля выяўленьня асобы студэнта праз меню дзеяньняў ацэньваньня.';
-$string['cachedef_overrides'] = 'User and group override information';
-$string['calendardue'] = '{$a} is due';
-$string['calendargradingdue'] = '{$a} is due to be graded';
-$string['caneditsubmission'] = 'You can edit your submission and submit it after the time limit has expired, but it will be marked as late.';
-$string['changefilters'] = 'Change filters';
-$string['changeuser'] = 'Change user';
-$string['choosegradingaction'] = 'Grading action';
-$string['choosemarker'] = 'Choose...';
-$string['chooseoperation'] = 'Choose operation';
-$string['clickexpandreviewpanel'] = 'Click to expand review panel';
-$string['collapsegradepanel'] = 'Collapse grade panel';
-$string['collapsereviewpanel'] = 'Collapse review panel';
-$string['comment'] = 'Comment';
-$string['completiondetail:submit'] = 'Make a submission';
-$string['completionsubmit'] = 'Student must make a submission';
-$string['configshowrecentsubmissions'] = 'Everyone can see notifications of submissions in recent activity reports.';
-$string['confirmbatchgradingoperation'] = 'Are you sure you want to {$a->operation} for {$a->count} students?';
-$string['confirmstart'] = 'You have {$a} to complete this assignment. When you begin, the timer will start to count down and can\'t be paused.';
-$string['confirmsubmission'] = 'Are you sure you want to submit your work for grading? You will not be able to make any more changes.';
-$string['confirmsubmissionheading'] = 'Confirm submission';
-$string['conversionexception'] = 'Could not convert assignment. Exception was: {$a}.';
-$string['couldnotconvertgrade'] = 'Could not convert assignment grade for user {$a}.';
-$string['couldnotconvertsubmission'] = 'Could not convert assignment submission for user {$a}.';
-$string['couldnotcreatecoursemodule'] = 'Could not create course module.';
-$string['couldnotcreatenewassignmentinstance'] = 'Could not create new assignment instance.';
-$string['couldnotfindassignmenttoupgrade'] = 'Could not find old assignment instance to upgrade.';
-$string['crontask'] = 'Background processing for assignment module';
-$string['currentassigngrade'] = 'Current grade in assignment';
-$string['currentattempt'] = 'This is attempt {$a}.';
-$string['currentattemptof'] = 'This is attempt {$a->attemptnumber} ( {$a->maxattempts} attempts allowed ).';
-$string['currentgrade'] = 'Current grade in gradebook';
-$string['cutoffdate'] = 'Cut-off date';
-$string['cutoffdate_help'] = 'If set, the assignment will not accept submissions after this date without an extension.';
-$string['cutoffdatecolon'] = 'Cut-off date: {$a}';
-$string['cutoffdatefromdatevalidation'] = 'Cut-off date cannot be earlier than the allow submissions from date.';
-$string['cutoffdatevalidation'] = 'Cut-off date cannot be earlier than the due date.';
-$string['defaultlayout'] = 'Restore default layout';
-$string['defaultsettings'] = 'Default assignment settings';
-$string['defaultsettings_help'] = 'These settings define the defaults for all new assignments.';
-$string['defaultteam'] = 'Default group';
-$string['deleteallsubmissions'] = 'Delete all submissions';
-$string['description'] = 'Description';
-$string['disabled'] = 'Disabled';
-$string['downloadall'] = 'Download all submissions';
-$string['downloadasfolders'] = 'Download submissions in folders';
-$string['downloadasfolders_help'] = 'Assignment submissions may be downloaded in folders. Each submission is then put in a separate folder, with the folder structure kept for any subfolders, and files are not renamed.';
-$string['downloadselectedsubmissions'] = 'Download selected submissions';
-$string['duedate'] = 'Due date';
-$string['duedate_help'] = 'This is when the assignment is due. Submissions will still be allowed after this date, but any assignments submitted after this date will be marked as late. Set an assignment cut-off date to prevent submissions after a certain date.';
-$string['duedatecolon'] = 'Due date: {$a}';
-$string['duedatereached'] = 'The due date for this assignment has now passed';
-$string['duedatevalidation'] = 'Due date cannot be earlier than the allow submissions from date.';
-$string['duplicateoverride'] = 'Duplicate override';
-$string['editaction'] = 'Actions...';
-$string['editattemptfeedback'] = 'Edit the grade and feedback for attempt number {$a}.';
-$string['editingpreviousfeedbackwarning'] = 'You are editing the feedback for a previous attempt. This is attempt {$a->attemptnumber} out of {$a->totalattempts}.';
-$string['editingstatus'] = 'Editing status';
-$string['editonline'] = 'Edit online';
-$string['editoverride'] = 'Edit override';
-$string['editsubmission'] = 'Edit submission';
-$string['editsubmission_help'] = 'You can still make changes to your submission.';
-$string['editsubmissionother'] = 'Edit submission for {$a}';
-$string['enabled'] = 'Enabled';
-$string['enabletimelimit'] = 'Enable timed assignments';
-$string['enabletimelimit_help'] = 'If enabled, you can set a time limit on assignment settings page.';
-$string['errornosubmissions'] = 'There are no submissions to download';
-$string['errorquickgradingvsadvancedgrading'] = 'The grades were not saved because this assignment is currently using advanced grading';
-$string['errorrecordmodified'] = 'The grades were not saved because someone has modified one or more records more recently than when you loaded the page.';
-$string['eventallsubmissionsdownloaded'] = 'All the submissions are being downloaded.';
-$string['eventassessablesubmitted'] = 'A submission has been submitted.';
-$string['eventbatchsetmarkerallocationviewed'] = 'Batch set marker allocation viewed';
-$string['eventbatchsetworkflowstateviewed'] = 'Batch set workflow state viewed.';
-$string['eventextensiongranted'] = 'An extension has been granted.';
-$string['eventfeedbackupdated'] = 'Feedback updated';
-$string['eventfeedbackviewed'] = 'Feedback viewed';
-$string['eventgradingformviewed'] = 'Grading form viewed';
-$string['eventgradingtableviewed'] = 'Grading table viewed';
-$string['eventidentitiesrevealed'] = 'The identities have been revealed.';
-$string['eventmarkerupdated'] = 'The allocated marker has been updated.';
-$string['eventoverridecreated'] = 'Assignment override created';
-$string['eventoverridedeleted'] = 'Assignment override deleted';
-$string['eventoverrideupdated'] = 'Assignment override updated';
-$string['eventremovesubmissionformviewed'] = 'Remove submission confirmation viewed.';
-$string['eventrevealidentitiesconfirmationpageviewed'] = 'Reveal identities confirmation page viewed.';
-$string['eventstatementaccepted'] = 'The user has accepted the statement of the submission.';
-$string['eventsubmissionconfirmationformviewed'] = 'Submission confirmation form viewed.';
-$string['eventsubmissioncreated'] = 'Submission created.';
-$string['eventsubmissionduplicated'] = 'The user duplicated their submission.';
-$string['eventsubmissionformviewed'] = 'Submission form viewed.';
-$string['eventsubmissiongraded'] = 'The submission has been graded.';
-$string['eventsubmissionlocked'] = 'The submissions have been locked for a user.';
-$string['eventsubmissionstatusupdated'] = 'The status of the submission has been updated.';
-$string['eventsubmissionstatusviewed'] = 'The status of the submission has been viewed.';
-$string['eventsubmissionunlocked'] = 'The submissions have been unlocked for a user.';
-$string['eventsubmissionupdated'] = 'Submission updated.';
-$string['eventsubmissionviewed'] = 'Submission viewed.';
-$string['eventworkflowstateupdated'] = 'The state of the workflow has been updated.';
-$string['expandreviewpanel'] = 'Expand review panel';
-$string['extensionduedate'] = 'Extension due date';
-$string['extensionnotafterduedate'] = 'Extension date must be after the due date';
-$string['extensionnotafterfromdate'] = 'Extension date must be after the allow submissions from date';
-$string['feedback'] = 'Feedback';
-$string['feedbackavailableanonhtml'] = 'You have new feedback on your
-assignment submission for \'<i>{$a->assignment}</i>\'<br /><br />
-You can see it appended to your <a href="{$a->url}">assignment submission</a>.';
-$string['feedbackavailableanonsmall'] = 'New feedback for assignment {$a->assignment}';
-$string['feedbackavailableanontext'] = 'You have new feedback on your
-assignment submission for \'{$a->assignment}\'
+$string['cachedef_overrides'] = 'Інфармацыя перавызначэньня карыстальнікаў ды груп';
+$string['calendardue'] = 'да {$a}';
+$string['calendargradingdue'] = 'да {$a} мусіць быць ацэнена';
+$string['caneditsubmission'] = 'Вы можаце рэдагаваць і адпраўляць вашыя прадстаўленьні пасьля заканчэньня часу, але яны будуць пазначаныя як спозьненыя.';
+$string['changefilters'] = 'Зьмяніць фільтры';
+$string['changeuser'] = 'Зьмяніць карыстальніка';
+$string['choosegradingaction'] = 'Дзеяньне ацэньваньня';
+$string['choosemarker'] = 'Абраць...';
+$string['chooseoperation'] = 'Абярыце аперацыю';
+$string['clickexpandreviewpanel'] = 'Націсьніце, каб разгарнуць панэль агляду';
+$string['collapsegradepanel'] = 'Згарнуць панэль ацэньваньня';
+$string['collapsereviewpanel'] = 'Згарнуць панэль агляду';
+$string['comment'] = 'Каментар';
+$string['completiondetail:submit'] = 'Зрабіць прадстаўленьне';
+$string['completionsubmit'] = 'Студэнт мусіць зрабіць прадстаўленьне';
+$string['configshowrecentsubmissions'] = 'Усе могуць бачыць абвесткі прадстаўленьняў у цяперашняй справаздачы актыўнасьці.';
+$string['confirmbatchgradingoperation'] = 'Вы ўпэўненыя, што жадаеце {$a->operation} з {$a->count} студэнтамі?';
+$string['confirmstart'] = 'Вы маеце {$a} на выкананьне гэтага заданьня. З вашым пачынаньнем таймер пачне зваротны адлік, і яго нельга будзе спыніць.';
+$string['confirmsubmission'] = 'Вы ўпэўненыя, што жадаеце адправіць працу на ацэньваньне? Вы болей ня зможаць зьмяняць сваю працу.';
+$string['confirmsubmissionheading'] = 'Пацьвердзіць прадстаўленьне';
+$string['conversionexception'] = 'Нельга канвертаваць заданьне. Выключэньне: {$a}.';
+$string['couldnotconvertgrade'] = 'Нельга канвертаваць адзнаку заданьня для карыстальніка {$a}.';
+$string['couldnotconvertsubmission'] = 'Нельга канвертаваць прадстаўленьне заданьня для карыстальніка {$a}.';
+$string['couldnotcreatecoursemodule'] = 'Нельга стварыць модуль курса.';
+$string['couldnotcreatenewassignmentinstance'] = 'Нельга стварыць новы экзэмпляр заданьня.';
+$string['couldnotfindassignmenttoupgrade'] = 'Нельга знайсьці стары экзэмпляр заданьня для абнаўленьня.';
+$string['crontask'] = 'Фонавая апрацоўка для модуля заданьня';
+$string['currentassigngrade'] = 'Адзнака зараз у заданьні';
+$string['currentattempt'] = 'Гэта спроба {$a}.';
+$string['currentattemptof'] = 'Гэта спроба {$a->attemptnumber} ( {$a->maxattempts} дазволена спроб ).';
+$string['currentgrade'] = 'Адзнака зараз у журнале адзнак';
+$string['cutoffdate'] = 'Дата адсяканьня';
+$string['cutoffdate_help'] = 'Калі ўсталявана, заданьне ня будзе прынімаць прадстаўленьні пасьля гэнай даты без падаўжэньня.';
+$string['cutoffdatecolon'] = 'Дата адсяканьня: {$a}';
+$string['cutoffdatefromdatevalidation'] = 'Дата адсяканьня ня можа быць ранейшай за дату пачынаньня.';
+$string['cutoffdatevalidation'] = 'Дата адсяканьня ня можа быць ранейшай за дату заканчэньня.';
+$string['defaultlayout'] = 'Аднавіць стандартны макет';
+$string['defaultsettings'] = 'Стандартныя налады заданьня';
+$string['defaultsettings_help'] = 'Гэтыя налады вызначаюць стандартнае ўсіх новых заданьняў.';
+$string['defaultteam'] = 'Стандартная група';
+$string['deleteallsubmissions'] = 'Выдаліць усе прадстаўленьні';
+$string['description'] = 'Апісаньне';
+$string['disabled'] = 'Адключана';
+$string['downloadall'] = 'Спампаваць усе прадстаўленьні';
+$string['downloadasfolders'] = 'Спампаваць усе прадстаўленьні ў тэчках';
+$string['downloadasfolders_help'] = 'Прадстаўленьні заданьня льга спампоўваць тэчкамі. Кожнае прадстаўленьне месьціцца ў асобную тэчку, структура тэчак захоўваецца для ўсіх падтэчак, а файлы не пераназываюцца.';
+$string['downloadselectedsubmissions'] = 'Спампаваць абраныя прадстаўленьні';
+$string['duedate'] = 'Дата заканчэньня';
+$string['duedate_help'] = 'Час, да якога трэба выканаць заданьне. Пасьля гэтай даты адпраўленьне прадстаўленьняў будзе дазволена, але адпраўленыя пасьля гэтай даты прадстаўленьні будуць пазначаныя як спозьненыя.';
+$string['duedatecolon'] = 'Дата заканчэньня: {$a}';
+$string['duedatereached'] = 'Дата заканчэньня гэтага заданьня была пройдзена';
+$string['duedatevalidation'] = 'Дата заканчэньня ня можа быць ранейшай за дату пачынаньня.';
+$string['duplicateoverride'] = 'Дубляваць перавызначэньне';
+$string['editaction'] = 'Дзеяньні...';
+$string['editattemptfeedback'] = 'Рэдагаваць адзнаку і водгук для спробы нумар {$a}.';
+$string['editingpreviousfeedbackwarning'] = 'Вы рэдагуеце водгук папярэдняй спробы. Гэта спроба {$a->attemptnumber} з {$a->totalattempts}.';
+$string['editingstatus'] = 'Статус рэдагаваньня';
+$string['editonline'] = 'Рэдагаваць анлайн';
+$string['editoverride'] = 'Рэдагаваць перавызначэньне';
+$string['editsubmission'] = 'Рэдагаваць прадстаўленьне';
+$string['editsubmission_help'] = 'Вы дагэтуль здольныя зьмяняць вашае прадстаўленьне.';
+$string['editsubmissionother'] = 'Рэдагаваць прадстаўленьне для {$a}';
+$string['enabled'] = 'Уключана';
+$string['enabletimelimit'] = 'Уключыць таймер заданьняў';
+$string['enabletimelimit_help'] = 'Калі ўключана, вы можаце ўсталяваць ліміт часу на старонцы наладаў заданьня.';
+$string['errornosubmissions'] = 'Прадстаўленьні, якія льга спампаваць, адсутнічаюць';
+$string['errorquickgradingvsadvancedgrading'] = 'Адзнакі не былі захаваныя, бо гэтае заданьне зараз выкарыстоўвае прасунутае ацэньваньне';
+$string['errorrecordmodified'] = 'Адзнакі не былі захаваныя, бо хтосьці зьмяніў адзін ці некалькі запісаў пазьней за вашую загрузку старонкі.';
+$string['eventallsubmissionsdownloaded'] = 'Усе прадстаўленьні былі спампаваныя.';
+$string['eventassessablesubmitted'] = 'Прадстаўленьне было адпраўлена.';
+$string['eventbatchsetmarkerallocationviewed'] = 'Усталяваньне разьмеркаваньня правяральніка прагледжана.';
+$string['eventbatchsetworkflowstateviewed'] = 'Усталяваньне статус працоўнага струменя прагледжана.';
+$string['eventextensiongranted'] = 'Падаўжэньне было даравана.';
+$string['eventfeedbackupdated'] = 'Водгук абноўлены';
+$string['eventfeedbackviewed'] = 'Водгук прагледжаны';
+$string['eventgradingformviewed'] = 'Форма ацэньваньня прагледжана';
+$string['eventgradingtableviewed'] = 'Табліца ацэньваньня прагледжана';
+$string['eventidentitiesrevealed'] = 'Ідэнтыфікатары былі выяўлены.';
+$string['eventmarkerupdated'] = 'Разьмеркаваньне правяральніка абноўлена.';
+$string['eventoverridecreated'] = 'Перавызначэньне заданьня створана';
+$string['eventoverridedeleted'] = 'Перавызначэньне заданьня выдалена';
+$string['eventoverrideupdated'] = 'Перавызначэньне заданьня абноўлена';
+$string['eventremovesubmissionformviewed'] = 'Выдаленьне пацьверджаньня прадстаўленьня прагледжана.';
+$string['eventrevealidentitiesconfirmationpageviewed'] = 'Старонка пацьверджаньня выяўленьня ідэнтыфікатараў прагледжана.';
+$string['eventstatementaccepted'] = 'Карыстальнік прыняў статус прадстаўленьня.';
+$string['eventsubmissionconfirmationformviewed'] = 'Форма пацьверджаньня падстаўленьня прагледжана.';
+$string['eventsubmissioncreated'] = 'Прадстаўленьне створана.';
+$string['eventsubmissionduplicated'] = 'Карыстальнік дубляваў сваё прадстаўленьне.';
+$string['eventsubmissionformviewed'] = 'Форма прадстаўленьня прагледжана.';
+$string['eventsubmissiongraded'] = 'Прадстаўленьне было ацэнена.';
+$string['eventsubmissionlocked'] = 'Прадстаўленьне было заблакавана для карыстальніка.';
+$string['eventsubmissionstatusupdated'] = 'Статус прадстаўленьня было абноўлена.';
+$string['eventsubmissionstatusviewed'] = 'Статус прадстаўленьня быў прагледжаны.';
+$string['eventsubmissionunlocked'] = 'Прадстаўленьне было адблакавана для карыстальніка.';
+$string['eventsubmissionupdated'] = 'Прадстаўленьне абноўлена.';
+$string['eventsubmissionviewed'] = 'Прадстаўленьне прагледжана.';
+$string['eventworkflowstateupdated'] = 'Статус працоўнага струменя быў абноўлены.';
+$string['expandreviewpanel'] = 'Разгарнуць панэль агляду';
+$string['extensionduedate'] = 'Падоўжыць да даты';
+$string['extensionnotafterduedate'] = 'Дата пашырэньня мусіць быць пасьля даты завяршэньня';
+$string['extensionnotafterfromdate'] = 'Дата пашырэньня мусіць быць пасьля даты пачынаньня';
+$string['feedback'] = 'Водгук';
+$string['feedbackavailableanonhtml'] = 'Вы маеце новы водгук на вашае 
+прадстаўленьне заданьня \'<i>{$a->assignment}</i>\'<br /><br />
+Вы можаце ўбачыць яго ў вашым <a href="{$a->url}">прадстаўленьні заданьня</a>.';
+$string['feedbackavailableanonsmall'] = 'Новы водгук для заданьня {$a->assignment}';
+$string['feedbackavailableanontext'] = 'Вы маеце новы водгук на вашае
+прадстаўленьне заданьня \'{$a->assignment}\'
 
-You can see it appended to your assignment submission:
-
-    {$a->url}';
-$string['feedbackavailablehtml'] = '{$a->username} has posted some feedback on your
-assignment submission for \'<i>{$a->assignment}</i>\'<br /><br />
-You can see it appended to your <a href="{$a->url}">assignment submission</a>.';
-$string['feedbackavailablesmall'] = '{$a->username} has given feedback for assignment {$a->assignment}';
-$string['feedbackavailabletext'] = '{$a->username} has posted some feedback on your
-assignment submission for \'{$a->assignment}\'
-
-You can see it appended to your assignment submission:
+Вы можаце ўбачыць яго ў вашым прадстаўленьні заданьня:
 
     {$a->url}';
-$string['feedbackplugin'] = 'Feedback plugin';
-$string['feedbackpluginforgradebook'] = 'Feedback plugin that will push comments to the gradebook';
-$string['feedbackpluginforgradebook_help'] = 'Only one assignment feedback plugin can push feedback into the gradebook.';
-$string['feedbackplugins'] = 'Feedback plugins';
-$string['feedbacksettings'] = 'Feedback settings';
-$string['feedbacktypes'] = 'Feedback types';
-$string['filesubmissions'] = 'File submissions';
-$string['filter'] = 'Filter';
-$string['filterdraft'] = 'Draft';
-$string['filtergrantedextension'] = 'Granted extension';
-$string['filternone'] = 'No filter';
-$string['filternotsubmitted'] = 'Not submitted';
-$string['filterrequiregrading'] = 'Requires grading';
-$string['filtersubmitted'] = 'Submitted';
-$string['fixrescalednullgrades'] = 'This assignment contains some erroneous grades. You can <a href="{$a->link}">automatically fix these grades</a>. This may affect course totals.';
-$string['fixrescalednullgradesconfirm'] = 'Are you sure you want to fix erroneous grades? All affected grades will be removed. This may affect course totals.';
-$string['fixrescalednullgradesdone'] = 'Grades fixed.';
-$string['gradeabovemaximum'] = 'Grade must be less than or equal to {$a}.';
-$string['gradebelowzero'] = 'Grade must be greater than or equal to zero.';
-$string['gradecanbechanged'] = 'Grade can be changed';
-$string['gradechangessaveddetail'] = 'The changes to the grade and feedback were saved';
-$string['graded'] = 'Graded';
-$string['gradedby'] = 'Graded by';
-$string['gradedfollowupsubmit'] = 'Graded - follow-up submission received';
-$string['gradedon'] = 'Graded on';
-$string['gradeitem:submissions'] = 'Submissions';
-$string['gradelocked'] = 'This grade is locked or overridden in the gradebook.';
-$string['gradeoutof'] = 'Grade out of {$a}';
-$string['gradeoutofhelp'] = 'Grade';
-$string['gradeoutofhelp_help'] = 'Enter the grade for the student\'s submission here. You may include decimals.';
-$string['gradersubmissionupdatedhtml'] = '{$a->username} has updated their assignment submission
-for <i>\'{$a->assignment}\'  at {$a->timeupdated}</i><br /><br />
-It is <a href="{$a->url}">available on the web site</a>.';
-$string['gradersubmissionupdatedsmall'] = '{$a->username} has updated their submission for assignment {$a->assignment}.';
-$string['gradersubmissionupdatedtext'] = '{$a->username} has updated their assignment submission
-for \'{$a->assignment}\' at {$a->timeupdated}
+$string['feedbackavailablehtml'] = '{$a->username} даў водгук на вашае
+прадстаўленьне заданьня \'<i>{$a->assignment}</i>\'<br /><br />
+Вы можаце ўбачыць яго ў вашым <a href="{$a->url}">прадстаўленьні заданьня</a>.';
+$string['feedbackavailablesmall'] = '{$a->username} даў водгук на заданьне {$a->assignment}';
+$string['feedbackavailabletext'] = '{$a->username} даў водгук на вашае
+прадстаўленьне заданьня \'{$a->assignment}\'
 
-It is available here:
+Вы можаце ўбачыць яго ў вашым прадстаўленьні заданьня:
 
     {$a->url}';
-$string['gradestudent'] = 'Grade student: (id={$a->id}, fullname={$a->fullname}).';
-$string['gradeuser'] = 'Grade {$a}';
-$string['grading'] = 'Grading';
-$string['gradingchangessaved'] = 'The grade changes were saved';
-$string['gradingduedate'] = 'Remind me to grade by';
-$string['gradingduedate_help'] = 'The expected date that marking of the submissions should be completed by. This date is used to prioritise dashboard notifications for teachers.';
-$string['gradingdueduedatevalidation'] = 'Remind me to grade by date cannot be earlier than the due date.';
-$string['gradingduefromdatevalidation'] = 'Remind me to grade by date cannot be earlier than the allow submissions from date.';
-$string['gradingmethodpreview'] = 'Grading criteria';
-$string['gradingoptions'] = 'Options';
-$string['gradingstatus'] = 'Grading status';
-$string['gradingstudent'] = 'Grading student';
-$string['gradingsummary'] = 'Grading summary';
-$string['grantextension'] = 'Grant extension';
-$string['grantextensionforusers'] = 'Grant extension for {$a} students';
-$string['groupoverrides'] = 'Group overrides';
-$string['groupoverridesdeleted'] = 'Group overrides deleted';
-$string['groupsnone'] = 'No groups you can access.';
-$string['groupsubmissionsettings'] = 'Group submission settings';
-$string['hiddenuser'] = 'Participant';
-$string['hidegrader'] = 'Hide grader identity from students';
-$string['hidegrader_help'] = 'If enabled, the identity of any user who grades an assignment submission is not shown, so students can\'t see who marked their work.
+$string['feedbackplugin'] = 'Плагін водгуку';
+$string['feedbackpluginforgradebook'] = 'Плагін водгуку, які перадае каментары ў журнал адзнак';
+$string['feedbackpluginforgradebook_help'] = 'Толькі адзін плагін водгукаў заданьня можа перадаваць водгукі ў журнал адзнак.';
+$string['feedbackplugins'] = 'Плагіны водгукаў';
+$string['feedbacksettings'] = 'Налады водгукаў';
+$string['feedbacktypes'] = 'Тыпы водгукаў';
+$string['filesubmissions'] = 'Прадстаўленьні файлаў';
+$string['filter'] = 'Фільтар';
+$string['filterdraft'] = 'Чарнавік';
+$string['filtergrantedextension'] = 'Дараванае падаўжэньне';
+$string['filternone'] = 'Фільтры адсутнічаюць';
+$string['filternotsubmitted'] = 'Не адпраўлена';
+$string['filterrequiregrading'] = 'Патрабуецца ацэньваньне';
+$string['filtersubmitted'] = 'Адпраўлена';
+$string['fixrescalednullgrades'] = 'Гэтае заданьне ўтрымлівае некалькі памылковых адзнак. Вы можаце <a href="{$a->link}">аўтаматычна выправіць гэтыя адзнакі</a>. Тое можа паўплываць на вынікі курса.';
+$string['fixrescalednullgradesconfirm'] = 'Вы ўпэўненыя, што жадаеце выправіць памылковыя адзнакі? Усе закранутыя адзнакі будуць выдалены. Тое можа паўплываць на вынікі курса.';
+$string['fixrescalednullgradesdone'] = 'Адзнакі выпраўлены.';
+$string['gradeabovemaximum'] = 'Адзнака мусіць быць меней ці роўнай {$a}.';
+$string['gradebelowzero'] = 'Адзнака мусіць быць большай ці роўнай нулю.';
+$string['gradecanbechanged'] = 'Адзнаку льга зьмяніць';
+$string['gradechangessaveddetail'] = 'Зьмены адзнакі і водгука былі захаваныя';
+$string['graded'] = 'Ацэнена';
+$string['gradedby'] = 'Ацэньнік';
+$string['gradedfollowupsubmit'] = 'Ацэнена - наступнае прадстаўленьне атрымана';
+$string['gradedon'] = 'Ацэнена за';
+$string['gradeitem:submissions'] = 'Прадстаўленьні';
+$string['gradelocked'] = 'Гэтая адзнака заблакаваная ці перавызначаная ў журнале адзнак.';
+$string['gradeoutof'] = 'Адзнака з {$a}';
+$string['gradeoutofhelp'] = 'Адзнака';
+$string['gradeoutofhelp_help'] = 'Увядзіце сюды адзнаку для прадстаўленьня студэнта. Яна можа быць дзесятковай.';
+$string['gradersubmissionupdatedhtml'] = '{$a->username} абнавіў сваё прадстаўленьне 
+заданьня <i>\'{$a->assignment}\'  у {$a->timeupdated}</i><br /><br />
+Яго <a href="{$a->url}">льга знайсьці на сайце</a>.';
+$string['gradersubmissionupdatedsmall'] = '{$a->username} бнавіў сваё прадстаўленьне 
+заданьня {$a->assignment}.';
+$string['gradersubmissionupdatedtext'] = '{$a->username} абнавіў сваё прадстаўленьне
+заданьня \'{$a->assignment}\' у {$a->timeupdated}
 
-Note that this setting has no effect on the comments box on the grading page.';
-$string['hideshow'] = 'Hide/Show';
-$string['inactiveoverridehelp'] = '* This override is inactive because the user\'s access to the activity is restricted. This can be due to group or role assignments, other access restrictions, or the activity being hidden.';
-$string['indicator:cognitivedepth'] = 'Assignment cognitive';
+Яго льга знайсьці тут:
+
+    {$a->url}';
+$string['gradestudent'] = 'Ацэньваньне студэнта: (id={$a->id}, fullname={$a->fullname}).';
+$string['gradeuser'] = 'Адзнака {$a}';
+$string['grading'] = 'Ацэньваньне';
+$string['gradingchangessaved'] = 'Зьмены адзнакі былі захаваныя';
+$string['gradingduedate'] = 'Напомніць мне пра ацэньваньне';
+$string['gradingduedate_help'] = 'Чаканая дата завяршэньня ацэньваньня прадстаўленьняў. Гэтая дата выкарыстоўваецца для вызначэньня прыярытэту абвестак прыладавай для настаўнікаў.';
+$string['gradingdueduedatevalidation'] = 'Дата напаміну пра ацэньваньне ня можа быць ранейшай за дату заканчэньня.';
+$string['gradingduefromdatevalidation'] = 'Дата напаміну пра ацэньваньне ня можа быць ранейшай за дату пачынаньня.';
+$string['gradingmethodpreview'] = 'Крытэры ацэньваньня';
+$string['gradingoptions'] = 'Налады';
+$string['gradingstatus'] = 'Статус ацэньваньня';
+$string['gradingstudent'] = 'Ацэньваньне студэнта';
+$string['gradingsummary'] = 'Коратка ацэньваньня';
+$string['grantextension'] = 'Дараваць падаўжэньне';
+$string['grantextensionforusers'] = 'Дараваць падаўжэньне {$a} студэнтам';
+$string['groupoverrides'] = 'Перавызначанае групы';
+$string['groupoverridesdeleted'] = 'Перавызначэньне выдаленага групы';
+$string['groupsnone'] = 'Групы, да якіх вы маеце доступ, адсутнічаюць.';
+$string['groupsubmissionsettings'] = 'Налады прадстаўленьняў групы';
+$string['hiddenuser'] = 'Удзельнікі';
+$string['hidegrader'] = 'Схаваць асобу адзначніка ад студэнтаў';
+$string['hidegrader_help'] = 'Калі ўключана, асоба карыстальніка, што ацэньвае прадстаўленьні заданьня, схаваная, таму студэнты ня змогуць убачыць, хто ацаніў іх працу.
+
+Зьвярніце ўвагу, гэтая налада не ўплывае на поле каментароў на старонцы ацэньваньня.';
+$string['hideshow'] = 'Схаваць/Паказаць';
+$string['inactiveoverridehelp'] = '* Гэта перавызначэньне неактыўнае, бо доступ карыстальніка да актыўнасьці абмежаваны. Тое можа быць зьвязана з прызначэньнем групы ці ролі, іншымі абмежаваньнямі доступу ці схаванасьцю актыўнасьці.';
+$string['indicator:cognitivedepth'] = 'Пазнаваньне заданьня';
 $string['indicator:cognitivedepth_help'] = 'This indicator is based on the cognitive depth reached by the student in an assignment activity.';
-$string['indicator:cognitivedepthdef'] = 'Assignment cognitive';
+$string['indicator:cognitivedepthdef'] = 'Пазнаваньне заданьня';
 $string['indicator:cognitivedepthdef_help'] = 'The participant has reached this percentage of the cognitive engagement offered by the Assignment activities during this analysis interval (Levels = No view, View, Submit, View feedback, Comment on feedback, Resubmit after viewing feedback)';
 $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cognitive_depth';
 $string['indicator:socialbreadth'] = 'Assignment social';

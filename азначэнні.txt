@@ -67,6 +67,7 @@ images = выява
 Insight = прадказаньне
 insights = асьвятленьні
 Label = Цэтлік (мод)
+layout = макет
 locked = заблакавана
 log = лог
 manager = кіроўны
