@@ -315,55 +315,55 @@ $string['hidegrader_help'] = 'Калі ўключана, асоба карыст
 $string['hideshow'] = 'Схаваць/Паказаць';
 $string['inactiveoverridehelp'] = '* Гэта перавызначэньне неактыўнае, бо доступ карыстальніка да актыўнасьці абмежаваны. Тое можа быць зьвязана з прызначэньнем групы ці ролі, іншымі абмежаваньнямі доступу ці схаванасьцю актыўнасьці.';
 $string['indicator:cognitivedepth'] = 'Пазнаваньне заданьня';
-$string['indicator:cognitivedepth_help'] = 'This indicator is based on the cognitive depth reached by the student in an assignment activity.';
+$string['indicator:cognitivedepth_help'] = 'Гэты паказьнік згрунтаваны на глыбіні пазнаваньня, якую дасягнуў студэнт ў актыўнасьці-заданьні.';
 $string['indicator:cognitivedepthdef'] = 'Пазнаваньне заданьня';
-$string['indicator:cognitivedepthdef_help'] = 'The participant has reached this percentage of the cognitive engagement offered by the Assignment activities during this analysis interval (Levels = No view, View, Submit, View feedback, Comment on feedback, Resubmit after viewing feedback)';
+$string['indicator:cognitivedepthdef_help'] = 'Удзельнік дасягную гэтага адсотку пазнавальнага ўцягненьня, прапанаваны актыўнасьцямі-заданьнямі ў аналізаваны тэрмін (Роўні = Без прагляду, Прагляд, Адпраўленьне, Прагляд водгуку, Каментар водгуку, Паўторнае адпраўленьне пасьля прагляду водгуку)';
 $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cognitive_depth';
-$string['indicator:socialbreadth'] = 'Assignment social';
-$string['indicator:socialbreadth_help'] = 'This indicator is based on the social breadth reached by the student in an assignment activity.';
-$string['indicator:socialbreadthdef'] = 'Assignment social';
-$string['indicator:socialbreadthdef_help'] = 'The participant has reached this percentage of the social engagement offered by the Assignment activities during this analysis interval (Levels = No participation, Participant alone, Participant with others)';
+$string['indicator:socialbreadth'] = 'Сацыяльнасьць заданьня';
+$string['indicator:socialbreadth_help'] = 'Гэты паказьнік згрунтаваны на сацыяльнай шырыні, якую дасягнуў студэнт ў актыўнасьці-заданьні.';
+$string['indicator:socialbreadthdef'] = 'Сацыяльнасьць заданьня';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаваны актыўнасьцямі-заданьнямі ў аналізаваны тэрмін (Роўні = Без удзельнікаў, Адзін удзельнік, Сумесны ўдзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
-$string['instructionfiles'] = 'Instruction files';
-$string['introattachments'] = 'Additional files';
-$string['introattachments_help'] = 'Additional files for use in the assignment, such as answer templates, may be added.';
-$string['invalidfloatforgrade'] = 'The grade provided could not be understood: {$a}';
-$string['invalidgradeforscale'] = 'The grade supplied was not valid for the current scale';
-$string['invalidoverrideid'] = 'Invalid override id';
-$string['lastmodifiedgrade'] = 'Last modified (grade)';
-$string['lastmodifiedsubmission'] = 'Last modified (submission)';
-$string['latesubmissions'] = 'Late submissions';
-$string['latesubmissionsaccepted'] = 'Allowed until {$a}';
-$string['loading'] = 'Loading...';
-$string['locksubmissionforstudent'] = 'Prevent any more submissions for student: (id={$a->id}, fullname={$a->fullname}).';
-$string['locksubmissions'] = 'Lock submissions';
-$string['manageassignfeedbackplugins'] = 'Manage assignment feedback plugins';
-$string['manageassignsubmissionplugins'] = 'Manage assignment submission plugins';
-$string['marker'] = 'Marker';
-$string['markerfilter'] = 'Marker filter';
-$string['markerfilternomarker'] = 'No marker';
-$string['markingallocation'] = 'Use marking allocation';
-$string['markingallocation_help'] = 'If enabled together with marking workflow, markers can be allocated to particular students.';
-$string['markingworkflow'] = 'Use marking workflow';
-$string['markingworkflow_help'] = 'If enabled, marks will go through a series of workflow stages before being released to students. This allows for multiple rounds of marking and allows marks to be released to all students at the same time.';
-$string['markingworkflowstate'] = 'Marking workflow state';
-$string['markingworkflowstate_help'] = 'Possible workflow states may include (depending on your permissions):
+$string['instructionfiles'] = 'Файлы інструкцыяў';
+$string['introattachments'] = 'Дадатковыя файлы';
+$string['introattachments_help'] = 'Дадатковыя файлы для ўжываньня ў заданьні, напрыклад, шаблоны адказу.';
+$string['invalidfloatforgrade'] = 'Пададзеную адзнаку нельга зразумець: {$a}';
+$string['invalidgradeforscale'] = 'Пададзеная адзнака хібная для цяперашней шкалы';
+$string['invalidoverrideid'] = 'Хібны id перавызначэньня';
+$string['lastmodifiedgrade'] = 'Апошняя зьмена (адзнака)';
+$string['lastmodifiedsubmission'] = 'Апошняя зьмена (прадстаўленьня)';
+$string['latesubmissions'] = 'Спозьненнае прадстаўленьне';
+$string['latesubmissionsaccepted'] = 'Дазволена да {$a}';
+$string['loading'] = 'Загрузка...';
+$string['locksubmissionforstudent'] = 'Перадухіліць далейшыя прадстаўленьні студэнта: (id={$a->id}, поўнае імя={$a->fullname}).';
+$string['locksubmissions'] = 'Заблакаваць прадстаўленьні';
+$string['manageassignfeedbackplugins'] = 'Кіраваць плагінамі водгукаў заданьня';
+$string['manageassignsubmissionplugins'] = 'Кіраваць плагінамі прадстаўленьняў заданьня';
+$string['marker'] = 'Правяральнік';
+$string['markerfilter'] = 'Фільтар правяральнікаў';
+$string['markerfilternomarker'] = 'Правяральнік адсутнічае';
+$string['markingallocation'] = 'Ужываць разьмеркаваньне правяральнікаў';
+$string['markingallocation_help'] = 'Калі ўключана разам з правяраным працоўным струменём, правяральнікаў льга прызначаць пэўным студэнтам.';
+$string['markingworkflow'] = 'Ужываць правяраны працоўны струмень';
+$string['markingworkflow_help'] = 'Калі ўключана, адзнакі пройдуць праз серыю крокаў працоўнага струменя да вызваленьня студэнтаў. Тое дазваляе ажыцяўляць некалькі раўндаў выстаўленьня і дазваляе вызваляць адзнакі для ўсіх студэнтаў адначасна.';
+$string['markingworkflowstate'] = 'Статус правяранага працоўнага струменя';
+$string['markingworkflowstate_help'] = 'Магчымыя статусы працоўнага струменя могуць уключаць (у залежнасьці ад вашых дазволаў):
 
-* Not marked - the marker has not yet started
-* In marking - the marker has started but not yet finished
-* Marking completed - the marker has finished but might need to go back for checking/corrections
-* In review - the marking is now with the teacher in charge for quality checking
-* Ready for release - the teacher in charge is satisfied with the marking but may wait before giving students access to the marking
-* Released - the student can access the grades/feedback';
-$string['markingworkflowstateinmarking'] = 'In marking';
-$string['markingworkflowstateinreview'] = 'In review';
-$string['markingworkflowstatenotmarked'] = 'Not marked';
-$string['markingworkflowstatereadyforrelease'] = 'Ready for release';
-$string['markingworkflowstatereadyforreview'] = 'Marking completed';
-$string['markingworkflowstatereleased'] = 'Released';
-$string['maxattempts'] = 'Maximum attempts';
-$string['maxattempts_help'] = 'The maximum number of submission attempts that can be made by a student. After this number has been reached, the submission can no longer be reopened.';
-$string['maxgrade'] = 'Maximum Grade';
+* Без адзнакі - правяральнік дагэтуль не пачаў
+* Ацэньваецца - правяральнік пачаў, але дагэтуль ня скончыў
+* Ацэньваньне завершана - правяральнік скончыў, але можа спатрэбіцца вяртаньне для праверкі/карэктаваньня
+* Аглядаецца - правяральнік зараз ацэньвае разам з адказным настаўнікам для праверкі якасьці
+* Гатова да вызваленьня - адказны настаўнік задаволены адзнакамі, але жадае пачакаць, перш чым даць студэнтам доступ да адзнак
+* Вызвалена - студэнт можа атрымаць доступ да адзнакі/водгука';
+$string['markingworkflowstateinmarking'] = 'Ацэньваецца';
+$string['markingworkflowstateinreview'] = 'Аглядаецца';
+$string['markingworkflowstatenotmarked'] = 'Без адзнакі';
+$string['markingworkflowstatereadyforrelease'] = 'Гатова да вызваленьня';
+$string['markingworkflowstatereadyforreview'] = 'Ацэньваньне завершана';
+$string['markingworkflowstatereleased'] = 'Вызвалена';
+$string['maxattempts'] = 'Максімальные спробы';
+$string['maxattempts_help'] = 'Максімальная колькасьць спробаў прадстаўленьня, якую можа зрабіць студэнт. Пасьля дасягненьня гэтай колькасьці, прадстаўленьне болей нельга будзе паўторна пачаць.';
+$string['maxgrade'] = 'Максімальная Адзнака';
 $string['maxperpage'] = 'Maximum assignments per page';
 $string['maxperpage_help'] = 'The maximum number of assignments a grader can show in the assignment grading page. This setting is useful in preventing timeouts for courses with a large number of participants.';
 $string['messageprovider:assign_notification'] = 'Assignment notifications';

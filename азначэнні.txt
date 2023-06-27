@@ -22,6 +22,7 @@ calculation = разьлік
 capability = здольнасьць
 Checkbox = Сьцяжок
 cloze question = закрытае пытаньне
+Cognitive depth = глыбіні пазнаваньня
 cohort = Кагорта
 competencies = кампетэнцыя
 completion = Выкананне
