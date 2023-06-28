@@ -275,7 +275,7 @@ $string['gradedon'] = 'Ацэнена за';
 $string['gradeitem:submissions'] = 'Прадстаўленьні';
 $string['gradelocked'] = 'Гэтая адзнака заблакаваная ці перавызначаная ў журнале адзнак.';
 $string['gradeoutof'] = 'Адзнака з {$a}';
-$string['gradeoutofhelp'] = 'Адзнака';
+$string['gradeoutofhelp'] = 'Ацэньваньне';
 $string['gradeoutofhelp_help'] = 'Увядзіце сюды адзнаку для прадстаўленьня студэнта. Яна можа быць дзесятковай.';
 $string['gradersubmissionupdatedhtml'] = '{$a->username} абнавіў сваё прадстаўленьне 
 заданьня <i>\'{$a->assignment}\'  у {$a->timeupdated}</i><br /><br />
@@ -475,154 +475,154 @@ $string['relativedatessubmissiontimeleft'] = 'Разьлічана для кож
 $string['removeallgroupoverrides'] = 'Выдаліць усе перавызначэньні групы';
 $string['removealluseroverrides'] = 'Выдаліць усе перавызначэньні карыстальніка';
 $string['removesubmission'] = 'Выдаліць прадстаўленьне';
-$string['removesubmissionconfirm'] = 'Are you sure you want to remove your submission?';
-$string['removesubmissionconfirmforstudent'] = 'Are you sure you want to remove the submission for {$a}?';
-$string['removesubmissionconfirmforstudentwithtimelimit'] = 'Are you sure you want to remove the submission for {$a}? Please note that this will not reset the student\'s time limit. You can give more time by adding a time limit user override.';
-$string['removesubmissionconfirmwithtimelimit'] = 'Are you sure you want to remove your submission? Please note that this will not reset your time limit.';
-$string['removesubmissionforstudent'] = 'Remove submission for student: (id={$a->id}, fullname={$a->fullname}).';
-$string['reopenuntilpassincompatiblewithblindmarking'] = 'Reopen until pass option is incompatible with anonymous submissions, because the grades are not released to the gradebook until the student identities are revealed.';
-$string['requireallteammemberssubmit'] = 'Require all group members submit';
-$string['requireallteammemberssubmit_help'] = 'If enabled, all members of the student group must click the submit button for this assignment before the group submission will be considered as submitted. If disabled, the group submission will be considered as submitted as soon as any member of the student group clicks the submit button.';
-$string['requiresubmissionstatement'] = 'Require that students accept the submission statement';
-$string['requiresubmissionstatement_help'] = 'Require that students accept the submission statement for all submissions to this assignment.';
-$string['revealidentities'] = 'Reveal student identities';
-$string['revealidentitiesconfirm'] = 'Are you sure you want to reveal student identities for this assignment? This operation cannot be undone. Once the student identities have been revealed, the marks will be released to the gradebook.';
-$string['reverttodefaults'] = 'Revert to assignment defaults';
-$string['reverttodraft'] = 'Revert the submission to draft status';
-$string['reverttodraftforstudent'] = 'Revert submission to draft for student: (id={$a->id}, fullname={$a->fullname}).';
-$string['reverttodraftshort'] = 'Revert the submission to draft';
-$string['reviewed'] = 'Reviewed';
-$string['save'] = 'Save';
-$string['saveallquickgradingchanges'] = 'Save all quick grading changes';
-$string['saveandcontinue'] = 'Save and continue';
-$string['savechanges'] = 'Save changes';
-$string['savegradingresult'] = 'Grade';
-$string['savenext'] = 'Save and show next';
-$string['saveoverrideandstay'] = 'Save and enter another override';
-$string['savingchanges'] = 'Saving changes...';
-$string['scale'] = 'Scale';
-$string['search:activity'] = 'Assignment - activity information';
-$string['selectedusers'] = 'Selected users';
-$string['selectlink'] = 'Select...';
-$string['selectuser'] = 'Select {$a}';
-$string['sendlatenotifications'] = 'Notify graders about late submissions';
-$string['sendlatenotifications_help'] = 'If enabled, graders (usually teachers) receive a message whenever a student submits an assignment late. Message methods are configurable.';
-$string['sendnotifications'] = 'Notify graders about submissions';
-$string['sendnotifications_help'] = 'If enabled, graders (usually teachers) receive a message whenever a student submits an assignment, early, on time and late. Message methods are configurable.';
-$string['sendstudentnotifications'] = 'Notify student';
-$string['sendstudentnotifications_help'] = 'Tick this box to send a notification about the updated grade or feedback. If the assignment uses a marking workflow, or the grades are hidden in the grader report, then the notification will not be sent until the grade is released.';
-$string['sendstudentnotificationsdefault'] = 'Default for \'Notify student\'';
-$string['sendstudentnotificationsdefault_help'] = 'When grading each student, should \'Notify student\' be ticked by default?';
-$string['sendsubmissionreceipts'] = 'Send submission receipt to students';
-$string['sendsubmissionreceipts_help'] = 'This switch enables submission receipts for students. Students will receive a notification every time they successfully submit an assignment.';
-$string['setmarkerallocationforlog'] = 'Set marking allocation : (id={$a->id}, fullname={$a->fullname}, marker={$a->marker}).';
-$string['setmarkingallocation'] = 'Set allocated marker';
-$string['setmarkingworkflowstate'] = 'Set marking workflow state';
-$string['setmarkingworkflowstateforlog'] = 'Set marking workflow state : (id={$a->id}, fullname={$a->fullname}, state={$a->state}).';
-$string['settings'] = 'Assignment settings';
-$string['showrecentsubmissions'] = 'Show recent submissions';
-$string['status'] = 'Status';
-$string['studentnotificationworkflowstateerror'] = 'Marking workflow state must be \'Released\' to notify students.';
-$string['submission'] = 'Submission';
-$string['submissionattachments'] = 'Only show files during submission';
-$string['submissionattachments_help'] = 'Tick the box to only show files on the submission page. Otherwise, files will be shown on both the assignment and submission pages.';
-$string['submissioncopiedhtml'] = '<p>You have made a copy of your previous
-assignment submission for \'<i>{$a->assignment}</i>\'.</p>
-<p>You can see the status of your <a href="{$a->url}">assignment submission</a>.</p>';
-$string['submissioncopiedsmall'] = 'You have copied your previous assignment submission for {$a->assignment}';
-$string['submissioncopiedtext'] = 'You have made a copy of your previous
-assignment submission for \'{$a->assignment}\'
+$string['removesubmissionconfirm'] = 'Вы ўпэўненыя, што жадаеце выдаліць прадстаўленьне?';
+$string['removesubmissionconfirmforstudent'] = 'Вы ўпэўненыя, што жадаеце выдаліць прадстаўленьне для {$a}?';
+$string['removesubmissionconfirmforstudentwithtimelimit'] = 'Вы ўпэўненыя, што жадаеце выдаліць прадстаўленьне для {$a}? Зьвярніце ўвагу, што гэтае ня скіне часовы ліміт студэнта. Вы можаце даць болей часу да ліміту карыстальніка шляхам перавызначэньня.';
+$string['removesubmissionconfirmwithtimelimit'] = 'Вы ўпэўненыя, што жадаеце выдаліць прадстаўленьне? Зьвярніце ўвагу, што гэтае ня скіне часовы ліміт студэнта.';
+$string['removesubmissionforstudent'] = 'Выдаліць прадстаўленьне студэнта: (id={$a->id}, поўнае імя={$a->fullname}).';
+$string['reopenuntilpassincompatiblewithblindmarking'] = 'Опцыя "паўторнага адкрыцьця да" несумяшчальная с ананімнымі працамі, бо адзнакі не вызваляюцца ў журнал адзнак, пакуль ня будуць выяўленыя асобы студэнтаў.';
+$string['requireallteammemberssubmit'] = 'Патрабаваць адпраўленьня ад усіх чальцоў груп';
+$string['requireallteammemberssubmit_help'] = 'Калі ўключана, усе чальцы студэнцкай групы мусяць націснуць кнопку адпраўленьня для гэтага заданьня, каб групавое прадстаўленьне лічылася адпраўленым. Калі адключана, групавое прадстаўленьне будзе лічыцца адпраўленым, пасьля націску кнопкі адправіць любым чальцом студэнцкай групы.';
+$string['requiresubmissionstatement'] = 'Патрабаваць ад студэнтаў прыняцьця статусу прадстаўленьня';
+$string['requiresubmissionstatement_help'] = 'Патрабуе прыняцьця статусу прадстаўленьня ад студэнтаў для ўсіх прадстаўленьняў гэтага заданьня.';
+$string['revealidentities'] = 'Выявіць асобы студэнтаў';
+$string['revealidentitiesconfirm'] = 'Вы ўпэўненыя, што жадаеце выявіць асобы студэнтаў для гэтага заданьня? Тую аперацыю нельга скасаваць. Пасьля выяўленьня асобаў студэнтаў, адзнакі будуць вызвалены ў журнал адзнак.';
+$string['reverttodefaults'] = 'Вярнуцца да стандартнага заданьня';
+$string['reverttodraft'] = 'Вярнуць прадстаўленьня да статусу чарнавіка';
+$string['reverttodraftforstudent'] = 'Вярнуць прадстаўленьне студэнта да чарнавіка: (id={$a->id}, поўнае імя={$a->fullname}).';
+$string['reverttodraftshort'] = 'Вярнуць прадстаўленьне да чарнавіка';
+$string['reviewed'] = 'Агледжана';
+$string['save'] = 'Захаваць';
+$string['saveallquickgradingchanges'] = 'Захаваць усе зьмены хуткага ацэньваньня';
+$string['saveandcontinue'] = 'Захаваць і працягнуць';
+$string['savechanges'] = 'Захаваць зьмены';
+$string['savegradingresult'] = 'Ацаніць';
+$string['savenext'] = 'Захаваць і паказаць наступнае';
+$string['saveoverrideandstay'] = 'Захаваць і ўвесьці іншае перавызначэньне';
+$string['savingchanges'] = 'Захаваць зьмены...';
+$string['scale'] = 'Шкала';
+$string['search:activity'] = 'Інфармацыя актыўнасьці-заданьня';
+$string['selectedusers'] = 'Абраныя карыстальнікі';
+$string['selectlink'] = 'Абраньне...';
+$string['selectuser'] = 'Абраць {$a}';
+$string['sendlatenotifications'] = 'Абвяшчаць адзначнікаў пра спозьненыя прадстаўленьні';
+$string['sendlatenotifications_help'] = 'Калі ўключана, адзначнікі (звычайна настаўнікі) будуць атрымліваць паведамленьні пасьля спозьненага адпраўленьня заданьня студэнтам. Метады паведамленьня льга наладжваць. ';
+$string['sendnotifications'] = 'Абвяшчаць адзначнікаў пра прадстаўленьні';
+$string['sendnotifications_help'] = 'Калі ўключана, адзначнікі (звычайна настаўнікі) будуць атрымліваць паведамленьні пасьля адпраўленьня заданьня студэнтам ў час і спозьнена. Метады паведамленьня льга наладжваць. ';
+$string['sendstudentnotifications'] = 'Абвяшчаць студэнтаў';
+$string['sendstudentnotifications_help'] = 'Усталюйце гэты сьцяжок, каб адпраўляць абвесткі пра абнаўленьне адзнак і водгукаў. Калі заданьне выкарыстоўвае правяраны працоўны струмень, ці адзнакі схаваныя ў справаздачы адзначніка, тады абвесткі ня будуць адпраўляцца пакуль адзнакі ня вызваленыя.';
+$string['sendstudentnotificationsdefault'] = 'Стандартнае \'Абвяшчаць студэнтаў\'';
+$string['sendstudentnotificationsdefault_help'] = 'Падчас ацэньваньня кожнага студэнта, трэба выкарыстоўваць \'Абвяшчаць студэнтаў\' па стандарту?';
+$string['sendsubmissionreceipts'] = 'Адпраўляць атрыманьне прадстаўленьня для студэнтаў';
+$string['sendsubmissionreceipts_help'] = 'Гэты перамыкальнік дазваляе атрыманьне прадстаўленьня для студэнтаў. Студэнты будуць атрымліваць абвесткі кожны раз пасьля пасьпяховага адпраўленьня заданьня.';
+$string['setmarkerallocationforlog'] = 'Усталяваць разьмеркаваньне правяральнікаў : (id={$a->id}, поўнае імя={$a->fullname}, правяральнік={$a->marker}).';
+$string['setmarkingallocation'] = 'Усталяваць разьмеркаваньне правяральніка';
+$string['setmarkingworkflowstate'] = 'Усталяваць статус правяранага працоўнага струменя';
+$string['setmarkingworkflowstateforlog'] = 'Усталяваць статус правяранага працоўнага струменя : (id={$a->id}, поўнае імя={$a->fullname}, статус={$a->state}).';
+$string['settings'] = 'Налады заданьня';
+$string['showrecentsubmissions'] = 'Паказаць апошнія прадстаўленьні';
+$string['status'] = 'Статус';
+$string['studentnotificationworkflowstateerror'] = 'Статус правяранага працоўнага струменя мусіць быць \'Вызвалена\' для абвяшчэньня студэнтаў.';
+$string['submission'] = 'Прадстаўленьне';
+$string['submissionattachments'] = 'Паказваць файлы толькі падчас прадстаўленьня';
+$string['submissionattachments_help'] = 'Усталяюйце сьцяжок, каб паказваць файлы толькі на старонцы прадстаўленьня. У адваротным выпадку, файлы будуць адлюстроўвацца на старонках заданьня і прадстаўленьня.';
+$string['submissioncopiedhtml'] = '<p>Вы зрабілі копію вашага папярэдняга
+прадстаўленьня заданьня \'<i>{$a->assignment}</i>\'.</p>
+<p>Вы можаце ўбачыць вашы статус <a href="{$a->url}">прадстаўленьня заданьня</a>.</p>';
+$string['submissioncopiedsmall'] = 'Вы скапіявалі вашае папярэдняе прадстаўленьне заданьня {$a->assignment}';
+$string['submissioncopiedtext'] = 'Вы зрабілі копію вашага папярэдняга
+прадстаўленьня заданьня \'{$a->assignment}\'
 
-You can see the status of your assignment submission:
-
-    {$a->url}';
-$string['submissiondrafts'] = 'Require students to click the submit button';
-$string['submissiondrafts_help'] = 'If enabled, students will have to click a submit button to declare their submission as final. This allows students to keep a draft version of the submission on the system. If this setting is changed from "No" to "Yes" after students have already submitted, those submissions will be regarded as final.';
-$string['submissioneditable'] = 'Student can edit this submission';
-$string['submissionempty'] = 'Nothing was submitted';
-$string['submissionlog'] = 'Student: {$a->fullname}, Status: {$a->status}';
-$string['submissionmodified'] = 'You have existing submission data. Please leave this page and try again.';
-$string['submissionmodifiedgroup'] = 'The submission has been modified by somebody else. Please leave this page and try again.';
-$string['submissionnotcopiedinvalidstatus'] = 'The submission was not copied because it has been edited since it was reopened.';
-$string['submissionnoteditable'] = 'Student cannot edit this submission';
-$string['submissionnotopen'] = 'This assignment is not open for submissions';
-$string['submissionnotready'] = 'This assignment is not ready to submit:';
-$string['submissionplugins'] = 'Submission plugins';
-$string['submissionreceipthtml'] = '<p>You have submitted an assignment submission for \'<i>{$a->assignment}</i>\'.</p>
-<p>You can see the status of your <a href="{$a->url}">assignment submission</a>.</p>';
-$string['submissionreceiptotherhtml'] = 'Your assignment submission for
-\'<i>{$a->assignment}</i>\' has been submitted.<br /><br />
-You can see the status of your <a href="{$a->url}">assignment submission</a>.';
-$string['submissionreceiptothersmall'] = 'Your assignment submission for {$a->assignment} has been submitted.';
-$string['submissionreceiptothertext'] = 'Your assignment submission for
-\'{$a->assignment}\' has been submitted.
-
-You can see the status of your assignment submission:
+Вы можаце ўбачыць статус вашага прадстаўленьня заданьня:
 
     {$a->url}';
-$string['submissionreceipts'] = 'Send submission receipts';
-$string['submissionreceiptsmall'] = 'You have submitted your assignment submission for {$a->assignment}';
-$string['submissionreceipttext'] = 'You have submitted an
-assignment submission for \'{$a->assignment}\'
+$string['submissiondrafts'] = 'Патрабаваць ад студэнтаў націсканьня кнопкі адправіць';
+$string['submissiondrafts_help'] = 'Калі ўсталявана, ад студэнтаў будзе патрабавацца націсканьне кнопкі адправіць для аб\'явы прадстаўленьня выніковым. Тое дазваляе студэнтам захоўваць у сістэме чарнавую версію прадстаўленьня. Калі гэтая налада зьменена з "Не" на "Так", адпраўленыя прадстаўленьні студэнтаў будуць пераацэнены як выніковыя.';
+$string['submissioneditable'] = 'Студэнт можа рэдагаваць гэтае прадстаўленьне';
+$string['submissionempty'] = 'Нічога не было адпраўлена';
+$string['submissionlog'] = 'Студэнт: {$a->fullname}, Статус: {$a->status}';
+$string['submissionmodified'] = 'Вы ўжо маеце існуючыя дадзеныя прадстаўленьня. Калі ласка, пакіньце гэтую старонку і паспрабуйце зноў.';
+$string['submissionmodifiedgroup'] = 'Гэтае прадстаўленьне было зьменена кімсьці іншым. Калі ласка, пакіньце гэтую старонку і паспрабуйце зноў.';
+$string['submissionnotcopiedinvalidstatus'] = 'Прадстаўленьне не было скапіявана, бо яно адрэгавана пасьля паўторнага адкрыцьця.';
+$string['submissionnoteditable'] = 'Студэнт ня можа рэдагаваць гэтае прадстаўленьне';
+$string['submissionnotopen'] = 'Гэтае заданьне не адкрытае для прадстаўленьняў';
+$string['submissionnotready'] = 'Гэтае заданьне не гатовае для адпраўленьня:';
+$string['submissionplugins'] = 'Плагіны прадстаўленьня';
+$string['submissionreceipthtml'] = '<p>Вы адправілі прадстаўленьня заданьня \'<i>{$a->assignment}</i>\'.</p>
+<p>Вы можаце ўбачыць статус вашага <a href="{$a->url}">прадстаўленьня заданьня</a>.</p>';
+$string['submissionreceiptotherhtml'] = 'Вашае прадстаўленьня заданьня
+\'<i>{$a->assignment}</i>\' было адпраўлена.<br /><br />
+Вы можаце ўбачыць статус вашага <a href="{$a->url}">прадстаўленьня заданьня</a>.';
+$string['submissionreceiptothersmall'] = 'Вашае прадстаўленьня заданьня {$a->assignment} было адпраўлена.';
+$string['submissionreceiptothertext'] = 'Вашае прадстаўленьня заданьня
+\'{$a->assignment}\' было адпраўлена.
 
-You can see the status of your assignment submission:
+Вы можаце ўбачыць статус вашага прадстаўленьня заданьня:
 
     {$a->url}';
-$string['submissionsclosed'] = 'Submissions closed';
-$string['submissionsettings'] = 'Submission settings';
-$string['submissionslocked'] = 'This assignment is not accepting submissions';
-$string['submissionslockedshort'] = 'Submission changes not allowed';
-$string['submissionstatement'] = 'Submission statement';
-$string['submissionstatement_help'] = 'Statement that each student must accept in order to submit their work.';
-$string['submissionstatementacceptedlog'] = 'Submission statement accepted by user {$a}';
-$string['submissionstatementdefault'] = 'This submission is my own work, except where I have acknowledged the use of the works of other people.';
-$string['submissionstatementteamsubmission'] = 'Group submission statement';
-$string['submissionstatementteamsubmission_help'] = 'Statement that each student must accept in order to submit the work of their group.';
-$string['submissionstatementteamsubmissionallsubmit'] = 'Group submission statement where all group members submit';
-$string['submissionstatementteamsubmissionallsubmit_help'] = 'Statement that each student must accept in order to submit their work as a group member.';
-$string['submissionstatementteamsubmissionallsubmitdefault'] = 'This submission is my own work as a group member, except where I have acknowledged the use of the works of other people.';
-$string['submissionstatementteamsubmissiondefault'] = 'This submission is the work of my group, except where we have acknowledged the use of the works of other people.';
-$string['submissionstatus'] = 'Submission status';
-$string['submissionstatus_'] = 'No submission';
-$string['submissionstatus_draft'] = 'Draft (not submitted)';
-$string['submissionstatus_marked'] = 'Graded';
-$string['submissionstatus_new'] = 'No submission';
-$string['submissionstatus_reopened'] = 'Reopened';
-$string['submissionstatus_submitted'] = 'Submitted for grading';
-$string['submissionstatusheading'] = 'Submission status';
-$string['submissionsummary'] = '{$a->status}. Last modified on {$a->timemodified}';
-$string['submissionteam'] = 'Group';
-$string['submissiontypes'] = 'Submission types';
-$string['submitaction'] = 'Submit';
-$string['submitassignment'] = 'Submit assignment';
-$string['submitassignment_help'] = 'Once this assignment is submitted you will not be able to make any more changes.';
-$string['submitforgrading'] = 'Submit for grading';
-$string['submitted'] = 'Submitted';
-$string['submittedearly'] = 'Assignment was submitted {$a} early';
-$string['submittedlate'] = 'Assignment was submitted {$a} late';
-$string['submittedlateshort'] = '{$a} late';
-$string['submittedovertime'] = 'Assignment was submitted {$a} over the time limit';
-$string['submittedundertime'] = 'Assignment was submitted {$a} under the time limit';
+$string['submissionreceipts'] = 'Адправіць атрыманьні прадстаўленьня';
+$string['submissionreceiptsmall'] = 'Вы адправілі вашае прадстаўленьне заданьня {$a->assignment}';
+$string['submissionreceipttext'] = 'Вы адправілі
+прадстаўленьня заданьня \'{$a->assignment}\'
+
+Вы можаце ўбачыць статус вашага прадстаўленьня заданьня:
+
+    {$a->url}';
+$string['submissionsclosed'] = 'Закрытыя прадстаўленьні';
+$string['submissionsettings'] = 'Налады прадстаўленьня';
+$string['submissionslocked'] = 'Гэтае заданьне не прымае прадстаўленьні';
+$string['submissionslockedshort'] = 'Зьмены прадстаўленьня не дазволены';
+$string['submissionstatement'] = 'Статус прадстаўленьня';
+$string['submissionstatement_help'] = 'Статус, які мусіць прыняць кожны студэнт, каб адправіць сваю працу.';
+$string['submissionstatementacceptedlog'] = 'Статус прадстаўленьня прыняты карыстальнікам {$a}';
+$string['submissionstatementdefault'] = 'Гэтае прадстаўленьне з\'яўляецца маёй уласнай працай, за выняткам выпадкаў, дзе я паведамляю пра выкарыстаньне працы іншых людзей.';
+$string['submissionstatementteamsubmission'] = 'Статус групавога прадстаўленьня';
+$string['submissionstatementteamsubmission_help'] = 'Прадстаўленьне, якое мусіць прыняць кожны студэнт, каб адправіць працу сваёй групы.';
+$string['submissionstatementteamsubmissionallsubmit'] = 'Статус групавога прадстаўленьня дзе ўсе чальцы групы мусяць адправіць';
+$string['submissionstatementteamsubmissionallsubmit_help'] = 'Статус, які мусіць прыняць кожны студэнт, каб адправіць іхнюю працу ў якасьці чальца групы.';
+$string['submissionstatementteamsubmissionallsubmitdefault'] = 'Гэтае прадстаўленьне з\'яўляецца маёй уласнай працы як чальца групы, за выняткам выпадкаў, дзе я паведамляю пра выкарыстаньне працы іншых людзей.';
+$string['submissionstatementteamsubmissiondefault'] = 'Гэтае прадстаўленьне з\'яўляецца працай маёй групы, за выняткам выпадкаў, дзе я паведамляю пра выкарыстаньне працы іншых людзей.';
+$string['submissionstatus'] = 'Статус прадстаўленьня';
+$string['submissionstatus_'] = 'Прадстаўленьне адсутнічае';
+$string['submissionstatus_draft'] = 'Чарнавік (не адпраўлены)';
+$string['submissionstatus_marked'] = 'Ацэнена';
+$string['submissionstatus_new'] = 'Прадстаўленьне адсутнічае';
+$string['submissionstatus_reopened'] = 'Паўторна адкрыта';
+$string['submissionstatus_submitted'] = 'Адпраўлена для ацэньваньня';
+$string['submissionstatusheading'] = 'Статус прадстаўленьня';
+$string['submissionsummary'] = '{$a->status}. Апошняя зьмена {$a->timemodified}';
+$string['submissionteam'] = 'Група';
+$string['submissiontypes'] = 'Тыпы прадстаўленьняў';
+$string['submitaction'] = 'Адправіць';
+$string['submitassignment'] = 'Адправіць заданьне';
+$string['submitassignment_help'] = 'Пасьля адпраўленьня гэтага заданьня, вы болей ня будзеце мець здольнасьць рабіць зьмены.';
+$string['submitforgrading'] = 'Адправіць для ацэньваньня';
+$string['submitted'] = 'Адпраўлена';
+$string['submittedearly'] = 'Гэтае заданьне было адпраўлена раней {$a}';
+$string['submittedlate'] = 'Гэтае заданьне было адпраўлена пазьней {$a}';
+$string['submittedlateshort'] = 'пазьней {$a}';
+$string['submittedovertime'] = 'Заданьне было адпраўлена {$a} пасьля часовага ліміту';
+$string['submittedundertime'] = 'Заданьне было адпраўлена {$a} раней часовага ліміту';
 $string['subpagetitle'] = '{$a->contextname} - {$a->subpage}';
-$string['subplugintype_assignfeedback'] = 'Feedback plugin';
-$string['subplugintype_assignfeedback_plural'] = 'Feedback plugins';
-$string['subplugintype_assignsubmission'] = 'Submission plugin';
-$string['subplugintype_assignsubmission_plural'] = 'Submission plugins';
-$string['teamname'] = 'Team: {$a}';
-$string['teamsubmission'] = 'Students submit in groups';
-$string['teamsubmission_help'] = 'If enabled, students will be divided into groups based on the default set of groups or a custom grouping. A group submission will be shared among group members and all members of the group will see each others\' changes to the submission.';
-$string['teamsubmissiongroupingid'] = 'Grouping for student groups';
-$string['teamsubmissiongroupingid_help'] = 'This is the grouping that the assignment will use to find groups for student groups. If not set, the default set of groups will be used.';
-$string['textinstructions'] = 'Assignment instructions';
-$string['timelimit'] = 'Time limit';
-$string['timelimit_help'] = 'If enabled, the time limit is stated on the assignment page and a countdown timer is displayed during the assignment.';
-$string['timelimitnotenabled'] = 'Time limit is not enabled for assignment.';
-$string['timelimitpassed'] = 'The time limit has expired';
-$string['timemodified'] = 'Last modified';
-$string['timeremaining'] = 'Time remaining';
-$string['timeremainingcolon'] = 'Time remaining: {$a}';
-$string['togglezoom'] = 'Zoom in/out of region';
-$string['ungroupedusers'] = 'The setting \'Require group to make submission\' is enabled and some users are either not a member of any group, or are a member of more than one group, so are unable to make submissions.';
+$string['subplugintype_assignfeedback'] = 'Плагін водгуку';
+$string['subplugintype_assignfeedback_plural'] = 'Плагіны водгукаў';
+$string['subplugintype_assignsubmission'] = 'Плагін прадстаўленьня';
+$string['subplugintype_assignsubmission_plural'] = 'Плагіны прадстаўленьняў';
+$string['teamname'] = 'Група: {$a}';
+$string['teamsubmission'] = 'Студэнты адпраўляюць групамі';
+$string['teamsubmission_help'] = 'Калі ўключана, студэнты будуць падзелены на групы на аснове стандартнага набору груп ці ўласных групаваньняў. Групавыя прадстаўленьні будуць сумесна выкарыстоўвацца чальцамі групы, і ўсе чальцы групы будуць бачыць зьмены адзін аднаго ў прадстаўленьні.';
+$string['teamsubmissiongroupingid'] = 'Групаваньне для групаў студэнтаў';
+$string['teamsubmissiongroupingid_help'] = 'Гэта групаваньне, якое заданьне будзе выкарыстоўваць, для пошуку групаў студэнтаў. Калі не ўсталявана, будуць выкарыстоўвацца стандартныя наборы груп.';
+$string['textinstructions'] = 'Інструкцыі заданьня';
+$string['timelimit'] = 'Часовы ліміт';
+$string['timelimit_help'] = 'Калі ўсталявана, часовы ліміт усталёўваецца на старонцы заданьня, а таймер зваротнага адліку адлюстроўваецца падчас выкананьня заданьня.';
+$string['timelimitnotenabled'] = 'Часовы ліміт не дазволены для заданьня.';
+$string['timelimitpassed'] = 'Часовы ліміт мінуў';
+$string['timemodified'] = 'Апошняя зьмена';
+$string['timeremaining'] = 'Часу засталося';
+$string['timeremainingcolon'] = 'Часу засталося: {$a}';
+$string['togglezoom'] = 'Павелічэньне/зьмяншэньне зуму вобласьці';
+$string['ungroupedusers'] = 'Налада \'Патрабуе групу для стварэньня прадстаўленьня\' ўключана, частка карыстальнікаў ці не знаходзіцца ў групе, ці знаходзіцца ў некалькіх групах, таму нельга ствараць прадстаўленьні.';
 $string['ungroupedusersoptional'] = 'The setting \'Students submit in groups\' is enabled and some users are either not a member of any group, or are a member of more than one group. Please be aware that these students will submit as members of the \'Default group\'.';
 $string['unlimitedattempts'] = 'Unlimited';
 $string['unlimitedattemptsallowed'] = 'Unlimited attempts allowed.';
