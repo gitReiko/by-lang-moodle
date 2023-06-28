@@ -121,6 +121,7 @@ shortcuts = хуткія выявы
 Starred = Упадабанае
 Submissions = прадстаўленьне
 submit = адправіць
+summary = ??? кароткі агляд ???
 Suspended = Заблакаваны
 tabs = Укладкі
 tag = тэг
