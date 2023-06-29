@@ -91,7 +91,7 @@ assignsubmission_onlinetext ------ assignsubmission_onlinetext.php --- 100%
 
 mod_assign ----------------------- assign.php ------------------------ 100%
 mod_bigbluebuttonbn -------------- bigbluebuttonbn.php
-mod_book ------------------------- book.php
+mod_book ------------------------- book.php -------------------------- 100%
 
 
 

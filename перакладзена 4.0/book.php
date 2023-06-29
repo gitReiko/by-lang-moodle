@@ -92,26 +92,26 @@ $string['numbering0'] = 'Адсутнічае';
 $string['numbering1'] = 'Нумары';
 $string['numbering2'] = 'Кулі';
 $string['numbering3'] = 'Водступ';
-$string['numbering_help'] = '* Адсутнічае - Chapter and subchapter titles have no formatting
-* Numbers - Chapters and subchapter titles are numbered 1, 1.1, 1.2, 2, ...
-* Кулі - Subchapters are indented and displayed with bullets in the table of contents
-* Водступ - Subchapters are indented in the table of contents';
-$string['numberingoptions'] = 'Available options for chapter formatting';
-$string['numberingoptions_desc'] = 'Options for displaying chapters and subchapters in the table of contents';
-$string['page-mod-book-x'] = 'Any book module page';
-$string['pluginadministration'] = 'Book administration';
-$string['pluginname'] = 'Book';
-$string['previouschapter'] = 'Previous chapter';
-$string['privacy:metadata'] = 'The book activity module does not store any personal data.';
-$string['removeallbooktags'] = 'Remove all book tags';
-$string['search:activity'] = 'Book - resource information';
-$string['search:chapter'] = 'Book - chapters';
-$string['showchapter'] = 'Show chapter "{$a}"';
-$string['subchapter'] = 'Subchapter';
-$string['subchapternotice'] = '(Only available once the first chapter has been created)';
-$string['subplugintype_booktool'] = 'Book tool';
-$string['subplugintype_booktool_plural'] = 'Book tools';
-$string['tagarea_book_chapters'] = 'Book chapters';
-$string['tagsdeleted'] = 'Book tags have been deleted';
-$string['toc'] = 'Table of contents';
-$string['top'] = 'top';
+$string['numbering_help'] = '* Адсутнічае - Главы ды падглавы ня маюць фарматаваньня
+* Нумары - Главы ды падглавы пранумараваны 1, 1.1, 1.2, 2, ...
+* Кулі - Падглавы маюць водступы і кулі ў зьмесьце
+* Водступ - Падглавы маюць водступы ў зьмесьце';
+$string['numberingoptions'] = 'Даступныя опцыі фарматаваньня главаў';
+$string['numberingoptions_desc'] = 'Опцыі адлюстраваньня главаў і падглаваў у зьмесьце';
+$string['page-mod-book-x'] = 'Усякая старонка модулю кніга';
+$string['pluginadministration'] = 'Адміністраваньне кнігі';
+$string['pluginname'] = 'Кніга';
+$string['previouschapter'] = 'Папярэдняя глава';
+$string['privacy:metadata'] = 'Модуль актыўнасьці кніга не захоўвае аніякіх асабістых дадзеных.';
+$string['removeallbooktags'] = 'Выдаліць усе тэгі кнігі';
+$string['search:activity'] = 'Кніга - інфармацыйны рэсурс';
+$string['search:chapter'] = 'Кніга - главы';
+$string['showchapter'] = 'Паказаць главу "{$a}"';
+$string['subchapter'] = 'Падглава';
+$string['subchapternotice'] = '(Даступна толькі пасьля стварэньня першай главы)';
+$string['subplugintype_booktool'] = 'Прылада кнігі';
+$string['subplugintype_booktool_plural'] = 'Прылады кнігі';
+$string['tagarea_book_chapters'] = 'Главы кнігі';
+$string['tagsdeleted'] = 'Тэгі кнігі былі выдалены';
+$string['toc'] = 'Зьмест';
+$string['top'] = 'навершша';
