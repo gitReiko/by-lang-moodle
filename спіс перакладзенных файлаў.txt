@@ -97,9 +97,9 @@ atto_emojipicker ----------------- atto_emojipicker.php -------------- 100%
 atto_emoticon -------------------- atto_emoticon.php ----------------- 100%
 atto_equation -------------------- atto_equation.php ----------------- 100%
 atto_fontcolor ------------------- atto_fontcolor.php ---------------- 100%
-atto_h5p ------------------------- atto_h5p.php
-atto_html ------------------------ atto_html.php
-atto_image ----------------------- atto_image.php
+atto_h5p ------------------------- atto_h5p.php ---------------------- 100%
+atto_html ------------------------ atto_html.php --------------------- 100%
+atto_image ----------------------- atto_image.php -------------------- 100%
 atto_indent ---------------------- atto_indent.php
 atto_italic ---------------------- atto_italic.php
 atto_link ------------------------ atto_link.php
