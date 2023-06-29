@@ -87,6 +87,10 @@ assignsubmission_file ------------ assignsubmission_file.php --------- 100%
 assignsubmission_onlinetext ------ assignsubmission_onlinetext.php --- 100%
 atto_accessibilitychecker -------- atto_accessibilitychecker.php ----- 100%
 atto_accessibilityhelper --------- atto_accessibilityhelper.php ------ 100%
+atto_align ----------------------- atto_align.php -------------------- 100%
+atto_backcolor ------------------- atto_backcolor.php ---------------- 100%
+atto_bold ------------------------ atto_bold.php --------------------- 100%
+atto_charmap --------------------- atto_charmap.php
 
 ||   ||   ||
 \/   \/   \/
