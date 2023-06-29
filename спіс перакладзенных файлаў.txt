@@ -90,7 +90,7 @@ atto_accessibilityhelper --------- atto_accessibilityhelper.php ------ 100%
 atto_align ----------------------- atto_align.php -------------------- 100%
 atto_backcolor ------------------- atto_backcolor.php ---------------- 100%
 atto_bold ------------------------ atto_bold.php --------------------- 100%
-atto_charmap --------------------- atto_charmap.php
+atto_charmap --------------------- atto_charmap.php ------------------ 100%
 
 ||   ||   ||
 \/   \/   \/
