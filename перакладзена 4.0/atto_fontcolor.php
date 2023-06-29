@@ -25,11 +25,11 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['color_black'] = 'Black';
-$string['color_blue'] = 'Blue';
-$string['color_green'] = 'Green';
-$string['color_red'] = 'Red';
-$string['color_white'] = 'White';
-$string['color_yellow'] = 'Yellow';
-$string['pluginname'] = 'Font colour';
-$string['privacy:metadata'] = 'The atto_fontcolor plugin does not store any personal data.';
+$string['color_black'] = 'Чорны';
+$string['color_blue'] = 'Блакітны';
+$string['color_green'] = 'Зялёны';
+$string['color_red'] = 'Чырвоны';
+$string['color_white'] = 'Белы';
+$string['color_yellow'] = 'Жоўты';
+$string['pluginname'] = 'Колер фону';
+$string['privacy:metadata'] = 'Плагін atto_fontcolor не захоўвае аніякіх асабістых дадзеных.';

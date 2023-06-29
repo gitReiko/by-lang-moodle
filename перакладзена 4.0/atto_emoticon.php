@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['insertemoticon'] = 'Insert emoticon';
-$string['pluginname'] = 'Emoticon';
-$string['privacy:metadata'] = 'The atto_emoticon plugin does not store any personal data.';
+$string['insertemoticon'] = 'Уставіць смайлік';
+$string['pluginname'] = 'Смайлікі';
+$string['privacy:metadata'] = 'Плагін atto_emoticon не захоўвае аніякіх асабістых дадзеных.';

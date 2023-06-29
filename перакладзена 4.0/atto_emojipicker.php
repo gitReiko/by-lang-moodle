@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['emojipicker'] = 'Emoji picker';
-$string['pluginname'] = 'Emoji picker';
-$string['privacy:metadata'] = 'The atto_emojipicker plugin does not store any personal data.';
+$string['emojipicker'] = 'Выбарнік эмодзі';
+$string['pluginname'] = 'Выбарнік эмодзі';
+$string['privacy:metadata'] = 'Плагін atto_emojipicker не захоўвае аніякіх асабістых дадзеных.';

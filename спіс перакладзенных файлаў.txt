@@ -93,10 +93,17 @@ atto_bold ------------------------ atto_bold.php --------------------- 100%
 atto_charmap --------------------- atto_charmap.php ------------------ 100%
 atto_clear ----------------------- atto_clear.php -------------------- 100%
 atto_collapse -------------------- atto_collapse.php ----------------- 100%
-atto_emojipicker ----------------- atto_emojipicker.php
-atto_emoticon -------------------- atto_emoticon.php
-atto_equation -------------------- atto_equation.php
-atto_fontcolor ------------------- atto_fontcolor.php
+atto_emojipicker ----------------- atto_emojipicker.php -------------- 100%
+atto_emoticon -------------------- atto_emoticon.php ----------------- 100%
+atto_equation -------------------- atto_equation.php ----------------- 100%
+atto_fontcolor ------------------- atto_fontcolor.php ---------------- 100%
+atto_h5p ------------------------- atto_h5p.php
+atto_html ------------------------ atto_html.php
+atto_image ----------------------- atto_image.php
+atto_indent ---------------------- atto_indent.php
+atto_italic ---------------------- atto_italic.php
+atto_link ------------------------ atto_link.php
+atto_managefiles ----------------- atto_managefiles.php
 
 ||   ||   ||
 \/   \/   \/
