@@ -89,6 +89,13 @@ assignsubmission_onlinetext ------ assignsubmission_onlinetext.php --- 100%
 ||   ||   ||
 \/   \/   \/
 
+booktool_exportimscp ------------- booktool_exportimscp.php ---------- 100%
+booktool_importhtml -------------- booktool_importhtml.php ----------- 100%
+booktool_print ------------------- booktool_print.php ---------------- 100%
+
+||   ||   ||
+\/   \/   \/
+
 mod_assign ----------------------- assign.php ------------------------ 100%
 mod_bigbluebuttonbn -------------- bigbluebuttonbn.php
 mod_book ------------------------- book.php -------------------------- 100%
