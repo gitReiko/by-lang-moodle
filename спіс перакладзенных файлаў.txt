@@ -91,6 +91,12 @@ atto_align ----------------------- atto_align.php -------------------- 100%
 atto_backcolor ------------------- atto_backcolor.php ---------------- 100%
 atto_bold ------------------------ atto_bold.php --------------------- 100%
 atto_charmap --------------------- atto_charmap.php ------------------ 100%
+atto_clear ----------------------- atto_clear.php -------------------- 100%
+atto_collapse -------------------- atto_collapse.php ----------------- 100%
+atto_emojipicker ----------------- atto_emojipicker.php
+atto_emoticon -------------------- atto_emoticon.php
+atto_equation -------------------- atto_equation.php
+atto_fontcolor ------------------- atto_fontcolor.php
 
 ||   ||   ||
 \/   \/   \/
