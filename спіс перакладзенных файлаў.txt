@@ -105,9 +105,9 @@ atto_italic ---------------------- atto_italic.php ------------------- 100%
 atto_link ------------------------ atto_link.php --------------------- 100%
 atto_managefiles ----------------- atto_managefiles.php -------------- 100%
 atto_media ----------------------- atto_media.php -------------------- 100%
-atto_noautolink ------------------ atto_noautolink.php
-atto_orderedlist ----------------- atto_orderedlist.php
-atto_recordrtc ------------------- atto_recordrtc.php
+atto_noautolink ------------------ atto_noautolink.php --------------- 100%
+atto_orderedlist ----------------- atto_orderedlist.php -------------- 100%
+atto_recordrtc ------------------- atto_recordrtc.php ---------------- 100%
 
 ||   ||   ||
 \/   \/   \/

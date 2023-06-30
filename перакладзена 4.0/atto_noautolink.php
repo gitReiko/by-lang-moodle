@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'atto_orderedlist', language 'en', version '4.0'.
+ * Strings for component 'atto_noautolink', language 'en', version '4.0'.
  *
- * @package     atto_orderedlist
+ * @package     atto_noautolink
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Ordered list';
-$string['privacy:metadata'] = 'The atto_orderedlist plugin does not store any personal data.';
+$string['pluginname'] = 'Пазьбягаць стварэньне аўтаспасыланьня';
+$string['privacy:metadata'] = 'Плагін atto_noautolink не захоўвае аніякіх асабістых дадзеных.';
