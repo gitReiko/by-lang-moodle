@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'atto_underline', language 'en', version '4.0'.
+ * Strings for component 'atto_undo', language 'en', version '4.0'.
  *
- * @package     atto_underline
+ * @package     atto_undo
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,5 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Underline';
-$string['privacy:metadata'] = 'The atto_underline plugin does not store any personal data.';
+$string['pluginname'] = 'Скасаваць/павярнуць зробленае';
+$string['privacy:metadata'] = 'Плагін atto_undo не захоўвае аніякіх асабістых дадзеных.';
+$string['redo'] = 'Павярнуць зробленае';
+$string['undo'] = 'Скасаваць зробленае';

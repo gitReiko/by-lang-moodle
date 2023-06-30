@@ -25,11 +25,11 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['h3'] = 'Heading (large)';
-$string['h4'] = 'Heading (medium)';
-$string['h5'] = 'Heading (small)';
-$string['p'] = 'Paragraph';
-$string['pluginname'] = 'Paragraph styles';
-$string['pre'] = 'Pre-formatted';
-$string['privacy:metadata'] = 'The atto_title plugin does not store any personal data.';
-$string['title'] = 'Paragraph styles';
+$string['h3'] = 'Загаловак (вялікі)';
+$string['h4'] = 'Загаловак (сярэдні)';
+$string['h5'] = 'Загаловак (маленькі)';
+$string['p'] = 'Параграф';
+$string['pluginname'] = 'Стылі параграфаў';
+$string['pre'] = 'Папярэдне адфарматаванае';
+$string['privacy:metadata'] = 'Плагін atto_title не захоўвае аніякіх асабістых дадзеных.';
+$string['title'] = 'Стылі параграфаў';

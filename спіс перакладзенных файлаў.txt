@@ -111,12 +111,12 @@ atto_recordrtc ------------------- atto_recordrtc.php ---------------- 100%
 atto_rtl ------------------------- atto_rtl.php ---------------------- 100%
 atto_strike ---------------------- atto_strike.php ------------------- 100%
 atto_subscript ------------------- atto_subscript.php ---------------- 100%
-atto_superscript ----------------- atto_superscript.php  ------------- 100%
-atto_table ----------------------- atto_table.php
-atto_title ----------------------- atto_title.php
-atto_underline ------------------- atto_underline.php
-atto_undo ------------------------ atto_undo.php
-atto_unorderedlist --------------- atto_unorderedlist.php
+atto_superscript ----------------- atto_superscript.php -------------- 100%
+atto_table ----------------------- atto_table.php -------------------- 100%
+atto_title ----------------------- atto_title.php -------------------- 100%
+atto_underline ------------------- atto_underline.php ---------------- 100%
+atto_undo ------------------------ atto_undo.php --------------------- 100%
+atto_unorderedlist --------------- atto_unorderedlist.php ------------ 100%
 
 ||   ||   ||
 \/   \/   \/
