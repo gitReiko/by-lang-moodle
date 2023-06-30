@@ -100,10 +100,10 @@ atto_fontcolor ------------------- atto_fontcolor.php ---------------- 100%
 atto_h5p ------------------------- atto_h5p.php ---------------------- 100%
 atto_html ------------------------ atto_html.php --------------------- 100%
 atto_image ----------------------- atto_image.php -------------------- 100%
-atto_indent ---------------------- atto_indent.php
-atto_italic ---------------------- atto_italic.php
-atto_link ------------------------ atto_link.php
-atto_managefiles ----------------- atto_managefiles.php
+atto_indent ---------------------- atto_indent.php ------------------- 100%
+atto_italic ---------------------- atto_italic.php ------------------- 100%
+atto_link ------------------------ atto_link.php --------------------- 100%
+atto_managefiles ----------------- atto_managefiles.php -------------- 100%
 
 ||   ||   ||
 \/   \/   \/

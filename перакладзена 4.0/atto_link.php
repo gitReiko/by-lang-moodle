@@ -25,11 +25,11 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['browserepositories'] = 'Browse repositories...';
-$string['createlink'] = 'Create link';
-$string['enterurl'] = 'Enter a URL';
-$string['openinnewwindow'] = 'Open in new window';
-$string['pluginname'] = 'Link';
-$string['privacy:metadata'] = 'The atto_link plugin does not store any personal data.';
-$string['texttodisplay'] = 'Text to display';
-$string['unlink'] = 'Unlink';
+$string['browserepositories'] = 'Агляд рэпазітароў...';
+$string['createlink'] = 'Стварыць спасылку';
+$string['enterurl'] = 'Надрукуйце спасылку';
+$string['openinnewwindow'] = 'Адкрыць у новым акне';
+$string['pluginname'] = 'Спасылка';
+$string['privacy:metadata'] = 'Плагін atto_link не захоўвае аніякіх асабістых дадзеных.';
+$string['texttodisplay'] = 'Тэкст, што будзе адлюстроўвацца';
+$string['unlink'] = 'Прыбраць спасылку';

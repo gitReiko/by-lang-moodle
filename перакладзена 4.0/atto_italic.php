@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'atto_indent', language 'en', version '4.0'.
+ * Strings for component 'atto_italic', language 'en', version '4.0'.
  *
- * @package     atto_indent
+ * @package     atto_italic
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,7 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['indent'] = 'Indent';
-$string['outdent'] = 'Outdent';
-$string['pluginname'] = 'Indent';
-$string['privacy:metadata'] = 'The atto_indent plugin does not store any personal data.';
+$string['pluginname'] = 'Курсіў';
+$string['privacy:metadata'] = 'Плагін atto_italic не захоўвае аніякіх асабістых дадзеных.';

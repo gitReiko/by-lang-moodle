@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'atto_managefiles', language 'en', version '4.0'.
+ * Strings for component 'atto_indent', language 'en', version '4.0'.
  *
- * @package     atto_managefiles
+ * @package     atto_indent
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,13 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['deleteselected'] = 'Delete selected files';
-$string['filemanager'] = 'File manager';
-$string['hasmissingfiles'] = 'Warning! The following files that are referenced in the text area appear to be missing:';
-$string['managefiles'] = 'Manage files';
-$string['missingfiles'] = 'Missing files';
-$string['pluginname'] = 'Manage files';
-$string['privacy:metadata'] = 'The atto_managefiles plugin does not store any personal data.';
-$string['unusedfilesdesc'] = 'The following embedded files are not used in the text area:';
-$string['unusedfilesheader'] = 'Unused files';
-$string['unusedfilesremovalnotice'] = 'Any unused files will be automatically deleted when saving changes.';
+$string['indent'] = 'Водступ наперад';
+$string['outdent'] = 'Водступ назад';
+$string['pluginname'] = 'Водступ';
+$string['privacy:metadata'] = 'Плагін atto_indent не захоўвае аніякіх асабістых дадзеных.';
