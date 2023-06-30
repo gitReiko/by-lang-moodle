@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'atto_rtl', language 'en', version '4.0'.
+ * Strings for component 'atto_superscript', language 'en', version '4.0'.
  *
- * @package     atto_rtl
+ * @package     atto_superscript
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,7 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['ltr'] = 'Left to right';
-$string['pluginname'] = 'RTL/LTR';
-$string['privacy:metadata'] = 'The atto_rtl plugin does not store any personal data.';
-$string['rtl'] = 'Right to left';
+$string['pluginname'] = 'Верхні індэкс';
+$string['privacy:metadata'] = 'Плагін atto_superscript не захоўвае аніякіх асабістых дадзеных.';

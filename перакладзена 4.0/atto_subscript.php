@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'atto_strike', language 'en', version '4.0'.
+ * Strings for component 'atto_subscript', language 'en', version '4.0'.
  *
- * @package     atto_strike
+ * @package     atto_subscript
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Strike through';
-$string['privacy:metadata'] = 'The atto_strike plugin does not store any personal data.';
+$string['pluginname'] = 'Ніжні індэкс';
+$string['privacy:metadata'] = 'Плагін atto_subscript не захоўвае аніякіх асабістых дадзеных.';

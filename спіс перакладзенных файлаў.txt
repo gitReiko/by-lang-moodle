@@ -108,10 +108,10 @@ atto_media ----------------------- atto_media.php -------------------- 100%
 atto_noautolink ------------------ atto_noautolink.php --------------- 100%
 atto_orderedlist ----------------- atto_orderedlist.php -------------- 100%
 atto_recordrtc ------------------- atto_recordrtc.php ---------------- 100%
-atto_rtl ------------------------- atto_rtl.php
-atto_strike ---------------------- atto_strike.php
-atto_subscript ------------------- atto_subscript.php
-atto_superscript ----------------- atto_superscript.php
+atto_rtl ------------------------- atto_rtl.php ---------------------- 100%
+atto_strike ---------------------- atto_strike.php ------------------- 100%
+atto_subscript ------------------- atto_subscript.php ---------------- 100%
+atto_superscript ----------------- atto_superscript.php  ------------- 100%
 atto_table ----------------------- atto_table.php
 atto_title ----------------------- atto_title.php
 atto_underline ------------------- atto_underline.php
