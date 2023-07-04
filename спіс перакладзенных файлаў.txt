@@ -121,6 +121,16 @@ atto_unorderedlist --------------- atto_unorderedlist.php ------------ 100%
 ||   ||   ||
 \/   \/   \/
 
+availability_completion ---------- availability_completion.php
+availability_date ---------------- availability_date.php
+availability_grade --------------- availability_grade.php
+availability_group --------------- availability_group.php
+availability_grouping ------------ availability_grouping.php
+availability_profile ------------- availability_profile.php
+
+||   ||   ||
+\/   \/   \/
+
 booktool_exportimscp ------------- booktool_exportimscp.php ---------- 100%
 booktool_importhtml -------------- booktool_importhtml.php ----------- 100%
 booktool_print ------------------- booktool_print.php ---------------- 100%
