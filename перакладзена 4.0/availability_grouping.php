@@ -25,11 +25,11 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['description'] = 'Allow only students who belong to a group within a specified grouping.';
-$string['error_selectgrouping'] = 'You must select a grouping.';
-$string['missing'] = '(Missing grouping)';
-$string['pluginname'] = 'Restriction by grouping';
-$string['privacy:metadata'] = 'The Restriction by grouping plugin does not store any personal data.';
-$string['requires_grouping'] = 'You belong to a group in <strong>{$a}</strong>';
-$string['requires_notgrouping'] = 'You do not belong to a group in <strong>{$a}</strong>';
-$string['title'] = 'Grouping';
+$string['description'] = 'Дазволіць толькі студэнтам, што належаць да групы ў пэўным групаваньні.';
+$string['error_selectgrouping'] = 'Вы мусіце абраць групаваньне.';
+$string['missing'] = '(Групаваньне адсутнічае)';
+$string['pluginname'] = 'Абмежаваньне па групаваньню';
+$string['privacy:metadata'] = 'Плагін Абмежаваньне па групаваньню не захоўвае аніякіх асабістых дадзеных.';
+$string['requires_grouping'] = 'Вы належыце да групы ў <strong>{$a}</strong>';
+$string['requires_notgrouping'] = 'Вы не належыце да групы ў <strong>{$a}</strong>';
+$string['title'] = 'Групаваньне';
