@@ -124,7 +124,7 @@ atto_unorderedlist --------------- atto_unorderedlist.php ------------ 100%
 availability_completion ---------- availability_completion.php ------- 100%
 availability_date ---------------- availability_date.php ------------- 100%
 availability_grade --------------- availability_grade.php ------------ 100%
-availability_group --------------- availability_group.php
+availability_group --------------- availability_group.php ------------ 100%
 availability_grouping ------------ availability_grouping.php
 availability_profile ------------- availability_profile.php
 
