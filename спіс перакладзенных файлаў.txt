@@ -126,7 +126,7 @@ availability_date ---------------- availability_date.php ------------- 100%
 availability_grade --------------- availability_grade.php ------------ 100%
 availability_group --------------- availability_group.php ------------ 100%
 availability_grouping ------------ availability_grouping.php --------- 100%
-availability_profile ------------- availability_profile.php
+availability_profile ------------- availability_profile.php ---------- 100%
 
 ||   ||   ||
 \/   \/   \/
