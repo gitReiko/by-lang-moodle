@@ -132,7 +132,7 @@ availability_profile ------------- availability_profile.php ---------- 100%
 \/   \/   \/
 
 enrol_category ------------------- enrol_category.php ---------------- 100%
-enrol_cohort --------------------- enrol_cohort.php
+enrol_cohort --------------------- enrol_cohort.php ------------------ 100%
 ||   ||   ||
 \/   \/   \/
 enrol_flatfile ------------------- enrol_flatfile.php
