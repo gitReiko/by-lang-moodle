@@ -136,7 +136,7 @@ enrol_cohort --------------------- enrol_cohort.php ------------------ 100%
 ||   ||   ||
 \/   \/   \/
 enrol_flatfile ------------------- enrol_flatfile.php ---------------- 100%
-enrol_guest ---------------------- enrol_guest.php
+enrol_guest ---------------------- enrol_guest.php ------------------- 100%
 ||   ||   ||
 \/   \/   \/
 enrol_manual --------------------- enrol_manual.php
