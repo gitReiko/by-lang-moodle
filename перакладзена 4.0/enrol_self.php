@@ -112,19 +112,19 @@ $string['sendcoursewelcomemessage_help'] = 'Падчас самастойнаг�
 $string['sendexpirynotificationstask'] = 'Заданьне адпраўленьня абвестак пра сканчэньне самастойнага залічэньня';
 $string['showhint'] = 'Паказваць падказку';
 $string['showhint_desc'] = 'Паказваць першую літару ключа самастойнага доступа.';
-$string['status'] = 'Allow existing enrolments';
-$string['status_desc'] = 'Enable self enrolment method in new courses.';
-$string['status_help'] = 'If enabled together with \'Allow new enrolments\' disabled, only users who self enrolled previously can access the course. If disabled, this self enrolment method is effectively disabled, since all existing self enrolments are suspended and new users cannot self enrol.';
-$string['syncenrolmentstask'] = 'Synchronise self enrolments task';
-$string['unenrol'] = 'Unenrol user';
-$string['unenrolselfconfirm'] = 'Do you really want to unenrol yourself from course "{$a}"?';
-$string['unenroluser'] = 'Do you really want to unenrol "{$a->user}" from course "{$a->course}"?';
-$string['unenrolusers'] = 'Unenrol users';
-$string['usepasswordpolicy'] = 'Use password policy';
-$string['usepasswordpolicy_desc'] = 'Use standard password policy for enrolment keys.';
-$string['welcometocourse'] = 'Welcome to {$a}';
-$string['welcometocoursetext'] = 'Welcome to {$a->coursename}!
+$string['status'] = 'Дазволіць існыя залічэньні';
+$string['status_desc'] = 'Дазваляе метад самастойнага залічэньня ў новых курсах.';
+$string['status_help'] = 'Калі ўключана разам з адключанай функцыяй \'Дазволіць новыя залічэньні\', да курса будуць мець доступ толькі карыстальнікі, якія загадзя самастойна залічыліся. Калі адключана, то гэты метад самастойнага залічэньня ня будзе працаваць, бо ўсе існыя самастойныя залічэньні будуць заблакаваны, а новыя карыстальнікі ня змогуць самастойна залічыцца.';
+$string['syncenrolmentstask'] = 'Заданьне сінхранізаваньня самастойных залічэньняў';
+$string['unenrol'] = 'Адлічыць карыстальніка';
+$string['unenrolselfconfirm'] = 'Вы сапраўды, жадаеце адлічыць сябе з курса "{$a}"?';
+$string['unenroluser'] = 'Вы сапраўды, жадаеце адлічыць "{$a->user}" з курса "{$a->course}"?';
+$string['unenrolusers'] = 'Адлічыць карыстальнікаў';
+$string['usepasswordpolicy'] = 'Выкарыстоўваць палітыку пароляў';
+$string['usepasswordpolicy_desc'] = 'Выкарыстоўваць стандартную палітыку пароляў для ключэй залічэньня.';
+$string['welcometocourse'] = 'Сардэчна запрашаем у {$a}';
+$string['welcometocoursetext'] = 'Сардэчна запрашаем у {$a->coursename}!
 
-If you have not done so already, you should edit your profile page so that we can learn more about you:
+Калі вы дагэтуль тое не зрабілі, вы мусіце адрэдагаваць сваю старонку профілю, каб мы маглі больш даведацца пра вас:
 
   {$a->profileurl}';

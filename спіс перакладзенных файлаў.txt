@@ -142,7 +142,7 @@ enrol_guest ---------------------- enrol_guest.php ------------------- 100%
 enrol_manual --------------------- enrol_manual.php ------------------ 100%
 ||   ||   ||
 \/   \/   \/
-enrol_self ----------------------- enrol_self.php
+enrol_self ----------------------- enrol_self.php -------------------- 100%
 fileconverter_googledrive -------- fileconverter_googledrive.php
 fileconverter_unoconv ------------ fileconverter_unoconv.php
 filter_activitynames ------------- filter_activitynames.php
