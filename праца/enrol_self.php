@@ -41,77 +41,77 @@ $string['customwelcomemessage_help'] = 'Уласнае вітальнае пав
 * Спасылка на старонку профілю карыстальніка {$a->profileurl}
 * Імэйл карыстальніка {$a->email}
 * Поўнае імя карыстальніка {$a->fullname}';
-$string['defaultrole'] = 'Default role assignment';
-$string['defaultrole_desc'] = 'Select role which should be assigned to users during self enrolment';
-$string['deleteselectedusers'] = 'Delete selected user enrolments';
-$string['editselectedusers'] = 'Edit selected user enrolments';
-$string['enrolenddate'] = 'End date';
-$string['enrolenddate_help'] = 'If enabled, users can enrol themselves until this date only.';
-$string['enrolenddaterror'] = 'Enrolment end date cannot be earlier than start date';
-$string['enrolme'] = 'Enrol me';
-$string['enrolperiod'] = 'Enrolment duration';
-$string['enrolperiod_desc'] = 'Default length of time that the enrolment is valid. If set to zero, the enrolment duration will be unlimited by default.';
-$string['enrolperiod_help'] = 'Length of time that the enrolment is valid, starting with the moment the user enrols themselves. If disabled, the enrolment duration will be unlimited.';
-$string['enrolstartdate'] = 'Start date';
-$string['enrolstartdate_help'] = 'If enabled, users can enrol themselves from this date onward only.';
-$string['expiredaction'] = 'Enrolment expiry action';
-$string['expiredaction_help'] = 'Select action to carry out when user enrolment expires. Please note that some user data and settings are purged from course during course unenrolment.';
-$string['expirymessageenrolledbody'] = 'Dear {$a->user},
+$string['defaultrole'] = 'Стандартнае прызначэньне ролі';
+$string['defaultrole_desc'] = 'Абярыце ролю, якая будзе прызначацца карыстальнікам падчас залічэньня';
+$string['deleteselectedusers'] = 'Выдаліць абраныя залічэньні карыстальніка';
+$string['editselectedusers'] = 'Рэдагаваць абраныя залічэньні карыстальніка';
+$string['enrolenddate'] = 'Дата сканчэньня';
+$string['enrolenddate_help'] = 'Калі ўключана, карыстальнікі могуць самастойна залічвацца толькі да гэтай даты.';
+$string['enrolenddaterror'] = 'Дата сканчэньня залічэньня ня можа быць ранейшай за дату пачынаньня';
+$string['enrolme'] = 'Залічыць мяне';
+$string['enrolperiod'] = 'Працягласьць залічэньня';
+$string['enrolperiod_desc'] = 'Стандартная працягласьць актыўнасьці залічэньня. Калі ўсталяваны нуль, працягласьць залічэньня будзе бясконцай па-стандарту.';
+$string['enrolperiod_help'] = 'Працягласьць актыўнасьці залічэньня, пачыная з моманту самастойнага залічэньня. Калі адключана, працягласьць залічэньня будзе бясконцай.';
+$string['enrolstartdate'] = 'Дата пачынаньня';
+$string['enrolstartdate_help'] = 'Калі ўключана, карыстальнікі могуць самастойна залічвацца толькі з гэтай даты.';
+$string['expiredaction'] = 'Дзеяньне пасьля сканчэньня залічэньня';
+$string['expiredaction_help'] = 'Абярыце дзеяньне, якое трэба выканаць пасьля сканчэньня залічэньня. Зьвярніце ўвагу, што пасьля адлічэньня частка дадзеных і наладаў карыстальніка выдаляецца з курса.';
+$string['expirymessageenrolledbody'] = 'Паважаны(ая) {$a->user},
 
-This is a notification that your enrolment in the course \'{$a->course}\' is due to expire on {$a->timeend}.
+Паведамляем вам, што {$a->timeend} вашае залічэньне у курсе \'{$a->course}\' скончыцца.
 
-If you need help, please contact {$a->enroller}.';
-$string['expirymessageenrolledsubject'] = 'Self enrolment expiry notification';
-$string['expirymessageenrollerbody'] = 'Self enrolment in the course \'{$a->course}\' will expire within the next {$a->threshold} for the following users:
+Калі вам патрэбная дапамога, калі ласка, зьвярніцеся да {$a->enroller}.';
+$string['expirymessageenrolledsubject'] = 'Абвестка пра сканчэньне самастойнага залічэньня';
+$string['expirymessageenrollerbody'] = 'Самастойнае залічэньне ў курс \'{$a->course}\' скончыцца цягам наступных {$a->threshold} для гэтых карыстальнікаў:
 
 {$a->users}
 
-To extend their enrolment, go to {$a->extendurl}';
-$string['expirymessageenrollersubject'] = 'Self enrolment expiry notification';
-$string['expirynotifyall'] = 'Teacher and enrolled user';
-$string['expirynotifyenroller'] = 'Teacher only';
-$string['groupkey'] = 'Use group enrolment keys';
-$string['groupkey_desc'] = 'Use group enrolment keys by default.';
-$string['groupkey_help'] = 'In addition to restricting access to the course to only those who know the key, use of group enrolment keys means users are automatically added to groups when they enrol in the course.
+Каб працягнуць іхняе залічэньне, прайдзіце па {$a->extendurl}';
+$string['expirymessageenrollersubject'] = 'Абвестка пра сканчэньне самастойнага залічэньня';
+$string['expirynotifyall'] = 'Настаўнік і залічаныя карыстальнікі';
+$string['expirynotifyenroller'] = 'Толькі настаўнік';
+$string['groupkey'] = 'Выкарыстоўваць ключы групавых залічэньняў';
+$string['groupkey_desc'] = 'Выкарыстоўваць ключы групавых залічэньняў па-стандарту.';
+$string['groupkey_help'] = 'У дадатак да абмежаваньня доступа да курса толькі тымі, хто ведае ключ, ключы залічэньняў аўтаматычна дадаюць карыстальнікаў у групы падчас залічэньня у курс.
 
-Note: An enrolment key for the course must be specified in the self enrolment settings as well as group enrolment keys in the group settings.';
-$string['keyholder'] = 'You should have received this enrolment key from:';
-$string['longtimenosee'] = 'Unenrol inactive after';
-$string['longtimenosee_help'] = 'If users haven\'t accessed a course for a long time, then they are automatically unenrolled. This parameter specifies that time limit.';
-$string['maxenrolled'] = 'Max enrolled users';
-$string['maxenrolled_help'] = 'Specifies the maximum number of users that can self enrol. 0 means no limit.';
-$string['maxenrolledreached'] = 'Maximum number of users allowed to self-enrol was already reached.';
-$string['messageprovider:expiry_notification'] = 'Self enrolment expiry notifications';
-$string['newenrols'] = 'Allow new enrolments';
-$string['newenrols_desc'] = 'Allow users to self enrol into new courses by default.';
-$string['newenrols_help'] = 'This setting determines whether a user can enrol into this course.';
-$string['nopassword'] = 'No enrolment key required.';
-$string['password'] = 'Enrolment key';
-$string['password_help'] = 'An enrolment key enables access to the course to be restricted to only those who know the key.
+Нататка: Трэба ўсталяваць ключ залічэньня для курса ў наладах самастойнага залічэньня і ключы групавога залічэньня ў наладах груп.';
+$string['keyholder'] = 'Вы мусілі атрымаць гэты ключ залічэньня ад:';
+$string['longtimenosee'] = 'Адлічаць неактыўных пасьля';
+$string['longtimenosee_help'] = 'Калі карыстальнікі не заходзяць у курс на працягу доўгага часу, яны аўтаматычна адлічаюцца. Гэтая налада вызначае тэрмін.';
+$string['maxenrolled'] = 'Макс залічаных карыстальнікаў';
+$string['maxenrolled_help'] = 'Вызначае максімальную колькасьць карыстальнікаў, што могуць самастойна залічыцца. 0 значыць без абмежаваньняў.';
+$string['maxenrolledreached'] = 'Максімальная колькасьць карыстальнікаў, што можа самастойна залічыцца ўжо дасягнута.';
+$string['messageprovider:expiry_notification'] = 'Абвесткі пра сканчэньне самастойнага залічэньня';
+$string['newenrols'] = 'Дазволіць новыя залічэньні';
+$string['newenrols_desc'] = 'Дазволіць карыстальнікам самастойна залічвацца ў новыя курсы па-стандарту.';
+$string['newenrols_help'] = 'Гэтая налада вызначае, ці можа карыстальнік залічыцца ў гэты курс.';
+$string['nopassword'] = 'Ключ залічэньня не патрабуецца.';
+$string['password'] = 'Ключ залічэньня';
+$string['password_help'] = 'Ключ залічэньня абмяжоўвае доступ да курсу тымі, хто ведае ключ.
 
-If the field is left blank, any user may enrol in the course.
+Калі пакінуць поле пустым, усе карыстальнікі змогуць залічвацца на курс.
 
-If an enrolment key is specified, any user attempting to enrol in the course will be required to supply the key. Note that a user only needs to supply the enrolment key ONCE, when they enrol in the course.';
-$string['passwordinvalid'] = 'Incorrect enrolment key, please try again';
-$string['passwordinvalidhint'] = 'That enrolment key was incorrect, please try again<br />
-(Here\'s a hint - it starts with \'{$a}\')';
-$string['pluginname'] = 'Self enrolment';
-$string['pluginname_desc'] = 'The self enrolment plugin allows users to choose which courses they want to participate in. The courses may be protected by an enrolment key. Internally the enrolment is done via the manual enrolment plugin which has to be enabled in the same course.';
-$string['privacy:metadata'] = 'The Self enrolment plugin does not store any personal data.';
-$string['requirepassword'] = 'Require enrolment key';
-$string['requirepassword_desc'] = 'Require enrolment key in new courses and prevent removing of enrolment key from existing courses.';
-$string['role'] = 'Default assigned role';
-$string['self:config'] = 'Configure self enrol instances';
-$string['self:enrolself'] = 'Self enrol in course';
-$string['self:holdkey'] = 'Appear as the self enrolment key holder';
-$string['self:manage'] = 'Manage enrolled users';
-$string['self:unenrol'] = 'Unenrol users from course';
-$string['self:unenrolself'] = 'Unenrol self from the course';
-$string['sendcoursewelcomemessage'] = 'Send course welcome message';
-$string['sendcoursewelcomemessage_help'] = 'When a user self enrols in the course, they may be sent a welcome message email. If sent from the course contact (by default the teacher), and more than one user has this role, the email is sent from the first user to be assigned the role.';
-$string['sendexpirynotificationstask'] = 'Self enrolment send expiry notifications task';
-$string['showhint'] = 'Show hint';
-$string['showhint_desc'] = 'Show first letter of the guest access key.';
+Калі ключ залічэньня вызначаны, то ўсім карыстальнікам для залічэньня на курс неабходна будзе ўвесьці гэты ключ. Зьвярніце ўвагу, ключ залічэньня трэба ўвесьці толькі АДЗІН раз, падчас залічэньня на курс.';
+$string['passwordinvalid'] = 'Хібны ключ залічэньня, калі ласка, паспрабуйце зноў';
+$string['passwordinvalidhint'] = 'Гэты ключ залічэньня хібны, калі ласка, паспрабуйце зноў<br />
+(Вось падказка - ён пачынаецца з \'{$a}\')';
+$string['pluginname'] = 'Самастойнае залічэньне';
+$string['pluginname_desc'] = 'Плагін самастойнага залічэньня дазваляе карыстальнікам абіраць курсы, у якіх яны жадаюць удзельнічаць. Курсы льга абараніць ключом залічэньня. Унутры залічэньне ажыцяўляецца з дапамогай плагіна ручнога залічэньня, які мусіць быць уключаным у тым жа курсе.';
+$string['privacy:metadata'] = 'Плагін Самастойнае залічэньне не захоўвае аніякіх карыстальніцкіх дадзеных.';
+$string['requirepassword'] = 'Патрабаваць ключ залічэньня';
+$string['requirepassword_desc'] = 'Патрабаваць ключы залічэньня ў новых курсах і прадухіляць выдаленьне ключоў залічэньня ў існых курсах.';
+$string['role'] = 'Стандартная прызначаемая роля';
+$string['self:config'] = 'Наладзіць экзэмпляры самастойнага залічэньня';
+$string['self:enrolself'] = 'Самастойнае залічэньне ў курс';
+$string['self:holdkey'] = 'Быць уласьнікам ключа самастойнага залічэньня';
+$string['self:manage'] = 'Кіраваць залічанымі карыстальнікамі';
+$string['self:unenrol'] = 'Адлічыць карыстальнікаў з курса';
+$string['self:unenrolself'] = 'Адлічыць сябе з курса';
+$string['sendcoursewelcomemessage'] = 'Адправіць вітальнае паведамленьне курса';
+$string['sendcoursewelcomemessage_help'] = 'Падчас самастойнага залічэньня карыстальніка на курс, карыстальніку льга адпраўляць вітальнае паведамленьне на імэйл. Калі імэйл адпраўляецца ад кантакта курса (па-стандарту настаўніка), і існуе некалькі карыстальнікаў з гэтай рольлю, паведамленьне будзе адпраўляцца ад імэйла першага карыстальніка з гэтай рольлю.';
+$string['sendexpirynotificationstask'] = 'Заданьне адпраўленьня абвестак пра сканчэньне самастойнага залічэньня';
+$string['showhint'] = 'Паказваць падказку';
+$string['showhint_desc'] = 'Паказваць першую літару ключа самастойнага доступа.';
 $string['status'] = 'Allow existing enrolments';
 $string['status_desc'] = 'Enable self enrolment method in new courses.';
 $string['status_help'] = 'If enabled together with \'Allow new enrolments\' disabled, only users who self enrolled previously can access the course. If disabled, this self enrolment method is effectively disabled, since all existing self enrolments are suspended and new users cannot self enrol.';
