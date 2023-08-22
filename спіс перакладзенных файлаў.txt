@@ -143,6 +143,27 @@ enrol_manual --------------------- enrol_manual.php ------------------ 100%
 ||   ||   ||
 \/   \/   \/
 enrol_self ----------------------- enrol_self.php
+fileconverter_googledrive -------- fileconverter_googledrive.php
+fileconverter_unoconv ------------ fileconverter_unoconv.php
+filter_activitynames ------------- filter_activitynames.php
+filter_algebra ------------------- filter_algebra.php
+filter_data ---------------------- filter_data.php
+filter_displayh5p ---------------- filter_displayh5p.php
+filter_emailprotect -------------- filter_emailprotect.php
+filter_emoticon ------------------ filter_emoticon.php
+filter_glossary ------------------ filter_glossary.php
+filter_mathjaxloader ------------- filter_mathjaxloader.php
+filter_mediaplugin --------------- filter_mediaplugin.php
+filter_multilang ----------------- filter_multilang.php
+filter_tex ----------------------- filter_tex.php
+filter_tidy ---------------------- filter_tidy.php
+filter_urltolink ----------------- filter_urltolink.php
+format_singleactivity ------------ format_singleactivity.php
+format_social -------------------- format_social.php
+format_topics -------------------- format_topics.php
+format_weeks --------------------- format_weeks.php
+forumreport_summary -------------- forumreport_summary.php
+
 ||   ||   ||
 \/   \/   \/
 
