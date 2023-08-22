@@ -139,7 +139,7 @@ enrol_flatfile ------------------- enrol_flatfile.php ---------------- 100%
 enrol_guest ---------------------- enrol_guest.php ------------------- 100%
 ||   ||   ||
 \/   \/   \/
-enrol_manual --------------------- enrol_manual.php
+enrol_manual --------------------- enrol_manual.php ------------------ 100%
 ||   ||   ||
 \/   \/   \/
 enrol_self ----------------------- enrol_self.php

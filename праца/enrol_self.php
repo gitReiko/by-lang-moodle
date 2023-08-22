@@ -25,22 +25,22 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['canntenrol'] = 'Enrolment is disabled or inactive';
-$string['canntenrolearly'] = 'You cannot enrol yet; enrolment starts on {$a}.';
-$string['canntenrollate'] = 'You cannot enrol any more, since enrolment ended on {$a}.';
-$string['cohortnonmemberinfo'] = 'Only members of cohort \'{$a}\' can self-enrol.';
-$string['cohortonly'] = 'Only cohort members';
-$string['cohortonly_help'] = 'Self enrolment may be restricted to members of a specified cohort only. Note that changing this setting has no effect on existing enrolments.';
-$string['confirmbulkdeleteenrolment'] = 'Are you sure you want to delete these user enrolments?';
-$string['customwelcomemessage'] = 'Custom welcome message';
-$string['customwelcomemessage_help'] = 'A custom welcome message may be added as plain text or Moodle-auto format, including HTML tags and multi-lang tags.
+$string['canntenrol'] = 'Залічэньне адключана ці не актыўна';
+$string['canntenrolearly'] = 'Пакуль нельга залічыцца; залічэньне пачынаецца {$a}.';
+$string['canntenrollate'] = 'Ужо нельга залічыцца; залічэньне скончана з {$a}.';
+$string['cohortnonmemberinfo'] = 'Толькі чальцы кагорты \'{$a}\' могуць самастойна залічыцца.';
+$string['cohortonly'] = 'Толькі чальцы кагорты';
+$string['cohortonly_help'] = 'Самастойнае залічэньне льга абмежаваць чальцамі пэўнай кагорты. Памятайце зьмена гэтай налады не ўплывае на існыя залічэньні.';
+$string['confirmbulkdeleteenrolment'] = 'Вы ўпэўненыя, што жадаеце выдаліць гэтыя залічэньні карыстальніка?';
+$string['customwelcomemessage'] = 'Уласнае вітальнае паведамленьне';
+$string['customwelcomemessage_help'] = 'Уласнае вітальнае паведамленьне льга дадаць у форме простага тэксту ці аўтафарматаваньня Moodle, з HTML тэгамі і мульцімоўнымі тэгамі.
 
-The following placeholders may be included in the message:
+Наступныя запаўняльнік льга выкарыстоўваць паведамленьне:
 
-* Course name {$a->coursename}
-* Link to user\'s profile page {$a->profileurl}
-* User email {$a->email}
-* User fullname {$a->fullname}';
+* Назва курса {$a->coursename}
+* Спасылка на старонку профілю карыстальніка {$a->profileurl}
+* Імэйл карыстальніка {$a->email}
+* Поўнае імя карыстальніка {$a->fullname}';
 $string['defaultrole'] = 'Default role assignment';
 $string['defaultrole_desc'] = 'Select role which should be assigned to users during self enrolment';
 $string['deleteselectedusers'] = 'Delete selected user enrolments';
