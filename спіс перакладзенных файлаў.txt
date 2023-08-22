@@ -143,7 +143,7 @@ enrol_manual --------------------- enrol_manual.php ------------------ 100%
 ||   ||   ||
 \/   \/   \/
 enrol_self ----------------------- enrol_self.php -------------------- 100%
-fileconverter_googledrive -------- fileconverter_googledrive.php
+fileconverter_googledrive -------- fileconverter_googledrive.php ----- 100%
 fileconverter_unoconv ------------ fileconverter_unoconv.php
 filter_activitynames ------------- filter_activitynames.php
 filter_algebra ------------------- filter_algebra.php
