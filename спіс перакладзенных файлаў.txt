@@ -158,7 +158,7 @@ filter_multilang ----------------- 100%
 filter_tex ----------------------- 100%
 filter_tidy ---------------------- 100%
 filter_urltolink ----------------- 100%
-format_singleactivity ------------
+format_singleactivity ------------ 100%
 format_social --------------------
 format_topics --------------------
 format_weeks ---------------------
