@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['filtername'] = 'Glossary auto-linking';
-$string['glossarycategory'] = '{$a->glossary}: Category {$a->category}';
+$string['filtername'] = 'Аўтаспасыланьне на слоўнік';
+$string['glossarycategory'] = '{$a->glossary}: Катэгорыя {$a->category}';
 $string['glossaryconcept'] = '{$a->glossary}: {$a->concept}';
-$string['privacy:metadata'] = 'The Glossary auto-linking plugin does not store any personal data.';
+$string['privacy:metadata'] = 'Плагін Аўтаспасыланьне на слоўнік не захоўвае аніякіх асабістых дадзеных.';
