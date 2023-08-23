@@ -26,4 +26,4 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['filtername'] = 'HTML tidy';
-$string['privacy:metadata'] = 'The HTML tidy plugin does not store any personal data.';
+$string['privacy:metadata'] = 'Плагін HTML tidy не захоўвае аніякіх асабістых дадзеных.';
