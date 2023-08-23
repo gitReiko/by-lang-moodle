@@ -157,7 +157,7 @@ filter_mediaplugin --------------- filter_mediaplugin.php ------------ 100%
 filter_multilang ----------------- filter_multilang.php -------------- 100%
 filter_tex ----------------------- filter_tex.php -------------------- 100%
 filter_tidy ---------------------- filter_tidy.php ------------------- 100%
-filter_urltolink ----------------- filter_urltolink.php
+filter_urltolink ----------------- filter_urltolink.php -------------- 100%
 format_singleactivity ------------ format_singleactivity.php
 format_social -------------------- format_social.php
 format_topics -------------------- format_topics.php

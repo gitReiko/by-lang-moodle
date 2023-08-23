@@ -25,9 +25,9 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['embedimages'] = 'Embed images';
-$string['embedimages_desc'] = 'Replace image urls with images in selected text formats.';
-$string['filtername'] = 'Convert URLs into links and images';
-$string['privacy:metadata'] = 'The Convert URLs into links and images plugin does not store any personal data.';
-$string['settingformats'] = 'Apply to formats';
-$string['settingformats_desc'] = 'The filter will be applied only if the original text was inserted in one of the selected formats.';
+$string['embedimages'] = 'Убудаваныя выявы';
+$string['embedimages_desc'] = 'Замяняе спасылкі на выявы, выявамі абраных тэкставых фарматаў.';
+$string['filtername'] = 'Канвертар спасылак ува спасылкі і выявы';
+$string['privacy:metadata'] = 'Плагін Канвертар спасылак ува спасылкі і выявы не захоўвае аніякіх асабістых дадзеных.';
+$string['settingformats'] = 'Ужыць да фарматаў';
+$string['settingformats_desc'] = 'Фільтар будзе ўжывацца толькі, калі зыходны тэкст быў надрукаваны ў адным з абраных фарматаў.';
