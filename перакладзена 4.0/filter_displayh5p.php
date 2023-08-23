@@ -25,13 +25,13 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['allowedsourceslist'] = 'Allowed sources';
-$string['allowedsourceslistdesc'] = 'A list of URLs from which users can embed H5P content. If none are specified, all URLs will remain as links and not be displayed as embedded H5P content.
+$string['allowedsourceslist'] = 'Дазволеныя крыніцы';
+$string['allowedsourceslistdesc'] = 'Сьпіс спасылак, зь якіх карыстальнікі могуць убудоўваць H5P кантэнт. Калі не азначана ніводнай, усе спасылкі застануцца спасылкамі і ня будуць адлюстроўвацца як убудаваны H5P кантэнт.
 
-\'[id]\' is a placeholder for the H5P content ID in the external source.
-For example:
+\'[id]\' - гэта запаўняльнік на індэнтыфікатар (ID) H5P кантэнту ўва вонкавай крыніцы.
 
+Напрыклад:
 - H5P.com: https://[xxxxxx].h5p.com/content/[id]
 - Wordpress: http://myserver/wp-admin/admin-ajax.php?action=h5p_embed&id=[id]';
 $string['filtername'] = 'Display H5P';
-$string['privacy:metadata'] = 'The display H5P filter does not store any personal data.';
+$string['privacy:metadata'] = 'Плагін H5P фільтар не захоўвае аніякіх асабістых дадзеных.';
