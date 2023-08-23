@@ -1,182 +1,198 @@
+CORE SUBSYSTEMS
 
-Core subsystems
+core (moodle.php) ---------------- 100%
+core_access ---------------------- 100%
+core_admin ----------------------- 
+core_adminpresets ----------------
+core_analytics -------------------
+core_antivirus -------------------
+core_auth ------------------------
+core_availability ---------------- 100%
+core_backup ----------------------
+core_badges ----------------------
+core_block ----------------------- 100%
+core_blog ------------------------
+core_bulkusers ------------------- 100%
+core_cache -----------------------
+core_calendar -------------------- 100%
+core_cohort ---------------------- 100%
+core_comment --------------------- 100%
+core_competency ------------------
+core_completion ------------------ 100%
+core_contentbank -----------------
+core_countries -------------------
+core_course ---------------------- 100%
+core_courseformat ---------------- 100%
+core_currencies ------------------
+core_customfield -----------------
+core_dbtransfer ------------------
+core_debug -----------------------
+core_editor ---------------------- 100%
+core_edufields -------------------
+core_enrol ----------------------- 100%
+core_error -----------------------
+core_favourites ------------------ 100%
+core_fileconverter --------------- 100%
+core_files ----------------------- 100%
+core_filters --------------------- 100%
+core_form ------------------------ 100%
+core_grades ---------------------- 100%
+core_grading --------------------- 100%
+core_group ----------------------- 100%
+core_h5p -------------------------
+core_hub -------------------------
+core_imscc -----------------------
+core_install ---------------------
+core_iso6392 ---------------------
+core_langconfig ------------------ 100%
+core_license --------------------- 100%
+core_mathslib -------------------- 100%
+core_media ----------------------- 100% 
+core_message --------------------- 100% 
+core_mimetypes ------------------- 100% 
+core_mnet ------------------------
+core_my -------------------------- 100% 
+core_notes ----------------------- 100% 
+core_pagetype -------------------- 100% 
+core_payment ---------------------
+core_pix ------------------------- 100%
+core_plagiarism ------------------ 100%
+core_plugin ----------------------
+core_portfolio -------------------
+core_privacy --------------------- 100%
+core_question -------------------- 100%
+core_rating ---------------------- 100%
+core_reportbuilder ---------------
+core_repository ------------------ 100%
+core_role ------------------------
+core_rss ------------------------- 100%
+core_search ---------------------- 100%
+core_table ----------------------- 100%
+core_tag ------------------------- 100%
+core_timezones -------------------
+core_user ------------------------ 100%
+core_userkey --------------------- 100%
+core_webservice ------------------
+core_xapi ------------------------ 100%
 
-core ----------------------------- moodle.php ------------------------ 100%
-core_access ---------------------- access.php ------------------------ 100%
-core_admin ----------------------- admin.php 
-core_adminpresets ---------------- adminpresets.php 
-core_analytics ------------------- analytics.php 
-core_antivirus ------------------- antivirus.php 
-core_auth ------------------------ auth.php 
-core_availability ---------------- availability.php ------------------ 100%
-core_backup ---------------------- backup.php
-core_badges ---------------------- badges.php
-core_block ----------------------- block.php ------------------------- 100%
-core_blog ------------------------ blog.php 
-core_bulkusers ------------------- bulkusers.php --------------------- 100%
-core_cache ----------------------- cache.php
-core_calendar -------------------- calendar.php ---------------------- 100%
-core_cohort ---------------------- cohort.php ------------------------ 100%
-core_comment --------------------- comment.php ----------------------- 100%
-core_competency ------------------ competency.php 
-core_completion ------------------ completion.php -------------------- 100%
-core_contentbank ----------------- contentbank.php
-core_countries ------------------- countries.php
-core_course ---------------------- course.php ------------------------ 100%
-core_courseformat ---------------- courseformat.php ------------------ 100%
-core_currencies ------------------ currencies.php
-core_customfield ----------------- customfield.php
-core_dbtransfer ------------------ dbtransfer.php
-core_debug ----------------------- debug.php
-core_editor ---------------------- editor.php ------------------------ 100%
-core_edufields ------------------- edufields.php
-core_enrol ----------------------- enrol.php ------------------------- 100%
-core_error ----------------------- error.php
-core_favourites ------------------ favourites.php -------------------- 100%
-core_fileconverter --------------- fileconverter.php ----------------- 100%
-core_files ----------------------- files.php ------------------------- 100%
-core_filters --------------------- filters.php ----------------------- 100%
-core_form ------------------------ form.php -------------------------- 100%
-core_grades ---------------------- grades.php ------------------------ 100%
-core_grading --------------------- grading.php ----------------------- 100%
-core_group ----------------------- group.php ------------------------- 100%
-core_h5p ------------------------- h5p.php 
-core_hub ------------------------- hub.php 
-core_imscc ----------------------- imscc.php 
-core_install --------------------- install.php 
-core_iso6392 --------------------- iso6392.php 
-core_langconfig ------------------ langconfig.php -------------------- 100%
-core_license --------------------- license.php ----------------------- 100%
-core_mathslib -------------------- mathslib.php ---------------------- 100%
-core_media ----------------------- media.php ------------------------- 100% 
-core_message --------------------- message.php ----------------------- 100% 
-core_mimetypes ------------------- mimetypes.php --------------------- 100% 
-core_mnet ------------------------ mnet.php 
-core_my -------------------------- my.php ---------------------------- 100% 
-core_notes ----------------------- notes.php ------------------------- 100% 
-core_pagetype -------------------- pagetype.php ---------------------- 100% 
-core_payment --------------------- payment.php 
-core_pix ------------------------- pix.php --------------------------- 100%
-core_plagiarism ------------------ plagiarism.php -------------------- 100%
-core_plugin ---------------------- plugin.php 
-core_portfolio ------------------- portfolio.php 
-core_privacy --------------------- privacy.php ----------------------- 100%
-core_question -------------------- question.php ---------------------- 100%
-core_rating ---------------------- rating.php ------------------------ 100%
-core_reportbuilder --------------- reportbuilder.php 
-core_repository ------------------ repository.php -------------------- 100%
-core_role ------------------------ role.php 
-core_rss ------------------------- rss.php --------------------------- 100%
-core_search ---------------------- search.php ------------------------ 100%
-core_table ----------------------- table.php ------------------------- 100%
-core_tag ------------------------- tag.php --------------------------- 100%
-core_timezones ------------------- timezones.php 
-core_user ------------------------ user.php -------------------------- 100%
-core_userkey --------------------- userkey.php ----------------------- 100%
-core_webservice ------------------ webservice.php
-core_xapi ------------------------ xapi.php -------------------------- 100%
+STANDARD PLUGINS
 
-Standard plugins
-antivirus_clamav ----------------- antivirus_clamav.php -------------- 100%
-assignfeedback_comments ---------- assignfeedback_comments.php ------- 100%
-assignfeedback_editpdf ----------- assignfeedback_editpdf.php -------- 100%
-assignfeedback_file -------------- assignfeedback_file.php ----------- 100%
-assignfeedback_offline ----------- assignfeedback_offline.php -------- 100%
-assignsubmission_comments -------- assignsubmission_comments.php ----- 100%
-assignsubmission_file ------------ assignsubmission_file.php --------- 100%
-assignsubmission_onlinetext ------ assignsubmission_onlinetext.php --- 100%
-atto_accessibilitychecker -------- atto_accessibilitychecker.php ----- 100%
-atto_accessibilityhelper --------- atto_accessibilityhelper.php ------ 100%
-atto_align ----------------------- atto_align.php -------------------- 100%
-atto_backcolor ------------------- atto_backcolor.php ---------------- 100%
-atto_bold ------------------------ atto_bold.php --------------------- 100%
-atto_charmap --------------------- atto_charmap.php ------------------ 100%
-atto_clear ----------------------- atto_clear.php -------------------- 100%
-atto_collapse -------------------- atto_collapse.php ----------------- 100%
-atto_emojipicker ----------------- atto_emojipicker.php -------------- 100%
-atto_emoticon -------------------- atto_emoticon.php ----------------- 100%
-atto_equation -------------------- atto_equation.php ----------------- 100%
-atto_fontcolor ------------------- atto_fontcolor.php ---------------- 100%
-atto_h5p ------------------------- atto_h5p.php ---------------------- 100%
-atto_html ------------------------ atto_html.php --------------------- 100%
-atto_image ----------------------- atto_image.php -------------------- 100%
-atto_indent ---------------------- atto_indent.php ------------------- 100%
-atto_italic ---------------------- atto_italic.php ------------------- 100%
-atto_link ------------------------ atto_link.php --------------------- 100%
-atto_managefiles ----------------- atto_managefiles.php -------------- 100%
-atto_media ----------------------- atto_media.php -------------------- 100%
-atto_noautolink ------------------ atto_noautolink.php --------------- 100%
-atto_orderedlist ----------------- atto_orderedlist.php -------------- 100%
-atto_recordrtc ------------------- atto_recordrtc.php ---------------- 100%
-atto_rtl ------------------------- atto_rtl.php ---------------------- 100%
-atto_strike ---------------------- atto_strike.php ------------------- 100%
-atto_subscript ------------------- atto_subscript.php ---------------- 100%
-atto_superscript ----------------- atto_superscript.php -------------- 100%
-atto_table ----------------------- atto_table.php -------------------- 100%
-atto_title ----------------------- atto_title.php -------------------- 100%
-atto_underline ------------------- atto_underline.php ---------------- 100%
-atto_undo ------------------------ atto_undo.php --------------------- 100%
-atto_unorderedlist --------------- atto_unorderedlist.php ------------ 100%
-
-||   ||   ||
-\/   \/   \/
-
-availability_completion ---------- availability_completion.php ------- 100%
-availability_date ---------------- availability_date.php ------------- 100%
-availability_grade --------------- availability_grade.php ------------ 100%
-availability_group --------------- availability_group.php ------------ 100%
-availability_grouping ------------ availability_grouping.php --------- 100%
-availability_profile ------------- availability_profile.php ---------- 100%
+antivirus_clamav ----------------- 100%
+assignfeedback_comments ---------- 100%
+assignfeedback_editpdf ----------- 100%
+assignfeedback_file -------------- 100%
+assignfeedback_offline ----------- 100%
+assignsubmission_comments -------- 100%
+assignsubmission_file ------------ 100%
+assignsubmission_onlinetext ------ 100%
+atto_accessibilitychecker -------- 100%
+atto_accessibilityhelper --------- 100%
+atto_align ----------------------- 100%
+atto_backcolor ------------------- 100%
+atto_bold ------------------------ 100%
+atto_charmap --------------------- 100%
+atto_clear ----------------------- 100%
+atto_collapse -------------------- 100%
+atto_emojipicker ----------------- 100%
+atto_emoticon -------------------- 100%
+atto_equation -------------------- 100%
+atto_fontcolor ------------------- 100%
+atto_h5p ------------------------- 100%
+atto_html ------------------------ 100%
+atto_image ----------------------- 100%
+atto_indent ---------------------- 100%
+atto_italic ---------------------- 100%
+atto_link ------------------------ 100%
+atto_managefiles ----------------- 100%
+atto_media ----------------------- 100%
+atto_noautolink ------------------ 100%
+atto_orderedlist ----------------- 100%
+atto_recordrtc ------------------- 100%
+atto_rtl ------------------------- 100%
+atto_strike ---------------------- 100%
+atto_subscript ------------------- 100%
+atto_superscript ----------------- 100%
+atto_table ----------------------- 100%
+atto_title ----------------------- 100%
+atto_underline ------------------- 100%
+atto_undo ------------------------ 100%
+atto_unorderedlist --------------- 100%
 
 ||   ||   ||
 \/   \/   \/
 
-enrol_category ------------------- enrol_category.php ---------------- 100%
-enrol_cohort --------------------- enrol_cohort.php ------------------ 100%
-||   ||   ||
-\/   \/   \/
-enrol_flatfile ------------------- enrol_flatfile.php ---------------- 100%
-enrol_guest ---------------------- enrol_guest.php ------------------- 100%
-||   ||   ||
-\/   \/   \/
-enrol_manual --------------------- enrol_manual.php ------------------ 100%
-||   ||   ||
-\/   \/   \/
-enrol_self ----------------------- enrol_self.php -------------------- 100%
-fileconverter_googledrive -------- fileconverter_googledrive.php ----- 100%
-fileconverter_unoconv ------------ fileconverter_unoconv.php --------- 100%
-filter_activitynames ------------- filter_activitynames.php ---------- 100%
-filter_algebra ------------------- filter_algebra.php ---------------- 100%
-filter_data ---------------------- filter_data.php ------------------- 100%
-filter_displayh5p ---------------- filter_displayh5p.php ------------- 100%
-filter_emailprotect -------------- filter_emailprotect.php ----------- 100%
-filter_emoticon ------------------ filter_emoticon.php --------------- 100%
-filter_glossary ------------------ filter_glossary.php --------------- 100%
-filter_mathjaxloader ------------- filter_mathjaxloader.php ---------- 100%
-filter_mediaplugin --------------- filter_mediaplugin.php ------------ 100%
-filter_multilang ----------------- filter_multilang.php -------------- 100%
-filter_tex ----------------------- filter_tex.php -------------------- 100%
-filter_tidy ---------------------- filter_tidy.php ------------------- 100%
-filter_urltolink ----------------- filter_urltolink.php -------------- 100%
-format_singleactivity ------------ format_singleactivity.php
-format_social -------------------- format_social.php
-format_topics -------------------- format_topics.php
-format_weeks --------------------- format_weeks.php
-forumreport_summary -------------- forumreport_summary.php
+availability_completion ---------- 100%
+availability_date ---------------- 100%
+availability_grade --------------- 100%
+availability_group --------------- 100%
+availability_grouping ------------ 100%
+availability_profile ------------- 100%
 
 ||   ||   ||
 \/   \/   \/
 
-booktool_exportimscp ------------- booktool_exportimscp.php ---------- 100%
-booktool_importhtml -------------- booktool_importhtml.php ----------- 100%
-booktool_print ------------------- booktool_print.php ---------------- 100%
+enrol_category ------------------- 100%
+enrol_cohort --------------------- 100%
+||   ||   ||
+\/   \/   \/
+enrol_flatfile ------------------- 100%
+enrol_guest ---------------------- 100%
+||   ||   ||
+\/   \/   \/
+enrol_manual --------------------- 100%
+||   ||   ||
+\/   \/   \/
+enrol_self ----------------------- 100%
+fileconverter_googledrive -------- 100%
+fileconverter_unoconv ------------ 100%
+filter_activitynames ------------- 100%
+filter_algebra ------------------- 100%
+filter_data ---------------------- 100%
+filter_displayh5p ---------------- 100%
+filter_emailprotect -------------- 100%
+filter_emoticon ------------------ 100%
+filter_glossary ------------------ 100%
+filter_mathjaxloader ------------- 100%
+filter_mediaplugin --------------- 100%
+filter_multilang ----------------- 100%
+filter_tex ----------------------- 100%
+filter_tidy ---------------------- 100%
+filter_urltolink ----------------- 100%
+format_singleactivity ------------
+format_social --------------------
+format_topics --------------------
+format_weeks ---------------------
+forumreport_summary --------------
+gradeexport_ods ------------------
+gradeexport_txt ------------------
+gradeexport_xls ------------------
+gradeexport_xml ------------------
+gradeimport_csv ------------------
+gradeimport_direct ---------------
+gradeimport_xml ------------------
+gradereport_grader ---------------
+gradereport_history --------------
+gradereport_outcomes -------------
+gradereport_overview -------------
+gradereport_singleview -----------
+gradereport_user -----------------
+gradingform_guide ----------------
+gradingform_rubric ---------------
+h5plib_v124 ----------------------
 
 ||   ||   ||
 \/   \/   \/
 
-mod_assign ----------------------- assign.php ------------------------ 100%
-mod_bigbluebuttonbn -------------- bigbluebuttonbn.php
-mod_book ------------------------- book.php -------------------------- 100%
+booktool_exportimscp ------------- 100%
+booktool_importhtml -------------- 100%
+booktool_print ------------------- 100%
+
+||   ||   ||
+\/   \/   \/
+
+mod_assign ----------------------- 100%
+mod_bigbluebuttonbn --------------
+mod_book ------------------------- 100%
 
 
 
