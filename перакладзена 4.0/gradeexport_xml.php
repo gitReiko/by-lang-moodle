@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['eventgradeexported'] = 'XML grade exported';
-$string['pluginname'] = 'XML file';
-$string['privacy:metadata'] = 'The XML file grade export plugin does not store any personal data.';
-$string['xml:publish'] = 'Publish XML grade export';
-$string['xml:view'] = 'Use XML grade export';
+$string['eventgradeexported'] = 'XML адзнакі экспартаваны';
+$string['pluginname'] = 'XML файл';
+$string['privacy:metadata'] = 'Плагін XML файлу экспарту адзнак не захоўвае аніякіх асабістых дадзеных.';
+$string['xml:publish'] = 'Публікаваць экспарт адзнак XML';
+$string['xml:view'] = 'Выкарыстоўваць экспарт адзнак XML';

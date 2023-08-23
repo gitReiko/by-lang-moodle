@@ -166,7 +166,7 @@ forumreport_summary -------------- 100%
 gradeexport_ods ------------------ 100%
 gradeexport_txt ------------------ 100%
 gradeexport_xls ------------------ 100%
-gradeexport_xml ------------------
+gradeexport_xml ------------------ 100%
 gradeimport_csv ------------------
 gradeimport_direct ---------------
 gradeimport_xml ------------------
