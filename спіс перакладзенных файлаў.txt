@@ -153,7 +153,7 @@ filter_emailprotect -------------- filter_emailprotect.php ----------- 100%
 filter_emoticon ------------------ filter_emoticon.php --------------- 100%
 filter_glossary ------------------ filter_glossary.php --------------- 100%
 filter_mathjaxloader ------------- filter_mathjaxloader.php ---------- 100%
-filter_mediaplugin --------------- filter_mediaplugin.php
+filter_mediaplugin --------------- filter_mediaplugin.php ------------ 100%
 filter_multilang ----------------- filter_multilang.php
 filter_tex ----------------------- filter_tex.php
 filter_tidy ---------------------- filter_tidy.php
