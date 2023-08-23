@@ -164,7 +164,7 @@ format_topics -------------------- 100%
 format_weeks --------------------- 100%
 forumreport_summary -------------- 100%
 gradeexport_ods ------------------ 100%
-gradeexport_txt ------------------
+gradeexport_txt ------------------ 100%
 gradeexport_xls ------------------
 gradeexport_xml ------------------
 gradeimport_csv ------------------

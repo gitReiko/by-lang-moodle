@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'gradeexport_ods', language 'en', version '4.0'.
+ * Strings for component 'gradeexport_txt', language 'en', version '4.0'.
  *
- * @package     gradeexport_ods
+ * @package     gradeexport_txt
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,9 +25,9 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['eventgradeexported'] = 'адзнакі OpenDocument экспартаваны';
-$string['ods:publish'] = 'Публікаваць экспарт адзнак ODS';
-$string['ods:view'] = 'Выкарыстоўваць экспарт адзнак OpenDocument';
-$string['pluginname'] = 'Табліца OpenDocument';
-$string['privacy:metadata'] = 'Плагін Экспарт табліцы адзнак OpenDocument не захоўвае аніякіх асабістых дадзеных.';
+$string['eventgradeexported'] = 'TXT адзнакі экспартаваны';
+$string['pluginname'] = 'Просты тэкставы файл';
+$string['privacy:metadata'] = 'Плагін Просты тэкставы файл не захоўвае аніякіх асабістых дадзеных.';
 $string['timeexported'] = 'Апошняя спампоўка з гэтага курса';
+$string['txt:publish'] = 'Публікаваць экспарт адзнак TXT';
+$string['txt:view'] = 'Выкарыстоўваць тэкставы экспарт адзнак';

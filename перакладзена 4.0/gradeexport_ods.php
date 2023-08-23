@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['eventgradeexported'] = 'адзнакі OpenDocument экспартаваны';
+$string['eventgradeexported'] = 'OpenDocument адзнакі экспартаваны';
 $string['ods:publish'] = 'Публікаваць экспарт адзнак ODS';
 $string['ods:view'] = 'Выкарыстоўваць экспарт адзнак OpenDocument';
 $string['pluginname'] = 'Табліца OpenDocument';
