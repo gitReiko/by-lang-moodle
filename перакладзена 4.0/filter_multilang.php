@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['filtername'] = 'Multi-language content';
-$string['privacy:metadata'] = 'The Multi-language content plugin does not store any personal data.';
+$string['filtername'] = 'Мульцімоўнае зьмесьціва';
+$string['privacy:metadata'] = 'Плагін Мульцімоўнае зьмесьціва не захоўвае аніякіх асабістых дадзеных.';
