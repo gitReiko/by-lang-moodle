@@ -165,7 +165,7 @@ format_weeks --------------------- 100%
 forumreport_summary -------------- 100%
 gradeexport_ods ------------------ 100%
 gradeexport_txt ------------------ 100%
-gradeexport_xls ------------------
+gradeexport_xls ------------------ 100%
 gradeexport_xml ------------------
 gradeimport_csv ------------------
 gradeimport_direct ---------------

@@ -25,9 +25,9 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['eventgradeexported'] = 'XLS grade exported';
-$string['pluginname'] = 'Excel spreadsheet';
-$string['privacy:metadata'] = 'The Excel spreadsheet grade export plugin does not store any personal data.';
-$string['timeexported'] = 'Last downloaded from this course';
-$string['xls:publish'] = 'Publish XLS grade export';
-$string['xls:view'] = 'Use Excel grade export';
+$string['eventgradeexported'] = 'XLS адзнакі экспартаваны';
+$string['pluginname'] = 'Табліца Excel';
+$string['privacy:metadata'] = 'Плагін Табліца Excel не захоўвае аніякіх асабістых дадзеных.';
+$string['timeexported'] = 'Апошняя спампоўка з гэтага курса';
+$string['xls:publish'] = 'Публікаваць экспарт адзнак XLS';
+$string['xls:view'] = 'Выкарыстоўваць экспарт адзнак Excel';
