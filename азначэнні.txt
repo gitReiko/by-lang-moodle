@@ -37,6 +37,7 @@ custom = наладжвальны
 custom = уласны
 custom field = наладжанае поле
 Dashboard = Прыладавая Прыладавую
+Database (data.php) = База дадзеных
 default = стандартны
 drawer = малявальнік
 drop-down menu = выпадное меню

@@ -147,7 +147,7 @@ fileconverter_googledrive -------- fileconverter_googledrive.php ----- 100%
 fileconverter_unoconv ------------ fileconverter_unoconv.php --------- 100%
 filter_activitynames ------------- filter_activitynames.php ---------- 100%
 filter_algebra ------------------- filter_algebra.php ---------------- 100%
-filter_data ---------------------- filter_data.php
+filter_data ---------------------- filter_data.php ------------------- 100%
 filter_displayh5p ---------------- filter_displayh5p.php
 filter_emailprotect -------------- filter_emailprotect.php
 filter_emoticon ------------------ filter_emoticon.php
