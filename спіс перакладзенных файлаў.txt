@@ -159,7 +159,7 @@ filter_tex ----------------------- 100%
 filter_tidy ---------------------- 100%
 filter_urltolink ----------------- 100%
 format_singleactivity ------------ 100%
-format_social --------------------
+format_social -------------------- 100%
 format_topics --------------------
 format_weeks ---------------------
 forumreport_summary --------------

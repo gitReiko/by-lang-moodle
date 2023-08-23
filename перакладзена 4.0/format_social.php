@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['numberdiscussions'] = 'Number of discussions';
-$string['numberdiscussions_help'] = 'This setting specifies how many discussions should be displayed.';
-$string['pluginname'] = 'Social format';
-$string['privacy:metadata'] = 'The Social format plugin does not store any personal data.';
-$string['sectionname'] = 'section';
+$string['numberdiscussions'] = 'Колькасьць абмеркаваньняў';
+$string['numberdiscussions_help'] = 'Гэтая налада вызначае колькасьць абмеркаваньняў, якое трэба адлюстроўваць.';
+$string['pluginname'] = 'Сацыальны фармат';
+$string['privacy:metadata'] = 'Плагін Сацыальны фармат не захоўвае аніякіх асабістых дадзеных.';
+$string['sectionname'] = 'падзел';
