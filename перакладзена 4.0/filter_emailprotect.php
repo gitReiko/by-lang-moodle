@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['filtername'] = 'Email protection';
-$string['privacy:metadata'] = 'The Email protection plugin does not store any personal data.';
+$string['filtername'] = 'Абарона імэйлаў';
+$string['privacy:metadata'] = 'Плагін Абарона імэйлаў не захоўвае аніякіх асабістых дадзеных.';
