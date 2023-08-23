@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['filtername'] = 'Activity names auto-linking';
-$string['privacy:metadata'] = 'The Activity names auto-linking plugin does not store any personal data.';
+$string['filtername'] = 'Аўтаспасыланьне на назвы актыўнасьцяў';
+$string['privacy:metadata'] = 'Плагін Аўтаспасыланьня на назвы актыўнасьцяў не захоўвае аніякіх асабістых дадзеных.';
