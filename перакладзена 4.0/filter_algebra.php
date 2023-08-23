@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['algebraicexpression'] = 'Algebraic expression';
-$string['filtername'] = 'Algebra notation';
-$string['privacy:metadata'] = 'The Algebra notation plugin does not store any personal data.';
+$string['algebraicexpression'] = 'Алгебраічны выраз';
+$string['filtername'] = 'Алгебраічныя знакі';
+$string['privacy:metadata'] = 'Плагін Алгебраічныя знакі не захоўвае аніякіх асабістых дадзеных.';
