@@ -39,6 +39,7 @@ custom field = наладжанае поле
 Dashboard = Прыладавая Прыладавую
 Database (data.php) = База дадзеных
 default = стандартны
+discussion = абмеркаваньне
 drawer = малявальнік
 drop-down menu = выпадное меню
 email = Імэйл

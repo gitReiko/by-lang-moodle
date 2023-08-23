@@ -161,8 +161,8 @@ filter_urltolink ----------------- 100%
 format_singleactivity ------------ 100%
 format_social -------------------- 100%
 format_topics -------------------- 100%
-format_weeks ---------------------
-forumreport_summary --------------
+format_weeks --------------------- 100%
+forumreport_summary -------------- 100%
 gradeexport_ods ------------------
 gradeexport_txt ------------------
 gradeexport_xls ------------------
