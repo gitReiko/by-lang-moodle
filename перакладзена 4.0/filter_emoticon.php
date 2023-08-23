@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['filtername'] = 'Display emoticons as images';
-$string['privacy:metadata'] = 'The Display emoticons as images plugin does not store any personal data.';
-$string['settingformats'] = 'Apply to formats';
-$string['settingformats_desc'] = 'The filter will be applied only if the original text was inserted in one of the selected formats.';
+$string['filtername'] = 'Адлюстроўваць эматыконы як выявы';
+$string['privacy:metadata'] = 'Плагін Адлюстроўваць эматыконы як выявы не захоўвае аніякіх асабістых дадзеных.';
+$string['settingformats'] = 'Ужыць для фарматаў';
+$string['settingformats_desc'] = 'Фільтар будзе ўжывацца толькі ў выпадках, калі зыходны тэкст быў надрукаваны ў адным з абраных фарматаў.';

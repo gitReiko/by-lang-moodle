@@ -150,7 +150,7 @@ filter_algebra ------------------- filter_algebra.php ---------------- 100%
 filter_data ---------------------- filter_data.php ------------------- 100%
 filter_displayh5p ---------------- filter_displayh5p.php ------------- 100%
 filter_emailprotect -------------- filter_emailprotect.php ----------- 100%
-filter_emoticon ------------------ filter_emoticon.php
+filter_emoticon ------------------ filter_emoticon.php --------------- 100%
 filter_glossary ------------------ filter_glossary.php
 filter_mathjaxloader ------------- filter_mathjaxloader.php
 filter_mediaplugin --------------- filter_mediaplugin.php

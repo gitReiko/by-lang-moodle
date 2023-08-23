@@ -42,6 +42,7 @@ default = стандартны
 drawer = малявальнік
 drop-down menu = выпадное меню
 email = Імэйл
+emoticon = эматыкон
 enrolments = залічэньні
 event = падзея
 exception = выключэньне
