@@ -176,7 +176,7 @@ gradeexport_xls ------------------ 100%
 gradeexport_xml ------------------ 100%
 gradeimport_csv ------------------ 100%
 gradeimport_direct --------------- 100%
-gradeimport_xml ------------------
+gradeimport_xml ------------------ 100%
 gradereport_grader ---------------
 gradereport_history --------------
 gradereport_outcomes -------------
