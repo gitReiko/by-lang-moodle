@@ -25,9 +25,9 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['direct:view'] = 'Import grades from spreadsheet';
-$string['pluginname'] = 'Paste from spreadsheet';
-$string['privacy:metadata'] = 'The import grades from copied spreadsheed plugin does not store any personal data.';
-$string['userdata'] = 'Help copying data into this form.';
-$string['userdata_help'] = 'Grades may be copied and pasted from a spreadsheet into the gradebook. The spreadsheet should have a column containing user identity data - either username or ID number or email address. Each column for import should have a column header.';
+$string['direct:view'] = 'Імпартаваць адзнакі з табліцы';
+$string['pluginname'] = 'Уставіць з табліцы';
+$string['privacy:metadata'] = 'Плагін Імпартаваць адзнакі праз капіяваньне табліцы не захоўвае аніякіх асабістых дадзеных.';
+$string['userdata'] = 'Дапамога з капіяваньнем дадзеных ува гэтую форму.';
+$string['userdata_help'] = 'Адзнакі льга капіяваць і ўстаўляць з табліцы ў журнал адзнак. Табліца мусіць мець слупок, які ўтрымлівае індэнтыфікацыйныя дадзеныя карыстальніка: username ці ID нумар ці імэйл. Кожны слупок для імпарту мусіць мець слупок-загаловак.';
 $string['userdata_link'] = 'grade/import/direct/index';

@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['csv:view'] = 'Import grades from CSV';
-$string['pluginname'] = 'CSV file';
-$string['privacy:metadata'] = 'The import grades from CSV plugin does not store any personal data.';
+$string['csv:view'] = 'Імпартаваць адзнакі з CSV';
+$string['pluginname'] = 'CSV файл';
+$string['privacy:metadata'] = 'Плагін Імпартаваць адзнакі з CSV не захоўвае аніякіх асабістых дадзеных.';

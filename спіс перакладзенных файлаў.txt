@@ -174,8 +174,8 @@ gradeexport_ods ------------------ 100%
 gradeexport_txt ------------------ 100%
 gradeexport_xls ------------------ 100%
 gradeexport_xml ------------------ 100%
-gradeimport_csv ------------------
-gradeimport_direct ---------------
+gradeimport_csv ------------------ 100%
+gradeimport_direct --------------- 100%
 gradeimport_xml ------------------
 gradereport_grader ---------------
 gradereport_history --------------
