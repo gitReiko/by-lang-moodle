@@ -182,7 +182,7 @@ gradereport_history -------------- 100%
 gradereport_outcomes ------------- 100%
 gradereport_overview ------------- 100%
 gradereport_singleview ----------- 100%
-gradereport_user -----------------
+gradereport_user ----------------- 100%
 gradingform_guide ----------------
 gradingform_rubric ---------------
 h5plib_v124 ----------------------
