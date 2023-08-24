@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['eventgradereportviewed'] = 'Grade overview report viewed';
-$string['gradesoverview'] = 'Grades overview';
-$string['overview:view'] = 'View the overview report';
-$string['pluginname'] = 'Overview report';
-$string['privacy:metadata'] = 'The Grade overview report only shows data stored in other locations.';
+$string['eventgradereportviewed'] = 'Справаздача агляд адзнак прагледжана';
+$string['gradesoverview'] = 'Агляд адзнак';
+$string['overview:view'] = 'Праглядзець справаздачу агляд адзнак';
+$string['pluginname'] = 'Справаздача агляд адзнак';
+$string['privacy:metadata'] = 'Справаздача агляд адзнак паказвае толькі тыя дадзеныя, што захоўваюцца ў іншых месцах.';
