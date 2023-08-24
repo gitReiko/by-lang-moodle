@@ -131,6 +131,13 @@ availability_profile ------------- 100%
 ||   ||   ||
 \/   \/   \/
 
+booktool_exportimscp ------------- 100%
+booktool_importhtml -------------- 100%
+booktool_print ------------------- 100%
+
+||   ||   ||
+\/   \/   \/
+
 enrol_category ------------------- 100%
 enrol_cohort --------------------- 100%
 ||   ||   ||
@@ -179,13 +186,20 @@ gradereport_user -----------------
 gradingform_guide ----------------
 gradingform_rubric ---------------
 h5plib_v124 ----------------------
+logstore_database ---------------- 
+logstore_standard ----------------
 
 ||   ||   ||
 \/   \/   \/
 
-booktool_exportimscp ------------- 100%
-booktool_importhtml -------------- 100%
-booktool_print ------------------- 100%
+media_html5audio -----------------
+media_html5video -----------------
+media_videojs --------------------
+media_vimeo ----------------------
+media_youtube --------------------
+message_airnotifier --------------
+message_email --------------------
+message_popup --------------------
 
 ||   ||   ||
 \/   \/   \/
