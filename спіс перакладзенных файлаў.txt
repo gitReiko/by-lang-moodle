@@ -181,7 +181,7 @@ gradereport_grader --------------- 100%
 gradereport_history -------------- 100%
 gradereport_outcomes ------------- 100%
 gradereport_overview ------------- 100%
-gradereport_singleview -----------
+gradereport_singleview ----------- 100%
 gradereport_user -----------------
 gradingform_guide ----------------
 gradingform_rubric ---------------
