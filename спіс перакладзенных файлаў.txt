@@ -183,7 +183,7 @@ gradereport_outcomes ------------- 100%
 gradereport_overview ------------- 100%
 gradereport_singleview ----------- 100%
 gradereport_user ----------------- 100%
-gradingform_guide ----------------
+gradingform_guide ---------------- 100%
 gradingform_rubric ---------------
 h5plib_v124 ----------------------
 logstore_database ---------------- 
