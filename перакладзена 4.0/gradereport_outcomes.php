@@ -25,11 +25,11 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['addoutcome'] = 'Add an outcome';
-$string['courseoutcomes'] = 'Course outcomes';
-$string['coursespecoutcome'] = 'Course outcomes';
-$string['eventgradereportviewed'] = 'Grade outcomes report viewed';
-$string['outcomes:view'] = 'View the outcomes report';
-$string['pluginname'] = 'Outcomes report';
-$string['privacy:metadata'] = 'The Grade outcomes report only shows data stored in other locations.';
-$string['usedgradeitem'] = 'Number of grade items';
+$string['addoutcome'] = 'Дадаць вынік';
+$string['courseoutcomes'] = 'Вынікі курса';
+$string['coursespecoutcome'] = 'Вынікі курса';
+$string['eventgradereportviewed'] = 'Справаздача вынікі адзнак прагледжана';
+$string['outcomes:view'] = 'Праглядзець справаздачу вынікі';
+$string['pluginname'] = 'Справаздача вынікі';
+$string['privacy:metadata'] = 'Справаздача вынікі толькі паказвае дадзеных, што захоўваюцца ў іншых месцах.';
+$string['usedgradeitem'] = 'Нумар прадмета адзнак';

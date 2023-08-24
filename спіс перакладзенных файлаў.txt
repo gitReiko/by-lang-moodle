@@ -179,7 +179,7 @@ gradeimport_direct --------------- 100%
 gradeimport_xml ------------------ 100%
 gradereport_grader --------------- 100%
 gradereport_history -------------- 100%
-gradereport_outcomes -------------
+gradereport_outcomes ------------- 100%
 gradereport_overview -------------
 gradereport_singleview -----------
 gradereport_user -----------------
