@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'YouTube';
-$string['pluginname_help'] = 'The video-sharing website youtube.com. Video and playlist links are supported.';
-$string['privacy:metadata'] = 'The Youtube media plugin does not store any personal data.';
-$string['supportsplaylist'] = 'YouTube playlists';
-$string['supportsvideo'] = 'YouTube videos';
+$string['pluginname_help'] = 'Вэбсайт відэа абмену youtube.com. Відэа і плэй-лісты падтрымліваюцца.';
+$string['privacy:metadata'] = 'Плагін YouTube не захоўвае аніякіх асабістых дадзеных.';
+$string['supportsplaylist'] = 'Плэй-лісты YouTube';
+$string['supportsvideo'] = 'Відэа YouTube';
