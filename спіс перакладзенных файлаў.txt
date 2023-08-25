@@ -186,7 +186,7 @@ gradereport_user ----------------- 100%
 gradingform_guide ---------------- 100%
 gradingform_rubric --------------- 100%
 h5plib_v124 ---------------------- 100%
-logstore_database ---------------- 
+logstore_database ---------------- 100%
 logstore_standard ----------------
 
 ||   ||   ||
