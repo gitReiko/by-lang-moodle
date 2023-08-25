@@ -195,7 +195,7 @@ logstore_standard ---------------- 100%
 media_html5audio ----------------- 100%
 media_html5video ----------------- 100%
 media_videojs -------------------- 100%
-media_vimeo ----------------------
+media_vimeo ---------------------- 100%
 media_youtube --------------------
 message_airnotifier --------------
 message_email --------------------
