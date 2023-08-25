@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'HTML5 video';
-$string['pluginname_help'] = 'Video files played by the browser\'s native audio player. (Format support depends on the browser.)';
-$string['privacy:metadata'] = 'The HTML5 video media plugin does not store any personal data.';
+$string['pluginname'] = 'HTML5 відэа';
+$string['pluginname_help'] = 'Відэа файлы, што прайграе стандартны відэапрайгравальнік браўзара (Падтрымка фарматаў залежыць ад браўзара).';
+$string['privacy:metadata'] = 'Плагін HTML5 відэа не захоўвае аніякіх асабістых дадзеных.';

@@ -193,7 +193,7 @@ logstore_standard ---------------- 100%
 \/   \/   \/
 
 media_html5audio ----------------- 100%
-media_html5video -----------------
+media_html5video ----------------- 100%
 media_videojs --------------------
 media_vimeo ----------------------
 media_youtube --------------------
