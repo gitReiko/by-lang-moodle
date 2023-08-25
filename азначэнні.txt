@@ -1,4 +1,3 @@
-
 Advanced = прасунуты
 Allocated Marker = Разьмеркаваная пазнака
 announcements = аб\'явы аб\'яваў
@@ -8,6 +7,7 @@ assign = заданьне (калі актыўнасьць)
 assign = прызначаць
 assignment = заданьне
 assignment submission = заданьне пададзенае на адзнаку (ацэньваньне)
+attached = прымацаванага
 attachments = укладаньні
 attempt = спроба
 attempt = спроба
@@ -41,6 +41,7 @@ custom field = наладжанае поле
 Dashboard = Прыладавая Прыладавую
 Database (data.php) = База дадзеных
 default = стандартны
+digest = Дайджэст
 discussion = абмеркаваньне
 drawer = малявальнік
 drop-down menu = выпадное меню

@@ -198,7 +198,7 @@ media_videojs -------------------- 100%
 media_vimeo ---------------------- 100%
 media_youtube -------------------- 100%
 message_airnotifier --------------
-message_email --------------------
+message_email -------------------- 100%
 message_popup -------------------- 100%
 
 ||   ||   ||
