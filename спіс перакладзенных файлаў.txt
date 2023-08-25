@@ -199,7 +199,7 @@ media_vimeo ---------------------- 100%
 media_youtube -------------------- 100%
 message_airnotifier --------------
 message_email --------------------
-message_popup --------------------
+message_popup -------------------- 100%
 
 ||   ||   ||
 \/   \/   \/

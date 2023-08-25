@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Web';
-$string['privacy:metadata'] = 'The messaging Web plugin does not store any personal data.';
+$string['pluginname'] = 'Ўэб';
+$string['privacy:metadata'] = 'Плагін Ўэб не захоўвае аніякіх асабістых дадзеных.';
