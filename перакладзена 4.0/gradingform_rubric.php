@@ -74,27 +74,28 @@ $string['regradeoption0'] = 'Не адзначаць для пераацэнкі
 $string['regradeoption1'] = 'Адзначыць для пераацэнкі';
 $string['restoredfromdraft'] = 'НАТАТКА: Апошняя спроба ацаніць гэтую асобу не была захавана належным чынам, таму чарнавыя адзнакі былі адноўлены. Калі вы жадаеце скасаваць гэтыя зьмены, скарыстайцеся ніжэйшай кнопкай \'Скасаваць\'.';
 $string['rubric'] = 'Рубрыка';
-$string['rubricmapping'] = 'Score to grade mapping rules';
-$string['rubricmappingexplained'] = 'The minimum possible score for this rubric is <b>{$a->minscore} points</b>. It will be converted to the minimum grade available for the activity (which is 0 unless a scale is used). The maximum score of <b>{$a->maxscore} points</b> will be converted to the maximum grade. Intermediate scores will be converted respectively.
+$string['rubricmapping'] = 'Правілы супастаўленьня балаў у адзнаку';
+$string['rubricmappingexplained'] = 'Мінімальна магчымы бал для гэтай рубрыкі <b>{$a->minscore} балаў</b>. Ён будзе канвертаваны ў мінімальны бал даступны для актыўнасьці (які роўны 0 пакуль выкарыстоўваецца шкала). Максімальны бал з <b>{$a->maxscore} балаў</b> будзе канвертавацца ў максімальную адзнаку. Прамежкавыя балы будуць адпаведна канвертавацца.
 
-If a scale is used for grading, the score will be rounded and converted to the scale elements as if they were consecutive integers.
+Калі выкарыстоўваецца шкала ацэньваньня, бал будзе акруглены і канвертаваны ў элементы шкалы, нібы яны з\'яўляюцца пасьлядоўнымі цэлымі лічбамі.
 
-This grade calculation may be changed by editing the form and ticking the box \'Calculate grade having a minimum score of the minimum achievable grade for the rubric\'.';
-$string['rubricnotcompleted'] = 'Please choose something for each criterion';
-$string['rubricoptions'] = 'Rubric options';
-$string['rubricstatus'] = 'Current rubric status';
-$string['save'] = 'Save';
-$string['saverubric'] = 'Save rubric and make it ready';
-$string['saverubricdraft'] = 'Save as draft';
-$string['scoreinputforlevel'] = 'Score input for level {$a}';
-$string['scorepostfix'] = '{$a} points';
-$string['showdescriptionstudent'] = 'Display rubric description to those being graded';
-$string['showdescriptionteacher'] = 'Display rubric description during evaluation';
-$string['showremarksstudent'] = 'Show remarks to those being graded';
-$string['showscorestudent'] = 'Display points for each level to those being graded';
-$string['showscoreteacher'] = 'Display points for each level during evaluation';
-$string['sortlevelsasc'] = 'Sort order for levels:';
-$string['sortlevelsasc0'] = 'Descending by number of points';
-$string['sortlevelsasc1'] = 'Ascending by number of points';
-$string['zerolevelsabsent'] = 'Warning: The minimum possible score for this rubric is not 0; this can result in unexpected grades for the activity. To avoid this, each criterion should have a level with 0 points.<br>
-This warning may be ignored if a scale is used for grading, and the minimum levels in the rubric correspond to the minimum value of the scale.';
+Гэты разьлік адзнакі льга зьмяніць рэдагаваньнем формы і ўсталёўкай сьцяжка \'Разьлічыць адзнаку, што мае мінімальны магчымы бал у рубрыке\'.';
+$string['rubricnotcompleted'] = 'Калі ласка, абярыце штосьці для кожнага крытэра';
+$string['rubricoptions'] = 'Налады рубрыкі';
+$string['rubricstatus'] = 'Цяперашні статус рубрыкі';
+$string['save'] = 'Захаваць';
+$string['saverubric'] = 'Захаваць рубрыку і зрабіць яе гатовай';
+$string['saverubricdraft'] = 'Захаваць як чарнавік';
+$string['scoreinputforlevel'] = 'Увод балаў за ровень {$a}';
+$string['scorepostfix'] = '{$a} балаў';
+$string['showdescriptionstudent'] = 'Паказваць апісаньне рубрыкі для тых, хто ацэнены';
+$string['showdescriptionteacher'] = 'Паказваць апісаньне рубрыкі падчас ацэньваньня';
+$string['showremarksstudent'] = 'Паказваць заўвагі для тых, хто ацэнены';
+$string['showscorestudent'] = 'Паказваць балаў за кожны ровень для тых, хто ацэнены';
+$string['showscoreteacher'] = 'Паказваць балаў за кожны ровень падчас ацэньваньня';
+$string['sortlevelsasc'] = 'Чарга сартаваньня роўняў:';
+$string['sortlevelsasc0'] = 'Па зьмяншэньню балаў';
+$string['sortlevelsasc1'] = 'Па павелічэньню балаў';
+$string['zerolevelsabsent'] = 'Увага: Мінімальна магчымы бал для гэтай рубрыкі ня роўны 0; тое можа прывесьці да нечаканых адзнак за працу. Каб пазьбегнуць гэтага, кожны крытэр мусіць мець ровень ровень з 0 баламі.<br>
+
+Гэтае папярэджаньне льга ігнараваць, калі для ацэньваньня выкарыстоўваецца шкала, а мінімальныя роўні ў рубрыцы адпавядаюць мінімальнаму значэньню шкалы.';
