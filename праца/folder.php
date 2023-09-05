@@ -25,35 +25,35 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['bynameondate'] = 'by {$a->name} - {$a->date}';
-$string['contentheader'] = 'Content';
-$string['display'] = 'Display folder contents';
-$string['display_help'] = 'If you choose to display the folder contents on a course page, there will be no link to a separate page. The description will be displayed only if \'Display description on course page\' is ticked. Note that participants view actions cannot be logged in this case.';
-$string['displayinline'] = 'Inline on a course page';
-$string['displaypage'] = 'On a separate page';
-$string['dnduploadmakefolder'] = 'Unzip files and create folder';
-$string['downloadfolder'] = 'Download folder';
-$string['eventallfilesdownloaded'] = 'Zip archive of folder downloaded';
-$string['eventfolderupdated'] = 'Folder updated';
-$string['folder:addinstance'] = 'Add a new folder';
-$string['folder:managefiles'] = 'Manage files in folder module';
-$string['folder:view'] = 'View folder content';
-$string['foldercontent'] = 'Files and subfolders';
-$string['forcedownload'] = 'Force download of files';
-$string['forcedownload_help'] = 'Whether certain files, such as images or HTML files, should be displayed in the browser rather than being downloaded. Note that for security reasons, the setting should only be unticked if all users with the capability to manage files in the folder are trusted users.';
-$string['indicator:cognitivedepth'] = 'Folder cognitive';
-$string['indicator:cognitivedepth_help'] = 'This indicator is based on the cognitive depth reached by the student in a Folder resource.';
-$string['indicator:cognitivedepthdef'] = 'Folder cognitive';
-$string['indicator:cognitivedepthdef_help'] = 'The participant has reached this percentage of the cognitive engagement offered by the Folder resources during this analysis interval (Levels = No view, View)';
+$string['bynameondate'] = '{$a->name} - {$a->date}';
+$string['contentheader'] = 'Зьмесьціва';
+$string['display'] = 'Адлюстроўваць зьмесьціва тэчкі';
+$string['display_help'] = 'Калі вы абралі адлюстраваньне зьмесьціва тэчкі на старонцы курса, ня будзе спасылкі на асобную старонку. Апісаньне будзе адлюстроўвацца, толькі калі ўсталявана \'Адлюстроўваць апісаньне на старонцы курса\'. Зьвярніце ўвагу, у гэтым выпадку дзеяньні прагляду ўдзельнікаў ня будуць лагавацца ў журнал.';
+$string['displayinline'] = 'Убудова на старонку курса';
+$string['displaypage'] = 'На асобнай старноцы';
+$string['dnduploadmakefolder'] = 'Разархіваваць файлы і стварыць тэчку';
+$string['downloadfolder'] = 'Спампаваць тэчку';
+$string['eventallfilesdownloaded'] = 'Zip-архіў тэчкі спампаваны';
+$string['eventfolderupdated'] = 'Тэчка абноўлена';
+$string['folder:addinstance'] = 'Дадаць новую тэчку';
+$string['folder:managefiles'] = 'Кіраваць файламі ў модулі тэчка';
+$string['folder:view'] = 'Глядзець зьмесьціва тэчкі';
+$string['foldercontent'] = 'Файлы і падтэчкі';
+$string['forcedownload'] = 'Прымусова спампоўваць файлы';
+$string['forcedownload_help'] = 'Вызначае, ці мусяць пэўныя файлы, напрыклад, выявы альбо HTML-файлы, адлюстроўвацца ў браўзары, а не спампоўвацца. Зьвярніце ўвагу, у мэтах бясьпекі гэтую наладу лепей не ўключаць, за выняткаў выпадкаў, калі ўсе карыстальнікі маюць здольнасьць кіраваньня файламі і з\'яўляюцца даверанымі карыстальнікамі.';
+$string['indicator:cognitivedepth'] = 'Пазнаваньне тэчкі';
+$string['indicator:cognitivedepth_help'] = 'Гэты паказьнік заснаваны на глыбіні пазнаньня, дасягнутай студэнтам падчас вывучэньня рэсурсу-тэчка.';
+$string['indicator:cognitivedepthdef'] = 'Пазнаваньне тэчкі';
+$string['indicator:cognitivedepthdef_help'] = 'Удзельнік дасягнуў наступнага адсотка пазнавальнага ўцягненьня ў прапанаванай Тэчцы падчас тэрміна аналізаваньня (Роўні = Няма прагляда, Прагляд)';
 $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cognitive_depth';
-$string['indicator:socialbreadth'] = 'Folder social';
-$string['indicator:socialbreadth_help'] = 'This indicator is based on the social breadth reached by the student in a Folder resource.';
-$string['indicator:socialbreadthdef'] = 'Folder social';
-$string['indicator:socialbreadthdef_help'] = 'The participant has reached this percentage of the social engagement offered by the Folder resources during this analysis interval (Levels = No participation, Participant alone)';
+$string['indicator:socialbreadth'] = 'Сацыяльнасьць тэчкі';
+$string['indicator:socialbreadth_help'] = 'Гэты паказьнік згрунтаваны на сацыяльнай шырыні, якую дасягнуў студэнт ў рэсурсе-тэчцы.';
+$string['indicator:socialbreadthdef'] = 'Сацыяльнасьць тэчкі';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаваны рэсурсам-тэчкай у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
-$string['maxsizetodownload'] = 'Maximum folder download size (MB)';
-$string['maxsizetodownload_help'] = 'The maximum size of folder that can be downloaded as a zip file. If set to zero, the folder size is unlimited.';
-$string['modulename'] = 'Folder';
+$string['maxsizetodownload'] = 'Максімальны памер спампоўкі тэчцы (MB)';
+$string['maxsizetodownload_help'] = 'Максімальны памер тэчцы, які можа быць спампаваны ў форме zip-файла. Калі ўсталяваны нуль, памер тэчкі не абмежаваны.';
+$string['modulename'] = 'Тэчка';
 $string['modulename_help'] = 'The folder module enables a teacher to display a number of related files inside a single folder, reducing scrolling on the course page. A zipped folder may be uploaded and unzipped for display, or an empty folder created and files uploaded into it.
 
 A folder may be used
