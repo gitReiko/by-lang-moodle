@@ -29,7 +29,7 @@ $string['bynameondate'] = '{$a->name} - {$a->date}';
 $string['contentheader'] = 'Зьмесьціва';
 $string['display'] = 'Адлюстроўваць зьмесьціва тэчкі';
 $string['display_help'] = 'Калі вы абралі адлюстраваньне зьмесьціва тэчкі на старонцы курса, ня будзе спасылкі на асобную старонку. Апісаньне будзе адлюстроўвацца, толькі калі ўсталявана \'Адлюстроўваць апісаньне на старонцы курса\'. Зьвярніце ўвагу, у гэтым выпадку дзеяньні прагляду ўдзельнікаў ня будуць лагавацца ў журнал.';
-$string['displayinline'] = 'Убудова на старонку курса';
+$string['displayinline'] = 'Убудаваць на старонку курса';
 $string['displaypage'] = 'На асобнай старноцы';
 $string['dnduploadmakefolder'] = 'Разархіваваць файлы і стварыць тэчку';
 $string['downloadfolder'] = 'Спампаваць тэчку';
@@ -54,23 +54,23 @@ $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Soci
 $string['maxsizetodownload'] = 'Максімальны памер спампоўкі тэчцы (MB)';
 $string['maxsizetodownload_help'] = 'Максімальны памер тэчцы, які можа быць спампаваны ў форме zip-файла. Калі ўсталяваны нуль, памер тэчкі не абмежаваны.';
 $string['modulename'] = 'Тэчка';
-$string['modulename_help'] = 'The folder module enables a teacher to display a number of related files inside a single folder, reducing scrolling on the course page. A zipped folder may be uploaded and unzipped for display, or an empty folder created and files uploaded into it.
+$string['modulename_help'] = 'Модуль тэчка дазваляе настаўніку паказваць адразу некалькі, зьвязаных файлаў, у адной тэчцы. Тое скарачае прагортку старонкі. Тэчку льга запампаваць і разархіваваць ува zip-архіве, альбо стварыць пустую тэчку і запампаваць ува яе файлы.
 
-A folder may be used
+Тэчку льга выкарыстоўваць дзеля
 
-* For a series of files on one topic, for example a set of past examination papers in pdf format or a collection of image files for use in student projects
-* To provide a shared uploading space for teachers on the course page (keeping the folder hidden so that only teachers can see it)';
+* Збору файлаў па аднолькавай тэме, напрыклад, збору экзаменацыйных прац ува фармаце pdf ці калекцыі выяваў для выкарыстаньня ў студэнцкіх працах
+* Забесьпячэньня агульнага месца для настаўнікаў, у якое будуць запампоўвацца файлы на старонцы курса (у гэтым выпадку тэчка мусіць быць схаванай, каб яе ня бачылі студэнты)';
 $string['modulename_link'] = 'mod/folder/view';
-$string['modulenameplural'] = 'Folders';
-$string['newfoldercontent'] = 'New folder content';
-$string['noautocompletioninline'] = 'Automatic completion on viewing of activity can not be selected together with "Display inline" option';
-$string['page-mod-folder-view'] = 'Folder module main page';
-$string['page-mod-folder-x'] = 'Any folder module page';
-$string['pluginadministration'] = 'Folder administration';
-$string['pluginname'] = 'Folder';
-$string['privacy:metadata'] = 'The Folder resource plugin does not store any personal data.';
-$string['search:activity'] = 'Folder';
-$string['showdownloadfolder'] = 'Show download folder button';
-$string['showdownloadfolder_help'] = 'If set to \'yes\', a button will be displayed allowing the contents of the folder to be downloaded as a zip file.';
-$string['showexpanded'] = 'Show subfolders expanded';
-$string['showexpanded_help'] = 'If set to \'yes\', subfolders are shown expanded by default; otherwise they are shown collapsed.';
+$string['modulenameplural'] = 'Тэчкі';
+$string['newfoldercontent'] = 'Зьмесьціва новай тэчкі';
+$string['noautocompletioninline'] = 'Аўтаматычнае выкананьне прагляду актыўнасьці нельга абраць разам з наладай "Убудаваць на старонку курса"';
+$string['page-mod-folder-view'] = 'Галоўная старонка модуля тэчка';
+$string['page-mod-folder-x'] = 'Усякая старонка модуля тэчка';
+$string['pluginadministration'] = 'Адміністраваньне тэчкі';
+$string['pluginname'] = 'Тэчка';
+$string['privacy:metadata'] = 'Тэчка-рэсурс Тэчка не захоўвае аніякіх асабістых дадзеных.';
+$string['search:activity'] = 'Тэчка';
+$string['showdownloadfolder'] = 'Паказаць кнопку спампаваць тэчку';
+$string['showdownloadfolder_help'] = 'Калі ўсталявана \'так\', будзе адлюстроўвацца кнопка, што дазваляе спампаваць усё зьмесьціва тэчкі ў zip-файле.';
+$string['showexpanded'] = 'Паказваць укладзеныя падтэчкі разгорнута';
+$string['showexpanded_help'] = 'Калі ўсталявана \'так\', падтэчкі будуць разгорнуты па-стандарту; іначай яны будуць паказвацца згорнутымі.';
