@@ -46,71 +46,71 @@ $string['chattime'] = 'Час наступнага чату';
 $string['compact'] = 'Кампактна';
 $string['composemessage'] = 'Скласьці паведамленьне';
 $string['configmethod'] = 'Метад чата AJAX забясьпечвае інтэрфейс чата на грунце AJAX, які рэгулярна зьвяртаецца да сэрвера за абновамі. Звычайны метад прадугледжвае рэгулярнае зьвяртаньне кліента да сэрвера за абновамі (трэба абнавіць старонку, каб убачыць зьмены). Ён не патрабуе наладкі і працуе ўсюды, але можа ствараць вялікую нагрузку на сэрвер, калі ў чаце ўдзельнічае шмат карыстальнікаў. Выкарыстаньне дэмана сэрвера патрабуе доступ да Unix, але дазваляе атрымаць хутка маштабоўнае асяродзьдзе чату.';
-$string['confignormalupdatemode'] = 'Chatroom updates are normally served efficiently using the <em>Keep-Alive</em> feature of HTTP 1.1, but this is still quite heavy on the server. A more advanced method is to use the <em>Stream</em> strategy to feed updates to the users. Using <em>Stream</em> scales much better (similar to the chatd method) but may not be supported by your server.';
-$string['configoldping'] = 'What is the maximum time that may pass before we detect that a user has disconnected (in seconds)? This is just an upper limit, as usually disconnects are detected very quickly. Lower values will be more demanding on your server. If you are using the normal method, <strong>never</strong> set this lower than 2 * chat_refresh_room.';
-$string['configrefreshroom'] = 'How often should the chat room itself be refreshed? (in seconds).  Setting this low will make the chat room seem quicker, but it may place a higher load on your web server when many people are chatting. If you are using <em>Stream</em> updates, you can select higher refresh frequencies -- try with 2.';
-$string['configrefreshuserlist'] = 'How often should the list of users be refreshed? (in seconds)';
-$string['configserverhost'] = 'The hostname of the computer where the server daemon is';
-$string['configserverip'] = 'The numerical IP address that matches the above hostname';
-$string['configservermax'] = 'Max number of clients allowed';
-$string['configserverport'] = 'Port to use on the server for the daemon';
-$string['coursetheme'] = 'Course theme';
-$string['crontask'] = 'Background processing for chat module';
-$string['currentchats'] = 'Active chat sessions';
-$string['currentusers'] = 'Current users';
-$string['deletesession'] = 'Delete this session';
-$string['deletesessionsure'] = 'Are you sure you want to delete this session?';
-$string['donotusechattime'] = 'Don\'t publish any chat times';
-$string['enterchat'] = 'Enter the chat';
-$string['entermessage'] = 'Enter your message';
-$string['errornousers'] = 'Could not find any users!';
-$string['eventmessagesent'] = 'Message sent';
-$string['eventsessionsviewed'] = 'Sessions viewed';
-$string['explaingeneralconfig'] = 'These settings are <strong>always</strong> used';
-$string['explainmethoddaemon'] = 'These settings only have an effect if \'Chat server daemon\' is selected as chat method.';
-$string['explainmethodnormal'] = 'These settings only have an effect if Normal is selected as chat method.';
-$string['generalconfig'] = 'General configuration';
-$string['idle'] = 'Idle';
-$string['indicator:cognitivedepth'] = 'Chat cognitive';
-$string['indicator:cognitivedepth_help'] = 'This indicator is based on the cognitive depth reached by the student in a Chat activity.';
-$string['indicator:cognitivedepthdef'] = 'Chat cognitive';
-$string['indicator:cognitivedepthdef_help'] = 'The participant has reached this percentage of the cognitive engagement offered by the Chat activities during this analysis interval (Levels = No view, View, Submit, View feedback, Comment on feedback)';
+$string['confignormalupdatemode'] = 'Абнаўленьне чату звычайна эфектыўна ажыцяўляецца з дапамогай функцыі <em>Сталае Злучэньне</em>, прадугледжанай HTTP 1.1, але гэты метад стварае досыць высокую нагрузку на сэрвер. Больш прасунутым метадам з\'яўляецца выкарыстаньне стратэгіі <em>Струмень</em> дзеля перадачы абноваў карыстальнікам. Выкарыстаньне <em>Струменя</em> маштабуецца значна лепш (аналагічна метаду chatd), але можа не падтрымлівацца вашым сэрверам.';
+$string['configoldping'] = 'Максімальны час, які можа прайсьці, перш чым здарыцца выяўленьне адключэньня карыстальніка (у сякундах)? Вызначаецца толькі верхняя мяжа, бо адключэньні звычайна выяўляюцца вельмі хутка. Больш нізкія значэньні зьніжаюць патрабаваньні да вашага сэрвера. Калі вы выкарыстоўваеце звычайны метад, <strong>ніколі</strong> не ўсталёўваеце гэтае значэньне ніжэй за * chat_refresh_room.';
+$string['configrefreshroom'] = 'Частата абнаўленьня пакою чата (у сякундах)? Калі ўсталяваць нізкае значэньне, то чат будзе працаваць хутчэй, але гэта можа прывесьці да павелічэньня нагрузкі на вэб-сэрвер, калі ў чаце ўдзельнічае шмат людзей. Калі вы выкарыстоўваеце абнаўленьні <em>Струмень</em>, то льга абраць больш высокую частату абнаўленьня - паспрабуйце з 2.';
+$string['configrefreshuserlist'] = 'Як часта мусіць абнаўляцца сьпіс карыстальнікаў (у сякундах)?';
+$string['configserverhost'] = 'Назва хаста кампутара, на якім знаходзіцца дэман сэрвера';
+$string['configserverip'] = 'Лічбавы IP-адрас, адпаведны азначанай вышэй назьве хаста';
+$string['configservermax'] = 'Макс колькасьць дазволеных кліентаў';
+$string['configserverport'] = 'Порт, што выкарыстоўваецца на сэрверы дэмана';
+$string['coursetheme'] = 'Тэма курса';
+$string['crontask'] = 'Фонавая апрацоўка для модуля чата';
+$string['currentchats'] = 'Актыўныя сэсіі чата';
+$string['currentusers'] = 'Цяперашнія карыстальнікі';
+$string['deletesession'] = 'Выдаліць сэсію';
+$string['deletesessionsure'] = 'Вы ўпэўнены, што жадаеце выдаліць гэтую сэсію?';
+$string['donotusechattime'] = 'Не публікаваць час у чаце';
+$string['enterchat'] = 'Увайсьці ў чат';
+$string['entermessage'] = 'Надрукуйце вашае паведамленьне';
+$string['errornousers'] = 'Нельга знайсьці ніякіх карыстальнікаў!';
+$string['eventmessagesent'] = 'Паведамленьне адпраўлена';
+$string['eventsessionsviewed'] = 'Прагледжаныя сэсіі';
+$string['explaingeneralconfig'] = 'Гэтыя налады <strong>заўжды</strong> выкарыстоўваюцца';
+$string['explainmethoddaemon'] = 'Гэта налада дзейнічае толькі калі, абраны метад чату \'Дэман сэрверу чата\'.';
+$string['explainmethodnormal'] = 'Гэта налада дзейнічае толькі калі, абраны Нармальны метад.';
+$string['generalconfig'] = 'Агульная канфігурацыя';
+$string['idle'] = 'Прастой';
+$string['indicator:cognitivedepth'] = 'Пазнаваньне чата';
+$string['indicator:cognitivedepth_help'] = 'Гэты паказьнік заснаваны на глыбіні пазнаваньня, якую дасягнуў студэнт у актыўнасьці-чат.';
+$string['indicator:cognitivedepthdef'] = 'Пазнаваньне чата';
+$string['indicator:cognitivedepthdef_help'] = 'Удзельнік дасягнуў гэтага адсотку пазнавальнага ўцягненьня, прапанаваны актыўнасьцю-Чатам у аналізаваны тэрмін (Роўні = Без прагляду, Прагляд, Адпраўка, Прагляд водгука, Каментаваньне водгука)';
 $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cognitive_depth';
-$string['indicator:socialbreadth'] = 'Chat social';
-$string['indicator:socialbreadth_help'] = 'This indicator is based on the social breadth reached by the student in a Chat activity.';
-$string['indicator:socialbreadthdef'] = 'Chat social';
-$string['indicator:socialbreadthdef_help'] = 'The participant has reached this percentage of the social engagement offered by the Chat activities during this analysis interval (Levels = No participation, Participant alone, Participant with others)';
+$string['indicator:socialbreadth'] = 'Сацыяльнасьць чата';
+$string['indicator:socialbreadth_help'] = 'Гэты паказьнік заснаваны на сацыяльнай шырыні, якую дасягнуў студэнт у актыўнасьці-Чаце.';
+$string['indicator:socialbreadthdef'] = 'Сацыяльнасьць чата';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаваны актыўнасьцю-Чатам у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел, Удзел зь іншымі)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
-$string['inputarea'] = 'Input area';
-$string['invalidid'] = 'Could not find that chat room!';
-$string['list_all_sessions'] = 'List all sessions.';
-$string['list_complete_sessions'] = 'List just complete sessions.';
-$string['listing_all_sessions'] = 'Listing all sessions.';
-$string['messagebeepseveryone'] = '{$a} beeps everyone!';
-$string['messagebeepsyou'] = '{$a} has just beeped you!';
-$string['messageenter'] = '{$a} has just entered this chat';
-$string['messageexit'] = '{$a} has left this chat';
-$string['messages'] = 'Messages';
-$string['messageyoubeep'] = 'You beeped {$a}';
-$string['method'] = 'Chat method';
+$string['inputarea'] = 'Вобласьць уводу';
+$string['invalidid'] = 'Нельга знайсьці гэты пакой чата!';
+$string['list_all_sessions'] = 'Пералік усіх сэсіяў.';
+$string['list_complete_sessions'] = 'Пералік выкананых сэсіяў.';
+$string['listing_all_sessions'] = 'Пералічэньне ўсіх сэсіяў.';
+$string['messagebeepseveryone'] = '{$a} сігналізуе ўсім!';
+$string['messagebeepsyou'] = '{$a} сігналізаваў вам!';
+$string['messageenter'] = '{$a} толькі што ўвайшоў у гэты чат';
+$string['messageexit'] = '{$a} толькі што пакінуў гэты чат';
+$string['messages'] = 'Паведамленьні';
+$string['messageyoubeep'] = 'Вы сігналізавалі {$a}';
+$string['method'] = 'Метад чата';
 $string['methodajax'] = 'AJAX';
-$string['methoddaemon'] = 'Chat server daemon';
-$string['methodnormal'] = 'Normal';
-$string['modulename'] = 'Chat';
-$string['modulename_help'] = 'The chat activity module enables participants to have text-based, real-time synchronous discussions.
+$string['methoddaemon'] = 'Дэман сэрверу чата';
+$string['methodnormal'] = 'Нармальны';
+$string['modulename'] = 'Чат';
+$string['modulename_help'] = 'Модуль актыўнасьць-чат дазваляе ўдзельнікам увесьці тэкставыя сінхронныя абмеркаваньні ў рэжыме рэальнага часу.
 
-The chat may be a one-time activity or it may be repeated at the same time each day or each week. Chat sessions are saved and can be made available for everyone to view or restricted to users with the capability to view chat session logs.
+Чат можа быць аднаразовым ці паўтарацца ў адзін і той жа час кожны дзень ці кожны тыдзень. Сэсіі чата захоўваюцца і могуць быць даступныя для прагляду ўсім жадаючым ці абмежаваныя карыстальнікам, што маюць здольнасьць прагледжваць логі сэсіяў чату.
 
-Chats are especially useful when the group chatting is not able to meet face-to-face, such as
+Чаты асабліва карысны, калі групы, што камунікуюць, ня могуць сустрэцца твар у твар, напрыклад
 
-* Regular meetings of students participating in online courses to enable them to share experiences with others in the same course but in a different location
-* A student temporarily unable to attend in person chatting with their teacher to catch up with work
-* Students out on work experience getting together to discuss their experiences with each other and their teacher
-* Younger children using chat at home in the evenings as a controlled (monitored) introduction to the world of social networking
-* A question and answer session with an invited speaker in a different location
-* Sessions to help students prepare for tests where the teacher, or other students, would pose sample questions';
+* Дзеля рэгулярных сустрэч студэнтаў, што ўдзельнічаюць у анлайн-курсах, якія дазваляюць ім абменьвацца досьведам зь іншымі слухачамі таго ж курса, але знаходзяцца ў іншым месцы
+* Дзеля студэнтаў, што часова ня маюць здольнасьці прысутнічаць на занятках і камунікаваць з настаўнікам, каб нагнаць прапушчанае
+* Дзеля студэнтаў, што праходзяць производственную практыку і зьбіраюцца разам, каб абмеркаваць свой досьвед адзін з адным і з настаўнікам
+* Дзеля выкарыстаньня малымі дзецьмі чату дома па вечарам у якасьці кантраляванага (кіраванага) знаёмства са сьветам сацыяльных сетак
+* Дзеля сэсіі пытаньняў і адказаў з запрошанымі прамоўцамі зь іншага месца
+* Дзеля падрыхтоўчых заняткаў студэнтаў да тэстаў, на якіх настаўнік ці іншыя студэнты задаюць прыкладныя пытаньні';
 $string['modulename_link'] = 'mod/chat/view';
-$string['modulenameplural'] = 'Chats';
+$string['modulenameplural'] = 'Чаты';
 $string['neverdeletemessages'] = 'Never delete messages';
 $string['nextchattime'] = 'Next chat time:';
 $string['nextsession'] = 'Next scheduled session';
@@ -120,7 +120,7 @@ $string['noguests'] = 'The chat is not open to guests';
 $string['nomessages'] = 'No messages yet';
 $string['nopermissiontoseethechatlog'] = 'You don\'t have permission to see the chat logs.';
 $string['normalkeepalive'] = 'KeepAlive';
-$string['normalstream'] = 'Stream';
+$string['normalstream'] = 'Струмень';
 $string['noscheduledsession'] = 'No scheduled session';
 $string['notallowenter'] = 'You are not allowed to enter the chat room.';
 $string['notlogged'] = 'You are not logged in!';
