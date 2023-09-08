@@ -79,7 +79,7 @@ $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cog
 $string['indicator:socialbreadth'] = 'Сацыяльнасьць чату';
 $string['indicator:socialbreadth_help'] = 'Гэты паказьнік заснаваны на сацыяльнай шырыні, якую дасягнуў студэнт у актыўнасьці-Чаце.';
 $string['indicator:socialbreadthdef'] = 'Сацыяльнасьць чату';
-$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаваны актыўнасьцю-Чатам у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел, Удзел зь іншымі)';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцю-Чатам у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел, Удзел зь іншымі)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
 $string['inputarea'] = 'Вобласьць уводу';
 $string['invalidid'] = 'Нельга знайсьці гэты пакой чату!';

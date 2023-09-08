@@ -59,7 +59,7 @@ $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cog
 $string['indicator:socialbreadth'] = 'Сацыяльнасьць кнігі';
 $string['indicator:socialbreadth_help'] = 'Гэты паказьнік заснаваны на сацыяльнай шырыні, якую дасягнуў студэнт у рэсурсе-Кнізе.';
 $string['indicator:socialbreadthdef'] = 'Сацыяльнасьць кнігі';
-$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаваны рэсурсам-Кнігай у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел)';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай рэсурсам-Кнігай у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
 $string['modulename'] = 'Кніга';
 $string['modulename_help'] = 'Модуль кніга дазваляе настаўнікам стварыць рэсурс з мноствам старонак ў фармаце падобным на кнігу з главамі і падглавамі. Кнігі могуць утрымліваць медыя файлы і тэкст; яны карысныя для адлюстраваньня доўгіх урыўкаў інфармацыі, падзеленых на главы.
