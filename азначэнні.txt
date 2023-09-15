@@ -78,6 +78,7 @@ icons = выявы
 images = выява
 Insight = прадказаньне
 insights = асьвятленьні
+jobs = працы (крон)
 label = пазнака (Track)
 Label = Цэтлік (мод)
 layout = макет
