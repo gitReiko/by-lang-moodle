@@ -308,49 +308,49 @@ $string['forum:exportforum'] = 'Экспартаваць форум';
 $string['forum:exportownpost'] = 'Экспартаваць уласны пост';
 $string['forum:exportpost'] = 'Экспартаваць пост';
 $string['forum:grade'] = 'Ацаніць форум';
-$string['forum:managesubscriptions'] = 'Manage subscribers';
-$string['forum:movediscussions'] = 'Move discussions';
-$string['forum:pindiscussions'] = 'прымацаваць discussions';
-$string['forum:postprivatereply'] = 'Reply privately to posts';
-$string['forum:postwithoutthrottling'] = 'Exempt from post threshold';
-$string['forum:rate'] = 'Rate posts';
-$string['forum:readprivatereplies'] = 'View private replies';
-$string['forum:replynews'] = 'Reply to announcements';
-$string['forum:replypost'] = 'Reply to posts';
-$string['forum:splitdiscussions'] = 'Split discussions';
-$string['forum:startdiscussion'] = 'Start new discussions';
-$string['forum:viewallratings'] = 'View all raw ratings given by individuals';
-$string['forum:viewanyrating'] = 'View total ratings that anyone received';
-$string['forum:viewdiscussion'] = 'View discussions';
-$string['forum:viewhiddentimedposts'] = 'View hidden timed posts';
-$string['forum:viewqandawithoutposting'] = 'Always see Q and A posts';
-$string['forum:viewrating'] = 'View the total rating you received';
-$string['forum:viewsubscribers'] = 'View subscribers';
-$string['forumauthorhidden'] = 'Author (hidden)';
-$string['forumblockingalmosttoomanyposts'] = 'You are approaching the posting threshold. You have posted {$a->numposts} times in the last {$a->blockperiod} and the limit is {$a->blockafter} posts.';
-$string['forumbodydeleted'] = 'The content of this forum post has been removed and can no longer be accessed.';
-$string['forumbodyhidden'] = 'This post is currently hidden, most likely because you need to post in the discussion first and forum post notifications must be sent. Another possibility is that the current time is not within the display period set for the post.';
-$string['forumgrader'] = 'Forum grader';
-$string['forumgradingnavigation'] = 'Forum grading navigation';
-$string['forumgradingpanel'] = 'Forum grading panel';
-$string['forumintro'] = 'Description';
-$string['forumname'] = 'Forum name';
-$string['forumposts'] = 'Forum posts';
-$string['forums'] = 'Forums';
-$string['forumsubjectdeleted'] = 'This forum post has been removed';
-$string['forumsubjecthidden'] = 'Subject (hidden)';
-$string['forumtracked'] = 'Unread posts are being tracked';
-$string['forumtrackednot'] = 'Unread posts are not being tracked';
-$string['forumtype'] = 'Forum type';
-$string['forumtype_help'] = 'There are 5 forum types:
+$string['forum:managesubscriptions'] = 'Кіраваць падпісьнікамі';
+$string['forum:movediscussions'] = 'Перасоўваць абмеркаваньні';
+$string['forum:pindiscussions'] = 'Прымацоўваць абмеркаваньні';
+$string['forum:postprivatereply'] = 'Прыватна адказваць на пасты';
+$string['forum:postwithoutthrottling'] = 'Вызваленьне ад парога пастоў';
+$string['forum:rate'] = 'Ацэньваць пасты';
+$string['forum:readprivatereplies'] = 'Праглядваць прыватныя адказы';
+$string['forum:replynews'] = 'Адказваць на аб\'явы';
+$string['forum:replypost'] = 'Адказваць на пасты';
+$string['forum:splitdiscussions'] = 'Дзяліць абмеркаваньні';
+$string['forum:startdiscussion'] = 'Пачынаць новыя абмеркаваньні';
+$string['forum:viewallratings'] = 'Праглядваць усе чарнавыя адзнакі дадзеныя асобам';
+$string['forum:viewanyrating'] = 'Праглядваць суму адзнак, якую атрымала асоба';
+$string['forum:viewdiscussion'] = 'Праглядваць абмеркаваньні';
+$string['forum:viewhiddentimedposts'] = 'Прагляд схаваных пастоў з таймерам';
+$string['forum:viewqandawithoutposting'] = 'Заўжды бачыць пасты пытаньні і адказы';
+$string['forum:viewrating'] = 'Бачыць сваю атрыманую суму адзнак';
+$string['forum:viewsubscribers'] = 'Праглядваць падпісьнікаў';
+$string['forumauthorhidden'] = 'Аўтар (схаваны)';
+$string['forumblockingalmosttoomanyposts'] = 'Вы набліжаецеся да ліміту пастоў. Вы запосьцілі {$a->numposts} разоў за апошнія {$a->blockperiod}, а ліміт пастоў {$a->blockafter}.';
+$string['forumbodydeleted'] = 'Зьмесьціва гэтага паста форума было выдалена і болей не даступна.';
+$string['forumbodyhidden'] = 'Гэты пост цяпер схаваны, найбольш верагодна таму, што вы мусіце спачатку напісаць пост у абмеркаваньні і абвестка пра пост форума мусіць быць адпраўлена. Іншая магчымасьць палягае ў тым, што цяперашні час знаходзіцца за межамі перыяду адлюстраваньня, усталяванаму для гэтага паста.';
+$string['forumgrader'] = 'Адзначнік форума';
+$string['forumgradingnavigation'] = 'Навігацыя па ацэнцы форума';
+$string['forumgradingpanel'] = 'Панэль ацэньваньня форума';
+$string['forumintro'] = 'Апісаньне';
+$string['forumname'] = 'Назва форума';
+$string['forumposts'] = 'Пасты форума';
+$string['forums'] = 'Форумы';
+$string['forumsubjectdeleted'] = 'Гэты пост форума быў выдалены';
+$string['forumsubjecthidden'] = 'Тэма (схаваная)';
+$string['forumtracked'] = 'Непрачытаныя пасты адсочваюцца';
+$string['forumtrackednot'] = 'Непрачытаныя пасты не адсочваюцца';
+$string['forumtype'] = 'Тып форума';
+$string['forumtype_help'] = 'Існуе 5 тыпаў форума:
 
-* A single simple discussion - A single discussion topic which everyone can reply to (cannot be used with separate groups)
-* Each person posts one discussion - Each student can post exactly one new discussion topic, which everyone can then reply to
-* Q and A forum - Students must first post their perspectives before viewing other students\' posts
-* Standard forum displayed in a blog-like format - An open forum where anyone can start a new discussion at any time, and in which discussion topics are displayed on one page with "Discuss this topic" links
-* Standard forum for general use - An open forum where anyone can start a new discussion at any time';
-$string['generalforum'] = 'Standard forum for general use';
-$string['generalforums'] = 'General forums';
+* Адно простае абмеркаваньне - Адзіная тэма абмеркаваньня, на якую могуць адказваць усе жадаючыя (нельга выкарыстоўваць з адасобленымі групамі)
+* Кожная асоба посьціць адно абмеркаваньне - Кожны студэнт можа запосьціць выключна адну новую тэму абмеркаваньня, на якую могуць адказваць усе жадаючыя
+* Форум пытаньне-адказ - Студэнты мусяць спачатку запосьціць свой погляд на тэму, перш чым праглядваць пасты іншых студэнтаў
+* Стандартны форум, пададзены ў фармаце блога - Адкрыты форум, у якім кожны можа ў любы час пачаць новае абмеркаваньне, і ў якім тэмы абмеркаваньняў адлюстроўваюцца на адной старонцы са спасылкамі "Абмеркаваць гэтую тэму"
+* тандартны форум для агульнага выкарыстаньня - Адкрыты форум, у якім кожны можа ў любы час пачаць новае абмеркаваньне';
+$string['generalforum'] = 'Стандартны форум для агульнага выкарыстаньня';
+$string['generalforums'] = 'Агульныя форумы';
 $string['grade_forum_header'] = 'Whole forum grading';
 $string['grade_forum_name'] = 'Whole forum';
 $string['grade_forum_title'] = 'Grade';
@@ -631,7 +631,7 @@ $string['prune'] = 'Split';
 $string['prunediscussion'] = 'Split discussion';
 $string['prunedpost'] = 'A new discussion has been created from that post';
 $string['pruneheading'] = 'Split the discussion and move this post to a new discussion';
-$string['qandaforum'] = 'Q and A forum';
+$string['qandaforum'] = 'Форум пытаньне-адказ';
 $string['qandanotify'] = 'This is a question and answer forum. In order to see other responses to these questions, you must first post your answer';
 $string['re'] = 'Re:';
 $string['readtherest'] = 'Read the rest of this topic';
@@ -694,7 +694,7 @@ $string['showmoreusers'] = 'Show more users';
 $string['showpreviousrepliescount'] = 'Show previous replies ({$a})';
 $string['showsubscribers'] = 'Show/edit current subscribers';
 $string['showusersearch'] = 'Show user search';
-$string['singleforum'] = 'A single simple discussion';
+$string['singleforum'] = 'Адно простае абмеркаваньне';
 $string['smallmessage'] = '{$a->user} posted in {$a->forumname}';
 $string['smallmessagedigest'] = 'Forum digest containing {$a} messages';
 $string['starredonly'] = 'Search starred discussions only';

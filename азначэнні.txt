@@ -131,6 +131,7 @@ scale = шкала
 scheduled task = запланаванае заданьне
 section = падзел (курса)
 self enrolment = самастойнага залічэньня
+separate groups = адасобленымі групамі
 separator = падзельнік
 share = апублічыць
 sharing = супольнага выкарыстаньня (question)
