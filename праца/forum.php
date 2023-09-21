@@ -409,116 +409,115 @@ $string['lockupdated'] = 'Налада блакаваньня была абно�
 $string['longpost'] = 'Доўгі пост';
 $string['mailnow'] = 'Адправіць абвесткі пра пост форума без часовай затрымкі';
 $string['managesubscriptionsoff'] = 'Скончыць кіраваньне падпіскамі';
-$string['managesubscriptionson'] = 'Manage subscribers';
-$string['manydiscussions'] = 'Discussions per page';
-$string['markalldread'] = 'Mark all posts in this discussion read.';
-$string['markallread'] = 'Mark all posts in this forum read.';
-$string['markasread'] = 'Mark as read';
-$string['markasreadonnotification'] = 'When sending forum post notifications';
-$string['markasreadonnotification_help'] = 'When you are notified of a forum post, you can choose whether this should mark the post as read for the purpose of forum tracking.';
-$string['markasreadonnotificationno'] = 'Do not mark the post as read';
-$string['markasreadonnotificationyes'] = 'Mark the post as read';
-$string['markread'] = 'Mark read';
-$string['markreadbutton'] = 'Mark<br />read';
-$string['markunread'] = 'Mark unread';
-$string['markunreadbutton'] = 'Mark<br />unread';
-$string['maxattachments'] = 'Maximum number of attachments';
-$string['maxattachments_help'] = 'This setting specifies the maximum number of files that can be attached to a forum post.';
-$string['maxattachmentsize'] = 'Maximum attachment size';
-$string['maxattachmentsize_help'] = 'This setting specifies the largest size of file that can be attached to a forum post.';
-$string['maxtimehaspassed'] = 'Sorry, but the maximum time for editing this post ({$a}) has passed!';
-$string['message'] = 'Message';
-$string['messageinboundattachmentdisallowed'] = 'Unable to post your reply, since it includes an attachment and the forum doesn\'t allow attachments.';
-$string['messageinboundfilecountexceeded'] = 'Unable to post your reply, since it includes more than the maximum number of attachments allowed for the forum ({$a->forum->maxattachments}).';
-$string['messageinboundfilesizeexceeded'] = 'Unable to post your reply, since the total attachment size ({$a->filesize}) is greater than the maximum size allowed for the forum ({$a->maxbytes}).';
-$string['messageinboundforumhidden'] = 'Unable to post your reply, since the forum is currently unavailable.';
-$string['messageinboundnopostforum'] = 'Unable to post your reply, since you do not have permission to post in the {$a->forum->name} forum.';
-$string['messageinboundthresholdhit'] = 'Unable to post your reply.  You have exceeded the posting threshold set for this forum';
-$string['messageprovider:digests'] = 'Subscribed forum digests';
-$string['messageprovider:posts'] = 'Subscribed forum posts';
-$string['missingsearchterms'] = 'The following search terms occur only in the HTML markup of this message:';
-$string['modeflatnewestfirst'] = 'Display replies flat, with newest first';
-$string['modeflatoldestfirst'] = 'Display replies flat, with oldest first';
-$string['modenested'] = 'Display replies in nested form';
-$string['modenestedv2'] = 'Display replies in experimental nested form';
-$string['modethreaded'] = 'Display replies in threaded form';
-$string['modulename'] = 'Forum';
-$string['modulename_help'] = 'The forum activity module enables participants to have asynchronous discussions i.e. discussions that take place over an extended period of time.
+$string['managesubscriptionson'] = 'Кіраваньне падпісьнікамі';
+$string['manydiscussions'] = 'Абмеркаваньняў на старонцы';
+$string['markalldread'] = 'Адзначыць усе пасты ў гэтым абмеркаваньні як прачытаныя.';
+$string['markallread'] = 'Адзначыць усе пасты ў гэтым форуме як прачытаныя.';
+$string['markasread'] = 'Адзначыць як прачытанае';
+$string['markasreadonnotification'] = 'Падчас адпраўкі абвестак пра пасты форума';
+$string['markasreadonnotification_help'] = 'Вы можаце абраць, ці варта адзначаць пост як прачытаны пасьля атрыманьня абвесткі пра пост форума (для адсочваньня форума).';
+$string['markasreadonnotificationno'] = 'Не адзначаць пост як прачытаны';
+$string['markasreadonnotificationyes'] = 'Адзначаць пост як прачытаны';
+$string['markread'] = 'Адзначыць як прачытанае';
+$string['markreadbutton'] = 'Адзначыць як<br />прачытанае';
+$string['markunread'] = 'Адзначыць як не прачытанае';
+$string['markunreadbutton'] = 'Mark як<br />не прачытанае';
+$string['maxattachments'] = 'Максімальная колькасьць укладаньняў';
+$string['maxattachments_help'] = 'Гэтая налада вызначае максімальную колькасьць файлаў, якая можа быць укладзена да паста форума.';
+$string['maxattachmentsize'] = 'Максімальны памер укладаньня';
+$string['maxattachmentsize_help'] = 'Гэтая налада вызначае найбольшы памер файла, які можа быць укладзены да паста форума.';
+$string['maxtimehaspassed'] = 'Прабацьце, але максімальны час рэдагаваньня гэта паста ({$a}) мінуў!';
+$string['message'] = 'Паведамленьне';
+$string['messageinboundattachmentdisallowed'] = 'Нельга запосьціць вашы адказ, бо ён мае ўкладаньне, а форум забараняе ўкладаньні.';
+$string['messageinboundfilecountexceeded'] = 'Нельга запосьціць вашы адказ, бо ён мае большую колькасьць укладаньняў за дазволеную максімальную колькасьць укладаньняў форума ({$a->forum->maxattachments}).';
+$string['messageinboundfilesizeexceeded'] = 'Нельга запосьціць вашы адказ, бо агульны памер укладаньня ({$a->filesize}) вышэйшы за максімальны дазволены памер форума ({$a->maxbytes}).';
+$string['messageinboundforumhidden'] = 'Нельга запосьціць вашы адказ, бо форум цяпер не даступны.';
+$string['messageinboundnopostforum'] = 'Нельга запосьціць вашы адказ, бо вы ня маеце дазволу посьціць на форуме {$a->forum->name}.';
+$string['messageinboundthresholdhit'] = 'Нельга запосьціць вашы адказ. Вы перасягнулі мяжу адпраўкі пастоў, усталяваную для гэтага форума.';
+$string['messageprovider:digests'] = 'Дайдждэсты форума з падпіскамі';
+$string['messageprovider:posts'] = 'Пасты форума з падпіскамі';
+$string['missingsearchterms'] = 'Наступныя пошукавыя тэрміны сустракаюцца толькі ў HTML разьметцы дадзенага паведамленьня:';
+$string['modeflatnewestfirst'] = 'Адлюстроўваць адказы, спачатку новыя';
+$string['modeflatoldestfirst'] = 'Адлюстроўваць адказы, спачатку старыя';
+$string['modenested'] = 'Паказваць адказы ўва ўкладзеннай форме';
+$string['modenestedv2'] = 'Паказваць адказы ўва эксперыментальнай укладзеннай форме';
+$string['modethreaded'] = 'Паказваць адказы ўва струменнай форме';
+$string['modulename'] = 'Форум';
+$string['modulename_help'] = 'Модуль актыўнасьць-форум дазваляе ўдзельнікам весьці асінхронныя абмеркаваньні, то бок абмеркаваньні, якія доўжацца цягам доўгага часу.
 
-There are several forum types to choose from, such as a standard forum where anyone can start a new discussion at any time; a forum where each student can post exactly one discussion; or a question and answer forum where students must first post before being able to view other students\' posts. A teacher can allow files to be attached to forum posts. Attached images are displayed in the forum post.
+Існуе некалькі тыпаў форумаў, напрыклад, стандартны форум, у якім кожны можа пачаць новае абмеркаваньне ўва ўсякі час; форум, дзе кожны студэнт можа разьмясьціць толькі адно абмеркаваньне; альбо форум пытаньне-адказ, дзе студэнты спачатку мусяць напісаць пост, каб атрымаць доступ для прагляду пастоў іншых студэнтаў. Настаўнік можа дазволіць укладаць файлы да пастоў форума. Укладзеныя выявы будуць адлюстроўвацца ў пастах форума.
 
-Participants can subscribe to a forum to receive notifications of new forum posts. A teacher can set the subscription mode to optional, forced or auto, or prevent subscription completely. If required, students can be blocked from posting more than a given number of posts in a given time period; this can prevent individuals from dominating discussions.
+Удзельнікі могуць подпісацца на форум, каб атрымліваць абвесткі пра новыя пасты форума. Настаўнік можа вызначыць рэжым падпісваньня, па-жаданьню, прымусовы, аўтаматычны ці забараніць падпіску цалкам. Калі патрабуецца, студэнтаў льга абмежаваць магчымай максімальнай колькасьцю пастоў за вызначаны часовы перыяд; тое можа выключыць дамінаваньне асабы ўва абмеркаваньні.
+Настаўнікі ці студэнты (узаемнае ацэньваньне) могуць рэйтынгаваць (ацэньваць) пасты форума. Рэйтынгі могуць сумавацца ўва форму выніковай адзнакі і пераносіцца ўва журнал адзнак.
 
-Forum posts can be rated by teachers or students (peer evaluation). Ratings can be aggregated to form a final grade which is recorded in the gradebook.
+Форумы льга выкарыстоўваць шматлікімі шляхамі
 
-Forums have many uses, such as
-
-* A social space for students to get to know each other
-* For course announcements (using a news forum with forced subscription)
-* For discussing course content or reading materials
-* For continuing online an issue raised previously in a face-to-face session
-* For teacher-only discussions (using a hidden forum)
-* A help centre where tutors and students can give advice
-* A one-on-one support area for private student-teacher communications (using a forum with separate groups and with one student per group)
-* For extension activities, for example ‘brain teasers’ for students to ponder and suggest solutions to';
+* Дзеля сацыяльнай прасторы, на якой студэнты могуць пазнаёміцца адзін з адным
+* Дзеля аб\'яваў курса (выкарыстаньне форума навінаў з прымусовай падпіскай)
+* Дзеля абмеркаваньня зьмесьціва курса ці чытаньня матэрыялаў
+* Дзеля працягу працы ў рэжыме анлайн па пытаньнях, узьнятых раней на вочнай сесіі
+* Дзеля выключна настаўніцкіх абмеркаваньняў (выкарыстаньне схаванага форума)
+* Дзеля цэнтру дапамогі, дзе студэнты і настаўнікі могуць атрымаць рады
+* Дзеля вобласьці падтрымкі твар у твар, прыватнай гутаркі студэнта з настаўнікам (выкарыстаньне форума з адасобленымі групамі, групы складаюцца з аднога студэнта)
+* Дзеля пашырэньня актыўнасьцяў, напрыклад, ‘мазгавых штурмаў’, каб студэнты думалі і рабілі прапановы';
 $string['modulename_link'] = 'mod/forum/view';
-$string['modulenameplural'] = 'Forums';
-$string['more'] = 'more';
-$string['movedmarker'] = '(Moved)';
-$string['movethisdiscussionlabel'] = 'Move the current discussion to the specified forum';
-$string['movethisdiscussionto'] = 'Move this discussion to ...';
-$string['mustprovidediscussionorpost'] = 'You must provide either a discussion ID or post ID to export.';
-$string['myprofileotherdis'] = 'Forum discussions';
-$string['myprofileowndis'] = 'My forum discussions';
-$string['myprofileownpost'] = 'My forum posts';
-$string['namenews'] = 'Announcements';
-$string['namenews_help'] = 'The course announcements forum is a special forum for announcements and is automatically created when a course is created. A course can have only one announcements forum. Only teachers and administrators can post announcements. The "Latest announcements" block will display recent announcements.';
-$string['namesocial'] = 'Social forum';
-$string['nameteacher'] = 'Teacher forum';
-$string['newforumposts'] = 'New forum posts';
-$string['nextdiscussiona'] = 'Next discussion: {$a}';
-$string['nextuser'] = 'Save changes and proceed to the next user';
-$string['noattachments'] = 'There are no attachments to this post';
-$string['nodiscussions'] = 'There are no discussion topics yet in this forum';
-$string['nodiscussionsstartedby'] = '{$a} has not started any discussions';
-$string['nodiscussionsstartedbyyou'] = 'You haven\'t started any discussions yet';
-$string['noguestpost'] = 'Sorry, guests are not allowed to post.';
-$string['noguestsubscribe'] = 'Sorry, guests are not allowed to subscribe.';
-$string['noguesttracking'] = 'Sorry, guests are not allowed to set tracking options.';
-$string['nomorepostscontaining'] = 'No more posts containing \'{$a}\' were found';
-$string['nonews'] = 'No announcements have been posted yet.';
-$string['noonecansubscribenow'] = 'Subscriptions are now disallowed';
-$string['nopermissiontosubscribe'] = 'You do not have the permission to view forum subscribers';
-$string['nopermissiontoview'] = 'You do not have permissions to view this post';
-$string['nopostforum'] = 'Sorry, you are not allowed to post to this forum';
-$string['noposts'] = 'No posts';
-$string['nopostsmadebyuser'] = '{$a} has made no posts';
-$string['nopostsmadebyyou'] = 'You haven\'t made any posts';
-$string['noquestions'] = 'There are no questions yet in this forum';
-$string['nosubscribers'] = 'There are no subscribers yet for this forum';
-$string['notexists'] = 'Discussion no longer exists';
-$string['notgraded'] = 'Not graded';
-$string['nothingnew'] = 'Nothing new for {$a}';
-$string['notingroup'] = 'Sorry, but you need to be part of a group to see this forum.';
-$string['notinstalled'] = 'The forum module is not installed';
-$string['notlocked'] = 'Lock';
-$string['notpartofdiscussion'] = 'This post is not part of a discussion!';
-$string['notrackforum'] = 'Don\'t track unread posts';
-$string['notsubscribed'] = 'Subscribe';
-$string['nousersmatch'] = 'No user(s) found for given criteria';
-$string['noviewdiscussionspermission'] = 'You do not have the permission to view discussions in this forum';
-$string['nowallsubscribed'] = 'You are now subscribed to all forums in {$a}.';
-$string['nowallunsubscribed'] = 'You are now unsubscribed from all forums in {$a}.';
-$string['nowgradinguser'] = 'Now grading {$a}';
-$string['nownotsubscribed'] = '{$a->name} will NOT be notified of new posts in \'{$a->forum}\'';
-$string['nownottracking'] = '{$a->name} is no longer tracking \'{$a->forum}\'.';
-$string['nowsubscribed'] = '{$a->name} will be notified of new posts in \'{$a->forum}\'';
-$string['nowtracking'] = '{$a->name} is now tracking \'{$a->forum}\'.';
-$string['numberofreplies'] = 'Number of replies: {$a}';
-$string['numposts'] = '{$a} posts';
-$string['olderdiscussions'] = 'Older discussions';
-$string['oldertopics'] = 'Older topics';
-$string['oldpostdays'] = 'Read after days';
+$string['modulenameplural'] = 'Форумы';
+$string['more'] = 'болей';
+$string['movedmarker'] = '(Перасунута)';
+$string['movethisdiscussionlabel'] = 'Перасунуць цяперашняе абмеркаваньне ў пэўны форум';
+$string['movethisdiscussionto'] = 'Перасунуць гэтае абмеркаваньне ў ...';
+$string['mustprovidediscussionorpost'] = 'Для экспарту трэба азначыць альбо ID абмеркаваньня, альбо ID паста.';
+$string['myprofileotherdis'] = 'Абмеркаваньні форума';
+$string['myprofileowndis'] = 'Мае абмеркаваньні форума';
+$string['myprofileownpost'] = 'Мае пасты форума';
+$string['namenews'] = 'Аб\'явы';
+$string['namenews_help'] = 'Форум аб\'яваў курса - гэта адмысловы форум дзеля аб\'яваў, які аўтаматычна ствараецца падчас стварэньня курса. Курс можа мець толькі адзін форум аб\'яваў. На ім могуць рабіць пасты толькі настаўнікі і адміністратары. Блок "Апошнія аб\'явы" будзе адлюстроўваць нядаўнія аб\'явы.';
+$string['namesocial'] = 'Сацыяльны форум';
+$string['nameteacher'] = 'Настаўніцкі форум';
+$string['newforumposts'] = 'Новыя пасты форума';
+$string['nextdiscussiona'] = 'Наступнае абмеркаваньне: {$a}';
+$string['nextuser'] = 'Захаваць зьмены і перайсіць да наступнага карыстальніка';
+$string['noattachments'] = 'Гэты пост ня мае ўкладаньняў';
+$string['nodiscussions'] = 'Гэты форум дагэтуль ня мае тэмаў абмеркаваньня';
+$string['nodiscussionsstartedby'] = '{$a} не пачаў(ла) аніякіх абмеркаваньняў';
+$string['nodiscussionsstartedbyyou'] = 'Вы дагэтуль не пачалі аніякіх абмеркаваньняў';
+$string['noguestpost'] = 'Прабачце, гасьцям забаронена посьціць.';
+$string['noguestsubscribe'] = 'Прабачце, гасьцям забаронена падпісвацца.';
+$string['noguesttracking'] = 'Прабачце, гасьцям забаронена ўсталёўваць налады адсочваньня.';
+$string['nomorepostscontaining'] = 'Пастоў, якія ўтрымліваюць \'{$a}\', болей ня знойдзена';
+$string['nonews'] = 'Пакуль ня зроблены пасты-аб\'явы.';
+$string['noonecansubscribenow'] = 'Падпіскі цяпер забаронены';
+$string['nopermissiontosubscribe'] = 'Вы ня маеце дазволу праглядваць падпісьнікаў форума';
+$string['nopermissiontoview'] = 'Вы ня маеце дазволу праглядваць гэты пост';
+$string['nopostforum'] = 'Прабачце, вам забаронена посьціць на гэтым форуме';
+$string['noposts'] = 'Няма пастоў';
+$string['nopostsmadebyuser'] = '{$a} ня зрабіў(ла) пастоў';
+$string['nopostsmadebyyou'] = 'Вы не зрабілі аніводнага паста';
+$string['noquestions'] = 'У гэтым форуме пакуль няма пытаньняў';
+$string['nosubscribers'] = 'У гэтага форума пакуль няма падпісьнікаў';
+$string['notexists'] = 'Абмеркаваньне болей не існуе';
+$string['notgraded'] = 'Няма адзнакі';
+$string['nothingnew'] = 'Нічога новага для {$a}';
+$string['notingroup'] = 'Прабачце, але вы мусіце быць чальцом групы, каб праглядаць гэты форум.';
+$string['notinstalled'] = 'Модуль-форум не ўсталяваны';
+$string['notlocked'] = 'Заблакаваць';
+$string['notpartofdiscussion'] = 'Гэты пост ня з\'яўляецца часткай абмеркаваньня!';
+$string['notrackforum'] = 'Не адсочваць непрачытаныя пасты';
+$string['notsubscribed'] = 'Падпісацца';
+$string['nousersmatch'] = 'Дзеля пададзенага крытэра ня знойдзена ніводнага карыстальніка';
+$string['noviewdiscussionspermission'] = 'Вы ня маеце дазвола на прагляд абмеркаваньняў гэтага форума';
+$string['nowallsubscribed'] = 'Цяпер вы падпісаны на ўсе форумы ў {$a}.';
+$string['nowallunsubscribed'] = 'Цяпер вы адпісаны ад усіх форумаў у {$a}.';
+$string['nowgradinguser'] = 'Цяпер ацэньваецца {$a}';
+$string['nownotsubscribed'] = '{$a->name} НЯ будзе атрымліваць абвесткі пра новыя пасты ў \'{$a->forum}\'';
+$string['nownottracking'] = '{$a->name} ня будзе адсочваць \'{$a->forum}\'.';
+$string['nowsubscribed'] = '{$a->name} будзе атрымліваць абвесткі пра новыя пасты ў \'{$a->forum}\'';
+$string['nowtracking'] = '{$a->name} будзе адсочваць \'{$a->forum}\'.';
+$string['numberofreplies'] = 'Колькасьць адказаў: {$a}';
+$string['numposts'] = '{$a} пастоў';
+$string['olderdiscussions'] = 'Старэйшыя абмеркаваньні';
+$string['oldertopics'] = 'Старэйшыя тэмы';
+$string['oldpostdays'] = 'Прачытваць пасьля дзён';
 $string['page-mod-forum-discuss'] = 'Forum module discussion thread page';
 $string['page-mod-forum-view'] = 'Forum module main page';
 $string['page-mod-forum-x'] = 'Any forum module page';
@@ -713,10 +712,10 @@ $string['subscribestop'] = 'I don\'t want to be notified of new posts in this fo
 $string['subscription'] = 'Subscription';
 $string['subscription_help'] = 'If you are subscribed to a forum it means you will receive notification of new forum posts. Usually you can choose whether you wish to be subscribed, though sometimes subscription is forced so that everyone receives notifications.';
 $string['subscriptionandtracking'] = 'Subscription and tracking';
-$string['subscriptionauto'] = 'Auto subscription';
-$string['subscriptiondisabled'] = 'Subscription disabled';
-$string['subscriptionforced'] = 'Forced subscription';
-$string['subscriptionmode'] = 'Subscription mode';
+$string['subscriptionauto'] = 'Аўта падпіска';
+$string['subscriptiondisabled'] = 'Падпіска адключана';
+$string['subscriptionforced'] = 'Прымусовая падпіска';
+$string['subscriptionmode'] = 'Рэжым падпіскі';
 $string['subscriptionmode_help'] = 'When a participant is subscribed to a forum it means they will receive forum post notifications. There are 4 subscription mode options:
 
 * Optional subscription - Participants can choose whether to be subscribed
@@ -724,7 +723,7 @@ $string['subscriptionmode_help'] = 'When a participant is subscribed to a forum 
 * Auto subscription - Everyone is subscribed initially but can choose to unsubscribe at any time
 * Subscription disabled - Subscriptions are not allowed';
 $string['subscriptionmodeconfirm'] = 'Are you sure you want to change the subscription mode to {$a}?';
-$string['subscriptionoptional'] = 'Optional subscription';
+$string['subscriptionoptional'] = 'Падпіска па-жаданьню';
 $string['subscriptions'] = 'Subscriptions';
 $string['tagarea_forum_posts'] = 'Forum posts';
 $string['tagsdeleted'] = 'Forum tags have been deleted';

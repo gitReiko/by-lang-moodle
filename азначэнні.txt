@@ -81,6 +81,7 @@ insights = асьвятленьні
 jobs = працы (крон)
 label = пазнака (Track)
 Label = Цэтлік (мод)
+Latest announcements = Апошнія аб\'явы
 layout = макет
 locked = заблакавана
 log = лог
