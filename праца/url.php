@@ -25,16 +25,16 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['chooseavariable'] = 'Choose a variable...';
-$string['clicktoopen'] = 'Click {$a} link to open resource.';
-$string['configdisplayoptions'] = 'Select all options that should be available, existing settings are not modified. Hold CTRL key to select multiple fields.';
-$string['configframesize'] = 'When a web page or an uploaded file is displayed within a frame, this value is the height (in pixels) of the top frame (which contains the navigation).';
-$string['configrolesinparams'] = 'Enable if you want to include localized role names in list of available parameter variables.';
-$string['configsecretphrase'] = 'This secret phrase is used to produce encrypted code value that can be sent to some servers as a parameter.  The encrypted code is produced by an md5 value of the current user IP address concatenated with your secret phrase. ie code = md5(IP.secretphrase). Please note that this is not reliable because IP address may change and is often shared by different computers.';
-$string['contentheader'] = 'Content';
-$string['createurl'] = 'Create a URL';
-$string['displayoptions'] = 'Available display options';
-$string['displayselect'] = 'Display';
+$string['chooseavariable'] = 'Абярыце зьменную...';
+$string['clicktoopen'] = 'Націсьніце па спасылцы {$a}, каб адкрыць рэсурс.';
+$string['configdisplayoptions'] = 'Абярыце ўсе опцыя, якія мусяць быць даступнымі, існыя налады ня зьменяцца. Утрымлівайце кнопку CTRL дзеля абраньня некалькіх палёў.';
+$string['configframesize'] = 'Падчас адлюстраваньня странкі ці запампованага файла ў фрэйме, гэтае значэньне вызначае вышыню верхняга фрэйма (у пікселях, фрэйм мае навігацыю).';
+$string['configrolesinparams'] = 'Уключыце, калі вы жадаеце дадаць лакалізаваныя назвы роляў у сьпіс даступных параметраў-зьменных.';
+$string['configsecretphrase'] = 'Гэта таемная фраза выкарыстоўваецца дзеля стварэньня зашыфраванага кодавага значэньня, якое можа быць адпраўлена на некаторыя сэрверы ў якасьці параметра. Зашыфраваны код фармуецца з md5-значэньня IP-адраса цяперашняга карыстальніка, аб\'яднанага з вашай таемнай фразай. То бок код = md5(IP.secretphrase). Зьвярніце ўвагу, гэты спосаб ня з\'яўляецца надзейным, бо IP-адрас можа мяняцца і часта выкарыстоўвацца агульна рознымі кампутарамі.';
+$string['contentheader'] = 'Зьмесьціва';
+$string['createurl'] = 'Стварыць спасылку';
+$string['displayoptions'] = 'Даступныя опцыі адлюстраваньня';
+$string['displayselect'] = 'Адлюстраваньне';
 $string['displayselect_help'] = 'This setting, together with the URL file type and whether the browser allows embedding, determines how the URL is displayed. Options may include:
 
 * Automatic - The best display option for the URL is selected automatically
