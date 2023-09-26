@@ -35,40 +35,40 @@ $string['contentheader'] = 'Зьмесьціва';
 $string['createurl'] = 'Стварыць спасылку';
 $string['displayoptions'] = 'Даступныя опцыі адлюстраваньня';
 $string['displayselect'] = 'Адлюстраваньне';
-$string['displayselect_help'] = 'This setting, together with the URL file type and whether the browser allows embedding, determines how the URL is displayed. Options may include:
+$string['displayselect_help'] = 'Гэтая налада, разам з тыпам спасылкі на файл і дазволам браўзара ўбудоўваць, вызначаюць шлях адлюстраваньня спасылкі. Існуюць наступныя опцыі:
 
-* Automatic - The best display option for the URL is selected automatically
-* Embed - The URL is displayed within the page below the navigation bar together with the URL description and any blocks
-* Open - Only the URL is displayed in the browser window
-* In pop-up - The URL is displayed in a new browser window without menus or an address bar
-* In frame - The URL is displayed within a frame below the navigation bar and URL description
-* New window - The URL is displayed in a new browser window with menus and an address bar';
-$string['displayselectexplain'] = 'Choose display type, unfortunately not all types are suitable for all URLs.';
-$string['externalurl'] = 'External URL';
-$string['framesize'] = 'Frame height';
-$string['indicator:cognitivedepth'] = 'URL cognitive';
-$string['indicator:cognitivedepth_help'] = 'This indicator is based on the cognitive depth reached by the student in a URL resource.';
-$string['indicator:cognitivedepthdef'] = 'URL cognitive';
-$string['indicator:cognitivedepthdef_help'] = 'The participant has reached this percentage of the cognitive engagement offered by the URL resources during this analysis interval (Levels = No view, View)';
+* Аўта - Лепшая опцыя адлюстраваньня спасылкі абіраецца аўтаматычна
+* Убудоўваць - Спасылка адлюстроўваецца пад панэлью навігацыі разам з апісаньнем спасылкі і ўсімі блокамі
+* Адкрываць - У вакне браўзара адлюстроўваецца толькі спасылка
+* Ва ўсплыўным акне - Спасылка адлюстроўваецца ў новым вакне браўзара без меню ці адраснага радка
+* У рамцы - Спасылка адлюстроўваецца ў рамцы пад панэлью навігацыі і апісаньнем спасылкі
+* Новае акно - Спасылка адлюстроўваецца ў новым вакне браўзара з меню і адрасным радком';
+$string['displayselectexplain'] = 'Абярыце тып адлюстраваньня, на жаль, не ўсе тыпы падыходзяць для ўсіх спасылак.';
+$string['externalurl'] = 'Вонкавая спасылка';
+$string['framesize'] = 'Вышыня рамкі';
+$string['indicator:cognitivedepth'] = 'Пазнаваньне спасылкі';
+$string['indicator:cognitivedepth_help'] = 'Гэты паказьнік заснаваны на глыбіні пазнаваньня, якую дасягнуў студэнт у рэсурсе-Спасылцы.';
+$string['indicator:cognitivedepthdef'] = 'Пазнаваньне спасылкі';
+$string['indicator:cognitivedepthdef_help'] = 'Удзельнік дасягнуў гэтага адсотку пазнавальнага ўцягненьня, прапанаваны рэсурсам-Спасылкай у аналізаваны тэрмін (Роўні = Без прагляду, Прагляд)';
 $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cognitive_depth';
-$string['indicator:socialbreadth'] = 'URL social';
-$string['indicator:socialbreadth_help'] = 'This indicator is based on the social breadth reached by the student in a URL resource.';
-$string['indicator:socialbreadthdef'] = 'URL social';
-$string['indicator:socialbreadthdef_help'] = 'The participant has reached this percentage of the social engagement offered by the URL resources during this analysis interval (Levels = No participation, Participant alone)';
+$string['indicator:socialbreadth'] = 'Сацыяльнасьць спасылкі';
+$string['indicator:socialbreadth_help'] = 'Гэты паказьнік заснаваны на сацыяльнай шырыні, якую дасягнуў студэнт у рэсурсе-Спасылцы.';
+$string['indicator:socialbreadthdef'] = 'Сацыяльнасьць спасылкі';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай рэсурсам-Спасылкай у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
-$string['invalidstoredurl'] = 'Cannot display this resource, URL is invalid.';
-$string['invalidurl'] = 'Entered URL is invalid';
-$string['modulename'] = 'URL';
-$string['modulename_help'] = 'The URL module enables a teacher to provide a web link as a course resource. Anything that is freely available online, such as documents or images, can be linked to; the URL doesn’t have to be the home page of a website. The URL of a particular web page may be copied and pasted or a teacher can use the file picker and choose a link from a repository such as Flickr, YouTube or Wikimedia (depending upon which repositories are enabled for the site).
+$string['invalidstoredurl'] = 'Нельга адлюстраваць гэты рэсурс, спасылка хібная.';
+$string['invalidurl'] = 'Уведзеная спасылка хібная.';
+$string['modulename'] = 'Спасылка';
+$string['modulename_help'] = 'Модуль-спасылка дазваляе настаўнікам ствараць вэб-спасылку ў форме рэсурса курса. У якасьці спасылкі льга выкарыстоўваць любыя дакументы і выявы, што знаходзяцца ў вольным доступе ўва Інтэрнэце. Пры гэтым спасылка не абавязкова мусіць спасылацца на галоўную старонку сайта. Спасылка пэўнай вэб-старонкі можа быць скапіявана і ўстаўлена, альбо настаўнік можа скарыстацца функцыяй выбару файлаў з рэпазытара, напрыклад, Flickr, YouTube ці Wikimedia (у залежнасьці ад таго, якія рэпазітары ўключаны для дадзенага сайта).
 
-There are a number of display options for the URL, such as embedded or opening in a new window and advanced options for passing information, such as a student\'s name, to the URL if required.
+Існуе некалькі опцыяў адлюстраваньня спасылкі, напрыклад, убудова ці адкрыцьцё ў новым вакне, а таксама прасунутыя магчымасьці перадачы інфармацыі ўва спасылцы, напрыклад, імя студэнта. калі тое неабходна.
 
-Note that URLs can also be added to any other resource or activity type through the text editor.';
+Памятайце, спасылкі таксама льга дадаць да любога рэсурса ці актыўнасьці з дапамогай тэкставага рэдактара.';
 $string['modulename_link'] = 'mod/url/view';
-$string['modulenameplural'] = 'URLs';
-$string['page-mod-url-x'] = 'Any URL module page';
+$string['modulenameplural'] = 'Спасылкі';
+$string['page-mod-url-x'] = 'Усякая старонка модуля-спасылка';
 $string['parameterinfo'] = '&amp;parameter=variable';
-$string['parametersheader'] = 'URL variables';
+$string['parametersheader'] = 'Зьменныя спасылкі';
 $string['parametersheader_help'] = 'This section allows you to pass internal information as part of the URL. This is useful if the URL is an interactive web page that takes parameters, and you want to pass something like the name of the current user, for example. Enter the name of the URL\'s parameter in the text box then select the corresponding site variable.';
 $string['pluginadministration'] = 'URL module administration';
 $string['pluginname'] = 'URL';
