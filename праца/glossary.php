@@ -25,20 +25,20 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['addcategory'] = 'Add category';
-$string['addcomment'] = 'Add comment';
-$string['addentry'] = 'Add a new entry';
-$string['addingcomment'] = 'Add a comment';
-$string['addsingleentry'] = 'Add entry';
-$string['alias'] = 'Keyword';
-$string['aliases'] = 'Keyword(s)';
-$string['aliases_help'] = 'Each glossary entry can have an associated list of keywords (or aliases). If the entry is auto-linked, then any keywords will also be auto-linked.
+$string['addcategory'] = 'Дадаць катэгорыю';
+$string['addcomment'] = 'Дадаць каментар';
+$string['addentry'] = 'Дадаць новы тэрмін';
+$string['addingcomment'] = 'Дадаць каментар';
+$string['addsingleentry'] = 'Дадаць тэрмін';
+$string['alias'] = 'Ключавое слова';
+$string['aliases'] = 'Ключавыя словы';
+$string['aliases_help'] = 'Кожны тэрмін слоўніка можа мець сьпіс асацыяваных ключавых словаў (ці сінонімаў). Калі на кожны тэрмін ствараюцца аўтаспасылкі, то на ключавыя словы таксама будуць стварацца аўтаспасылкі.
 
-Enter each keyword on a new line (not separated by commas).';
-$string['allcategories'] = 'All categories';
-$string['allentries'] = 'ALL';
-$string['allowcomments'] = 'Allow comments on entries';
-$string['allowcomments_help'] = 'If enabled, all participants with permission to create comments will be able to add comments to glossary entries.';
+Друкуйце кожнае новае ключавое слова з новага радка (бяз косак).';
+$string['allcategories'] = 'Усе катэгорыі';
+$string['allentries'] = 'УСЕ';
+$string['allowcomments'] = 'Дазволіць каментары ў тэрмінах';
+$string['allowcomments_help'] = 'Калі ўключана, усе ўдзельнікі, што маюць дазвол на стварэньне каментароў, змогуць дадаваць каментары да тэрмінаў слоўніка.';
 $string['allowduplicatedentries'] = 'Duplicate entries allowed';
 $string['allowduplicatedentries_help'] = 'If enabled, multiple entries can have the same concept name.';
 $string['allowprintview'] = 'Allow print view';
@@ -281,7 +281,7 @@ $string['page-mod-glossary-view'] = 'View glossary edit page';
 $string['page-mod-glossary-x'] = 'Any glossary module page';
 $string['pendingapproval'] = 'Pending approval';
 $string['pluginadministration'] = 'Glossary administration';
-$string['pluginname'] = 'Glossary';
+$string['pluginname'] = 'Слоўнік';
 $string['popupformat'] = 'Popup format';
 $string['print'] = 'Print';
 $string['printerfriendly'] = 'Printer-friendly version';
