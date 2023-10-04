@@ -216,38 +216,38 @@ $string['glossary:viewrating'] = 'Праглядаць свой выніковы
 $string['glossary:write'] = 'Ствараць новыя запісы';
 $string['glossaryleveldefaultsettings'] = 'Стандартныя налады роўня слоўніка';
 $string['glossarytype'] = 'Тып слоўніка';
-$string['glossarytype_help'] = 'A main glossary is a glossary in which entries from secondary glossaries can be imported. There can only be one main glossary in a course. If glossary entry import is not required, all glossaries in the course can be secondary glossaries.';
-$string['guestnoedit'] = 'Guests are not allowed to edit glossaries';
-$string['importcategories'] = 'Import categories';
-$string['importedcategories'] = 'Imported categories';
-$string['importedentries'] = 'Imported entries';
-$string['importentries'] = 'Import entries';
-$string['importentriesfromxml'] = 'Import entries from XML file';
-$string['includegroupbreaks'] = 'Include group breaks';
-$string['indicator:cognitivedepth'] = 'Glossary cognitive';
-$string['indicator:cognitivedepth_help'] = 'This indicator is based on the cognitive depth reached by the student in a Glossary activity.';
-$string['indicator:cognitivedepthdef'] = 'Glossary cognitive';
-$string['indicator:cognitivedepthdef_help'] = 'The participant has reached this percentage of the cognitive engagement offered by the Glossary activities during this analysis interval (Levels = No view, View, Submit)';
+$string['glossarytype_help'] = 'Галоўны слоўнік - гэта слоўнік, у які льга імпартаваць запісы з другасных слоўнікаў. У курсе можа быць толькі адзін галоўны слоўнік. Калі імпарт запісаў слоўніка не патрабуецца, усе слоўнікі курса могуць быць другаснымі.';
+$string['guestnoedit'] = 'Гасьцям забаронена рэдагаваць слоўнікі';
+$string['importcategories'] = 'Імпартаваць катэгорыі';
+$string['importedcategories'] = 'Імпартаваныя катэгорыі';
+$string['importedentries'] = 'Імпартаваныя запісы';
+$string['importentries'] = 'Імпартаваць запісы';
+$string['importentriesfromxml'] = 'Імпартаваць запісы з XML-файла';
+$string['includegroupbreaks'] = 'Уключыць групавыя разрывы';
+$string['indicator:cognitivedepth'] = 'Пазнаваньне слоўніка';
+$string['indicator:cognitivedepth_help'] = 'Гэты паказьнік заснаваны на глыбіні пазнаваньня, якую дасягнуў студэнт у актыўнасьці-Слоўніке.';
+$string['indicator:cognitivedepthdef'] = 'Пазнаваньне слоўніка';
+$string['indicator:cognitivedepthdef_help'] = 'Удзельнік дасягнуў гэтага адсотку пазнавальнага ўцягненьня, прапанаваны актыўнасьцю-Слоўнікам у аналізаваны тэрмін (Роўні = Без прагляду, Прагляд, Адпраўка)';
 $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cognitive_depth';
-$string['indicator:socialbreadth'] = 'Glossary social';
-$string['indicator:socialbreadth_help'] = 'This indicator is based on the social breadth reached by the student in a Glossary activity.';
-$string['indicator:socialbreadthdef'] = 'Glossary social';
-$string['indicator:socialbreadthdef_help'] = 'The participant has reached this percentage of the social engagement offered by the Glossary activities during this analysis interval (Levels = No participation, Participant alone)';
+$string['indicator:socialbreadth'] = 'Сацыяльнасьць слоўніка';
+$string['indicator:socialbreadth_help'] = 'Гэты паказьнік заснаваны на сацыяльнай шырыні, якую дасягнуў студэнт у актыўнасьці-Слоўніке.';
+$string['indicator:socialbreadthdef'] = 'Сацыяльнасьць слоўніка';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцю-Слоўнікам у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
-$string['isglobal'] = 'Is this glossary global?';
-$string['isglobal_help'] = 'A global glossary has entries which are linked to from throughout the site, rather than only in the course that the glossary is in. Only administrators can set a glossary as global.';
-$string['letter'] = 'letter';
-$string['linkcategory'] = 'Automatically link this category';
-$string['linkcategory_help'] = 'If glossary auto-linking has been enabled and this setting is enabled, the category name will be automatically linked wherever it appears throughout the rest of the course. When a participant follows a category name link, they will be taken to the "Агляд па катэгорыі" page of the glossary.';
-$string['linking'] = 'Auto-linking';
-$string['mainglossary'] = 'Main glossary';
-$string['maxtimehaspassed'] = 'Sorry, but the maximum time for editing this comment ({$a}) has passed!';
-$string['modulename'] = 'Glossary';
-$string['modulename_help'] = 'The glossary activity module enables participants to create and maintain a list of definitions, like a dictionary, or to collect and organise resources or information.
+$string['isglobal'] = 'Слоўнік з\'яўляецца глабальным?';
+$string['isglobal_help'] = 'Глабальны слоўнік захоўвае запісы, на якія ствараюцца аўтаспасылкі па ўсім сайце, а ня толькі ў курсе, дзе знаходзіцца слоўнік. Зрабіць слоўнік глабальным здольныя толькі адміністратары.';
+$string['letter'] = 'знак';
+$string['linkcategory'] = 'Аўтаспасылацца на гэтую катэгорыю';
+$string['linkcategory_help'] = 'Калі аўтаспасыланьне слоўніка разам з гэтай наладай уключана, то будуць стварацца аўтаспасылкі на назву гэтай катэгорыі па ўсёй астатняй часткі курса. Пасьля пераходу па спасылцы назьве-катэгорыі ўдзельнікі будуць трапляць на старонку слоўніка "Агляд па катэгорыі".';
+$string['linking'] = 'Аўтаспасыланьне';
+$string['mainglossary'] = 'Галоўны слоўнік';
+$string['maxtimehaspassed'] = 'Прабачце, але максімальны час рэдагаваньня гэтага каментара мінуў ({$a})!';
+$string['modulename'] = 'Слоўнік';
+$string['modulename_help'] = 'Модуль актыўнасьці слоўнік дазваляе ўдзельнікам ствараць і суправаджаць сьпіс тэрмінаў, падобна слоўніку, або зьбіраць і арганізоўваць рэсурсы ці інфармацыю.
 
-A teacher can allow files to be attached to glossary entries. Attached images are displayed in the entry. Entries can be searched or browsed alphabetically or by category, date or author. Entries can be approved by default or require approval by a teacher before they are viewable by everyone.
+Настаўнік можа дазволіць укладаць файлы да запісаў слоўніка. Укладзеныя выявы, адлюстроўваюцца ў запісы. Запісы льга шукаць і паглядаць у алфавітнай чарзе, або па катэгорыям, даце ці аўтару. Запісы могуць ухваляцца аўтаматычна ці настаўнікам да прагляду ўсімі жадаючымі.
 
-If the glossary auto-linking filter is enabled, entries will be automatically linked where the concept words and/or phrases appear within the course.
+Калі фільтар аўтаспасыланьня на слоўнік уключаны, то ўсе адпаведныя словы і фразы ў курсе будуць аўтаспасылацца на запіс слоўніка.
 
 A teacher can allow comments on entries. Entries can also be rated by teachers or students (peer evaluation). Ratings can be aggregated to form a final grade which is recorded in the gradebook.
 
@@ -313,7 +313,7 @@ $string['rsstype_help'] = 'To enable the RSS feed for this activity, select eith
 $string['search:activity'] = 'Glossary - activity information';
 $string['search:entry'] = 'Glossary - entries';
 $string['searchindefinition'] = 'Search full text';
-$string['secondaryglossary'] = 'Secondary glossary';
+$string['secondaryglossary'] = 'Другасны слоўнік';
 $string['showall'] = 'Show \'ALL\' link';
 $string['showall_help'] = 'If enabled, participants can browse all entries at once.';
 $string['showalphabet'] = 'Show alphabet links';

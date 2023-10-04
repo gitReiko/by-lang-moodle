@@ -54,7 +54,7 @@ $string['hidechapter'] = 'Схаваць главу "{$a}"';
 $string['indicator:cognitivedepth'] = 'Пазнаваньне кнігі';
 $string['indicator:cognitivedepth_help'] = 'Гэты паказьнік заснаваны на глыбіні пазнаваньня, якую дасягнуў студэнт у рэсурсе-Кнізе.';
 $string['indicator:cognitivedepthdef'] = 'Пазнаваньне кнігі';
-$string['indicator:cognitivedepthdef_help'] = 'Удзельнік дасягнуў гэтага адсотку пазнавальнага ўцягненьня, прапанаваны рэсурсам-Кнігай ў аналізаваны тэрмін (Роўні = Без прагляду, Прагляд)';
+$string['indicator:cognitivedepthdef_help'] = 'Удзельнік дасягнуў гэтага адсотку пазнавальнага ўцягненьня, прапанаваны рэсурсам-Кнігай у аналізаваны тэрмін (Роўні = Без прагляду, Прагляд)';
 $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cognitive_depth';
 $string['indicator:socialbreadth'] = 'Сацыяльнасьць кнігі';
 $string['indicator:socialbreadth_help'] = 'Гэты паказьнік заснаваны на сацыяльнай шырыні, якую дасягнуў студэнт у рэсурсе-Кнізе.';
