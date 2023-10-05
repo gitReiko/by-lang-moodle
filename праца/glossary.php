@@ -249,53 +249,53 @@ $string['modulename_help'] = 'Модуль актыўнасьці слоўнік
 
 Калі фільтар аўтаспасыланьня на слоўнік уключаны, то ўсе адпаведныя словы і фразы ў курсе будуць аўтаспасылацца на запіс слоўніка.
 
-A teacher can allow comments on entries. Entries can also be rated by teachers or students (peer evaluation). Ratings can be aggregated to form a final grade which is recorded in the gradebook.
+Настаўнік можа дазволіць каментаваньне запісаў. Запісы могуць ацэньвацца (рэйтынгавацца) настаўнікамі ці студэнтамі (сумеснае ацэньваньне). Рэйтынгі могуць сумавацца ўва выніковую адзнаку, якая запісваецца ў журнал адзнак.
 
-Glossaries have many uses, such as
+Слоўнікі льга выкарыстоўваць дзеля
 
-* A collaborative bank of key terms
-* A ‘getting to know you’ space where new students add their name and personal details
-* A ‘handy tips’ resource of best practice in a practical subject
-* A sharing area of useful videos, images or sound files
-* A revision resource of facts to remember';
+* Сумеснай базы ключовых тэрмінаў
+* Пляцоўкі для знаёмства, дзе новыя студэнты дадаюць сваё імя і асабістыя дэталі
+* Рэсурса ‘карысных парадаў’, што рэпрэзентуе лепшыя практыкі ў вобласьці
+* Пляцоўкі для памену карыснымі файламі, відэа, выявы, аўдыё
+* Рэсурса фактаў для запамінаньня';
 $string['modulename_link'] = 'mod/glossary/view';
-$string['modulenameplural'] = 'Glossaries';
-$string['newentries'] = 'New glossary entries';
-$string['newglossary'] = 'New glossary';
-$string['newglossarycreated'] = 'New glossary created.';
-$string['newglossaryentries'] = 'New glossary entries:';
-$string['nocomment'] = 'No comment found';
-$string['nocomments'] = '(No comments found on this entry)';
-$string['noconceptfound'] = 'No concept or definition found.';
-$string['noentries'] = 'No entries found in this section';
-$string['noentry'] = 'No entry found.';
-$string['nopermissiontodelcomment'] = 'You can\'t delete other people\'s comments!';
-$string['nopermissiontodelinglossary'] = 'You can\'t comments in this glossary!';
-$string['nopermissiontoviewresult'] = 'You can only look at results for your own entries';
-$string['notapproved'] = 'glossary entry is not approved yet.';
-$string['notcategorised'] = 'Not categorised';
-$string['numberofentries'] = 'Number of entries';
-$string['onebyline'] = '(one per line)';
-$string['page-mod-glossary-edit'] = 'Glossary add/edit entry page';
-$string['page-mod-glossary-view'] = 'View glossary edit page';
-$string['page-mod-glossary-x'] = 'Any glossary module page';
-$string['pendingapproval'] = 'Pending approval';
-$string['pluginadministration'] = 'Glossary administration';
+$string['modulenameplural'] = 'Слоўнікі';
+$string['newentries'] = 'Новыя запісы слоўніка ';
+$string['newglossary'] = 'Новы слоўнік';
+$string['newglossarycreated'] = 'Новы слоўнік створаны.';
+$string['newglossaryentries'] = 'Новыя запісы слоўніка:';
+$string['nocomment'] = 'Каментары ня знойдзены';
+$string['nocomments'] = '(Каментары для гэтага запісу адсутнічаюць)';
+$string['noconceptfound'] = 'Тэрміны ці азначэньні ня знойдзены.';
+$string['noentries'] = 'Запісы ў гэтым падзеле ня знойдзены';
+$string['noentry'] = 'Запіс ня знойдзены.';
+$string['nopermissiontodelcomment'] = 'Вы ня можаце выдаляць каментары іншых людзей!';
+$string['nopermissiontodelinglossary'] = 'Вы ня можаце каментаваць у гэтым слоўніке!';
+$string['nopermissiontoviewresult'] = 'Вы можаце праглядаць вынікі толькі для сваіх уласных запісаў';
+$string['notapproved'] = 'запіс слоўніка дагэтуль не ўхвалены.';
+$string['notcategorised'] = 'Без катэгорыі';
+$string['numberofentries'] = 'Колькасьць запісаў';
+$string['onebyline'] = '(па адной на радок)';
+$string['page-mod-glossary-edit'] = 'Старонка даданьня/рэдагаваньня слоўніка';
+$string['page-mod-glossary-view'] = 'Старонка прагляду рэдагаваньня слоўніка';
+$string['page-mod-glossary-x'] = 'Усякая старонка модуля слоўнік';
+$string['pendingapproval'] = 'Чакаецца ўхваленьне';
+$string['pluginadministration'] = 'Адміністраваньне слоўніка';
 $string['pluginname'] = 'Слоўнік';
-$string['popupformat'] = 'Popup format';
-$string['print'] = 'Print';
-$string['printerfriendly'] = 'Printer-friendly version';
-$string['printviewnotallowed'] = 'Print view isn\'t allowed';
-$string['privacy'] = 'Privacy of results';
-$string['privacy:metadata:core_comments'] = 'Comments made on glossary definitions are stored using core_comment system';
-$string['privacy:metadata:core_files'] = 'Files linked to glossary definitions are stored using the core_files system';
-$string['privacy:metadata:core_rating'] = 'Ratings added to glossary entries are stored using core_rating system';
-$string['privacy:metadata:core_tag'] = 'Tags added to glossary definitions are stored using core_tag system';
-$string['privacy:metadata:glossary_entries'] = 'Information about the user\'s entries for a given glossary activity';
-$string['privacy:metadata:glossary_entries:attachment'] = 'The attachment of the entry the user added';
-$string['privacy:metadata:glossary_entries:concept'] = 'The concept of the entry the user added';
-$string['privacy:metadata:glossary_entries:definition'] = 'The definition of the entry the user added';
-$string['privacy:metadata:glossary_entries:glossaryid'] = 'The ID of the glossary activity';
+$string['popupformat'] = 'Усплыўны фармат';
+$string['print'] = 'Друк';
+$string['printerfriendly'] = 'Версія для друку';
+$string['printviewnotallowed'] = 'Прагляд друку забаронены';
+$string['privacy'] = 'Прыватнасьць вынікаў';
+$string['privacy:metadata:core_comments'] = 'Каментары да азначэньняў слоўніка захоўваюцца з дапамогай сістэмы core_comment';
+$string['privacy:metadata:core_files'] = 'Файлы, зьвязаныя азначэньнямі слоўніка захоўваюцца з дапамогай сістэмы core_files';
+$string['privacy:metadata:core_rating'] = 'Рэйтынгі даданыя да запісаў слоўніка  захоўваюцца з дапамогай сістэмы core_rating';
+$string['privacy:metadata:core_tag'] = 'Тэгі даданыя да азначэньняў слоўніка ахоўваюцца з дапамогай сістэмы core_tag';
+$string['privacy:metadata:glossary_entries'] = 'Інфармацыя пра запісы карыстальніка для гэнай актыўнасьці-слоўніка';
+$string['privacy:metadata:glossary_entries:attachment'] = 'Укладаньне запісу, які дадаў карыстальнік';
+$string['privacy:metadata:glossary_entries:concept'] = 'Тэрмін запісу, які дадаў карыстальнік';
+$string['privacy:metadata:glossary_entries:definition'] = 'Азначэньне запісу, які дадаў карыстальнік';
+$string['privacy:metadata:glossary_entries:glossaryid'] = 'ID актыўнасьці-слоўнік';
 $string['privacy:metadata:glossary_entries:timemodified'] = 'The timestamp indicating when the glossary entry was modified by the user';
 $string['privacy:metadata:glossary_entries:userid'] = 'The ID of the user that is adding this glossary entry';
 $string['question'] = 'Question';
