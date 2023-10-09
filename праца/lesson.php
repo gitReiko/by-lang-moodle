@@ -25,29 +25,29 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['accesscontrol'] = 'Access control';
-$string['actionaftercorrectanswer'] = 'Action after correct answer';
-$string['actionaftercorrectanswer_help'] = 'After answering a question correctly, there are 3 options for the following page:
+$string['accesscontrol'] = 'Кантроль доступу';
+$string['actionaftercorrectanswer'] = 'Дзеяньне пасьля слушнага адказу';
+$string['actionaftercorrectanswer_help'] = 'Пасьля слушнага адказу на пытаньне існуе 3 опцыі пераходу на наступную старонку:
 
-* Normal - Follow lesson path
-* Show an unseen page - Pages are shown in a random order with no page shown twice
-* Show an unanswered page - Pages are shown in a random order, with pages containing unanswered questions shown again';
-$string['actions'] = 'Actions';
-$string['activitylink'] = 'Link to next activity';
-$string['activitylink_help'] = 'To provide a link at the end of the lesson to another activity in the course, select the activity from the drop-down menu.';
-$string['activitylinkname'] = 'Go to {$a}';
-$string['activityoverview'] = 'You have lessons that are due';
-$string['addabranchtable'] = 'Add a content page';
-$string['addanendofbranch'] = 'Add an end of branch';
-$string['addanewpage'] = 'Add a new page';
-$string['addaquestionpage'] = 'Add a question page';
-$string['addaquestionpagehere'] = 'Add a question page here';
-$string['addbranchtable'] = 'Add a content page';
-$string['addcluster'] = 'Add a cluster';
-$string['addedabranchtable'] = 'Added a content page';
-$string['addedanendofbranch'] = 'Added an end of branch';
-$string['addedaquestionpage'] = 'Added a question page';
-$string['addedcluster'] = 'Added a cluster';
+* Норма - Прытрымлівацца шляху занятка
+* Паказаць непрагледжаную старонку - Старонкі паказваюцца выпадковым чынам, але ніколі двойчы
+* Паказаць старонку без адказу - Старонкі паказваюцца выпадковым чынам, прычым старонкі без адказу паказваюцца паўторна';
+$string['actions'] = 'Дзеяньні';
+$string['activitylink'] = 'Спасылка на наступную актыўнасьць';
+$string['activitylink_help'] = 'Каб паказаць напрыканцы занятку спасылку на іншую актыўнасьць у курсе, абярыце актыўнасьць з выпаднога меню.';
+$string['activitylinkname'] = 'Перайсьці да {$a}';
+$string['activityoverview'] = 'Вы маеце заняткі да';
+$string['addabranchtable'] = 'Дадаць старонку зьмесьціва';
+$string['addanendofbranch'] = 'Дадаць канец галіны';
+$string['addanewpage'] = 'Дадаць новую старонку';
+$string['addaquestionpage'] = 'Дадаць старонку пытаньня';
+$string['addaquestionpagehere'] = 'Дадаць старонку пытаньня тут';
+$string['addbranchtable'] = 'Дадаць старонку зьмесьціва';
+$string['addcluster'] = 'Дадаць кластар';
+$string['addedabranchtable'] = 'Дадана старонка зьмесьціва';
+$string['addedanendofbranch'] = 'Даданы канец галіны';
+$string['addedaquestionpage'] = 'Дадана старонка пытаньня';
+$string['addedcluster'] = 'Даданы кластар';
 $string['addedendofcluster'] = 'Added an end of cluster';
 $string['addendofbranch'] = 'Add end of branch';
 $string['addendofcluster'] = 'Add an end of cluster';
@@ -392,7 +392,7 @@ $string['noopen'] = 'No open date';
 $string['nooverridecreated'] = 'No overrides created.';
 $string['nooverridedata'] = 'You must override at least one of the lesson settings.';
 $string['noretake'] = 'You are not allowed to retake this lesson.';
-$string['normal'] = 'Normal - follow lesson path';
+$string['normal'] = 'Норма - прытрымлівацца шляху занятка';
 $string['notcompleted'] = 'Not completed';
 $string['notcompletedwithdate'] = 'Not completed ({$a})';
 $string['notdefined'] = 'Not defined';
@@ -405,7 +405,7 @@ $string['numberofcorrectanswers'] = 'Number of correct answers: {$a}';
 $string['numberofcorrectanswersheader'] = 'Number of correct answers';
 $string['numberofcorrectmatches'] = 'Number of correct matches: {$a}';
 $string['numberofpagestoshow'] = 'Number of pages to show';
-$string['numberofpagestoshow_help'] = 'This setting specifies the number of pages shown in a lesson. It is only applicable for lessons with pages shown in a random order (when "Action after correct answer" is set to "Show an unseen page" or "Show an unanswered page"). If set to zero, then all pages are shown.';
+$string['numberofpagestoshow_help'] = 'This setting specifies the number of pages shown in a lesson. It is only applicable for lessons with pages shown in a random order (when "Action after correct answer" is set to "Паказаць непрагледжаную старонку" or "Паказаць старонку без адказу"). If set to zero, then all pages are shown.';
 $string['numberofpagesviewed'] = 'Number of questions answered: {$a}';
 $string['numberofpagesviewedheader'] = 'Number of questions answered';
 $string['numberofpagesviewednotice'] = 'Number of questions answered: {$a->nquestions} (You should answer at least {$a->minquestions})';
@@ -546,8 +546,8 @@ $string['selectallattempts'] = 'Select all attempts';
 $string['selectaqtype'] = 'Select a question type';
 $string['sent'] = 'Sent';
 $string['shortanswer'] = 'Short answer';
-$string['showanunansweredpage'] = 'Show an unanswered page';
-$string['showanunseenpage'] = 'Show an unseen page';
+$string['showanunansweredpage'] = 'Паказаць старонку без адказу';
+$string['showanunseenpage'] = 'Паказаць непрагледжаную старонку';
 $string['singleanswer'] = 'Single answer';
 $string['skip'] = 'Skip navigation';
 $string['slideshow'] = 'Slideshow';

@@ -86,6 +86,7 @@ label = пазнака (Track)
 Label = Цэтлік (мод)
 Latest announcements = Апошнія аб\'явы
 layout = макет
+lesson = занятак
 locked = заблакавана
 log = лог
 manager = кіроўны
