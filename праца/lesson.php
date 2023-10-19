@@ -336,38 +336,38 @@ $string['mediafile_help'] = 'У занятак льга запампоўваць
 $string['mediafilepopup'] = 'Націсьніце сюды дзеля прагляду';
 $string['mediaheight'] = 'Вышыня ўсплыўнага акна';
 $string['mediawidth'] = 'Шырыня ўсплыўнага акна';
-$string['messageprovider:graded_essay'] = 'Lesson essay graded notification';
-$string['minimumnumberofquestions'] = 'Minimum number of questions';
-$string['minimumnumberofquestions_help'] = 'This setting specifies the minimum number of questions that will be used to calculate a grade for the activity.';
-$string['missingname'] = 'Please enter a nickname';
-$string['modattempts'] = 'Allow student review';
-$string['modattempts_help'] = 'If enabled, students can navigate through the lesson again from the start.';
-$string['modattemptsnoteacher'] = 'Student review only works for students.';
-$string['modulename'] = 'Lesson';
-$string['modulename_help'] = 'The lesson activity module enables a teacher to deliver content and/or practice activities in  interesting and flexible ways. A teacher can use the lesson to create a linear set of content pages or instructional activities that offer a variety of paths or options for the learner. In either case, teachers can choose to increase engagement and ensure understanding by including a variety of questions, such as multiple choice, matching and short answer. Depending on the student\'s choice of answer and how the teacher develops the lesson, students may progress to the next page, be taken back to a previous page or redirected down a different path entirely.
+$string['messageprovider:graded_essay'] = 'Абвестка пра ацэньваньне эсэ занятку';
+$string['minimumnumberofquestions'] = 'Мінімальная колькасьць пытаньняў';
+$string['minimumnumberofquestions_help'] = 'Гэтая налада вызначае мінімальную колькасьць пытаньняў, якая будзе выкарыстоўвацца дзеля разьліку адзнакі за актыўнасьць.';
+$string['missingname'] = 'Калі ласка, надрукуйце нікнэйм';
+$string['modattempts'] = 'Дазволіць студэнтам агляд';
+$string['modattempts_help'] = 'Калі ўключана, студэнты могуць прайсьці наноў увесь занятак адпачатку.';
+$string['modattemptsnoteacher'] = 'Студэнты могуць аглядваць толькі працу студэнтаў.';
+$string['modulename'] = 'Занятак';
+$string['modulename_help'] = 'Модуль актыўнасьць-занятак дазваляе настаўнікам падаваць матэрыял і/ці адпрацоўваць яго на практыкі гнутка і цікава. Настаўнік можа выкарыстоўваць занятак дзеля стварэньня старонак са змесьцівам, якія падаюцца лінейна, альбо навучальных заданьняў, якія льга праходзіць рознымі шляхамі. У любых выпадках дзеля падвышэньня ўцягненасьці і забесьпячэньня разуменьня настаўнік можа дадаваць розныя пытаньні, напрыклад, множны выбар, адпаведнасьць ці кароткі адказ. У залежнасьці ад выбару студэнта і разьвіцьця занятка, якое прадвызначыў настаўнік, студэнт можа перайсьці на наступную старонку, вярнуцца на папярэднюю ці скокнуць на іншы шлях.
 
-A lesson may be graded, with the grade recorded in the gradebook.
+Занятак можа ацэньваць і запісваць адзнакі ў журнал адзнак.
 
-Lessons may be used
+Занятак льга выкарыстоўваць дзеля
 
-* For self-directed learning of a new topic
-* For  scenarios or simulations/decision-making exercises
-* For differentiated revision, with different sets of revision questions depending upon answers given to initial questions';
+* Самастойнага вывучэньня новай тэмы
+* Сцэнароў/сімуляцыяў/практыкаваньняў па прыняцьці разьвязкаў
+* Дыферэнцыяванай праверкі з рознымі наборамі пытаньняў дзеля праверкі ў залежнасьці ад адказаў паданых на пачатковай ступені';
 $string['modulename_link'] = 'mod/lesson/view';
-$string['modulenameplural'] = 'Lessons';
-$string['move'] = 'Move page';
-$string['movedpage'] = 'Moved page';
-$string['movepagehere'] = 'Move page to here';
-$string['movepagenamed'] = 'Move page: {$a}';
-$string['moving'] = 'Moving page: {$a}';
-$string['multianswer'] = 'Multiple-answer';
-$string['multianswer_help'] = 'Tick the checkbox if more than one response is a correct answer.';
-$string['multichoice'] = 'Multichoice';
-$string['multipleanswer'] = 'Multiple answer';
-$string['nameapproved'] = 'Name approved';
-$string['namereject'] = 'Sorry, your name has been rejected by the filter.<br />Please try another name.';
-$string['new'] = 'new';
-$string['nextpage'] = 'Next page';
+$string['modulenameplural'] = 'Заняткі';
+$string['move'] = 'Перасунуць старонку';
+$string['movedpage'] = 'Перасунутая старонка';
+$string['movepagehere'] = 'Перасунуць старонку сюды';
+$string['movepagenamed'] = 'Перасунуць старонку: {$a}';
+$string['moving'] = 'Перасоўваньне старонкі: {$a}';
+$string['multianswer'] = 'Некалькі адказаў';
+$string['multianswer_help'] = 'Усталюйце сьцяжок, калі слушных адказаў некалькі.';
+$string['multichoice'] = 'Множны выбар';
+$string['multipleanswer'] = 'Множны адказ';
+$string['nameapproved'] = 'Назва ўхвалена';
+$string['namereject'] = 'Прабачце, вашая назва была адхілена фільтрам.<br />Калі ласка, паспрабуйце ўвесьці іншую назву.';
+$string['new'] = 'нов.';
+$string['nextpage'] = 'Наступная старонка';
 $string['noanswer'] = 'One or more questions have no answer given.  Please go back and submit an answer.';
 $string['noattemptrecordsfound'] = 'No attempt records found: no grade given';
 $string['nobranchtablefound'] = 'No content page found';
