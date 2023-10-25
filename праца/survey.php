@@ -25,43 +25,43 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['actual'] = 'Actual';
-$string['actualclass'] = 'Class actual';
-$string['actualstudent'] = '{$a} actual';
-$string['allquestionrequireanswer'] = 'All questions are required and must be answered.';
-$string['allquestions'] = 'All questions in order, all students';
-$string['allscales'] = 'All scales, all students';
-$string['alreadysubmitted'] = 'You have already submitted this survey';
-$string['analysisof'] = 'Analysis of {$a}';
-$string['answers'] = 'Answers';
-$string['attls1'] = 'In evaluating what someone says, I focus on the quality of their argument, not on the person who\'s presenting it.';
-$string['attls10'] = 'It\'s important for me to remain as objective as possible when I analyze something.';
-$string['attls10short'] = 'remain objective';
-$string['attls11'] = 'I try to think with people instead of against them.';
-$string['attls11short'] = 'think WITH people';
-$string['attls12'] = 'I have certain criteria I use in evaluating arguments.';
-$string['attls12short'] = 'use criteria to evaluate';
-$string['attls13'] = 'I\'m more likely to try to understand someone else\'s opinion than to try to evaluate it.';
-$string['attls13short'] = 'try to understand';
-$string['attls14'] = 'I try to point out weaknesses in other people\'s thinking to help them clarify their arguments.';
-$string['attls14short'] = 'point out weaknesses';
-$string['attls15'] = 'I tend to put myself in other people\'s shoes when discussing controversial issues, to see why they think the way they do.';
-$string['attls15short'] = 'put myself in their shoes';
-$string['attls16'] = 'One could call my way of analysing things \'putting them on trial\' because I am careful to consider all the evidence.';
-$string['attls16short'] = 'putting on trial';
-$string['attls17'] = 'I value the use of logic and reason over the incorporation of my own concerns when solving problems.';
-$string['attls17short'] = 'I value logic most';
-$string['attls18'] = 'I can obtain insight into opinions that differ from mine through empathy.';
-$string['attls18short'] = 'insight from empathy';
-$string['attls19'] = 'When I encounter people whose opinions seem alien to me, I make a deliberate effort to \'extend\' myself into that person, to try to see how they could have those opinions.';
-$string['attls19short'] = 'make effort to extend';
-$string['attls1short'] = 'focus quality of argument';
-$string['attls2'] = 'I like playing devil\'s advocate - arguing the opposite of what someone is saying.';
-$string['attls20'] = 'I spend time figuring out what\'s \'wrong\' with things. For example, I\'ll look for something in a literary interpretation that isn\'t argued well enough.';
-$string['attls20short'] = 'what\'s wrong?';
-$string['attls2short'] = 'play devil\'s advocate';
-$string['attls3'] = 'I like to understand where other people are \'coming from\', what experiences have led them to feel the way they do.';
-$string['attls3short'] = 'where people come from';
+$string['actual'] = 'Рэальны';
+$string['actualclass'] = 'Рэальны клас';
+$string['actualstudent'] = '{$a} рэальны';
+$string['allquestionrequireanswer'] = 'Усе пытаньні абавязковыя і на іх трэба адказаць.';
+$string['allquestions'] = 'Усе пытаньні па чарзе, усе студэнты';
+$string['allscales'] = 'Усе шкалы, усе студэнты';
+$string['alreadysubmitted'] = 'Вы ўжо адправілі гэтую апытанку.';
+$string['analysisof'] = 'Аналіз {$a}';
+$string['answers'] = 'Адказы';
+$string['attls1'] = 'Падчас ацэньваньня я зважаю ўвагу на якасьць аргументаў, а не на персону, якая іх рэпрэзентуе.';
+$string['attls10'] = 'Для мяне важна заставацца максімальна аб\'ектыўным(ай) падчас аналізу чагосьці.';
+$string['attls10short'] = 'заставацца аб\'ектыўным(ай)';
+$string['attls11'] = 'Я спрабую думаць разам з людзьмі, а не супраць іх.';
+$string['attls11short'] = 'думаць РАЗАМ з людзьмі';
+$string['attls12'] = 'Я маю пэўныя крытэры, па якім я ацэньваю аргументы.';
+$string['attls12short'] = 'выкарыстоўваць крытэры падчас ацэньваньня';
+$string['attls13'] = 'Я хутчэй спрабую зразумець чужую думку, чым ацаніць яе.';
+$string['attls13short'] = 'спрабую зразумець';
+$string['attls14'] = 'Я спрабую ўказаць на слабыя месцы ў думках іншых людзей, каб дапамагчы ім растлумачыць свае аргументы.';
+$string['attls14short'] = 'указаць на слабыя месцы';
+$string['attls15'] = 'Падчас абмеркаваньня спрэчных пытаньняў я намагаюся паставіць сябе на месца іншых людзей, каб зразумець, чаму яны так думаць, як думаюць.';
+$string['attls15short'] = 'паставіць сябе на іхняе месца';
+$string['attls16'] = 'Мой шлях аналізаваньня рэчаў льга назваць \'паданьне іх суду\', бо я дбайна разглядаю ўсе доказы.';
+$string['attls16short'] = 'паданьне суду';
+$string['attls17'] = 'Я аддаю перавагу логіцы і розуму, а ня ўліку ўласных інтарэсаў падчас вырашэньня праблемы.';
+$string['attls17short'] = 'Я больш за ўсё шаную логіку';
+$string['attls18'] = 'З дапамогай эмпатыі я магу зразумець думкі, адрозныя ад маіх.';
+$string['attls18short'] = 'разуменьне ад эмпатыі';
+$string['attls19'] = 'Калі я сустракаю чалавека, чые погляды здаюцца мне чужымі, я адмыслова намагаюся \'пашырыць\' сябе да яго, каб зразумець, чаму ён можа мець такія погляды.';
+$string['attls19short'] = 'прыкласьці высілкі дзеля пашырэньня';
+$string['attls1short'] = 'факусавацца на якасьці аргументаў';
+$string['attls2'] = 'Мне падабаецца гуляць у адваката д\'ябла - даводзіць зваротнае таму, што нехта кажа.';
+$string['attls20'] = 'Я выдаткоўваю час, каб зразумець, што менавіта памылковае. Напрыклад, шукаю ў літаратурнай інтэрпрэтацыі тое, што недастаткова аргументавана.';
+$string['attls20short'] = 'шукаць памылковасьць';
+$string['attls2short'] = 'гуляць у адваката д\'ябла';
+$string['attls3'] = 'Мне падабаецца разумець, да чаго прыходзяць іншыя людзі, які досьвед і пачуцьці прывялі іх да гэтых вынікаў.';
+$string['attls3short'] = 'паходжаньне людзей';
 $string['attls4'] = 'The most important part of my education has been learning to understand people who are very different to me.';
 $string['attls4short'] = 'understand different people';
 $string['attls5'] = 'I feel that the best way for me to achieve my own identity is to interact with a variety of other people.';
@@ -156,17 +156,17 @@ There are no \'right\' or \'wrong\' answers; we are interested only in your opin
 Your carefully considered responses will help us improve the way this unit is presented online in the future.
 
 Thanks very much.';
-$string['collesaname'] = 'COLLES (Actual)';
+$string['collesaname'] = 'COLLES (Рэальны)';
 $string['collesapintro'] = 'The purpose of this questionnaire is to help us understand how well the online delivery of this unit enabled you to learn.
 
-Each couple of the 24 statements below asks you to compare your <b>preferred</b> (ideal) and <b>actual</b> experience in this unit.
+Each couple of the 24 statements below asks you to compare your <b>preferred</b> (ideal) and <b>рэальны</b> experience in this unit.
 
 There are no \'right\' or \'wrong\' answers; we are interested only in your opinion. Please be assured that your responses will be treated with a high degree of confidentiality, and will not affect your assessment.
 
 Your carefully considered responses will help us improve the way this unit is presented online in the future.
 
 Thanks very much.';
-$string['collesapname'] = 'COLLES (Preferred and Actual)';
+$string['collesapname'] = 'COLLES (Preferred and Рэальны)';
 $string['collesm1'] = 'Relevance';
 $string['collesm1short'] = 'Relevance';
 $string['collesm2'] = 'Reflective thinking';

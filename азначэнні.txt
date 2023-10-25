@@ -153,6 +153,7 @@ Submissions = прадстаўленьне
 submit = адправіць
 subscribe = падпіска, падпісвацца
 summary = ??? кароткі агляд ???
+survey = апытанка
 Suspended = Заблакаваны
 sync = сінхр
 tabs = Укладкі
