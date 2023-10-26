@@ -62,113 +62,113 @@ $string['attls20short'] = 'шукаць памылковасьць';
 $string['attls2short'] = 'гуляць у адваката д\'ябла';
 $string['attls3'] = 'Мне падабаецца разумець, да чаго прыходзяць іншыя людзі, які досьвед і пачуцьці прывялі іх да гэтых вынікаў.';
 $string['attls3short'] = 'паходжаньне людзей';
-$string['attls4'] = 'The most important part of my education has been learning to understand people who are very different to me.';
-$string['attls4short'] = 'understand different people';
-$string['attls5'] = 'I feel that the best way for me to achieve my own identity is to interact with a variety of other people.';
-$string['attls5short'] = 'interact with variety';
-$string['attls6'] = 'I enjoy hearing the opinions of people who come from backgrounds different to mine - it helps me to understand how the same things can be seen in such different ways.';
-$string['attls6short'] = 'enjoy hearing opinions';
-$string['attls7'] = 'I find that I can strengthen my own position through arguing with someone who disagrees with me.';
-$string['attls7short'] = 'strengthen by argue';
-$string['attls8'] = 'I am always interested in knowing why people say and believe the things they do.';
-$string['attls8short'] = 'know why people do';
-$string['attls9'] = 'I often find myself arguing with the authors of books that I read, trying to logically figure out why they\'re wrong.';
-$string['attls9short'] = 'argue with authors';
-$string['attlsintro'] = 'The purpose of this questionnaire is to help us evaluate your attitudes towards thinking and learning.
+$string['attls4'] = 'Найважная частка маёй адукацыі - навучыцца разумець людзей, што моцна адрозьніваюцца ад мяне.';
+$string['attls4short'] = 'разумець іншых людзей';
+$string['attls5'] = 'Я адчуваю, што найлепшы шлях разуменьня сваёй ідэнтычнасьці - гэта ўзаемадзеяньне з рознымі людзьмі.';
+$string['attls5short'] = 'разнастайнае ўзаемадзеяньне';
+$string['attls6'] = 'Мне падабаецца пазнаваць погляды людзей, што маюць адрозныя жыцьцёвыя шляхі, - гэта дапамагае мне разумець, што адныя і тыя ж рэчы могуць успрымацца па рознаму.';
+$string['attls6short'] = 'падабаецца чуць погляды';
+$string['attls7'] = 'Я выявіў(ла), што магу ўзмацніць сваё становішча праз спрэчкі з тымі, хто са мной ня згодны.';
+$string['attls7short'] = 'узмацненьне праз спрэчкі';
+$string['attls8'] = 'Мне заўжды цікава ведаць, чаму людзі гавораць і вераць у тое, што робяць.';
+$string['attls8short'] = 'ведаць прычыны ўчынкаў';
+$string['attls9'] = 'Мне часта даводзіцца спрачацца з аўтарамі кніг, якія я чытаю, бо я спрабую лагічна абгрунтаваць іхнюю памылковасьць.';
+$string['attls9short'] = 'спрачацца з аўтарамі';
+$string['attlsintro'] = 'Мэта гэтай апытанкі - дапамагчы нам ацаніць вашыя адносіны да мысьленьня і навучаньня.
 
-There are no \'right\' or \'wrong\' answers; we are interested only in your opinion. Please be assured that your responses will be treated with a high degree of confidentiality, and will not affect your assessment.';
-$string['attlsm1'] = 'Attitudes Towards Thinking and Learning';
-$string['attlsm2'] = 'Connected learning';
-$string['attlsm3'] = 'Separate learning';
-$string['attlsmintro'] = 'In discussion ...';
-$string['attlsname'] = 'ATTLS (20 item version)';
-$string['cannotfindanswer'] = 'There are no answers for this survey yet.';
-$string['cannotfindquestion'] = 'Question doesn\'t exist';
-$string['cannotfindsurveytmpt'] = 'No survey templates found!';
-$string['ciq1'] = 'At what moment in class were you most engaged as a learner?';
-$string['ciq1short'] = 'Most engaged';
-$string['ciq2'] = 'At what moment in class were you most distanced as a learner?';
-$string['ciq2short'] = 'Most distanced';
-$string['ciq3'] = 'What action from anyone in the forums did you find most affirming or helpful?';
-$string['ciq3short'] = 'Helpful moment';
-$string['ciq4'] = 'What action from anyone in the forums did you find most puzzling or confusing?';
-$string['ciq4short'] = 'Confusing moment';
-$string['ciq5'] = 'What event surprised you most?';
-$string['ciq5short'] = 'Suprising moment';
-$string['ciqintro'] = 'While thinking about recent events in this class, answer the questions below.';
-$string['ciqname'] = 'Critical incidents';
-$string['clicktocontinue'] = 'Click here to continue';
-$string['clicktocontinuecheck'] = 'Click here to check and continue';
-$string['colles1'] = 'my learning focuses on issues that interest me.';
-$string['colles10'] = 'I ask other students to explain their ideas.';
-$string['colles10short'] = 'I ask for explanations';
-$string['colles11'] = 'other students ask me to explain my ideas.';
-$string['colles11short'] = 'I\'m asked to explain';
-$string['colles12'] = 'other students respond to my ideas.';
-$string['colles12short'] = 'students respond to me';
-$string['colles13'] = 'the tutor stimulates my thinking.';
-$string['colles13short'] = 'tutor stimulates thinking';
-$string['colles14'] = 'the tutor encourages me to participate.';
-$string['colles14short'] = 'tutor encourages me';
-$string['colles15'] = 'the tutor models good discourse.';
-$string['colles15short'] = 'tutor models discourse';
-$string['colles16'] = 'the tutor models critical self-reflection.';
-$string['colles16short'] = 'tutor models self-reflection';
-$string['colles17'] = 'other students encourage my participation.';
-$string['colles17short'] = 'students encourage me';
-$string['colles18'] = 'other students praise my contribution.';
-$string['colles18short'] = 'students praise me';
-$string['colles19'] = 'other students value my contribution.';
-$string['colles19short'] = 'students value me';
-$string['colles1short'] = 'focus on interesting issues';
-$string['colles2'] = 'what I learn is important for my professional practice.';
-$string['colles20'] = 'other students empathise with my struggle to learn.';
-$string['colles20short'] = 'students empathise';
-$string['colles21'] = 'I make good sense of other students\' messages.';
-$string['colles21short'] = 'I understand other students';
-$string['colles22'] = 'other students make good sense of my messages.';
-$string['colles22short'] = 'students understand me';
-$string['colles23'] = 'I make good sense of the tutor\'s messages.';
-$string['colles23short'] = 'I understand the tutor';
-$string['colles24'] = 'the tutor makes good sense of my messages.';
-$string['colles24short'] = 'tutor understands me';
-$string['colles2short'] = 'important to my practice';
-$string['colles3'] = 'I learn how to improve my professional practice.';
-$string['colles3short'] = 'improve my practice';
-$string['colles4'] = 'what I learn connects well with my professional practice.';
-$string['colles4short'] = 'connects with my practice';
-$string['colles5'] = 'I think critically about how I learn.';
-$string['colles5short'] = 'I\'m critical of my learning';
-$string['colles6'] = 'I think critically about my own ideas.';
-$string['colles6short'] = 'I\'m critical of my own ideas';
-$string['colles7'] = 'I think critically about other students\' ideas.';
-$string['colles7short'] = 'I\'m critical of other students';
-$string['colles8'] = 'I think critically about ideas in the readings.';
-$string['colles8short'] = 'I\'m critical of readings';
-$string['colles9'] = 'I explain my ideas to other students.';
-$string['colles9short'] = 'I explain my ideas';
-$string['collesaintro'] = 'The purpose of this survey is to help us understand how well the online delivery of this unit enabled you to learn.
+Тут няма \'слушных\' альба \'хібных\' адказаў; нас цікавіць толькі вашае меркаваньне. Калі ласка, будзьце ўпэўненыя, што вашыя адказы будуць разглядацца з высокай ступеньню прыватнасьці і не паўплываюць на вашую адзнаку.';
+$string['attlsm1'] = 'Адносіны да Мысьленьня і Навучаньня';
+$string['attlsm2'] = 'Узаемная навучаньне';
+$string['attlsm3'] = 'Асобнае навучаньне';
+$string['attlsmintro'] = 'У абмеркаваньні ...';
+$string['attlsname'] = 'ATTLS (версія 20 прадметаў)';
+$string['cannotfindanswer'] = 'Гэтая апытанка пакуль ня мае адказаў.';
+$string['cannotfindquestion'] = 'Пытаньне не існуе';
+$string['cannotfindsurveytmpt'] = 'Шаблоны апытанкі ня знойдзены!';
+$string['ciq1'] = 'У які момант занятку вы найбольш уцягнутыя ў навучаньне?';
+$string['ciq1short'] = 'Найбольшая ўцягнутасьць';
+$string['ciq2'] = 'У які момант занятку вы найменш уцягнутыя ў навучаньне?';
+$string['ciq2short'] = 'Найменшая ўцягнутасьць';
+$string['ciq3'] = 'Якое дзеяньне ўдзельніка форума здалося вам найбольш сьцьвярджальным або карысным?';
+$string['ciq3short'] = 'Дапаможны момант';
+$string['ciq4'] = 'Якое дзеяньне ўдзельніка форума здалося вам найбольш цяжкім ці незразумелым?';
+$string['ciq4short'] = 'Незразумелы момант';
+$string['ciq5'] = 'Якая падзея зьдзівіла вас больш за ўсё?';
+$string['ciq5short'] = 'Момант зьдзіўленьня';
+$string['ciqintro'] = 'Абдумваючы нядаўнія падзеі гэтага занятку, адкажыце на прыведзеныя ніжэй пытаньні.';
+$string['ciqname'] = 'Крытычныя выпадкі';
+$string['clicktocontinue'] = 'Націсьніце тут, каб працягнуць';
+$string['clicktocontinuecheck'] = 'Націсьніце тут, каб праверыць і працягнуць';
+$string['colles1'] = 'маё навучаньне засяроджана на цікавых для мяне пытаньнях.';
+$string['colles10'] = 'я прашу іншых студэнтаў тлумачыць свае ідэі.';
+$string['colles10short'] = 'Я прашу тлумачэньні';
+$string['colles11'] = 'іншыя студэнты просяць мяне патлумачыць мае ідэі.';
+$string['colles11short'] = 'Мяне просяць патлумачыць';
+$string['colles12'] = 'іншыя студэнты адклікаюцца на мае ідэі.';
+$string['colles12short'] = 'студэнты адклікаюцца на мяне';
+$string['colles13'] = 'настаўнік стымулюе мае мысьленьне.';
+$string['colles13short'] = 'настаўнік стымулюе мысьленьне';
+$string['colles14'] = 'настаўнік заахвочвае мой удзел.';
+$string['colles14short'] = 'настаўнік заахвочвае мяне';
+$string['colles15'] = 'настаўнік мадулюе добрае абмеркаваньне.';
+$string['colles15short'] = 'настаўнік мадулюе абмеркаваньне';
+$string['colles16'] = 'настаўнік мадулюе крытычны самааналіз.';
+$string['colles16short'] = 'настаўнік мадулюе самааналіз';
+$string['colles17'] = 'іншыя студэнты заахвочваюць мой удзел.';
+$string['colles17short'] = 'студэнты заахвочваюць мяне';
+$string['colles18'] = 'іншыя студэнты хваляць мой унёсак.';
+$string['colles18short'] = 'студэнты хваляць мяне';
+$string['colles19'] = 'іншыя студэнты шануюць мой унёсак.';
+$string['colles19short'] = 'студэнты шануюць мяне';
+$string['colles1short'] = 'фокус на цікавых пытаньнях';
+$string['colles2'] = 'тое, што я пазнаю, важна для маёй прафесійнай практыкі.';
+$string['colles20'] = 'іншыя студэнты эмпатуюць маім спробам вучыцца.';
+$string['colles20short'] = 'студэнты эмпатуюць';
+$string['colles21'] = 'я добра разумею сэнс паведамленьняў іншых студэнтаў.';
+$string['colles21short'] = 'я разумею іншых студэнтаў';
+$string['colles22'] = 'іншыя студэнты добра разумеюць сэнс маіх паведамленьняў.';
+$string['colles22short'] = 'студэнты разумеюць мяне';
+$string['colles23'] = 'я добра разумею сэнс паведамленьняў настаўніка.';
+$string['colles23short'] = 'я разумею настаўніка';
+$string['colles24'] = 'настаўнік добра разумее сэнс маіх паведамленьняў.';
+$string['colles24short'] = 'настаўнік разумее мяне';
+$string['colles2short'] = 'важна для маёй практыкі';
+$string['colles3'] = 'я вучу, як палепшыць маю прафесійную практыку.';
+$string['colles3short'] = 'паляпшаць маю практыку';
+$string['colles4'] = 'тое, што я вывучаю добра пасуе да маёй прафесійнай практыкі.';
+$string['colles4short'] = 'пасуе маёй практыкі';
+$string['colles5'] = 'я крытычна стаўлюся да свайго навучаньня.';
+$string['colles5short'] = 'крытычна стаўлюся да свайго навучаньня';
+$string['colles6'] = 'я крытычна стаўлюся да сваіх ідэяў.';
+$string['colles6short'] = 'крытычна стаўлюся да сваіх ідэяў';
+$string['colles7'] = 'я крытычна стаўлюся да ідэяў іншых студэнтаў.';
+$string['colles7short'] = 'крытычна стаўлюся да ідэяў іншых студэнтаў';
+$string['colles8'] = 'я крытычна стаўлюся да прачытаных ідэяў.';
+$string['colles8short'] = 'крытычна стаўлюся да прачытаных ідэяў';
+$string['colles9'] = 'я тлумачу свае ідэі іншым студэнтам.';
+$string['colles9short'] = 'тлумачу свае ідэі';
+$string['collesaintro'] = 'Мэта гэтай анлайн апытанкі - дапамагчы нам зразумець, наколькі добра анлайн-навучаньне дазволіла вам засвоіць гэты курс.
 
-Each one of the 24 statements below asks about your experience in this unit.
+У кожным з 24 прыведзеных ніжэй сцвярджэньні ўтрымваецца пытаньне пра вашы досьвед працы ў гэтым курсе.
 
-There are no \'right\' or \'wrong\' answers; we are interested only in your opinion. Please be assured that your responses will be treated with a high degree of confidentiality, and will not affect your assessment.
+Тут няма \'слушных\' альба \'хібных\' адказаў; нас цікавіць толькі вашае меркаваньне. Калі ласка, будзьце ўпэўненыя, што вашыя адказы будуць разглядацца з высокай ступеньню прыватнасьці і не паўплываюць на вашую адзнаку.
 
-Your carefully considered responses will help us improve the way this unit is presented online in the future.
+Вашыя старанна прадуманыя адказы дапамогуць нам у будучыні палепшыць гэты курс, прэзентаваны анлайн.
 
-Thanks very much.';
+Вялікі дзякуй.';
 $string['collesaname'] = 'COLLES (Рэальны)';
-$string['collesapintro'] = 'The purpose of this questionnaire is to help us understand how well the online delivery of this unit enabled you to learn.
+$string['collesapintro'] = 'Мэта гэтай анлайн апытанкі - дапамагчы нам зразумець, наколькі добра анлайн-навучаньне дазволіла вам засвоіць гэты курс.
 
-Each couple of the 24 statements below asks you to compare your <b>preferred</b> (ideal) and <b>рэальны</b> experience in this unit.
+Кожнае з 24 сцвярджэньняў прыведзеных ніжэй прапаноўвае вам параўнаць свой <b>пажаданы</b> (ідэальны) і <b>рэальны</b> досьвед у гэтым курсе.
 
-There are no \'right\' or \'wrong\' answers; we are interested only in your opinion. Please be assured that your responses will be treated with a high degree of confidentiality, and will not affect your assessment.
+Тут няма \'слушных\' альба \'хібных\' адказаў; нас цікавіць толькі вашае меркаваньне. Калі ласка, будзьце ўпэўненыя, што вашыя адказы будуць разглядацца з высокай ступеньню прыватнасьці і не паўплываюць на вашую адзнаку.
 
-Your carefully considered responses will help us improve the way this unit is presented online in the future.
+Вашыя старанна прадуманыя адказы дапамогуць нам у будучыні палепшыць гэты курс, прэзентаваны анлайн.
 
-Thanks very much.';
-$string['collesapname'] = 'COLLES (Preferred and Рэальны)';
-$string['collesm1'] = 'Relevance';
-$string['collesm1short'] = 'Relevance';
+Вялікі дзякуй.';
+$string['collesapname'] = 'COLLES (Пажаданы і Рэальны)';
+$string['collesm1'] = 'Значнасьць';
+$string['collesm1short'] = 'Значнасьць';
 $string['collesm2'] = 'Reflective thinking';
 $string['collesm2short'] = 'Reflective thinking';
 $string['collesm3'] = 'Interactivity';
@@ -182,14 +182,14 @@ $string['collesm6short'] = 'Interpretation';
 $string['collesmintro'] = 'In this online unit...';
 $string['collespintro'] = 'The purpose of this survey is to help us understand what you value in an online learning experience.
 
-Each one of the 24 statements below asks about your <b>preferred</b> (ideal) experience in this unit.
+Each one of the 24 statements below asks about your <b>пажаданы</b> (ідэальны) experience in this unit.
 
-There are no \'right\' or \'wrong\' answers; we are interested only in your opinion. Please be assured that your responses will be treated with a high degree of confidentiality, and will not affect your assessment.
+Тут няма \'слушных\' альба \'хібных\' адказаў; нас цікавіць толькі вашае меркаваньне. Калі ласка, будзьце ўпэўненыя, што вашыя адказы будуць разглядацца з высокай ступеньню прыватнасьці і не паўплываюць на вашую адзнаку.
 
-Your carefully considered responses will help us improve the way this unit is presented online in the future.
+Вашыя старанна прадуманыя адказы дапамогуць нам у будучыні палепшыць гэты курс, прэзентаваны анлайн.
 
-Thanks very much.';
-$string['collespname'] = 'COLLES (Preferred)';
+Вялікі дзякуй.';
+$string['collespname'] = 'COLLES (Пажаданы)';
 $string['completiondetail:submit'] = 'Submit answers';
 $string['completionsubmit'] = 'Student must make a submission';
 $string['customintro'] = 'Description';
@@ -241,9 +241,9 @@ $string['page-mod-survey-x'] = 'Any survey module page';
 $string['peoplecompleted'] = '{$a} people have completed this survey so far';
 $string['pluginadministration'] = 'Survey administration';
 $string['pluginname'] = 'Survey';
-$string['preferred'] = 'Preferred';
-$string['preferredclass'] = 'Class preferred';
-$string['preferredstudent'] = '{$a} preferred';
+$string['preferred'] = 'Пажаданы';
+$string['preferredclass'] = 'Пажаданы клас';
+$string['preferredstudent'] = '{$a} пажаданы';
 $string['privacy:metadata:analysis'] = 'A record of survey answers analysis.';
 $string['privacy:metadata:analysis:notes'] = 'Notes saved against a user\'s answers.';
 $string['privacy:metadata:analysis:userid'] = 'The ID of the user answering the survey.';
