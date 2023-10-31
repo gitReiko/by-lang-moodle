@@ -25,85 +25,85 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['addcomment'] = 'Add comment';
-$string['addedbegins'] = 'added begins';
-$string['addedends'] = 'added ends';
-$string['admin'] = 'Administration';
-$string['adminmenu'] = 'Admin menu';
-$string['attachmentattach'] = 'Add as attachment';
-$string['attachmentimage'] = 'Add as image';
-$string['attachmentlink'] = 'Add as link';
-$string['attachments'] = 'Attachments';
-$string['backcomments'] = 'Back to comments';
-$string['backhistory'] = 'Back to history';
-$string['backoldversion'] = 'Back to old version';
-$string['backpage'] = 'Back to page';
-$string['backtomapmenu'] = 'Back to map menu';
-$string['cannotcomparenewerversion'] = 'A page version can only be compared with an older version.';
-$string['cannoteditpage'] = 'You can not edit this page.';
-$string['cannotmanagefiles'] = 'You don\'t have permission to manage the wiki files.';
-$string['cannotviewfiles'] = 'You don\'t have permission to view the wiki files.';
-$string['cannotviewpage'] = 'You can not view this page.';
-$string['changerate'] = 'Do you wish to change it?';
-$string['comments'] = 'Comments';
-$string['commentscount'] = 'Comments ({$a})';
-$string['comparesel'] = 'Compare selected';
-$string['comparewith'] = 'Comparing version {$a->old} with version {$a->new}';
-$string['contributions'] = 'Contributions';
-$string['contributions_help'] = 'List of pages that you have edited.';
-$string['createcomment'] = 'Creating comment';
-$string['createddate'] = 'Created: {$a->date} by {$a->username}';
-$string['createpage'] = 'Create page';
-$string['creating'] = 'Creating a wiki page';
-$string['creole'] = 'Creole';
-$string['defaultformat'] = 'Default format';
-$string['defaultformat_help'] = 'This setting determines the default format used when editing wiki pages.
+$string['addcomment'] = 'Дадаць каментар';
+$string['addedbegins'] = 'даданае пачынаецца';
+$string['addedends'] = 'даданае канчаецца';
+$string['admin'] = 'Адміністраваньне';
+$string['adminmenu'] = 'Меню адміна';
+$string['attachmentattach'] = 'Дадаць як укладаньне';
+$string['attachmentimage'] = 'Дадаць як выяву';
+$string['attachmentlink'] = 'Дадаць як спасылку';
+$string['attachments'] = 'Укладаньні';
+$string['backcomments'] = 'Назад да каментароў';
+$string['backhistory'] = 'Назад да гісторыі';
+$string['backoldversion'] = 'Назад да старой версіі';
+$string['backpage'] = 'Назад да старонкі';
+$string['backtomapmenu'] = 'Назад да меню карты';
+$string['cannotcomparenewerversion'] = 'Версія старонкі можа параўноўвацца толькі з больш старой версіяй.';
+$string['cannoteditpage'] = 'Вы ня можаце рэдагаваць гэтую старонку.';
+$string['cannotmanagefiles'] = 'Вы ня маеце дазволу на кіраваньне файламі вікі.';
+$string['cannotviewfiles'] = 'Вы ня маеце дазволу на прагляд файлаў вікі.';
+$string['cannotviewpage'] = 'Вы ня можаце праглядаць гэтую старонку.';
+$string['changerate'] = 'Жадаеце зьмяніць гэтае?';
+$string['comments'] = 'Каментары';
+$string['commentscount'] = 'Каментары ({$a})';
+$string['comparesel'] = 'Параўнаць абранае';
+$string['comparewith'] = 'Параўнаньне версіі {$a->old} з версіяй {$a->new}';
+$string['contributions'] = 'Унёскі';
+$string['contributions_help'] = 'Сьпіс старонак, якія вы рэдагавалі.';
+$string['createcomment'] = 'Стварэньне каментара';
+$string['createddate'] = 'Створана: {$a->date}, {$a->username}';
+$string['createpage'] = 'Стварыць старонку';
+$string['creating'] = 'Стварэньне вікі-старонкі';
+$string['creole'] = 'Крэольскі';
+$string['defaultformat'] = 'Стандартны фармат';
+$string['defaultformat_help'] = 'Гэтая налада вызначае стандартны фармат, які будзе выкарыстоўвацца дзеля рэдагаваньня вікі-старонак .
 
-* HTML - The HTML editor is available
-* Creole - A common wiki markup language for which a small edit toolbar is available
-* Nwiki - Mediawiki-like markup language used in the contributed Nwiki module';
-$string['deleteallpages'] = 'Delete all wiki pages';
-$string['deletecomment'] = 'Deleting comment';
-$string['deletecommentcheck'] = 'Delete comment';
-$string['deletecommentcheckfull'] = 'Are you sure you want to delete the comment?';
-$string['deletedbegins'] = 'Deleted begins';
-$string['deletedends'] = 'Deleted ends';
-$string['deleteupload'] = 'Delete';
-$string['deleteversions'] = 'Delete page versions';
-$string['diff'] = 'Diff';
-$string['diff_help'] = 'Selected versions of the page may be compared in order to find the differences.';
-$string['edit'] = 'Edit';
-$string['editblocks'] = 'Turn edit blocks on';
-$string['editcomment'] = 'Edit comment';
-$string['editfiles'] = 'Edit wiki files';
-$string['editing'] = 'Editing wiki page';
-$string['editingcomment'] = 'Editing comment';
-$string['editingpage'] = 'Editing this page \'{$a}\'';
-$string['editsection'] = 'edit';
-$string['eventdiffviewed'] = 'Wiki diff viewed';
-$string['eventhistoryviewed'] = 'Wiki history viewed';
-$string['eventmapviewed'] = 'Wiki page map viewed';
-$string['eventpagecreated'] = 'Wiki page created';
-$string['eventpagedeleted'] = 'Wiki page deleted';
-$string['eventpagelocksdeleted'] = 'Wiki page locks deleted';
-$string['eventpageupdated'] = 'Wiki page updated';
-$string['eventpageversiondeleted'] = 'Wiki page version deleted';
-$string['eventpageviewed'] = 'Wiki page viewed';
-$string['eventversionrestored'] = 'Wiki version restored';
-$string['eventversionviewed'] = 'Wiki page version viewed';
-$string['filenotuploadederror'] = 'File \'{$a}\' could not be uploaded correctly.';
-$string['files'] = 'Files';
-$string['filtername'] = 'Wiki auto-linking';
-$string['firstpagetitle'] = 'First page name';
-$string['firstpagetitle_help'] = 'Title of the first page of the wiki. Once the wiki is created, the title can no longer be changed.';
+* HTML - даступны HTML рэдактар
+* Крэольскі - Агульная мова вікі-разьметкі, дзеля якой маецца маленькая панэль інструмантаў рэдагаваньня
+* Nwiki - Мова разьметкі падобная на Mediawiki, выкарыстоўваецца дзеля ўнёскай у модуле Nwiki';
+$string['deleteallpages'] = 'Выдаліць усе вікі-старонкі';
+$string['deletecomment'] = 'Выдаленьне каментара';
+$string['deletecommentcheck'] = 'Выдаліць каментар';
+$string['deletecommentcheckfull'] = 'Вы ўпэўненыя, што жадаеце выдаліць гэты каментар?';
+$string['deletedbegins'] = 'Выдаленае пачынаецца';
+$string['deletedends'] = 'Выдаленае канчаецца';
+$string['deleteupload'] = 'Выдаліць';
+$string['deleteversions'] = 'Выдаліць версіі старонак';
+$string['diff'] = 'Параўнаць';
+$string['diff_help'] = 'Абраныя версіі льга параўнаць дзеля пошуку адрозьненьняў.';
+$string['edit'] = 'Рэдагаваць';
+$string['editblocks'] = 'Уключыць рэдагаваньне блокаў';
+$string['editcomment'] = 'Рэдагаваць каментар';
+$string['editfiles'] = 'Рэдагаваць вікі файлы';
+$string['editing'] = 'Рэдагаваньне вікі-старонкі';
+$string['editingcomment'] = 'Рэдагаваньне каментара';
+$string['editingpage'] = 'Рэдагаваньне гэтай старонкі \'{$a}\'';
+$string['editsection'] = 'рэдагаваць';
+$string['eventdiffviewed'] = 'Адрозьненьні вікі прагледжаны';
+$string['eventhistoryviewed'] = 'Гісторыя вікі прагледжана';
+$string['eventmapviewed'] = 'Карта старонкі вікі прагледжана';
+$string['eventpagecreated'] = 'Вікі-старонка створана';
+$string['eventpagedeleted'] = 'Вікі-старонка выдалена';
+$string['eventpagelocksdeleted'] = 'Блакаваньні вікі-старонкі выдалены';
+$string['eventpageupdated'] = 'Вікі-старонка абноўлена';
+$string['eventpageversiondeleted'] = 'Версія вікі-старонкі выдалена';
+$string['eventpageviewed'] = 'Вікі-старонка прагледжана';
+$string['eventversionrestored'] = 'Версія вікі адноўлена';
+$string['eventversionviewed'] = 'Версія вікі-старонкі прагледжана';
+$string['filenotuploadederror'] = 'Не ўдалося слушна запампаваць файл \'{$a}\'.';
+$string['files'] = 'Файлы';
+$string['filtername'] = 'Аўтаспасыланьне вікі';
+$string['firstpagetitle'] = 'Назва першай старонкі';
+$string['firstpagetitle_help'] = 'Назва першай старонкі вікі. Пасьля стварэньня вікі назву ўжо нельга зьмяніць.';
 $string['forceformat'] = 'Force format';
 $string['forceformat_help'] = 'If the format is forced (checkbox ticked), there is no option to choose a format when editing a wiki page.';
 $string['format'] = 'Format';
 $string['format_help'] = '* HTML - The HTML editor is available
-* Creole - A common wiki markup language for which a small edit toolbar is available
+* Крэольскі - A common wiki markup language for which a small edit toolbar is available
 * Nwiki - Mediawiki-like markup language used in the contributed Nwiki module';
-$string['formatcreole'] = 'Creole format';
-$string['formatcreole_help'] = 'Creole is a common wiki markup language with an edit toolbar for inserting appropriate markup.
+$string['formatcreole'] = 'Крэольскі фармат';
+$string['formatcreole_help'] = 'Крэольскі is a common wiki markup language with an edit toolbar for inserting appropriate markup.
 
 To create a new page, type the new page name enclosed in double square brackets, for example [[Page 2]].';
 $string['formatcreole_link'] = 'mod/wiki/creole';
