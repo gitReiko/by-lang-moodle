@@ -59,9 +59,9 @@ $string['creole'] = 'Крэольскі';
 $string['defaultformat'] = 'Стандартны фармат';
 $string['defaultformat_help'] = 'Гэтая налада вызначае стандартны фармат, які будзе выкарыстоўвацца дзеля рэдагаваньня вікі-старонак .
 
-* HTML - даступны HTML рэдактар
+* HTML - даступны HTML-рэдактар
 * Крэольскі - Агульная мова вікі-разьметкі, дзеля якой маецца маленькая панэль інструмантаў рэдагаваньня
-* Nwiki - Мова разьметкі падобная на Mediawiki, выкарыстоўваецца дзеля ўнёскай у модуле Nwiki';
+* Nwiki - Мова разьметкі падобная на Mediawiki, якая выкарыстоўваецца дзеля ўнёскай у модуле Nwiki';
 $string['deleteallpages'] = 'Выдаліць усе вікі-старонкі';
 $string['deletecomment'] = 'Выдаленьне каментара';
 $string['deletecommentcheck'] = 'Выдаліць каментар';
@@ -96,92 +96,92 @@ $string['files'] = 'Файлы';
 $string['filtername'] = 'Аўтаспасыланьне вікі';
 $string['firstpagetitle'] = 'Назва першай старонкі';
 $string['firstpagetitle_help'] = 'Назва першай старонкі вікі. Пасьля стварэньня вікі назву ўжо нельга зьмяніць.';
-$string['forceformat'] = 'Force format';
-$string['forceformat_help'] = 'If the format is forced (checkbox ticked), there is no option to choose a format when editing a wiki page.';
-$string['format'] = 'Format';
-$string['format_help'] = '* HTML - The HTML editor is available
-* Крэольскі - A common wiki markup language for which a small edit toolbar is available
-* Nwiki - Mediawiki-like markup language used in the contributed Nwiki module';
+$string['forceformat'] = 'Прымусовы фармат';
+$string['forceformat_help'] = 'Калі ўсталяваны прымусовы фармат (сьцяжок усталяваны), то магчымасьць абраньня фармата рэдагаваньня вікі-старонкі будзе адсутнічаць.';
+$string['format'] = 'Фармат';
+$string['format_help'] = '* HTML - Даступны HTML-рэдактар
+* Крэольскі - Агульная мова вікі-разьметкі, дзеля якой маецца маленькая панэль інструмантаў рэдагаваньня
+* Nwiki - Мова разьметкі падобная на Mediawiki, якая выкарыстоўваецца дзеля ўнёскай у модуле Nwiki';
 $string['formatcreole'] = 'Крэольскі фармат';
-$string['formatcreole_help'] = 'Крэольскі is a common wiki markup language with an edit toolbar for inserting appropriate markup.
+$string['formatcreole_help'] = 'Крэольскі фармат - агульная мова вікі-разьметкі з паньльлю рэдактара для ўводу адпаведнай разьметкі.
 
-To create a new page, type the new page name enclosed in double square brackets, for example [[Page 2]].';
+Каб стварыць старонку, надрукуйце назву новай старонкі ў двайных квадратных дужках, напрыклад, [[Page 2]].';
 $string['formatcreole_link'] = 'mod/wiki/creole';
-$string['formathtml'] = 'HTML format';
-$string['formathtml_help'] = 'The HTML editor may be used for formatting content.
+$string['formathtml'] = 'HTML фармат';
+$string['formathtml_help'] = 'Для фарматаваньня зьмемьціва льга выкарыстоўваць HTML-рэдактар.
 
-To create a new page, type the new page name enclosed in double square brackets, for example [[Page 2]].';
-$string['formatnwiki'] = 'NWiki format';
-$string['formatnwiki_help'] = 'Nwiki is the Mediawiki-like markup language used in the contributed Nwiki module.
+Каб стварыць старонку, надрукуйце назву новай старонкі ў двайных квадратных дужках, напрыклад, [[Page 2]].';
+$string['formatnwiki'] = 'NWiki фармат';
+$string['formatnwiki_help'] = 'Мова разьметкі падобная на Mediawiki, якая выкарыстоўваецца дзеля ўнёскай у модуле Nwiki.
 
-To create a new page, type the new page name enclosed in double square brackets, for example [[Page 2]].';
+Каб стварыць старонку, надрукуйце назву новай старонкі ў двайных квадратных дужках, напрыклад, [[Page 2]].';
 $string['formatnwiki_link'] = 'mod/wiki/nwiki';
-$string['history'] = 'History';
-$string['history_help'] = 'The history lists links to previous versions of the page.';
+$string['history'] = 'Гісторыя';
+$string['history_help'] = 'У гісторыі пералічаны спасылкі на папярэднія версіі старонкі.';
 $string['html'] = 'HTML';
-$string['incorrectdeleteversions'] = 'Page versions provided for deletion are incorrect.';
-$string['incorrectpageid'] = 'Page ID is incorrect.';
-$string['incorrectsubwikiid'] = 'Subwiki ID is incorrect.';
-$string['incorrectwikiid'] = 'Wiki ID is incorrect.';
-$string['indicator:cognitivedepth'] = 'Wiki cognitive';
-$string['indicator:cognitivedepth_help'] = 'This indicator is based on the cognitive depth reached by the student in a Wiki activity.';
-$string['indicator:cognitivedepthdef'] = 'Wiki cognitive';
-$string['indicator:cognitivedepthdef_help'] = 'The participant has reached this percentage of the cognitive engagement offered by the Wiki activities during this analysis interval (Levels = No view, View, Submit)';
+$string['incorrectdeleteversions'] = 'Версіі старонкі, паданыя на выдаленьне, хібныя.';
+$string['incorrectpageid'] = 'ID старонкі хібны.';
+$string['incorrectsubwikiid'] = 'ID падвікі хібны.';
+$string['incorrectwikiid'] = 'ID вікі хібны.';
+$string['indicator:cognitivedepth'] = 'Пазнаваньне вікі';
+$string['indicator:cognitivedepth_help'] = 'Гэты паказьнік заснаваны на глыбіні пазнаваньня, якую дасягнуў студэнт у Вікі-актыўнасьці.';
+$string['indicator:cognitivedepthdef'] = 'Пазнаваньне вікі';
+$string['indicator:cognitivedepthdef_help'] = 'Удзельнік дасягнуў гэтага адсотку пазнавальнага ўцягненьня, прапанаваны вікі-актыўнасьцю у аналізаваны тэрмін (Роўні = Без прагляду, Прагляд, Адпраўка)';
 $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cognitive_depth';
-$string['indicator:socialbreadth'] = 'Wiki social';
-$string['indicator:socialbreadth_help'] = 'This indicator is based on the social breadth reached by the student in a Wiki activity.';
-$string['indicator:socialbreadthdef'] = 'Wiki social';
-$string['indicator:socialbreadthdef_help'] = 'The participant has reached this percentage of the social engagement offered by the Wiki activities during this analysis interval (Levels = No participation, Participant alone, Participant with others)';
+$string['indicator:socialbreadth'] = 'Сацыяльнасьць вікі';
+$string['indicator:socialbreadth_help'] = 'Гэты паказьнік заснаваны на сацыяльнай шырыні, якую дасягнуў студэнт у вікі-актыўнасьці.';
+$string['indicator:socialbreadthdef'] = 'Сацыяльнасьць вікі';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцю-Слоўнікам у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел, Сумесны зь іншымі ўдзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
-$string['individualpagedoesnotexist'] = 'Individual wiki page doesn\'t exist';
-$string['insertcomment'] = 'Insert comment';
-$string['insertimage'] = 'Insert an image...';
-$string['insertimage_help'] = 'This drop-down list will insert an image to the wiki editor. If you need to add more images to the wiki, please use "Files" tab.';
-$string['invalidlock'] = 'This page is already locked by another user.';
-$string['invalidparameters'] = 'Invalid parameters have been given.';
-$string['invalidsection'] = 'Invalid section.';
-$string['invalidsesskey'] = 'Your session has most likely timed out. Please make a note of your edit then log in again.';
-$string['javascriptdisabledlocks'] = 'Javascript is disabled on your browser and locks are not working. The changes you make may not be saved correctly.';
-$string['links'] = 'Links';
-$string['listall'] = 'List all';
-$string['listorphan'] = 'List orphan';
-$string['lockingajaxtimeout'] = 'Edit page locking refresh time';
-$string['lockingtimeout'] = 'Locking timeout';
-$string['map'] = 'Map';
-$string['mapmenu'] = 'Map menu';
-$string['migrationfinished'] = 'Migration finished successfully';
-$string['migrationfinishednowikis'] = 'Migration finished, no wikis were migrated';
-$string['missingpages'] = 'Pages without content';
-$string['modified'] = 'Modified';
-$string['modulename'] = 'Wiki';
-$string['modulename_help'] = 'The wiki activity module enables participants to add and edit a collection of web pages. A wiki can be collaborative, with everyone being able to edit it, or individual, where everyone has their own wiki which only they can edit.
+$string['individualpagedoesnotexist'] = 'Асабістая вікі-старонка не існуе';
+$string['insertcomment'] = 'Уставіць каментар';
+$string['insertimage'] = 'Уставіць выяву...';
+$string['insertimage_help'] = 'Гэты выпадны сьпіс дазваляе ўставіць выяву ў вікі-рэдактар. Калі вам трэба дадаць у вікі болей выяваў, калі ласка, выкарыстайце ўкладку "Файлы".';
+$string['invalidlock'] = 'Гэтая старонка ўжо заблакавана іншым карыстальнікам.';
+$string['invalidparameters'] = 'Пададзены хібныя параметры.';
+$string['invalidsection'] = 'Хібны падзел.';
+$string['invalidsesskey'] = 'Хутчэй за ўсё, вашая сэсія скончылася. Калі ласка, захавайце свае рэдагаваньні дзесьці і ўвайдзіце ў сістэму зноў.';
+$string['javascriptdisabledlocks'] = 'У вашым браўзары адключаны Javascript, таму блакаваньне не працуе. Зьмены, якія вы робіце, могуць быць захаваны хібна.';
+$string['links'] = 'Спасылкі';
+$string['listall'] = 'Сьпіс з усіх';
+$string['listorphan'] = 'Сьпіс з сірот';
+$string['lockingajaxtimeout'] = 'Час абнаўленьня блакаваньня рэдагаваньня старонкі';
+$string['lockingtimeout'] = 'Скончыўся час блакаваньня';
+$string['map'] = 'Карта';
+$string['mapmenu'] = 'Меню карты';
+$string['migrationfinished'] = 'Міграцыя пасьпяхова завершана';
+$string['migrationfinishednowikis'] = 'Міграцыя завершана, аніводны вікі ня міграваў';
+$string['missingpages'] = 'Старонкі бяз зьмесьціва';
+$string['modified'] = 'Зьменена';
+$string['modulename'] = 'Вікі';
+$string['modulename_help'] = 'Модуль вікі-актыўнасьць дазваляе ўдзельнікам дадаваць і рэдагаваць збор ўэб-старонак. Вікі можа быць сумеснай, калі кожны можа рэдагаваць яе, альбо асабістай, калі кожны мае сваю ўласную вікі, якую можа рэдагаваць толькі ён.
 
-A history of previous versions of each page in the wiki is kept, listing the edits made by each participant.
+Вікі вядзе гісторыю папярэдніх версіяў кожнай старонкі, у якой льга праглядзець усе ўнесеныя зьмены кожным удзельнікам.
 
-Wikis have many uses, such as
+Вікі льга выкарыстоўваць дзеля:
 
-* For group lecture notes or study guides
-* For members of a faculty to plan a scheme of work or meeting agenda together
-* For students to collaboratively author an online book, creating content on a topic set by their tutor
-* For collaborative storytelling or poetry creation, where each participant writes a line or verse
-* As a personal journal for examination notes or revision (using an individual wiki)';
+* Групавых кансьпектаў лекцыяў ці навучальных дапаможнікаў
+* Стварэньня сумеснага плана працы ці парадка сустрэчы чальцамі катэдры
+* Сумеснага стварэньня студэнтамі анлайн кнігі па азначанай настаўнікам тэме
+* Сумеснага стварэньня аповеда ці паэмы, дзе кожны ўдзельнік піша свой радок ці верш
+* Асабістага дзёньніка экзаменацыйных нататак ці рэвізіяў (выкарыстаньне асабістага вікі)';
 $string['modulename_link'] = 'mod/wiki/view';
-$string['modulenameplural'] = 'Wikis';
-$string['navigation'] = 'Navigation';
-$string['navigationfrom'] = 'This page comes from';
-$string['navigationfrom_help'] = 'The wiki pages linking to this page';
-$string['navigationto'] = 'This page goes to';
-$string['navigationto_help'] = 'Links to other pages';
-$string['newpage'] = 'New';
-$string['newpagehdr'] = 'New page';
-$string['newpagetitle'] = 'New page title';
-$string['noattachments'] = '<strong>No files attached</strong>';
-$string['nocomments'] = 'There are no comments';
-$string['nocontent'] = 'There is no content for this page';
-$string['nocontribs'] = 'You have no contributions in this wiki';
-$string['nocreatepermission'] = 'Create page permission needed';
-$string['noeditcommentpermission'] = 'Edit comment permission needed';
-$string['noeditpermission'] = 'Edit page permission needed';
+$string['modulenameplural'] = 'Вікі';
+$string['navigation'] = 'Навігацыя';
+$string['navigationfrom'] = 'На гэтую старонку прыйшлі з';
+$string['navigationfrom_help'] = 'Вікі-старонкі, што спасылаюцца на гэтую старонку';
+$string['navigationto'] = 'Гэтая старонка вядзе на';
+$string['navigationto_help'] = 'Спасылкі на іншыя старонкі';
+$string['newpage'] = 'Новая';
+$string['newpagehdr'] = 'Новая старонка';
+$string['newpagetitle'] = 'Назва новая старонкі';
+$string['noattachments'] = '<strong>Файлы-ўкладаньні адсутнічаюць</strong>';
+$string['nocomments'] = 'Каментары адсутнічаюць';
+$string['nocontent'] = 'Гэтая старонка ня мае зьмесьціва';
+$string['nocontribs'] = 'Вы ня маеце ўнёскаў у гэтую вікі';
+$string['nocreatepermission'] = 'Патрабуецца дазвол на стварэньне старонкі';
+$string['noeditcommentpermission'] = 'Патрабуецца дазвол на рэдагаваньне каментара';
+$string['noeditpermission'] = 'Патрабуецца дазвол на рэдагаваньне старонкі';
 $string['nofrompages'] = 'There are no links to this page';
 $string['nohistory'] = 'There is no history for this page';
 $string['nomanagecommentpermission'] = 'Manage comments permission needed';
@@ -238,9 +238,9 @@ $string['privacy:metadata:wiki_pages:timemodified'] = 'Time when page was last m
 $string['privacy:metadata:wiki_pages:timerendered'] = 'Time when page was last rendered';
 $string['privacy:metadata:wiki_pages:title'] = 'Name of the page';
 $string['privacy:metadata:wiki_pages:userid'] = 'Last user who edited the page';
-$string['privacy:metadata:wiki_subwikis'] = 'Information about subwikis (in case of group or individual mode)';
+$string['privacy:metadata:wiki_subwikis'] = 'Information about subwikis (in case of group or асабісты mode)';
 $string['privacy:metadata:wiki_subwikis:groupid'] = 'Group that owns a subwiki';
-$string['privacy:metadata:wiki_subwikis:userid'] = 'User who owns a subwiki (for individual wikis)';
+$string['privacy:metadata:wiki_subwikis:userid'] = 'User who owns a subwiki (for асабістых wikis)';
 $string['privacy:metadata:wiki_versions'] = 'Information about wiki pages history';
 $string['privacy:metadata:wiki_versions:content'] = 'Revision content';
 $string['privacy:metadata:wiki_versions:contentformat'] = 'Revision content format';
@@ -316,9 +316,9 @@ $string['wikiintro'] = 'Description';
 $string['wikiitalictext'] = 'Italic text';
 $string['wikilockingsettings'] = 'Locking and reparsing timeouts';
 $string['wikimode'] = 'Wiki mode';
-$string['wikimode_help'] = 'The wiki mode determines whether everyone can edit the wiki - a collaborative wiki - or whether everyone has their own wiki which only they can edit - an individual wiki.';
-$string['wikimodecollaborative'] = 'Collaborative wiki';
-$string['wikimodeindividual'] = 'Individual wiki';
+$string['wikimode_help'] = 'The wiki mode determines whether everyone can edit the wiki - a collaborative wiki - or whether everyone has their own wiki which only they can edit - an асабісты wiki.';
+$string['wikimodecollaborative'] = 'Сумесная вікі';
+$string['wikimodeindividual'] = 'Асабістая вікі';
 $string['wikiname'] = 'Wiki name';
 $string['wikinowikitext'] = 'No wiki text';
 $string['wikiorderedlist'] = 'Ordered list';
