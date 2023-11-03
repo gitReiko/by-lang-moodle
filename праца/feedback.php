@@ -25,85 +25,85 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['add_item'] = 'Add question';
-$string['add_pagebreak'] = 'Add a page break';
-$string['adjustment'] = 'Adjustment';
-$string['after_submit'] = 'After submission';
-$string['allowfullanonymous'] = 'Allow full anonymous';
-$string['analysis'] = 'Analysis';
-$string['anonymous'] = 'Anonymous';
-$string['anonymous_edit'] = 'Record user names';
-$string['anonymous_entries'] = 'Anonymous entries ({$a})';
-$string['anonymous_user'] = 'Anonymous user';
-$string['answerquestions'] = 'Answer the questions';
-$string['append_new_items'] = 'Append new items';
-$string['autonumbering'] = 'Auto number questions';
-$string['autonumbering_help'] = 'Enables or disables automated numbers for each question';
-$string['average'] = 'Average';
-$string['bold'] = 'Bold';
-$string['calendarend'] = '{$a} closes';
-$string['calendarstart'] = '{$a} opens';
-$string['cannotaccess'] = 'You can only access this feedback from a course';
-$string['cannotsavetempl'] = 'Saving templates is not allowed';
-$string['captcha'] = 'Captcha';
-$string['captchanotset'] = 'Captcha hasn\'t been set.';
-$string['check'] = 'Multiple choice - multiple answers';
-$string['check_values'] = 'Possible responses';
-$string['checkbox'] = 'Multiple choice - multiple answers allowed (check boxes)';
-$string['choosefile'] = 'Choose a file';
-$string['chosen_feedback_response'] = 'Chosen feedback response';
-$string['closebeforeopen'] = 'You have specified an end date before the start date.';
-$string['complete_the_form'] = 'Answer the questions';
-$string['completed'] = 'Completed';
-$string['completed_feedbacks'] = 'Submitted answers';
-$string['completedon'] = 'Completed on {$a}';
-$string['completiondetail:submit'] = 'Submit feedback';
-$string['completionsubmit'] = 'View as completed if the feedback is submitted';
-$string['configallowfullanonymous'] = 'If set to \'yes\', users can complete a feedback activity on the site home without being required to log in.';
-$string['confirmdeleteentry'] = 'Are you sure you want to delete this entry?';
-$string['confirmdeleteitem'] = 'Are you sure you want to delete this element?';
-$string['confirmdeletetemplate'] = 'Are you sure you want to delete this template?';
-$string['confirmusetemplate'] = 'Are you sure you want to use this template?';
-$string['continue_the_form'] = 'Continue answering the questions';
-$string['count_of_nums'] = 'Count of numbers';
-$string['courseid'] = 'Course ID';
-$string['creating_templates'] = 'Save these questions as a new template';
-$string['delete_entry'] = 'Delete entry';
-$string['delete_item'] = 'Delete question';
-$string['delete_old_items'] = 'Delete old items';
-$string['delete_pagebreak'] = 'Delete page break';
-$string['delete_template'] = 'Delete template';
-$string['delete_templates'] = 'Delete template...';
-$string['depending'] = 'Dependencies';
-$string['depending_help'] = 'It is possible to show an item depending on the value of another item.<br />
-<strong>Here is an example.</strong><br />
+$string['add_item'] = 'Дадаць пытаньне';
+$string['add_pagebreak'] = 'Дадаць разрыў старонкі';
+$string['adjustment'] = 'Карэктаваньне';
+$string['after_submit'] = 'Пасьля адпраўкі';
+$string['allowfullanonymous'] = 'Дазволіць поўную ананімнасьць';
+$string['analysis'] = 'Аналіз';
+$string['anonymous'] = 'Ананімны';
+$string['anonymous_edit'] = 'Запісваць імёны карыстальнікаў';
+$string['anonymous_entries'] = 'Ананімныя запісы ({$a})';
+$string['anonymous_user'] = 'Ананімны карыстальнік';
+$string['answerquestions'] = 'Адкажыце на пытаньні';
+$string['append_new_items'] = 'Дадаць новыя прадметы';
+$string['autonumbering'] = 'Аўтанумераваньне пытаньняў';
+$string['autonumbering_help'] = 'Уключае/адключае аўтанумераваньне кожнага пытаньня';
+$string['average'] = 'Сярэдняе';
+$string['bold'] = 'Тоўсты';
+$string['calendarend'] = 'закрываецца {$a}';
+$string['calendarstart'] = 'адкрываецца {$a}';
+$string['cannotaccess'] = 'Вы можаце атрымаць доступ да гэтага водгука толькі з курса';
+$string['cannotsavetempl'] = 'Захаваньне шаблонаў забаронена';
+$string['captcha'] = 'Капча';
+$string['captchanotset'] = 'Капча не ўсталявана.';
+$string['check'] = 'Множны выбар - некалькі адказаў';
+$string['check_values'] = 'Магчымыя водклічы';
+$string['checkbox'] = 'Множны выбар - дазволена некалькі адказаў (сьцяжок)';
+$string['choosefile'] = 'Абраць файл';
+$string['chosen_feedback_response'] = 'Абярыце водкліч водгука';
+$string['closebeforeopen'] = 'Вы азначылі дату сканчэньня ранейшую за дату пачынаньня.';
+$string['complete_the_form'] = 'Адказаць на пытаньні';
+$string['completed'] = 'Выканана';
+$string['completed_feedbacks'] = 'Адпраўленыя адказы';
+$string['completedon'] = 'Выканана {$a}';
+$string['completiondetail:submit'] = 'Адправіць водгук';
+$string['completionsubmit'] = 'Разгледжваць выкананым пасьля адпраўленьня водгука';
+$string['configallowfullanonymous'] = 'Калі ўсталяваць \'так\', карыстальнікі могуць выконваць актыўнасьць у доме сайта без патрэбы ўвахода ў сістэму.';
+$string['confirmdeleteentry'] = 'Вы ўпэўненыя, што жадаеце выдаліць гэты запіс?';
+$string['confirmdeleteitem'] = 'Вы ўпэўненыя, што жадаеце выдаліць гэты элемент?';
+$string['confirmdeletetemplate'] = 'Вы ўпэўненыя, што жадаеце выдаліць гэты шаблон?';
+$string['confirmusetemplate'] = 'Вы ўпэўненыя, што жадаеце выкарыстоўваць гэты шаблон?';
+$string['continue_the_form'] = 'Працягнуць адказваць на пытаньні';
+$string['count_of_nums'] = 'Колькасьць нумароў';
+$string['courseid'] = 'ID курса';
+$string['creating_templates'] = 'Захаваць гэтыя пытаньні як новы шаблон';
+$string['delete_entry'] = 'Выдаліць запіс';
+$string['delete_item'] = 'Выдаліць пытаньне';
+$string['delete_old_items'] = 'Выдаліць старыя пытаньні';
+$string['delete_pagebreak'] = 'Выдаліць разрыў старонкі';
+$string['delete_template'] = 'Выдаліць шаблон';
+$string['delete_templates'] = 'Выдаленьне шаблона...';
+$string['depending'] = 'Залежнасьці';
+$string['depending_help'] = 'Льга паказваць прадмет у залежнасьці ад значэньня іншага прадмета.<br />
+<strong>Вось прыклад.</strong><br />
 <ul>
-<li>First, create an item on which another item will depend on.</li>
-<li>Next, add a pagebreak.</li>
-<li>Then add the items dependant on the value of the item created before. Choose the item from the list labelled "Dependence item" and write the required value in the textbox labelled "Dependence value".</li>
+<li>Спачатку, стварыць прадмет, ад якога будзе залежыць іншы прадмет.</li>
+<li>Потым, дадайце разрыў старонкі.</li>
+<li>Потым, стварыце прадметы, якія будуць залежыць ад значэньне прадмета, створанага раней. Абярыце прадмет са сьпіса "Залежны прадмет", і запішыце патрэбнае значэньне ў тэкставае поле з назвай "Залежнае значэньне".</li>
 </ul>
-<strong>The item structure should look like this.</strong>
+<strong>Структура прадмета мусіць выглядаць наступным чынам.</strong>
 <ol>
-<li>Item Q: Do you have a car? A: yes/no</li>
-<li>Pagebreak</li>
-<li>Item Q: What colour is your car?<br />
-(this item depends on item 1 with value = yes)</li>
-<li>Item Q: Why don\'t you have a car?<br />
-(this item depends on item 1 with value = no)</li>
-<li> ... other items</li>
+<li>Прадмет П: Вы маеце машыну? А: так/не</li>
+<li>Разрыў старонкі</li>
+<li>Прадмет Q: Які колер мае вашая старонка?<br />
+(гэты прадмет залежыць ад прадмета 1 са значэньнем = так)</li>
+<li>Прадмет Q: Чаму вы ня маеце машыну?<br />
+(гэты прадмет залежыць ад прадмета 1 са значэньнем = не)</li>
+<li> ... іншыя прадметы</li>
 </ol>';
-$string['dependitem'] = 'Dependence item';
-$string['dependvalue'] = 'Dependence value';
-$string['description'] = 'Description';
-$string['do_not_analyse_empty_submits'] = 'Do not analyse empty submits';
-$string['downloadresponseas'] = 'Download all responses as:';
-$string['drop_feedback'] = 'Remove from this course';
-$string['dropdown'] = 'Multiple choice - single answer allowed (drop-down menu)';
-$string['dropdown_values'] = 'Answers';
-$string['dropdownlist'] = 'Multiple choice - single answer (drop-down menu)';
-$string['dropdownrated'] = 'Drop-down menu (rated)';
-$string['edit_item'] = 'Edit question';
-$string['edit_items'] = 'Edit questions';
+$string['dependitem'] = 'Залежны прадмет';
+$string['dependvalue'] = 'Залежнае значэньне';
+$string['description'] = 'Апісаньне';
+$string['do_not_analyse_empty_submits'] = 'Не аналізаваць пустыя адпраўкі';
+$string['downloadresponseas'] = 'Спампаваць усе водклічы як:';
+$string['drop_feedback'] = 'Выдаліць з гэтага курса';
+$string['dropdown'] = 'Множны выбар - дазволены адзін адказ (выпадное меню)';
+$string['dropdown_values'] = 'Адказы';
+$string['dropdownlist'] = 'Множны выбар - адзін адказ (выпадное меню)';
+$string['dropdownrated'] = 'Выпадное меню (з ацэнкай)';
+$string['edit_item'] = 'Рэдагаваць пытаньне';
+$string['edit_items'] = 'Рэдагаваць пытаньні';
 $string['email_notification'] = 'Enable notification of submissions';
 $string['email_notification_help'] = 'If enabled, teachers will receive notification of feedback submissions.';
 $string['emailteachermail'] = '{$a->username} has completed feedback activity : \'{$a->feedback}\'
