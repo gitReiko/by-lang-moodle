@@ -188,7 +188,7 @@ $string['modulename_help'] = 'Актыўнасьць-водгук дазваля
 * гасьцявых апытанак для абраньня курсаў, школьнай палітыкі і г.д.
 * змаганьня з гвалтам (вучні змогуць пакідаць ананімныя паведамленьні пра здарэньні)';
 $string['modulename_link'] = 'mod/feedback/view';
-$string['modulenameplural'] = 'Водгук';
+$string['modulenameplural'] = 'Водгукі';
 $string['move_item'] = 'Move this question';
 $string['multichoice'] = 'Multiple choice';
 $string['multichoice_values'] = 'Multiple choice values';
