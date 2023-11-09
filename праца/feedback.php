@@ -125,7 +125,7 @@ $string['feedback:createpublictemplate'] = 'Стварэньне публічн�
 $string['feedback:deletesubmissions'] = 'Выдаленьне выкананых адпраўленьняў';
 $string['feedback:deletetemplate'] = 'Выдаленьне шаблон';
 $string['feedback:edititems'] = 'Рэдагаваньне прадметы';
-$string['feedback:mapcourse'] = 'Параўнаньне курсы з глабальнымі водгукамі';
+$string['feedback:mapcourse'] = 'Прывязваньне курсаў да глабальных водгукаў';
 $string['feedback:receivemail'] = 'Атрыманьне імэйл абвесткі';
 $string['feedback:view'] = 'Праглядзець водгук';
 $string['feedback:viewanalysepage'] = 'Прагляд старонкі аналізу пасьля адпраўкі';
@@ -164,31 +164,31 @@ $string['item_label'] = 'Цэтлік';
 $string['item_name'] = 'Пытаньне';
 $string['label'] = 'Цэтлік';
 $string['labelcontents'] = 'Зьмесьціва';
-$string['mapcourse'] = 'Параўнаць водгук па курсам';
+$string['mapcourse'] = 'Прывязаць водгук да курсаў';
 $string['mapcourse_help'] = 'Па стандарту на вашай дамашняй старонцы ствараюцца формы водгукаў, даступныя па ўсім сайце і даступныя ў блоке водгук ува ўсіх курсах. Вы можаце прымусіць форму водгука стаць даступнай, стварыўшы ліпкі блок ці абмежаваўшы курсы, у якіх форма водгука мусіць з\'явіцца дзеля параўнаньня пэўных курсаў.';
-$string['mapcourseinfo'] = 'This is a site-wide feedback that is available to all courses using the feedback block. You can however limit the courses to which it will appear by mapping them. Search the course and map it to this feedback.';
-$string['mapcoursenone'] = 'No courses mapped. Feedback available to all courses';
-$string['mapcourses'] = 'Параўнаць водгук па курсам';
-$string['mappedcourses'] = 'Mapped courses';
-$string['mappingchanged'] = 'Course mapping has been changed';
-$string['maximal'] = 'Maximum';
-$string['messageprovider:message'] = 'Feedback reminder';
-$string['messageprovider:submission'] = 'Feedback notifications';
-$string['minimal'] = 'Minimum';
-$string['mode'] = 'Mode';
-$string['modulename'] = 'Feedback';
-$string['modulename_help'] = 'The feedback activity enables a teacher to create a custom survey for collecting feedback from participants using a variety of question types including multiple choice, yes/no or text input.
+$string['mapcourseinfo'] = 'Гэта водгук, які даступны па ўсім сайце на ўсіх курсах праз блок водгук. Але вы можаце вызначыць курсы, у якіх ён будзе паказвацца, шляхам стварэньня прывязкі. Знайдзіце курс і прывяжыце яго да гэтага водгука.';
+$string['mapcoursenone'] = 'Прывязкі да курсаў не існуюць. Водгук даступны ўва ўсіх курсах';
+$string['mapcourses'] = 'Прывязаць водгук да курсаў';
+$string['mappedcourses'] = 'Прывязаныя курсы';
+$string['mappingchanged'] = 'Прывязкі да курсаў былі зьменены';
+$string['maximal'] = 'Максімум';
+$string['messageprovider:message'] = 'Напамінальнік пра водгукі';
+$string['messageprovider:submission'] = 'Абвесткі водгука';
+$string['minimal'] = 'Мінімум';
+$string['mode'] = 'Рэжым';
+$string['modulename'] = 'Водгук';
+$string['modulename_help'] = 'Актыўнасьць-водгук дазваляе настаўніку ствараць уласную апытанку дзеля збору дадзеных ад удзельнікаў з дапамогай розных тыпаў пытаньніяў, сярод якіх маюцца: множны выбар, так/не і тэкставае поле.
 
-Feedback responses may be anonymous if desired, and results may be shown to all participants or restricted to teachers only. Any feedback activities on the site home may also be completed by non-logged-in users.
+Водгук па жаданьню льга зрабіць ананімным. Вынікі льга паказваць усім удзельнікам ці толькі настаўнікам. На дамашняй старонцы актыўнасьці-водгукі могуць выконваць карыстальнікі, якія не ўвайшлі на сайт.
 
-Feedback activities may be used
+Актыўнасьць-водгук льга выкарыстоўваць дзеля
 
-* For course evaluations, helping improve the content for later participants
-* To enable participants to sign up for course modules, events etc.
-* For guest surveys of course choices, school policies etc.
-* For anti-bullying surveys in which students can report incidents anonymously';
+* ацэнкі курса і далейшага паляпшэньня зьмесьціва курса
+* наступнага залічэньня ўдзельнікаў на модулі курсаў, падзеі і г.д. 
+* гасьцявых апытанак для абраньня курсаў, школьнай палітыкі і г.д.
+* змаганьня з гвалтам (вучні змогуць пакідаць ананімныя паведамленьні пра здарэньні)';
 $string['modulename_link'] = 'mod/feedback/view';
-$string['modulenameplural'] = 'Feedback';
+$string['modulenameplural'] = 'Вобгук';
 $string['move_item'] = 'Move this question';
 $string['multichoice'] = 'Multiple choice';
 $string['multichoice_values'] = 'Multiple choice values';
