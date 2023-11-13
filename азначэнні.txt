@@ -2,6 +2,7 @@ Advanced = прасунуты
 Allocated Marker = Разьмеркаваная пазнака
 announcements = аб\'явы аб\'яваў
 Answer = адказ (question)
+appearance = выгляд
 area = вобласьць
 assign = заданьне (калі актыўнасьць)
 assign = прызначаць
