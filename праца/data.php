@@ -241,49 +241,49 @@ $string['latitude'] = 'Шырата';
 $string['latlong'] = 'Шырата/даўгата';
 $string['latlongboth'] = 'Патрабуецца шырата і даўгата.';
 $string['latlongdownloadallhint'] = 'Спасылка на спампоўку ўсіх запісаў у KML';
-$string['latlongkmllabelling'] = 'Як пазначаць прадметы ў KML-файлах (Google Earth)';
-$string['latlonglinkservicesdisplayed'] = 'Link-out services to display';
-$string['latlongotherfields'] = 'Other fields';
-$string['list'] = 'View list';
+$string['latlongkmllabelling'] = 'Як пазначаць прадметы ў KML-файлах (Google Зямля)';
+$string['latlonglinkservicesdisplayed'] = 'Адлюстраваньне link-out сэрвісаў';
+$string['latlongotherfields'] = 'Іншыя палі';
+$string['list'] = 'Праглядзець сьпіс';
 $string['listtemplate'] = 'Шаблон сьпіс';
-$string['listview'] = 'List view';
+$string['listview'] = 'Апошні прагляд';
 $string['longitude'] = 'Даўгата';
-$string['manageapproved'] = 'Allow editing of approved entries';
-$string['manageapproved_help'] = 'If disabled, approved entries are no longer editable or deletable by the user who added them. This setting has no effect unless \'Approval required\' is enabled.';
-$string['managefields'] = 'Manage fields';
-$string['mapexistingfield'] = 'Map to {$a}';
-$string['mapnewfield'] = 'Create a new field';
-$string['mappingwarning'] = 'All old fields not mapped to a new field will be lost and all data in that field will be removed.';
-$string['maxentries'] = 'Maximum number of entries';
-$string['maxentries_help'] = 'The maximum number of entries a student is allowed to submit for this activity.';
-$string['maxsize'] = 'Maximum size';
-$string['menu'] = 'Menu';
-$string['menuchoose'] = 'Choose...';
-$string['missingdata'] = 'Data id or object must be provided to field class';
-$string['missingfield'] = 'Programmer error: You must specify field and/or data when defining field class.';
-$string['modulename'] = 'Database';
-$string['modulename_help'] = 'The database activity module enables participants to create, maintain and search a collection of entries (i.e. records).  The structure of the entries is defined by the teacher as a number of fields. Field types include checkbox, radio buttons, drop-down menu, text area, URL, picture and uploaded file.
+$string['manageapproved'] = 'Дазволіць рэдагаваньне ўхваленых запісаў';
+$string['manageapproved_help'] = 'Пасьля адключэньня гэтай налады, карыстальнік што дадаў ухваленыя запісы болей ня можа рэдагаваць і выдаляць іх. Гэтая налада ігнаруецца калі ўключана \'Патрабуецца ўхвала\'.';
+$string['managefields'] = 'Кіраваць палямі';
+$string['mapexistingfield'] = 'Супаставіць з {$a}';
+$string['mapnewfield'] = 'Стварыць новае поле';
+$string['mappingwarning'] = 'Усе старыя палі, што не супастаўлены з новымі, будуць страчаны, а ўсе дадзеныя гэтых палёў будуць выдалены.';
+$string['maxentries'] = 'Максімальная колькасьць палёў';
+$string['maxentries_help'] = 'Максімальная колькасьць палёў, якую стэдэнт можа адправіць у гэтай актыўнасьці.';
+$string['maxsize'] = 'Максімальны памер';
+$string['menu'] = 'Меню';
+$string['menuchoose'] = 'Абраць...';
+$string['missingdata'] = 'ID дадзеных ці аб\'екта мусіць быць пераданы ў клас поля';
+$string['missingfield'] = 'Памылка праграміста: Падчас вызначэньня класа поля трэба вызначыць поле і/ці дадзеныя.';
+$string['modulename'] = 'База Дадзеных';
+$string['modulename_help'] = 'Модуль актыўнасьці база дадзеных дазваляе ўдзельнікам ствараць, падтрымліваць і шукаць калекцыю запісаў. Структура запісаў вызначаецца настаўнікам у відзе шэрага палёў. Маюцца наступныя тыпы палёў: сьцяжок, перамыкальнік, выпадное меню, тэкставая вобласьць, спасылка, выява і запампаваны файл.
 
-The visual layout of information when listing, viewing or editing database entries may be controlled by database templates. Database activities may be shared between courses as presets and a teacher may also import and export database entries.
+Адлюстраваньнем візуальных пластоў падчас прагляду (у тым ліке сьпісаў) ці рэдагаваньня запісаў базы дадзеных льга кіраваць з дапамогай шаблонаў базы дадзеных. Актыўнасьцямі база дадзеных льга дзяліцца між курсамі ў якасьці нарыхтовак. Настаўнік таксама можа імпартаваць і экспартаваць запісы базы дадзеных.
 
-If the database auto-linking filter is enabled, any entries in a database will be automatically linked where the words or phrases appear within the course.
+Калі ўключаны фільтар аўтаспасыланьня на базу дадзеных, на кожны запіс базы дадзеных будзе аўтаматычна стварацца спасылка ў курсе, калі будзе знойдзена адпаведнае слова ці фраза.
 
-A teacher can allow comments on entries. Entries can also be rated by teachers or students (peer evaluation). Ratings can be aggregated to form a final grade which is recorded in the gradebook.
+Настаўнік можа дазволіць каментаваць запісы. Таксама льга наладзіць ацэньваньне запісаў настаўнікамі ці студэнтамі (узаемнае ацэньваньне). Рэйтынгі могуць сумавацца дзеля фармаваньня выніковай адзнакі, якая запісваецца ў журнал адзнак.
 
-Database activities have many uses, such as
+Актыўнасьць базу дадзеных льга выкарыстоўваць дзеля
 
-* A collaborative collection of web links, books, book reviews, journal references etc
-* For displaying student-created photos, posters, websites or poems for peer comment and review.';
+* фармаваньня сумеснай калекцыі ўэб-спасылак, кніг, аглядаў кніг, спасылак на журналы
+* сумеснага каментаваньня ці агляду фатаграфіяў, плакатаў, ўэб-сайтаў ці вершаў, створаных студэнтамі';
 $string['modulename_link'] = 'mod/data/view';
-$string['modulenameplural'] = 'Databases';
-$string['more'] = 'More';
-$string['moreurl'] = 'More URL';
-$string['movezipfailed'] = 'Can\'t move zip';
-$string['multientry'] = 'Repeated entry';
-$string['multimenu'] = 'Menu (Multi-select)';
-$string['multipletags'] = 'Multiple tags found! Template not saved';
-$string['newentry'] = 'New entry';
-$string['newfield'] = 'Create a new field';
+$string['modulenameplural'] = 'Базы Дадзеных';
+$string['more'] = 'Болей';
+$string['moreurl'] = 'Болей пра спасылку';
+$string['movezipfailed'] = 'Нельга перасунуць zip';
+$string['multientry'] = 'Паўторны запіс';
+$string['multimenu'] = 'Меню (Множны Выбар)';
+$string['multipletags'] = 'Знойдзены множныя тэгі! Шаблон не захаваны';
+$string['newentry'] = 'Новы запіс';
+$string['newfield'] = 'Стварыць новае поле';
 $string['newfield_help'] = 'A field allows the input of data. Each entry in a database activity can have multiple fields of multiple types such as a date field, which allows participants to select a day, month and year from a drop-down menu, a picture field, which allows participants to upload an image file, or a checkbox field, which allows participants to select one or more options.
 
 Each field must have a unique field name. The field description is optional.';
@@ -347,7 +347,7 @@ $string['recorddisapproved'] = 'Entry unapproved';
 $string['recordsnotsaved'] = 'No entry was saved. Please check the format of the uploaded file.';
 $string['recordssaved'] = 'entries saved';
 $string['removealldatatags'] = 'Remove all database tags';
-$string['requireapproval'] = 'Approval required';
+$string['requireapproval'] = 'Патрабуецца ўхвала';
 $string['requireapproval_help'] = 'If enabled, entries require approving by a teacher before they are viewable by everyone.';
 $string['required'] = 'Required';
 $string['requiredentries'] = 'Entries required for completion (old)';

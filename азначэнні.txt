@@ -127,6 +127,7 @@ Privacy = Прыватнасьць
 processing = апрацоўка
 question = пытаньне
 quiz = тэст
+radio buttons = перамыкальнік
 rank (grade) = Рэйтынг
 rating = рэйтынг рэйтынгаваць адрэйтынгаваць
 Raw grade = сырая адзнака
