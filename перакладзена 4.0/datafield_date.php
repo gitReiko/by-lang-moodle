@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'datafield_menu', language 'en', version '4.0'.
+ * Strings for component 'datafield_date', language 'en', version '4.0'.
  *
- * @package     datafield_menu
+ * @package     datafield_date
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['fieldtypelabel'] = 'Menu field';
-$string['pluginname'] = 'Menu';
-$string['privacy:metadata'] = 'The Menu field component does not store any personal data, it uses tables defined in mod_data.';
+$string['fieldtypelabel'] = 'Поле дадзеныя';
+$string['pluginname'] = 'Дадзеныя';
+$string['privacy:metadata'] = 'Кампанент поле Дадзеныя не захоўвае аніякіх асабістых дадзеных самастойна, ён выкарыстоўвае табліцы вызначаныя ў mod_data.';

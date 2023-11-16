@@ -138,13 +138,13 @@ booktool_print ------------------- 100%
 ||   ||   ||
 \/   \/   \/
 
-datafield_checkbox --------------- 
-datafield_date ------------------- 
-datafield_file ------------------- 
-datafield_latlong ---------------- 
-datafield_menu ------------------- 
-datafield_multimenu -------------- 
-datafield_number ----------------- 
+datafield_checkbox --------------- 100%
+datafield_date ------------------- 100%
+datafield_file ------------------- 100%
+datafield_latlong ---------------- 100%
+datafield_menu ------------------- 100%
+datafield_multimenu -------------- 100%
+datafield_number ----------------- 100%
 datafield_picture ---------------- 
 datafield_radiobutton ------------ 
 datafield_text ------------------- 

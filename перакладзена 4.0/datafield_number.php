@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'datafield_multimenu', language 'en', version '4.0'.
+ * Strings for component 'datafield_number', language 'en', version '4.0'.
  *
- * @package     datafield_multimenu
+ * @package     datafield_number
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['fieldtypelabel'] = 'Multiple-selection menu field';
-$string['pluginname'] = 'Multimenu';
-$string['privacy:metadata'] = 'The Multiple-selection menu field component does not store any personal data, it uses tables defined in mod_data.';
+$string['fieldtypelabel'] = 'Поле лічба';
+$string['pluginname'] = 'Лічба';
+$string['privacy:metadata'] = 'Кампанент поле Лічба не захоўвае аніякіх асабістых дадзеных самастойна, ён выкарыстоўвае табліцы вызначаныя ў mod_data.';

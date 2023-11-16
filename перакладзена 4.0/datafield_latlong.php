@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'datafield_date', language 'en', version '4.0'.
+ * Strings for component 'datafield_latlong', language 'en', version '4.0'.
  *
- * @package     datafield_date
+ * @package     datafield_latlong
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['fieldtypelabel'] = 'Date field';
-$string['pluginname'] = 'Date';
-$string['privacy:metadata'] = 'The Date field component does not store any personal data, it uses tables defined in mod_data.';
+$string['fieldtypelabel'] = 'Поле шырата/даўгата';
+$string['pluginname'] = 'Шырата/даўгата';
+$string['privacy:metadata'] = 'Кампанент поле Шырата/даўгата не захоўвае аніякіх асабістых дадзеных самастойна, ён выкарыстоўвае табліцы вызначаныя ў mod_data.';

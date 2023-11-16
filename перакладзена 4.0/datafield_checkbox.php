@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'datafield_number', language 'en', version '4.0'.
+ * Strings for component 'datafield_checkbox', language 'en', version '4.0'.
  *
- * @package     datafield_number
+ * @package     datafield_checkbox
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['fieldtypelabel'] = 'Number field';
-$string['pluginname'] = 'Number';
-$string['privacy:metadata'] = 'The Number field component does not store any personal data, it uses tables defined in mod_data.';
+$string['fieldtypelabel'] = 'Поле сьцяжок';
+$string['pluginname'] = 'Сьцяжок';
+$string['privacy:metadata'] = 'Кампанент поле Сьцяжок не захоўвае аніякіх асабістых дадзеных самастойна, ён выкарыстоўвае табліцы вызначаныя ў mod_data.';

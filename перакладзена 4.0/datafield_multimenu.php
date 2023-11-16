@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'datafield_latlong', language 'en', version '4.0'.
+ * Strings for component 'datafield_multimenu', language 'en', version '4.0'.
  *
- * @package     datafield_latlong
+ * @package     datafield_multimenu
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['fieldtypelabel'] = 'Latitude/longitude field';
-$string['pluginname'] = 'Latlong';
-$string['privacy:metadata'] = 'The Latitude/longitude field component does not store any personal data, it uses tables defined in mod_data.';
+$string['fieldtypelabel'] = 'Поле меню множнага абраньня';
+$string['pluginname'] = 'Меню множнага абраньня';
+$string['privacy:metadata'] = 'Кампанент поле Меню множнага абраньня не захоўвае аніякіх асабістых дадзеных самастойна, ён выкарыстоўвае табліцы вызначаныя ў mod_data.';
