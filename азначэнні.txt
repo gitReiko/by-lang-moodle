@@ -114,6 +114,7 @@ outcomes = вынікі (grade)
 overridden (grade) = перавызначаная
 Page = Старонка (мод)
 pass grade = прахадная адзнака
+Pending = у чарзе
 Permalink = сталая спасылка
 permission = дазвол
 picker = выбарнік

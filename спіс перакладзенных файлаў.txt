@@ -138,6 +138,22 @@ booktool_print ------------------- 100%
 ||   ||   ||
 \/   \/   \/
 
+datafield_checkbox --------------- 
+datafield_date ------------------- 
+datafield_file ------------------- 
+datafield_latlong ---------------- 
+datafield_menu ------------------- 
+datafield_multimenu -------------- 
+datafield_number ----------------- 
+datafield_picture ---------------- 
+datafield_radiobutton ------------ 
+datafield_text ------------------- 
+datafield_textarea --------------- 
+datafield_url -------------------- 
+
+||   ||   ||
+\/   \/   \/
+
 enrol_category ------------------- 100%
 enrol_cohort --------------------- 100%
 ||   ||   ||
@@ -205,11 +221,11 @@ message_popup -------------------- 100%
 \/   \/   \/
 
 mod_assign ----------------------- 100%
-mod_bigbluebuttonbn --------------
+mod_bigbluebuttonbn -------------- 
 mod_book ------------------------- 100%
 mod_chat ------------------------- 100%
 mod_choice ----------------------- 100%
-mod_data ------------------------- 
+mod_data ------------------------- 100%
 mod_feedback --------------------- 100%
 mod_folder ----------------------- 100%
 mod_forum ------------------------ 100%
@@ -222,7 +238,7 @@ mod_lti --------------------------
 mod_page ------------------------- 100%
 mod_quiz ------------------------- 
 mod_resource --------------------- 100%
-mod_scorm ------------------------
+mod_scorm ------------------------ 
 mod_survey ----------------------- 100%
 mod_url -------------------------- 100%
 mod_wiki ------------------------- 100%
