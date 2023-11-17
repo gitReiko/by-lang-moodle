@@ -145,11 +145,11 @@ datafield_latlong ---------------- 100%
 datafield_menu ------------------- 100%
 datafield_multimenu -------------- 100%
 datafield_number ----------------- 100%
-datafield_picture ---------------- 
-datafield_radiobutton ------------ 
-datafield_text ------------------- 
-datafield_textarea --------------- 
-datafield_url -------------------- 
+datafield_picture ---------------- 100%
+datafield_radiobutton ------------ 100%
+datafield_text ------------------- 100%
+datafield_textarea --------------- 100%
+datafield_url -------------------- 100%
 
 ||   ||   ||
 \/   \/   \/

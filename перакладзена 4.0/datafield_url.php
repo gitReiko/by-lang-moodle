@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['fieldtypelabel'] = 'URL field';
-$string['openlinkinnewwindow'] = 'Open link in new window';
-$string['pluginname'] = 'URL';
-$string['privacy:metadata'] = 'The URL field component does not store any personal data, it uses tables defined in mod_data.';
+$string['fieldtypelabel'] = 'Поле спасылка';
+$string['openlinkinnewwindow'] = 'Адкрываць спасылку ў новым акне';
+$string['pluginname'] = 'Спасылка';
+$string['privacy:metadata'] = 'Кампанент поле Спасылка не захоўвае аніякіх асабістых дадзеных самастойна, ён выкарыстоўвае табліцы вызначаныя ў mod_data.';

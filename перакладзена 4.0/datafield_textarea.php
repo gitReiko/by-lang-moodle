@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['fieldtypelabel'] = 'Textarea field';
-$string['maxbytes'] = 'Maximum embedded file size (bytes)';
-$string['maxbytes_desc'] = 'If set to zero will be unlimited by default';
-$string['pluginname'] = 'Text area';
-$string['privacy:metadata'] = 'The Textarea field component does not store any personal data, it uses tables defined in mod_data.';
+$string['fieldtypelabel'] = 'Поле тэкставая вобласьць';
+$string['maxbytes'] = 'Максімальны памер, укладзенага фалу (байты)';
+$string['maxbytes_desc'] = 'Калі ўсталяваны нуль, то стандартнае значэньне будзе безьліміт';
+$string['pluginname'] = 'Тэкставая вобласьць';
+$string['privacy:metadata'] = 'Кампанент поле Тэкставая вобласьць не захоўвае аніякіх асабістых дадзеных самастойна, ён выкарыстоўвае табліцы вызначаныя ў mod_data.';

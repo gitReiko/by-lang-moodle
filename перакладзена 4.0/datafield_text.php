@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'datafield_radiobutton', language 'en', version '4.0'.
+ * Strings for component 'datafield_text', language 'en', version '4.0'.
  *
- * @package     datafield_radiobutton
+ * @package     datafield_text
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['fieldtypelabel'] = 'Radio button field';
-$string['pluginname'] = 'Radio button';
-$string['privacy:metadata'] = 'The Radio button field component does not store any personal data, it uses tables defined in mod_data.';
+$string['fieldtypelabel'] = 'Тэкставае поле';
+$string['pluginname'] = 'Кароткі тэкст';
+$string['privacy:metadata'] = 'Кампанент поле Тэкставае поле не захоўвае аніякіх асабістых дадзеных самастойна, ён выкарыстоўвае табліцы вызначаныя ў mod_data.';
