@@ -55,6 +55,7 @@ event = падзея
 exception = выключэньне
 exercise = практыкаваньне
 External = Вонкавая кагорта
+External tool = Вонкавы сродак
 extra credit = дадатковая адзнака (extra credit)
 fail grades = няўдалыя адзнакі
 favourite = Упадабанае

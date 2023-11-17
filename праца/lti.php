@@ -25,29 +25,28 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['accept'] = 'Accept';
-$string['accept_grades'] = 'Accept grades from the tool';
-$string['accept_grades_admin'] = 'Accept grades from the tool';
-$string['accept_grades_admin_help'] = 'Specify whether the tool provider can add, update, read, and delete grades associated with instances of this tool.
+$string['accept'] = 'Прыняць';
+$string['accept_grades'] = 'Прыняць адзнакі ад сродку';
+$string['accept_grades_admin'] = 'Прыняць адзнакі ад сродку';
+$string['accept_grades_admin_help'] = 'Вызначце, ці можа дастаўнік сродку дадаваць, абнаўляць, чытаць і выдаляць адзнакі, асацыяваныя з экзэмплярамі гэтага сродку.
 
-Some tool providers support reporting grades back to Moodle based on actions taken within the tool, creating a more integrated
-experience.';
-$string['accept_grades_help'] = 'Specify whether the tool provider can add, update, read, and delete grades associated only with this external tool instance.
+Частка дастаўнікаў падтрымлівае перадачу адзнак назад у Moodle на грунце дзеяньняў, выкананых у сродке, такім чынам ствараючы больш інтэграваны досьвед.';
+$string['accept_grades_help'] = 'Вызначце, ці можа дастаўнік сродку дадаваць, абнаўляць, чытаць і выдаляць адзнакі, асацыяваныя толькі з гэтым экзэмплярам сродку.
 
-Some tool providers support reporting grades back to Moodle based on actions taken within the tool, creating a more integrated experience.
+Частка дастаўнікаў падтрымлівае перадачу адзнак назад у Moodle на грунце дзеяньняў, выкананых у сродке, такім чынам ствараючы больш інтэграваны досьвед.
 
-Note that this setting may be overridden in the tool configuration.';
-$string['accepted'] = 'Accepted';
-$string['action'] = 'Action';
-$string['activate'] = 'Activate';
-$string['activatetoadddescription'] = 'You will need to activate this tool before you can add a description.';
-$string['active'] = 'Active';
-$string['activity'] = 'Activity';
-$string['add_ltiadv'] = 'Add LTI Advantage';
-$string['add_ltilegacy'] = 'Add Legacy LTI';
-$string['addnewapp'] = 'Enable external application';
-$string['addserver'] = 'Add new trusted server';
-$string['addtype'] = 'Add preconfigured tool';
+Памятайце, што гэтыя налады льга перавызначыць ў канфігурацыі сродку.';
+$string['accepted'] = 'Прыняты';
+$string['action'] = 'Дзеяньне';
+$string['activate'] = 'Актываваць';
+$string['activatetoadddescription'] = 'Вы мусіце актываваць гэты сродак, каб мець магчымасьць дадаць апісаньне.';
+$string['active'] = 'Актыўны';
+$string['activity'] = 'Актыўнасьць';
+$string['add_ltiadv'] = 'Дадаць прасунуты LTI';
+$string['add_ltilegacy'] = 'Дадаць спадкаемны LTI';
+$string['addnewapp'] = 'Уключыць вонкавы дадатак';
+$string['addserver'] = 'Дадаць новы давераны сэрвер';
+$string['addtype'] = 'Дадаць загадзя сканфігураваны сродак';
 $string['allow'] = 'Allow';
 $string['allowsetting'] = 'Allow tool to store 8K of settings in Moodle';
 $string['always'] = 'Always';
@@ -366,7 +365,7 @@ Tools which do not require secure communication from Moodle and do not provide a
 may not require a shared secret.';
 $string['pending'] = 'Pending';
 $string['pluginadministration'] = 'External tool administration';
-$string['pluginname'] = 'External tool';
+$string['pluginname'] = 'Вонкавы сродак';
 $string['preferheight'] = 'Preferred height';
 $string['preferwidget'] = 'Prefer widget launch';
 $string['preferwidth'] = 'Preferred width';
