@@ -112,28 +112,29 @@ $string['debuglaunch'] = 'Опцыя адладжваньня';
 $string['debuglaunchoff'] = 'Нармальны запуск';
 $string['debuglaunchon'] = 'Запуск дзеля адлажваньня';
 $string['default'] = 'Стандартны';
-$string['default_launch_container'] = 'Default launch container';
-$string['default_launch_container_help'] = 'The launch container affects the display of the tool when launched from the course. Some launch containers provide more screen
-real estate to the tool, and others provide a more integrated feel with the Moodle environment.
+$string['default_launch_container'] = 'Стандартны кантэйнер запуску';
+$string['default_launch_container_help'] = 'Кантэйнер запуску ўплывае на адлюстраваньне сродку падчас запуску ў курсе.
+Некаторыя кантэйнеры хутчэй адлюстроўваюць сродак ува акне,
+іншыя прапаноўваюць больш інтэграваны ў Moodle досьвед.
 
-* **Default** - Use the launch container specified by the tool configuration.
-* **Embed** - The tool is displayed within the existing Moodle window, in a manner similar to most other Activity types.
-* **Embed, without blocks** - The tool is displayed within the existing Moodle window, with just the navigation controls
-        at the top of the page.
-* **New window** - The tool opens in a new window, occupying all the available space.
-        Depending on the browser, it will open in a new tab or a popup window.
-        It is possible that browsers will prevent the new window from opening.';
-$string['delegate'] = 'Delegate to teacher';
-$string['delegate_tool'] = 'As specified in Deep Linking definition or Delegate to teacher';
-$string['delete'] = 'Delete';
-$string['delete_confirmation'] = 'Are you sure you want to delete this preconfigured tool?';
-$string['deletetype'] = 'Delete preconfigured tool';
-$string['display_description'] = 'Display activity description when launched';
-$string['display_description_help'] = 'If selected, the activity description (specified above) will display above the tool provider\'s content.
+* **Стандартны** - Выкарыстоўвае кантэйнер запуску, вызначаны ўва канфігурацыі сродку.
+* **Убудаваны** - Сродак адлюстроўваецца ў межах існага вакна Moodle, падобна да большасьці іншых тыпаў Актыўнасьці.
+* **Убудаваны, бяз блокаў** - Сродак адлюстроўваецца ў межах існага вакна Moodle, 
+        але ўверсе старонкі маюцца толькі элементы навігацыі.
+* **Новае акно** - Сродак адкрываецца ў новым акне, займае ўсё даступнае месца.
+        У залежнасьці ад браўзара, можа адкрыцца ў новай укладцы ці ўсплыўным акне.
+        Магчыма браўзара забароніць адкрыцьцё новага акна.';
+$string['delegate'] = 'Дэлегаваць настаўніку';
+$string['delegate_tool'] = 'Як вызначана ў Глыбокім Спасыланьні ці Дэлегаваньні настаўніку';
+$string['delete'] = 'Выдаліць';
+$string['delete_confirmation'] = 'Вы ўпэўнены, што жадаеце выдаліць гэты загадзя сканфігураваны сродак?';
+$string['deletetype'] = 'Выдаліць загадзя сканфігураваны сродак';
+$string['display_description'] = 'Адлюстроўваць апісаньне актыўнасьці падчас запуску';
+$string['display_description_help'] = 'Калі абрана, апісаньне актыўнасьці (вызначана вышэй) будзе адлюстроўвацца над зьмесьцівам дастаўніка сродку.
 
-The description may be used to provide additional instructions for launchers of the tool, but it is not required.
+Апісаньне льга выкарыстоўваць дзеля паданьня дадатковых інструкцыяў карыстальнікам сродку, але гэта неабавязкова.
 
-The description is never displayed when the tool\'s launch container is in a new window.';
+Апісаньне ніколі не адлюстроўваецца калі запускальнікам кантэйнера з\'яўляецца новае акно.';
 $string['display_name'] = 'Display activity name when launched';
 $string['display_name_help'] = 'If selected, the activity name (specified above) will display above the tool provider\'s content.
 
@@ -157,8 +158,8 @@ $string['dynreg_update_version'] = 'LTI version';
 $string['dynreg_update_warn_dupdomain'] = 'It is not recommended to have multiple external tools under the same domain.';
 $string['editdescription'] = 'Click here to give this tool a description';
 $string['edittype'] = 'Edit preconfigured tool';
-$string['embed'] = 'Embed';
-$string['embed_no_blocks'] = 'Embed, without blocks';
+$string['embed'] = 'Убудаваны';
+$string['embed_no_blocks'] = 'Убудаваны, бяз блокаў';
 $string['enableemailnotification'] = 'Send notification emails';
 $string['enableemailnotification_help'] = 'If enabled, students will receive email notification when their tool submissions are graded.';
 $string['enterkeyandsecret'] = 'Enter your consumer key and shared secret';
@@ -238,17 +239,18 @@ You can enter a cartridge URL if you have one, and the rest of the form details 
 
 If you have selected a preconfigured tool, you may not need to enter a tool URL. If the tool link is used to just launch
 into the tool provider\'s system, and not go to a specific resource, this will likely be the case.';
-$string['launchinpopup'] = 'Launch container';
-$string['launchinpopup_help'] = 'The launch container affects the display of the tool when launched from the course. Some launch containers provide more screen
-real estate to the tool, and others provide a more integrated feel with the Moodle environment.
+$string['launchinpopup'] = 'Кантэйнер запуску';
+$string['launchinpopup_help'] = 'Кантэйнер запуску ўплывае на адлюстраваньне сродку падчас запуску ў курсе.
+Некаторыя кантэйнеры хутчэй адлюстроўваюць сродак ува акне,
+іншыя прапаноўваюць больш інтэграваны ў Moodle досьвед.
 
-* **Default** - Use the launch container specified by the tool configuration.
-* **Embed** - The tool is displayed within the existing Moodle window, in a manner similar to most other Activity types.
-* **Embed, without blocks** - The tool is displayed within the existing Moodle window, with just the navigation controls
-        at the top of the page.
-* **New window** - The tool opens in a new window, occupying all the available space.
-        Depending on the browser, it will open in a new tab or a popup window.
-        It is possible that browsers will prevent the new window from opening.';
+* **Default** - Выкарыстоўвае кантэйнер запуску, вызначаны ўва канфігурацыі сродку.
+* **Embed** - Сродак адлюстроўваецца ў межах існага вакна Moodle, падобна да большасьці іншых тыпаў Актыўнасьці.
+* **Убудаваны, бяз блокаў** - Сродак адлюстроўваецца ў межах існага вакна Moodle, 
+        але ўверсе старонкі маюцца толькі элементы навігацыі.
+        * **Новае акно** - Сродак адкрываецца ў новым акне, займае ўсё даступнае месца.
+        У залежнасьці ад браўзара, можа адкрыцца ў новай укладцы ці ўсплыўным акне.
+        Магчыма браўзара забароніць адкрыцьцё новага акна.';
 $string['launchoptions'] = 'Launch options';
 $string['leaveblank'] = 'Leave blank if you do not need them';
 $string['lti'] = 'LTI';
@@ -308,7 +310,7 @@ $string['modulenameplural'] = 'External tools';
 $string['modulenamepluralformatted'] = 'LTI Instances';
 $string['name'] = 'Name';
 $string['never'] = 'Never';
-$string['new_window'] = 'New window';
+$string['new_window'] = 'Новае акно';
 $string['no_lti_configured'] = 'There are no active external tools configured.';
 $string['no_lti_pending'] = 'There are no pending external tools.';
 $string['no_lti_rejected'] = 'There are no rejected external tools.';
