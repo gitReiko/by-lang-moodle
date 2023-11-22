@@ -135,69 +135,67 @@ $string['display_description_help'] = 'Калі абрана, апісаньне
 Апісаньне льга выкарыстоўваць дзеля паданьня дадатковых інструкцыяў карыстальнікам сродку, але гэта неабавязкова.
 
 Апісаньне ніколі не адлюстроўваецца калі запускальнікам кантэйнера з\'яўляецца новае акно.';
-$string['display_name'] = 'Display activity name when launched';
-$string['display_name_help'] = 'If selected, the activity name (specified above) will display above the tool provider\'s content.
+$string['display_name'] = 'Адлюстроўваць назву актыўнасьці падчас запуску';
+$string['display_name_help'] = 'Калі абрана, назва актыўнасьці (вызначана вышэй) будзе адлюстроўвацца над зьмесьцівам дастаўніка сродку.
+Дастаўнік сродку таксама можа адлюстроўваць назву. 
+Гэта опцыя можа прадухіліць падвойную назву актыўнасьці.
 
-It is possible that the tool provider may also display the title. This option can prevent the activity title from
-being displayed twice.
-
-The title is never displayed when the tool\'s launch container is in a new window.';
-$string['domain_mismatch'] = 'Tool URL\'s domain does not match tool configuration.';
-$string['donot'] = 'Do not send';
-$string['donotaccept'] = 'Do not accept';
-$string['donotallow'] = 'Do not allow';
-$string['duplicateregurl'] = 'This registration URL is already in use';
-$string['dynreg_update_btn_new'] = 'Register as a new external tool';
-$string['dynreg_update_btn_update'] = 'Update';
-$string['dynreg_update_name'] = 'Tool name';
-$string['dynreg_update_notools'] = 'No tools in context.';
-$string['dynreg_update_text'] = 'There are existing tools attached to the registration\'s domain. Do you want to update an already installed
-external tool or create a new external tool?';
-$string['dynreg_update_url'] = 'Base URL';
-$string['dynreg_update_version'] = 'LTI version';
-$string['dynreg_update_warn_dupdomain'] = 'It is not recommended to have multiple external tools under the same domain.';
-$string['editdescription'] = 'Click here to give this tool a description';
-$string['edittype'] = 'Edit preconfigured tool';
+Назва ніколі не адлюстроўваецца, калі кантэйнерам запуску з\'яўляецца новае акно.';
+$string['domain_mismatch'] = 'Спасылка на дамен сродку не адпавядае канфігурацыі сродку.';
+$string['donot'] = 'Не дасылаць';
+$string['donotaccept'] = 'Не прыймаць';
+$string['donotallow'] = 'Не дазваляць';
+$string['duplicateregurl'] = 'Гэтая рэгістрацыйная спасылка ўжо выкарыстоўваецца';
+$string['dynreg_update_btn_new'] = 'Зарэгістраваць у якасьці новага вонкавага сродку';
+$string['dynreg_update_btn_update'] = 'Абнавіць';
+$string['dynreg_update_name'] = 'Назва сродку';
+$string['dynreg_update_notools'] = 'Сродкі адсутнічаюць у кантэксьце.';
+$string['dynreg_update_text'] = 'Ужо існуюць сродкі, прывязаныя да рэгістрацыйнага дамену. 
+Вы жадаеце абнавіць ужо існуючы вонкавы сродак ці стварыць новы вонкавы сродак?';
+$string['dynreg_update_url'] = 'Базавая спасылка';
+$string['dynreg_update_version'] = 'Версія LTI';
+$string['dynreg_update_warn_dupdomain'] = 'Не раіцца мець некалькі вонкавых сродкаў пад аднолькавым даменам.';
+$string['editdescription'] = 'Націсьніце тут, каб увесьці апісаньне гэтаму сродку';
+$string['edittype'] = 'Рэдагаваць загадзя сканфігураваны сродак';
 $string['embed'] = 'Убудаваны';
 $string['embed_no_blocks'] = 'Убудаваны, бяз блокаў';
-$string['enableemailnotification'] = 'Send notification emails';
-$string['enableemailnotification_help'] = 'If enabled, students will receive email notification when their tool submissions are graded.';
-$string['enterkeyandsecret'] = 'Enter your consumer key and shared secret';
-$string['enterkeyandsecret_help'] = 'If you were given a consumer key and/or shared secret, input them here';
-$string['errorbadurl'] = 'URL is not a valid tool URL or cartridge.';
-$string['errorincorrectconsumerkey'] = 'Consumer key is incorrect.';
-$string['errorinvaliddata'] = 'Invalid data: {$a}';
-$string['errorinvalidmediatype'] = 'Invalid media type: {$a}';
-$string['errorinvalidresponseformat'] = 'Invalid Content-Item response format.';
-$string['errormisconfig'] = 'Misconfigured tool. Please ask your Moodle administrator to fix the configuration of the tool.';
-$string['errortooltypenotfound'] = 'LTI tool type not found.';
-$string['existing_window'] = 'Existing window';
-$string['extensions'] = 'LTI extension services';
-$string['external_tool_type'] = 'Preconfigured tool';
-$string['external_tool_type_help'] = '* **Automatic, based on tool URL** - The best tool configuration is selected automatically. If the tool URL is not recognised, the tool configuration details may need to be entered manually.
-* **A specific preconfigured tool** - The tool configuration for the specified tool will be used when communicating with the external tool provider. If the tool URL does not appear to belong to the tool provider, a warning will be shown. It is not always necessary to enter a tool URL.
-* **Custom configuration** - A consumer key and shared secret may need to be entered manually. The consumer key and shared secret may be obtained from the tool provider. However, not all tools require a consumer key and shared secret, in which case the fields may be left blank.
+$string['enableemailnotification'] = 'Адпраўляць абвесткі на імэйлы';
+$string['enableemailnotification_help'] = 'Калі ўключана, студэнты будуць атрымліваць абвесткі пра свае адпраўленьні сваіх прац і атрыманьне адзнак у сродку.';
+$string['enterkeyandsecret'] = 'Увядзіце свой карыстальніцкі ключ і агульны сакрэт';
+$string['enterkeyandsecret_help'] = 'Калі вы маеце карыстальніцкі ключ і/альбо агульны сакрэт, увядзіце іх тут';
+$string['errorbadurl'] = 'Гэта спасылка - хібная спасылка сродку ці картрыджу.';
+$string['errorincorrectconsumerkey'] = 'Карыстальніцкі ключ хібны.';
+$string['errorinvaliddata'] = 'Хібныя дадзеныя: {$a}';
+$string['errorinvalidmediatype'] = 'Хібны тып медыя: {$a}';
+$string['errorinvalidresponseformat'] = 'Хібны фармат водгука Прадмета-Зьмесьціва.';
+$string['errormisconfig'] = 'Хібна сканфігураваны сродак. Калі ласка, зьвярніцеся да свайго адміністратара Moodle дзеля выпраўленьня канфігурацыі сродку.';
+$string['errortooltypenotfound'] = 'Тып LTI-сродку ня знойдзены.';
+$string['existing_window'] = 'Існае акно';
+$string['extensions'] = 'Службы LTI-пашырэньня';
+$string['external_tool_type'] = 'Загадзя сканфігураваны сродак';
+$string['external_tool_type_help'] = '* **Аўтаматычна, на грунце спасылкі сродку** - Лепшая канфігурацыя сродку абіраецца аўтаматычна. Калі спасылка сродку ня вызнаецца, магчыма прыйдзецца ўвесьці дэталі канфігурацыі сродку ўручную.
+* **Пэўны загадзя сканфігураваны сродак** - Падчас узаемадзеяньня з дастаўнікам вонкавага сродку будзе выкарыстоўвацца канфігурацыя сродка для пэўнага сродку. Калі выявіцца, што спасылка сродку не належыць дастаўніку сродку, будзе паказана папярэджаньне. Не заўсёды патрабуецца ўвод спасылкі сродку.
+* **Уласная канфігурацыя** - Можа спатрэбіцца ўручную ўвесьці карыстальніцкі ключ і агульны сакрэт. Існуе магчымасьць атрыманьня карыстальніцкага ключа і агульнага сакрэту ад дастаўніка сродку. Але не ўсе сродкі патрабуюць карыстальніцкі ключ і агульны сакрэт, у гэтым выпадку палі льга пакінуць пустымі.
 
-### Preconfigured tool editing
+### Рэдагаваньне загадзя сканфігураванага сродку
 
-Three icons are available after the preconfigured tool drop-down menu:
-
-* **Add** - Create a course level tool configuration. All External tool instances in this course may use the tool configuration.
-* **Edit** - Select a course level tool from the drop-down menu, then click this icon. The details of the tool configuration may be edited.
-* **Delete** - Remove the selected course level tool.';
-$string['external_tool_types'] = 'Preconfigured tools';
-$string['failedtoconnect'] = 'Moodle was unable to communicate with the "{$a}" system';
-$string['failedtocreatetooltype'] = 'Failed to create new tool. Please check the URL and try again.';
-$string['failedtodeletetoolproxy'] = 'Failed to delete tool registration. You may need to visit "Manage external tool registrations" and delete it manually.';
-$string['filter_basiclti_configlink'] = 'Configure your preferred sites and their passwords';
-$string['filter_basiclti_password'] = 'Password is mandatory';
-$string['filterconfig'] = 'LTI administration';
+Гэтыя тры выявы даступныя пасьля выпаднога меню загадзя сканфігураванага сродку:
+* **Дадаць** - Дзеля стварэньня канфігурацыі сродку на ўзроўні курса. Усе экзэмпляры вонкавага сродку ў гэтым курсе могуць ужываць канфігурацыю сродку.
+* **Рэдагаваць** - Абярыце сродак на узроўні курса з выпаднога меню, потым націсьніце па гэтай выяве. Дэталі канфігурацыі сродку льга рэдагаваць.
+* **Выдаліць** - Выдаліць абраны сродак на узроўні курса.';
+$string['external_tool_types'] = 'Загадзя сканфігураваныя сродкі';
+$string['failedtoconnect'] = 'Moodle ня змог зкамунікаваць з сістэмай "{$a}"';
+$string['failedtocreatetooltype'] = 'Не ўдалося стварыць новы сродак. Калі ласка, спраўдзіце спасылку і паспрабуйце наноў.';
+$string['failedtodeletetoolproxy'] = 'Не ўдалося выдаліць рэгістрацыю сродку. Магчыма вам варта наведаць "Кіраваньне рэгістрацыямі вонкавага сродку" і выдаліць іх уручную.';
+$string['filter_basiclti_configlink'] = 'Наладзьце вашыя пераважныя сайты і іхнія паролі';
+$string['filter_basiclti_password'] = 'Пароль абавязковы';
+$string['filterconfig'] = 'Адміністраваньне LTI';
 $string['filtername'] = 'LTI';
-$string['fixexistingconf'] = 'Use an existing configuration for the misconfigured instance';
-$string['fixnew'] = 'New configuration';
-$string['fixnewconf'] = 'Define a new configuration for the misconfigured instance';
-$string['fixold'] = 'Use existing';
-$string['force_ssl'] = 'Force SSL';
+$string['fixexistingconf'] = 'Выкарыстаць існую канфігурацыю для хібна сканфігураванага экзэмпляру';
+$string['fixnew'] = 'Новая канфігурацыя';
+$string['fixnewconf'] = 'Вызначце новую канфігурацыю дзеля хібна сканфігураванага экзэмпляру';
+$string['fixold'] = 'Выкарыстаць існую';
+$string['force_ssl'] = 'Прымусовы SSL';
 $string['force_ssl_help'] = 'Selecting this option forces all launches to this tool provider to use SSL.
 
 In addition, all web service requests from the tool provider will use SSL.
@@ -287,7 +285,7 @@ Tools listed on this page are separated into three categories:
 * **Pending** - These tool providers came in through a package import, but have not been configured by an administrator. Teachers may still use tools from these providers if they have a consumer key and shared secret, or if none is required.
 * **Rejected** - These tools providers are flagged as ones which an administrator has no intention of making available on the site. Teachers may still use tools from these providers if they have a consumer key and shared secret, or if none is required.';
 $string['manage_external_tools'] = 'Manage tools';
-$string['manage_tool_proxies'] = 'Manage external tool registrations';
+$string['manage_tool_proxies'] = 'Кіраваньне рэгістрацыямі вонкавага сродку';
 $string['manage_tools'] = 'Manage preconfigured tools';
 $string['manuallyaddtype'] = 'Alternatively, you can <a href="{$a}">configure a tool manually</a>.';
 $string['miscellaneous'] = 'Miscellaneous';
