@@ -196,40 +196,40 @@ $string['fixnew'] = 'Новая канфігурацыя';
 $string['fixnewconf'] = 'Вызначце новую канфігурацыю дзеля хібна сканфігураванага экзэмпляру';
 $string['fixold'] = 'Выкарыстаць існую';
 $string['force_ssl'] = 'Прымусовы SSL';
-$string['force_ssl_help'] = 'Selecting this option forces all launches to this tool provider to use SSL.
+$string['force_ssl_help'] = 'Абраньне гэтай налады прымусіць усе запускі гэтага дастаўніка сродку выкарыстоўваць SSL.
 
-In addition, all web service requests from the tool provider will use SSL.
+У дадатак, усе запыты вэб-сэрвісаў для гэтага дастаўніка сродку будуць выкарыстоўваць SSL.
 
-If using this option, confirm that this Moodle site and the tool provider support SSL.';
-$string['forced_help'] = 'This setting has been forced in a course or site level tool configuration. You may not change it from this interface.';
-$string['generaltool'] = 'General tool';
-$string['global_tool_types'] = 'Preconfigured tools';
-$string['grading'] = 'Grade routing';
-$string['icon_url'] = 'Icon URL';
-$string['icon_url_help'] = 'The icon URL allows the icon that shows up in the course listing for this activity to be modified. Instead of using the default
-LTI icon, an icon which conveys the type of activity may be specified.';
+Для выкарыстаньня гэтай налады пераканайцеся, што дадзены сайт Moodle і дастаўнік сродку падтрымліваюць SSL.';
+$string['forced_help'] = 'Гэтая налада мае прымусовае значэньне на ўзроўні курса ці сайта. Вы ня можаце зьмяніць значэньне з гэтага інтэрфэйсу.';
+$string['generaltool'] = 'Агульны сродак';
+$string['global_tool_types'] = 'Загадзя сканфігураваныя сродкі';
+$string['grading'] = 'Маршрутаваньне адзнакі';
+$string['icon_url'] = 'Спасылка на выяву';
+$string['icon_url_help'] = 'Спасылка на выяву дазваляе зьмяніць выяву, што адлюстроўваецца ў сьпісе курса для гэтай актыўнасьці. 
+Заміж стандартнай выявы льга вызначыць выяву, якая лепей адлюстроўвае гэтую актыўнасьць.';
 $string['id'] = 'ID';
-$string['indicator:cognitivedepth'] = 'LTI cognitive';
-$string['indicator:cognitivedepth_help'] = 'This indicator is based on the cognitive depth reached by the student in an LTI activity.';
-$string['indicator:cognitivedepthdef'] = 'LTI cognitive';
-$string['indicator:cognitivedepthdef_help'] = 'The participant has reached this percentage of the cognitive engagement offered by the LTI activities during this analysis interval (Levels = No view, View, Submit, View feedback)';
+$string['indicator:cognitivedepth'] = 'Пазнаваньне LTI';
+$string['indicator:cognitivedepth_help'] = 'Гэты паказьнік згрунтаваны на глыбіні пазнаваньня, якую дасягнуў студэнт ў LTI-актыўнасьці.';
+$string['indicator:cognitivedepthdef'] = 'Пазнаваньне LTI';
+$string['indicator:cognitivedepthdef_help'] = 'Удзельнік дасягную гэтага адсотку пазнавальнага ўцягненьня, прапанаваны LTI-актыўнасьцю ў аналізаваны тэрмін (Роўні = Без прагляду, Прагляд, Адпраўка, Прагляд водгуку)';
 $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cognitive_depth';
-$string['indicator:socialbreadth'] = 'LTI social';
-$string['indicator:socialbreadth_help'] = 'This indicator is based on the social breadth reached by the student in an LTI activity.';
-$string['indicator:socialbreadthdef'] = 'LTI social';
-$string['indicator:socialbreadthdef_help'] = 'The participant has reached this percentage of the social engagement offered by the LTI activities during this analysis interval (Levels = No participation, Participant alone, Participant with others)';
+$string['indicator:socialbreadth'] = 'Сацыяльнасьць LTI';
+$string['indicator:socialbreadth_help'] = 'Гэты паказьнік згрунтаваны на сацыяльнай шырыні, якую дасягнуў студэнт ў LTI-актыўнасьці.';
+$string['indicator:socialbreadthdef'] = 'Сацыяльнасьць LTI';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцямі-заданьнямі ў аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел, Сумесны ўдзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
-$string['initiatelogin'] = 'Initiate login URL';
-$string['initiatelogin_help'] = 'The tool URL to which requests for initiating a login are to be sent.  This URL is required before a message can be successfully sent to the tool.';
-$string['invalidid'] = 'LTI ID was incorrect';
+$string['initiatelogin'] = 'Пачатковая спасылка на ўваход';
+$string['initiatelogin_help'] = 'Спасылка сродку, на якую будуць дасылацца запыты на пачынаньне ўваходу. Гэтая спасылка патрэбная дзеля пасьпяховай адпраўкі паведамленьня сродку.';
+$string['invalidid'] = 'Хібны LTI ID';
 $string['jwtsecurity'] = 'LTI 1.3';
-$string['keytype'] = 'Public key type';
-$string['keytype_help'] = 'The authentication method used to validate the tool.';
-$string['keytype_keyset'] = 'Keyset URL';
-$string['keytype_rsa'] = 'RSA key';
-$string['launch_in_moodle'] = 'Launch tool in Moodle';
-$string['launch_in_popup'] = 'Launch tool in a pop-up';
-$string['launch_url'] = 'Tool URL';
+$string['keytype'] = 'Тып публічнага ключа';
+$string['keytype_help'] = 'Метад аўтэнтыфікацыі, які выкарыстоўваецца дзеля валідацыі сродку.';
+$string['keytype_keyset'] = 'Спасылка на набор клавіш';
+$string['keytype_rsa'] = 'RSA ключ';
+$string['launch_in_moodle'] = 'Запуск сродку ў Moodle';
+$string['launch_in_popup'] = 'Запуск сродку ўва ўсплыўным акне';
+$string['launch_url'] = 'Спасылка сродку';
 $string['launch_url_help'] = 'The tool URL indicates the web address of the External Tool, and may contain additional information, such as the resource to show.
 If you are unsure what to enter for the tool URL, please check with the tool provider for more information.
 
