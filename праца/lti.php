@@ -230,13 +230,13 @@ $string['keytype_rsa'] = 'RSA ключ';
 $string['launch_in_moodle'] = 'Запуск сродку ў Moodle';
 $string['launch_in_popup'] = 'Запуск сродку ўва ўсплыўным акне';
 $string['launch_url'] = 'Спасылка сродку';
-$string['launch_url_help'] = 'The tool URL indicates the web address of the External Tool, and may contain additional information, such as the resource to show.
-If you are unsure what to enter for the tool URL, please check with the tool provider for more information.
+$string['launch_url_help'] = 'Спасылка сродку ўказвае на вэб-адрас Вонкавага Сродку, і можа ўтрымліваць дадатковую інфармацыю, напрыклад, рэсурсы для прагляду.
+Калі вы не разумееце, што ўводзіць ува спасылку сродку, калі ласка, зьвярніцеся за дадатковай інфармацыяй да дастаўніка сродку.
 
-You can enter a cartridge URL if you have one, and the rest of the form details will fill automatically.
+Вы можаце ўвесьці спасылку картрыджу, калі ён у вас маецца, тады астатнія дадзеныя формы запоўняцца аўтаматычна.
 
-If you have selected a preconfigured tool, you may not need to enter a tool URL. If the tool link is used to just launch
-into the tool provider\'s system, and not go to a specific resource, this will likely be the case.';
+Калі вы абралі загадзя сканфігураваны сродак, увод спасылкі сродку можа не спатрэбіцца.
+Калі спасылка выкарыстоўваецца толькі дзеля запуска сістэмы дастаўніка сродку, а ня дзеля пераходу на пэўны рэсурс, то, найхутчэй, так і будзе.';
 $string['launchinpopup'] = 'Кантэйнер запуску';
 $string['launchinpopup_help'] = 'Кантэйнер запуску ўплывае на адлюстраваньне сродку падчас запуску ў курсе.
 Некаторыя кантэйнеры хутчэй адлюстроўваюць сродак ува акне,
@@ -249,37 +249,37 @@ $string['launchinpopup_help'] = 'Кантэйнер запуску ўплыва�
         * **Новае акно** - Сродак адкрываецца ў новым акне, займае ўсё даступнае месца.
         У залежнасьці ад браўзара, можа адкрыцца ў новай укладцы ці ўсплыўным акне.
         Магчыма браўзара забароніць адкрыцьцё новага акна.';
-$string['launchoptions'] = 'Launch options';
-$string['leaveblank'] = 'Leave blank if you do not need them';
+$string['launchoptions'] = 'Опцыі запуску';
+$string['leaveblank'] = 'Пакіньце пустым, калі яны вам не патрэбныя';
 $string['lti'] = 'LTI';
-$string['lti:addcoursetool'] = 'Add course-specific tool configurations';
-$string['lti:addinstance'] = 'Add a new external tool';
-$string['lti:addmanualinstance'] = 'Add a manually-configured tool';
-$string['lti:addpreconfiguredinstance'] = 'Add a preconfigured tool';
-$string['lti:admin'] = 'Be an administrator when the tool is launched';
-$string['lti:grade'] = 'View grades returned by the external tool';
-$string['lti:manage'] = 'Be an Instructor when the tool is launched';
-$string['lti:requesttooladd'] = 'Request a tool is configured site-wide';
-$string['lti:view'] = 'Launch external tool activities';
-$string['lti_administration'] = 'Edit preconfigured tool';
-$string['lti_errormsg'] = 'The tool returned the following error message: "{$a}"';
-$string['lti_launch_error'] = 'An error occurred when launching the external tool:';
+$string['lti:addcoursetool'] = 'Даданьне канфігурацыяў сродку дзеля пэўнага курса';
+$string['lti:addinstance'] = 'Даданьне новага вонкавага сродку';
+$string['lti:addmanualinstance'] = 'Даданьне уручную сканфігураванага сродку';
+$string['lti:addpreconfiguredinstance'] = 'Даданьне загадзя сканфігураванага сродку';
+$string['lti:admin'] = 'Выконваньне ролі адміністратара падчас запуску сродку';
+$string['lti:grade'] = 'Прагляд адзнак, атрыманых ад вонкавага сродку';
+$string['lti:manage'] = 'Выконваньне ролі Інструктара падчас запуску сродку';
+$string['lti:requesttooladd'] = 'Запытваньне сродку сканфігураванага дзеля ўсяго сайту';
+$string['lti:view'] = 'Запуск актыўнасьцяў вонкавага сродку';
+$string['lti_administration'] = 'Рэдагаваць загадзя сканфігураваны сродак';
+$string['lti_errormsg'] = 'Сродак вяртае наступнае паведамленьне пра памылку: "{$a}"';
+$string['lti_launch_error'] = 'Адбылася памылка падчас запуску вонкавага сродку:';
 $string['lti_launch_error_tool_request'] = '<p>
-To submit a request for an administrator to complete the tool configuration, click <a href="{$a->admin_request_url}" target="_top">here</a>.
+Каб адправіць запыт адміністратару на завяршэньне канфігурацыі сродку, націсьніце <a href="{$a->admin_request_url}" target="_top">тут</a>.
 </p>';
-$string['lti_launch_error_unsigned_help'] = '<p>This error may be a result of a missing consumer key and shared secret for the tool provider.</p>
-<p>If you have a consumer key and shared secret, you may enter it when editing the external tool instance (make sure advanced options are visible).</p>
-<p>Alternatively, you may <a href="{$a->course_tool_editor}">create a course level tool provider configuration</a>.</p>';
-$string['lti_tool_request_added'] = 'Tool configuration request successfully submitted. You may need to contact an administrator to complete the tool configuration.';
-$string['lti_tool_request_existing'] = 'A tool configuration for the tool domain has already been submitted.';
-$string['ltisettings'] = 'LTI settings';
-$string['ltiunknownserviceapicall'] = 'LTI unknown service API call.';
-$string['ltiversion'] = 'LTI version';
-$string['ltiversion_help'] = 'The version of LTI being used for signing messages and service requests: LTI 1.0/1.1 and LTI 2.0 use the OAuth 1.0A security profile; LTI 1.3.0 uses JWTs.';
-$string['main_admin'] = 'General help';
-$string['main_admin_help'] = 'External tools allow Moodle users to interact with learning resources hosted remotely. Through a special launch protocol, the remote tool has access to general information about the launching user. For example, the institution name, course ID, user ID, and other information such as the user\'s name or email address.
+$string['lti_launch_error_unsigned_help'] = '<p>Гэтая памылка можа быць выклікана адсутнасьцю карыстальніцкага ключа і агульнага сакрэта ў дастаўніка сродку.</p>
+<p>Калі вы маеце карыстальніцкі ключ і агульны сакрэт, вы можаце ўвесьці іх падчас рэдагаваньня экзэмпляра вонкавага сродку (пераканайцеся, што прасунутыя опцыі бачныя).
+<p>Альтэрнатыўна, вы можаце <a href="{$a->course_tool_editor}">стварыць канфігурацыю дастаўніка сродку на ўзроўні курса</a>.</p>';
+$string['lti_tool_request_added'] = 'Запыт канфігурацыі сродку пасьпяхова адпраўлены. Вы мусіце зьвярнуцца да адміністратара, каб завяршыць канфігурацыю сродку.';
+$string['lti_tool_request_existing'] = 'Канфігурацыя сродку для даменаў сродку была пасьпяхова адпраўлена.';
+$string['ltisettings'] = 'Налады LTI';
+$string['ltiunknownserviceapicall'] = 'Выклік невядомага API сэрвісу LTI.';
+$string['ltiversion'] = 'Версія LTI';
+$string['ltiversion_help'] = 'Версія LTI, што выкарыстоўваецца дзеля падпісаньня паведамленьняў і запытаў да сэрвісаў: LTI 1.0/1.1 і LTI 2.0 выкарыстоўвае профіль бясьпекі OAuth 1.0A; LTI 1.3.0 выкарыстоўвае JWTs.';
+$string['main_admin'] = 'Агульная дапамога';
+$string['main_admin_help'] = 'Вонкавыя сродкі дазваляюць карыстальнікам Moodle узаемадзейнічаць з навучальнымі рэсурсамі, што месцяцца за вонкамі сайту. Праз адмысловы пратакол запуску вонкавы сродак атрымлівае доступ да агульнай інфармацыі пра карыстальніка-запускальніка. Напрыклад, назву адукацыйнай установы, ID курса, ID карыстальніка, імя карыстальніка і імэйл.
 
-Tools listed on this page are separated into three categories:
+Сродкі, пералічаныя на гэтай старонцы, падзяляюцца на тры катэгорыі:
 
 * **Active** - These tool providers have been approved and configured by an administrator. They can be used from within any course on this site. If a consumer key and shared secret are entered, a trust relationship is established between this site and the remote tool, providing a secure communication channel.
 * **Pending** - These tool providers came in through a package import, but have not been configured by an administrator. Teachers may still use tools from these providers if they have a consumer key and shared secret, or if none is required.
