@@ -40,7 +40,7 @@ $string['accepted'] = 'Прыняты';
 $string['action'] = 'Дзеяньне';
 $string['activate'] = 'Актываваць';
 $string['activatetoadddescription'] = 'Вы мусіце актываваць гэты сродак, каб мець магчымасьць дадаць апісаньне.';
-$string['active'] = 'Актыўны';
+$string['active'] = 'Актыўныя';
 $string['activity'] = 'Актыўнасьць';
 $string['add_ltiadv'] = 'Дадаць прасунуты LTI';
 $string['add_ltilegacy'] = 'Дадаць спадкаемны LTI';
@@ -281,43 +281,44 @@ $string['main_admin_help'] = 'Вонкавыя сродкі дазваляюць
 
 Сродкі, пералічаныя на гэтай старонцы, падзяляюцца на тры катэгорыі:
 
-* **Active** - These tool providers have been approved and configured by an administrator. They can be used from within any course on this site. If a consumer key and shared secret are entered, a trust relationship is established between this site and the remote tool, providing a secure communication channel.
-* **Pending** - These tool providers came in through a package import, but have not been configured by an administrator. Teachers may still use tools from these providers if they have a consumer key and shared secret, or if none is required.
-* **Rejected** - These tools providers are flagged as ones which an administrator has no intention of making available on the site. Teachers may still use tools from these providers if they have a consumer key and shared secret, or if none is required.';
-$string['manage_external_tools'] = 'Manage tools';
+* **Актыўныя** - Гэныя дастаўнікі сродку былі ўхвалены і сканфігураваны адміністратарам. Іх льга выкарыстоўваць ува ўсіх курсах гэтага сайту. Калі карыстальніцкі ключ і агульны сакрэт уведзены, то між сайтам і вонкавым сродкам усталёўваюцца даверныя адносіны, якія ствараюць бясьпечны канал сувязі.
+* **Чакаючыя** - Гэныя дастаўнікі сродку атрыманы ад імпарту пакета, але не былі ўхвалены адміністратарам. Настаўнікі усё ж могуць выкарыстоўваць сродкі гэтых дастаўнікаў, калі карыстальніцкі ключ і агульны сакрэт не патрабуюцца, альбо настаўнік мае іх.
+* **Адхіленыя** - Гэныя дастаўнікі сродку пазначаны як забароненыя адміністратарам на сайце.
+Настаўнікі усё ж могуць выкарыстоўваць сродкі гэтых дастаўнікаў, калі карыстальніцкі ключ і агульны сакрэт не патрабуюцца, альбо настаўнік мае іх.';
+$string['manage_external_tools'] = 'Кіраваць сродкамі';
 $string['manage_tool_proxies'] = 'Кіраваньне рэгістрацыямі вонкавага сродку';
-$string['manage_tools'] = 'Manage preconfigured tools';
-$string['manuallyaddtype'] = 'Alternatively, you can <a href="{$a}">configure a tool manually</a>.';
-$string['miscellaneous'] = 'Miscellaneous';
-$string['misconfiguredtools'] = 'Misconfigured tool instances were detected';
-$string['missingparameterserror'] = 'The page is misconfigured: "{$a}"';
-$string['module_class_type'] = 'Moodle module type';
-$string['modulename'] = 'External tool';
-$string['modulename_help'] = 'The external tool activity module enables students to interact with learning resources and activities on other web sites. For example, an external tool could provide access to a new activity type or learning materials from a publisher.
+$string['manage_tools'] = 'Кіраваць загадзя сканфігураванымі сродкамі';
+$string['manuallyaddtype'] = 'Альтэрнатыўна, вы можаце <a href="{$a}">сканфігураваць сродак уручную</a>.';
+$string['miscellaneous'] = 'Рознае';
+$string['misconfiguredtools'] = 'Выяўлены хібна сканфігураваныя экзэмпляры сродкаў';
+$string['missingparameterserror'] = 'Старонка хібна сканфігуравана: "{$a}"';
+$string['module_class_type'] = 'Тып модуля Moodle';
+$string['modulename'] = 'Вонкавы сродак';
+$string['modulename_help'] = 'Модуль-актыўнасьць Вонкавы сродак дазваляе студэнтам узаемадзейнічаць з навучальнымі рэсурсамі і актыўнасьцямі, што знаходзяцца на іншых сайтах. Напрыклад, вонкавы сродак можа забясьпечыць доступ да новага тыпа актыўнасьці ці навучальных матэрыялаў ад выдаўца.
 
-To create an external tool activity, a tool provider which supports LTI (Learning Tools Interoperability) is required. A teacher can create an external tool activity or make use of a tool configured by the site administrator.
+Дзеля стварэньня актыўнасьці вонкавага сродку, дастаўнік сродку мусіць падтрымліваць LTI (Learning Tools Interoperability). Настаўнік можа стварыць актыўнасьць вонкавы сродак ці скарыстацца сканфігураваным сродкам. Канфігуруе адміністратар сайта.
 
-External tool activities differ from URL resources in a few ways:
+Актыўнасьці вонкавыя сродкі адрозьніваюцца ад вэб-спасылак наступным чынам:
 
-* External tools are context aware i.e. they have access to information about the user who launched the tool, such as institution, course and name
-* External tools support reading, updating, and deleting grades associated with the activity instance
-* External tool configurations create a trust relationship between your site and the tool provider, allowing secure communication between them';
+* Вонкавыя сродкі ўлічваюць кантэкст, то бок маюць доступ да інфармацыі карыстальніка, што запусьціў сродак, напрыклад, ведаюць адукацыйную ўстанову, курс і імя карыстальніка
+* Вонкавыя сродкі могуць чытаць, абнаўляць і выдаляць адзнакі, асацыяваныя з экзэмплярам актыўнасьці
+* Канфігурацыі вонкавых сродкаў ствараюць даверныя адносіны між вашым сайтам і дастаўнікам сродку. Гэта стварае бясьпечную сувязь паміж імі';
 $string['modulename_link'] = 'mod/lti/view';
 $string['modulename_shortcut_link'] = 'mod/lti/view/custom';
-$string['modulenameplural'] = 'External tools';
-$string['modulenamepluralformatted'] = 'LTI Instances';
-$string['name'] = 'Name';
-$string['never'] = 'Never';
+$string['modulenameplural'] = 'Вонкавыя сродкі';
+$string['modulenamepluralformatted'] = 'Экзэмпляры LTI';
+$string['name'] = 'Назва';
+$string['never'] = 'Ніколі';
 $string['new_window'] = 'Новае акно';
-$string['no_lti_configured'] = 'There are no active external tools configured.';
-$string['no_lti_pending'] = 'There are no pending external tools.';
-$string['no_lti_rejected'] = 'There are no rejected external tools.';
+$string['no_lti_configured'] = 'Сканфігураваныя актыўныя вонкавыя сродкі адсутнічаюць.';
+$string['no_lti_pending'] = 'Чакаючыя вонкавыя сродкі адсутнічаюць.';
+$string['no_lti_rejected'] = 'Адхіленыя вонкавыя сродкі адсутнічаюць.';
 $string['no_lti_tools'] = 'There are no external tools configured.';
 $string['no_tp_accepted'] = 'There are no accepted external tool registrations.';
 $string['no_tp_cancelled'] = 'There are no cancelled external tool registrations.';
 $string['no_tp_configured'] = 'There are no unregistered external tool registrations configured.';
-$string['no_tp_pending'] = 'There are no pending external tool registrations.';
-$string['no_tp_rejected'] = 'There are no rejected external tool registrations.';
+$string['no_tp_pending'] = 'There are no Чакаючыя external tool registrations.';
+$string['no_tp_rejected'] = 'There are no Адхіленыя external tool registrations.';
 $string['noattempts'] = 'No attempts have been made on this tool instance';
 $string['noltis'] = 'There are no external tool instances';
 $string['noprofileservice'] = 'Profile service not found';
@@ -364,7 +365,7 @@ along with the consumer key from the tool provider.
 
 Tools which do not require secure communication from Moodle and do not provide additional services (such as grade reporting)
 may not require a shared secret.';
-$string['pending'] = 'Pending';
+$string['pending'] = 'Чакаючыя';
 $string['pluginadministration'] = 'External tool administration';
 $string['pluginname'] = 'Вонкавы сродак';
 $string['preferheight'] = 'Preferred height';
@@ -416,7 +417,7 @@ $string['registrationname_help'] = 'Enter the name of the tool provider being re
 $string['registrationurl'] = 'Registration URL';
 $string['registrationurl_help'] = 'The registration URL should be available from the tool provider as the location to which registration requests should be sent.';
 $string['reject'] = 'Reject';
-$string['rejected'] = 'Rejected';
+$string['rejected'] = 'Адхіленыя';
 $string['resource'] = 'Resource';
 $string['resourcekey'] = 'Consumer key';
 $string['resourcekey_admin'] = 'Consumer key';
@@ -528,11 +529,11 @@ $string['toolproxy_help'] = 'External tool registrations allow Moodle site admin
 Tool registrations listed on this page are separated into four categories:
 
 * **Configured** - These tool registrations have been set up but the registration process has not yet been started.
-* **Pending** - The registration process for these tool registrations has been started but has not completed. Open and save the settings to move it
+* **Чакаючыя** - The registration process for these tool registrations has been started but has not completed. Open and save the settings to move it
 back to the \'Configured\' category.
 * **Accepted** - These tool registrations have been approved; the resources specified in the tool proxy will appear on the preconfigured tools page
-with an initial status of \'Pending\'.
-* **Rejected** - These tool registrations are ones which were rejected during the registration process. Open and save the settings to move it
+with an initial status of \'Чакаючыя\'.
+* **Адхіленыя** - These tool registrations are ones which were Адхіленыя during the registration process. Open and save the settings to move it
 back to the \'Configured\' category so the registration process can be restarted.';
 $string['toolproxyregistration'] = 'External tool registration';
 $string['toolregistration'] = 'External tool registration';
