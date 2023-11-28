@@ -330,13 +330,13 @@ $string['opensslconfiginvalid'] = 'LTI 1.3 патрабуе валідны opens
 $string['optionalsettings'] = 'Дадатковыя налады';
 $string['organization'] = 'Дэталі пра арганізацыю';
 $string['organizationdescr'] = 'Апісаньне арганізацыі';
-$string['organizationid'] = 'ID установы';
-$string['organizationid_default'] = 'Стандартны ID установы';
-$string['organizationid_default_help'] = 'Стандартнае значэньне ID установы. ID сайта ідэнтыфікуе гэную ўсталёўку Moodle.';
+$string['organizationid'] = 'ID арганізацыі';
+$string['organizationid_default'] = 'Стандартны ID арганізацыі';
+$string['organizationid_default_help'] = 'Стандартнае значэньне ID арганізацыі. ID сайта ідэнтыфікуе гэную ўсталёўку Moodle.';
 $string['organizationid_help'] = 'Унікальны ідэнтыфікатар для гэтага экзэмпляру Moodle. Звычайна выкарыстоўваецца DNS назва арганізацыі.
 
 Калі пакінуць гэтае поле пустым дзеля гэтага сайту Moodle будзе выкарыстоўвацца стандартнае значэньне назвы хаста.';
-$string['organizationidguid'] = 'ID установы';
+$string['organizationidguid'] = 'ID арганізацыі';
 $string['organizationidguid_help'] = 'Унікальны ідэнтыфікатар для гэтага экзэмпляру Moodle перададзены сродку ў якасьці Platform Instance GUID.
 
 Калі пакінуць гэтае поле пустым, будзе выкарыстоўвацца стандартнае значэньне.';
