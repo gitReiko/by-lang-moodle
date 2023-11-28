@@ -313,58 +313,54 @@ $string['new_window'] = 'Новае акно';
 $string['no_lti_configured'] = 'Сканфігураваныя актыўныя вонкавыя сродкі адсутнічаюць.';
 $string['no_lti_pending'] = 'Чакаючыя вонкавыя сродкі адсутнічаюць.';
 $string['no_lti_rejected'] = 'Адхіленыя вонкавыя сродкі адсутнічаюць.';
-$string['no_lti_tools'] = 'There are no external tools configured.';
-$string['no_tp_accepted'] = 'There are no accepted external tool registrations.';
-$string['no_tp_cancelled'] = 'There are no cancelled external tool registrations.';
-$string['no_tp_configured'] = 'There are no unregistered external tool registrations configured.';
-$string['no_tp_pending'] = 'There are no Чакаючыя external tool registrations.';
-$string['no_tp_rejected'] = 'There are no Адхіленыя external tool registrations.';
-$string['noattempts'] = 'No attempts have been made on this tool instance';
-$string['noltis'] = 'There are no external tool instances';
-$string['noprofileservice'] = 'Profile service not found';
-$string['noservers'] = 'No servers found';
-$string['notypes'] = 'There are currently no LTI tools set up in Moodle. Click the Install link above to add some.';
-$string['noviewusers'] = 'No users were found with permissions to use this tool';
+$string['no_lti_tools'] = 'Сканфігураваныя вонкавыя сродкі адсутнічаюць.';
+$string['no_tp_accepted'] = 'Прынятыя рэгістрацыі вонкавых сродкаў адсутнічаюць.';
+$string['no_tp_cancelled'] = 'Скасаваныя рэгістрацыі вонкавых сродкаў адсутнічаюць.';
+$string['no_tp_configured'] = 'Сканфігураваныя рэгістрацыі вонкавых сродкаў адсутнічаюць.';
+$string['no_tp_pending'] = 'Чакаючыя рэгістрацыі вонкавых сродкаў адсутнічаюць.';
+$string['no_tp_rejected'] = 'Адхіленыя рэгістрацыі вонкавых сродкаў адсутнічаюць.';
+$string['noattempts'] = 'Зробленыя спробы выкананьня адсутнічаюць у гэтым экзэмпляры сродку';
+$string['noltis'] = 'Экзэмпляры вонкавых сродкаў адсутнічаюць';
+$string['noprofileservice'] = 'Сэрвіс профілю ня знойдзены';
+$string['noservers'] = 'Сэрверы ня знойдзены';
+$string['notypes'] = 'На гэты момант не існуе ўсталяваных у Moodle LTI-сродкаў. Націсьніце па спасылцы Усталяваць, каб дадаць іх.';
+$string['noviewusers'] = 'Карыстальнікі з дазволам выкарыстаньня гэтага сродку ня знойдзены';
 $string['oauthsecurity'] = 'LTI 1.0/1.1';
-$string['opensslconfiginvalid'] = 'LTI 1.3 requires a valid openssl.cnf to be configured and available to your web server. Please contact the site administrator to configure and enable openssl for this site.';
-$string['optionalsettings'] = 'Optional settings';
-$string['organization'] = 'Organisation details';
-$string['organizationdescr'] = 'Organisation description';
-$string['organizationid'] = 'Organisation ID';
-$string['organizationid_default'] = 'Default organisation ID';
-$string['organizationid_default_help'] = 'The default value to use for Organisation ID. Site ID identifies this installation of Moodle.';
-$string['organizationid_help'] = 'A unique identifier for this Moodle instance. Typically, the DNS name of the organisation is used.
+$string['opensslconfiginvalid'] = 'LTI 1.3 патрабуе валідны openssl.cnf сканфігураваны і даступны для вашага вэб-сэрвера. Калі ласка, зьвярніцеся да адміністратара сэрвера дзеля канфігураваньня і ўключэньня openssl для гэтага сайта.';
+$string['optionalsettings'] = 'Дадатковыя налады';
+$string['organization'] = 'Дэталі пра арганізацыю';
+$string['organizationdescr'] = 'Апісаньне арганізацыі';
+$string['organizationid'] = 'ID установы';
+$string['organizationid_default'] = 'Стандартны ID установы';
+$string['organizationid_default_help'] = 'Стандартнае значэньне ID установы. ID сайта ідэнтыфікуе гэную ўсталёўку Moodle.';
+$string['organizationid_help'] = 'Унікальны ідэнтыфікатар для гэтага экзэмпляру Moodle. Звычайна выкарыстоўваецца DNS назва арганізацыі.
 
-If this field is left blank, the host name of this Moodle site will be used as the default value.';
-$string['organizationidguid'] = 'Organisation ID';
-$string['organizationidguid_help'] = 'A unique identifier for this Moodle instance passed to the tool as the Platform Instance GUID.
+Калі пакінуць гэтае поле пустым дзеля гэтага сайту Moodle будзе выкарыстоўвацца стандартнае значэньне назвы хаста.';
+$string['organizationidguid'] = 'ID установы';
+$string['organizationidguid_help'] = 'Унікальны ідэнтыфікатар для гэтага экзэмпляру Moodle перададзены сродку ў якасьці Platform Instance GUID.
 
-If this field is left blank, the default value will be used.';
-$string['organizationurl'] = 'Organisation URL';
-$string['organizationurl_help'] = 'The base URL of this Moodle instance.
+Калі пакінуць гэтае поле пустым, будзе выкарыстоўвацца стандартнае значэньне.';
+$string['organizationurl'] = 'Спасылка арганізацыі';
+$string['organizationurl_help'] = 'Базавая спасылка гэтага экзэмпляру Moodle.';
+$string['pagesize'] = 'Паказваць адпраўленьняў на старонцы';
+$string['parameter'] = 'Параметры сродку';
+$string['parameter_help'] = 'Параметры сродку - гэта налады запатрабаваныя дзеля перадачы дастаўнікам сродку ў проксі прынятага сродку.';
+$string['password'] = 'Агульны сакрэт';
+$string['password_admin'] = 'Агульны сакрэт';
+$string['password_admin_help'] = 'Агульны сакрэт льга прапаноўваць у якасьці пароль, неабходнага дзеля аўтэнтыфікацыі доступа да сродку.
+Яго трэба прапаноўваць разам з карыстальніцкім ключом ад дастаўніка сродку.
 
-If this field is left blank, a default value will be used based on the site configuration.';
-$string['pagesize'] = 'Submissions shown per page';
-$string['parameter'] = 'Tool parameters';
-$string['parameter_help'] = 'Tool parameters are settings requested to be passed by the tool provider in the accepted tool proxy.';
-$string['password'] = 'Shared secret';
-$string['password_admin'] = 'Shared secret';
-$string['password_admin_help'] = 'The shared secret can be thought of as a password used to authenticate access to the tool. It should be provided
-along with the consumer key from the tool provider.
-
-Tools which do not require secure communication from Moodle and do not provide additional services (such as grade reporting)
-may not require a shared secret.';
+Сродкі, якія не патрабуюць бясьпечнай сувязі з Moodle і не прапаноўваюць дадатковых сэрвісаў (напрыклад, перадачы адзнак), могуць працаваць без агульнага сакрэта.';
 $string['password_help'] = 'For pre-configured tools, it is not necessary to enter a shared secret here, as the shared secret will be
 provided as part of the configuration process.
 
 This field should be entered if creating a link to a tool provider which is not already configured.
 If the tool provider is to be used more than once in this course, adding a course tool configuration is a good idea.
 
-The shared secret can be thought of as a password used to authenticate access to the tool. It should be provided
-along with the consumer key from the tool provider.
+Агульны сакрэт льга прапаноўваць у якасьці пароль, неабходнага дзеля аўтэнтыфікацыі доступа да сродку.
+Яго трэба прапаноўваць разам з карыстальніцкім ключом ад дастаўніка сродку.
 
-Tools which do not require secure communication from Moodle and do not provide additional services (such as grade reporting)
-may not require a shared secret.';
+Сродкі, якія не патрабуюць бясьпечнай сувязі з Moodle і не прапаноўваюць дадатковых сэрвісаў (напрыклад, перадачы адзнак), могуць працаваць без агульнага сакрэта.';
 $string['pending'] = 'Чакаючыя';
 $string['pluginadministration'] = 'External tool administration';
 $string['pluginname'] = 'Вонкавы сродак';
