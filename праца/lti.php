@@ -361,87 +361,82 @@ $string['password_help'] = 'Дзеля загадзя сканфігураван
 
 Сродкі, якія не патрабуюць бясьпечнай сувязі з Moodle і не прапаноўваюць дадатковых сэрвісаў (напрыклад, перадачы адзнак), могуць працаваць без агульнага сакрэта.';
 $string['pending'] = 'Чакаючыя';
-$string['pluginadministration'] = 'External tool administration';
+$string['pluginadministration'] = 'Адміністраваньне вонкавага сродку';
 $string['pluginname'] = 'Вонкавы сродак';
-$string['preferheight'] = 'Preferred height';
-$string['preferwidget'] = 'Prefer widget launch';
-$string['preferwidth'] = 'Preferred width';
-$string['press_to_submit'] = 'Press to launch this activity';
-$string['privacy'] = 'Privacy';
-$string['privacy:metadata:coursefullname'] = 'The fullname of the course the user is accessing the LTI Consumer from';
-$string['privacy:metadata:courseid'] = 'The ID of the course the user is accessing the LTI Consumer from';
-$string['privacy:metadata:courseidnumber'] = 'The ID number of the course the user is accessing the LTI Consumer from';
-$string['privacy:metadata:courseshortname'] = 'The shortname of the course the user is accessing the LTI Consumer from';
-$string['privacy:metadata:createdby'] = 'The user who created the record';
-$string['privacy:metadata:email'] = 'The email address of the user accessing the LTI Consumer';
-$string['privacy:metadata:externalpurpose'] = 'The LTI Consumer provides user information and context to the LTI Tool Provider.';
-$string['privacy:metadata:firstname'] = 'The firstname of the user accessing the LTI Consumer';
-$string['privacy:metadata:fullname'] = 'The fullname of the user accessing the LTI Consumer';
-$string['privacy:metadata:lastname'] = 'The lastname of the user accessing the LTI Consumer';
-$string['privacy:metadata:lti_submission'] = 'LTI submission';
-$string['privacy:metadata:lti_submission:datesubmitted'] = 'The timestamp indicating when the submission was made';
-$string['privacy:metadata:lti_submission:dateupdated'] = 'The timestamp indicating when the submission was modified';
-$string['privacy:metadata:lti_submission:gradepercent'] = 'The grade for the user as a percentage';
-$string['privacy:metadata:lti_submission:originalgrade'] = 'The original grade for the user';
-$string['privacy:metadata:lti_submission:userid'] = 'The ID of the user who submitted for the LTI activity';
-$string['privacy:metadata:lti_tool_proxies'] = 'LTI proxies';
-$string['privacy:metadata:lti_tool_proxies:name'] = 'LTI proxy name';
-$string['privacy:metadata:lti_types'] = 'LTI types';
-$string['privacy:metadata:lti_types:name'] = 'LTI type name';
-$string['privacy:metadata:role'] = 'The role in the course for the user accessing the LTI Consumer';
-$string['privacy:metadata:timecreated'] = 'The time when the record was created';
-$string['privacy:metadata:timemodified'] = 'The time when the record was modified';
-$string['privacy:metadata:userid'] = 'The ID of the user accessing the LTI Consumer';
-$string['privacy:metadata:useridnumber'] = 'The ID number of the user accessing the LTI Consumer';
-$string['privacy:metadata:username'] = 'The username of the user accessing the LTI Consumer';
-$string['publickey'] = 'Public key';
-$string['publickey_help'] = 'The public key (in PEM format) provided by the tool to allow signatures of incoming messages and service requests to be verified.';
-$string['publickeyset'] = 'Public keyset';
-$string['publickeyset_help'] = 'Public keyset from where this site will retrieve the tool\'s public key to allow signatures of incoming messages and service requests to be verified.';
-$string['quickgrade'] = 'Allow quick grading';
-$string['quickgrade_help'] = 'If enabled, multiple tools can be graded on one page. Add grades and comments then click the "Save all my feedback" button to save all changes for that page.';
-$string['redirect'] = 'You will be redirected in few seconds. If you are not, press the button.';
-$string['redirectionuris'] = 'Redirection URI(s)';
-$string['redirectionuris_help'] = 'A list of URIs (one per line) which the tool uses when making authorisation requests.  At least one must be registered before a message can be successfully sent to the tool.';
-$string['register'] = 'Register';
-$string['register_warning'] = 'The registration page seems to be taking a while to open. If it does not appear, check that you entered the correct URL in the configuration settings. If Moodle is using https, ensure the tool you are configuring supports https and you are using https in the URL.';
-$string['registertype'] = 'Configure a new external tool registration';
-$string['registration_options'] = 'Registration options';
-$string['registrationname'] = 'Tool provider name';
-$string['registrationname_help'] = 'Enter the name of the tool provider being registered.';
-$string['registrationurl'] = 'Registration URL';
-$string['registrationurl_help'] = 'The registration URL should be available from the tool provider as the location to which registration requests should be sent.';
-$string['reject'] = 'Reject';
+$string['preferheight'] = 'Пераважная вышыня';
+$string['preferwidget'] = 'Пераважны запуск віджэта';
+$string['preferwidth'] = 'Пераважная шырыня';
+$string['press_to_submit'] = 'Націсьніце, каб запусьціць гэтую актыўнасьць';
+$string['privacy'] = 'Прыватнасьць';
+$string['privacy:metadata:coursefullname'] = 'Поўная назва курса, з якога карыстальнік атрымаў доступ да LTI-Спажывальніка';
+$string['privacy:metadata:courseid'] = 'ID курса, з якога карыстальнік атрымаў доступ да LTI-Спажывальніка';
+$string['privacy:metadata:courseidnumber'] = 'ID нумар курса, з якога карыстальнік атрымаў доступ да LTI-Спажывальніка';
+$string['privacy:metadata:courseshortname'] = 'Кароткая назва курса, з якога карыстальнік атрымаў доступ да LTI-Спажывальніка';
+$string['privacy:metadata:createdby'] = 'Карыстальнік, што стварыў запіс';
+$string['privacy:metadata:email'] = 'Імэйл карыстальніка, што атрымлівае доступ да LTI-Спажывальніка';
+$string['privacy:metadata:externalpurpose'] = 'LTI-Спажывальнік, які забясьпечвае інфармацыю карыстальніка і кантэкст да Дастаўніка LTI-Сродку.';
+$string['privacy:metadata:firstname'] = 'Імя карыстальніка, што атрымлівае доступ да LTI-Спажывальніка';
+$string['privacy:metadata:fullname'] = 'Поўнае імя карыстальніка, што атрымлівае доступ да LTI-Спажывальніка';
+$string['privacy:metadata:lastname'] = 'Прозьвішча карыстальніка, што атрымлівае доступ да LTI-Спажывальніка';
+$string['privacy:metadata:lti_submission'] = 'LTI-адпраўленьні';
+$string['privacy:metadata:lti_submission:datesubmitted'] = 'Часовая метка (timestamp) адпраўленьня';
+$string['privacy:metadata:lti_submission:dateupdated'] = 'Часовая метка (timestamp) зьмены адпраўленьня';
+$string['privacy:metadata:lti_submission:gradepercent'] = 'Адзнака карыстальніка ўва адсотках';
+$string['privacy:metadata:lti_submission:originalgrade'] = 'Пачатковая адзнака карыстальніка';
+$string['privacy:metadata:lti_submission:userid'] = 'ID карыстальніка, што адправіў LTI-актыўнасьць';
+$string['privacy:metadata:lti_tool_proxies'] = 'LTI-проксі';
+$string['privacy:metadata:lti_tool_proxies:name'] = 'Назва LTI-проксі';
+$string['privacy:metadata:lti_types'] = 'Тыпы LTI';
+$string['privacy:metadata:lti_types:name'] = 'Назва тыпа LTI';
+$string['privacy:metadata:role'] = 'Роля карыстальніка ў курсе, які атрымлівае доступ да LTI-Спажывальніка';
+$string['privacy:metadata:timecreated'] = 'Час стварэньня запісу';
+$string['privacy:metadata:timemodified'] = 'Час зьмены запісу';
+$string['privacy:metadata:userid'] = 'ID карыстальніка, што атрымлівае доступ да LTI-Спажывальніка';
+$string['privacy:metadata:useridnumber'] = 'ID нумар карыстальніка, што атрымлівае доступ да LTI-Спажывальніка';
+$string['privacy:metadata:username'] = 'Логін карыстальніка, што атрымлівае доступ да LTI-Спажывальніка';
+$string['publickey'] = 'Публічны ключ';
+$string['publickey_help'] = 'Публічны ключ (у фармаце PEM), які прапануе сродак дзеля праверкі подпісаў уваходных паведамленьняў і запытаў сэрвісу.';
+$string['publickeyset'] = 'Публічны набор ключоў';
+$string['publickeyset_help'] = 'Публічны набор ключоў, з якога гэты сайт будзе атрымліваць публічны ключ сродку дзеля праверкі подпісаў уваходных паведамленьняў і запытаў сэрвісу.';
+$string['quickgrade'] = 'Уключыць хуткае ацэньваньне';
+$string['quickgrade_help'] = 'Калі ўключана, на адной старонцы льга ацэньваць адразу некалькі сродкаў. Спачатку дадайце адзнакі і каметары, потым націсьніце кнопку "Захаваць усе мае водгукі" дзеля захаваньня ўсіх зьменаў на гэтай старонцы.';
+$string['redirect'] = 'Вы будзеце перанакіраваны праз некалькі сякундаў. Калі гэтага ня здарылася, націсьніце кнопку.';
+$string['redirectionuris'] = 'Спасылкі перанакіраваньня';
+$string['redirectionuris_help'] = 'Сьпіс спасылак (адна на радок), якія сродак будзе выкарыстоўваць дзеля запытаў аўтарызацыі. Прынамсі адна спасылка мусіць быць зарэгістраванай дзеля пасьпяховага адпраўленьня паведамленьня сродку.';
+$string['register'] = 'Рэгістрацыя';
+$string['register_warning'] = 'Здаецца, старонка рэгістрацыі не адкрываецца адразу. Калі яна навогул не адкрываецца, спраўдзіце слушнасьць спасылкі ў наладах канфігураваньня. Калі Moodle выкарыстоўвае https, пераканайцеся, што сродак, які вы сканфігуравалі, падтрымлівае https і вы выкарыстоўваеце https у спасылцы.';
+$string['registertype'] = 'Канфігураваньне новай рэгістрацыі вонкавага сродку';
+$string['registration_options'] = 'Опцыі рэгістрацыі';
+$string['registrationname'] = 'Назва дастаўніка сродку';
+$string['registrationname_help'] = 'Увядзіце назву дастаўніка сродку, што рэгіструецца.';
+$string['registrationurl'] = 'Спасылка рэгістрацыі';
+$string['registrationurl_help'] = 'Спасылка рэгістрацыі мусіць быць даступнай у дастаўніка сродка ў якасьці пляцоўкі, куды варта накіроўваць запыты на рэгістрацыю.';
+$string['reject'] = 'Адхіліць';
 $string['rejected'] = 'Адхіленыя';
-$string['resource'] = 'Resource';
-$string['resourcekey'] = 'Consumer key';
-$string['resourcekey_admin'] = 'Consumer key';
-$string['resourcekey_admin_help'] = 'The consumer key can be thought of as a username used to authenticate access to the tool.
-It can be used by the tool provider to uniquely identify the Moodle site from which users launch into the tool.
+$string['resource'] = 'Рэсурс';
+$string['resourcekey'] = 'Карыстальніцкі ключ';
+$string['resourcekey_admin'] = 'Карыстальніцкі ключ';
+$string['resourcekey_admin_help'] = 'Карыстальніцкі ключ льга лічыць логінам, што выкарыстоўваецца дзеля аўтэнтыфікацыі доступа да сродку.
+Яго можа выкарыстоўваць дастаўнік сродку дзеля ўнікальнай ідэнтыфікацыі сайта Moodle, з якога карыстальнік запусьціў сродак.
 
-The consumer key must be provided by the tool provider. The method of obtaining a consumer key varies between
-tool providers. It may be an automated process, or it may require a dialogue with the tool provider.
+Карыстальніцкі ключ мусіць падаць дастаўнік сродку. Метад атрыманьня карыстальніцкага ключа адрозьніваецца ў розных дастаўнікаў сродку. Працэс можа быць аўтаматызаваным, альбо патрабуючым узаемадзеяньня з дастаўнікам сродку.
 
-Tools which do not require secure communication from Moodle and do not provide additional services (such as grade reporting)
-may not require a resource key.';
-$string['resourcekey_help'] = 'For pre-configured tools, it is not necessary to enter a resource key here, as the consumer key will be
-provided as part of the configuration process.
+Сродкі, што не патрабуюць бясьпечнай сувязі з Moodle і не забясьпечваюць дадатковыя сэрвісы (напрыклад, ацэньваньне) могуць не патрабаваць рэсурснага ключа.';
+$string['resourcekey_help'] = 'Дзеля загадзя сканфігураваных сродкаў не трэба ўводзіць агульны сакрэт у гэтае поле, бо агульны сакрэт будзе брацца з канфігурацыі.
 
-This field should be entered if creating a link to a tool provider which is not already configured.
-If the tool provider is to be used more than once in this course, adding a course tool configuration is a good idea.
+Агульны сакрэт льга прапаноўваць у якасьці пароль, неабходнага дзеля аўтэнтыфікацыі доступа да сродку.
+Яго трэба прапаноўваць разам з карыстальніцкім ключом ад дастаўніка сродку.
 
-The consumer key can be thought of as a username used to authenticate access to the tool.
-It can be used by the tool provider to uniquely identify the Moodle site from which users launch into the tool.
+Карыстальніцкі ключ льга лічыць логінам, што выкарыстоўваецца дзеля аўтэнтыфікацыі доступа да сродку.
+Яго можа выкарыстоўваць дастаўнік сродку дзеля ўнікальнай ідэнтыфікацыі сайта Moodle, з якога карыстальнік запусьціў сродак.
 
-The consumer key must be provided by the tool provider. The method of obtaining a consumer key varies between
-tool providers. It may be an automated process, or it may require a dialogue with the tool provider.
+Карыстальніцкі ключ мусіць падаць дастаўнік сродку. Метад атрыманьня карыстальніцкага ключа адрозьніваецца ў розных дастаўнікаў сродку. Працэс можа быць аўтаматызаваным, альбо патрабуючым узаемадзеяньня з дастаўнікам сродку.
 
-Tools which do not require secure communication from Moodle and do not provide additional services (such as grade reporting)
-may not require a resource key.';
-$string['resourceurl'] = 'Resource URL';
-$string['return_to_course'] = 'Click <a href="{$a->link}" target="_top">here</a> to return to the course.';
-$string['saveallfeedback'] = 'Save all my feedback';
-$string['search:activity'] = 'External tool - activity information';
+Сродкі, што не патрабуюць бясьпечнай сувязі з Moodle і не забясьпечваюць дадатковыя сэрвісы (напрыклад, ацэньваньне) могуць не патрабаваць рэсурснага ключа.';
+$string['resourceurl'] = 'Спасылка рэсурса';
+$string['return_to_course'] = 'Націсьніце, <a href="{$a->link}" target="_top">here</a> каб вярнуцца ў курс.';
+$string['saveallfeedback'] = 'Захаваць усе мае водгукі';
+$string['search:activity'] = 'Вонкавы сродак - інфармацыя актыўнасьці';
 $string['secure_icon_url'] = 'Secure icon URL';
 $string['secure_icon_url_help'] = 'Similar to the icon URL, but used when the site is accessed securely through SSL. This field is to prevent the browser from displaying a warning about an insecure image.';
 $string['secure_launch_url'] = 'Secure tool URL';
