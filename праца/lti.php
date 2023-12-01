@@ -205,8 +205,8 @@ $string['forced_help'] = 'Гэтая налада мае прымусовае з
 $string['generaltool'] = 'Агульны сродак';
 $string['global_tool_types'] = 'Загадзя сканфігураваныя сродкі';
 $string['grading'] = 'Маршрутаваньне адзнакі';
-$string['icon_url'] = 'Спасылка на выяву';
-$string['icon_url_help'] = 'Спасылка на выяву дазваляе зьмяніць выяву, што адлюстроўваецца ў сьпісе курса для гэтай актыўнасьці. 
+$string['icon_url'] = 'Выява спасылкі';
+$string['icon_url_help'] = 'Выява спасылкі дазваляе зьмяніць выяву, што адлюстроўваецца ў сьпісе курса для гэтай актыўнасьці. 
 Заміж стандартнай выявы льга вызначыць выяву, якая лепей адлюстроўвае гэтую актыўнасьць.';
 $string['id'] = 'ID';
 $string['indicator:cognitivedepth'] = 'Пазнаваньне LTI';
@@ -437,27 +437,28 @@ $string['resourceurl'] = 'Спасылка рэсурса';
 $string['return_to_course'] = 'Націсьніце, <a href="{$a->link}" target="_top">here</a> каб вярнуцца ў курс.';
 $string['saveallfeedback'] = 'Захаваць усе мае водгукі';
 $string['search:activity'] = 'Вонкавы сродак - інфармацыя актыўнасьці';
-$string['secure_icon_url'] = 'Secure icon URL';
-$string['secure_icon_url_help'] = 'Similar to the icon URL, but used when the site is accessed securely through SSL. This field is to prevent the browser from displaying a warning about an insecure image.';
-$string['secure_launch_url'] = 'Secure tool URL';
-$string['secure_launch_url_help'] = 'Similar to the tool URL, but used instead of the tool URL if high security is required. Moodle will use the secure tool URL instead of the tool URL if the Moodle site is accessed through SSL, or if the tool configuration is set to always launch through SSL.
+$string['secure_icon_url'] = 'Выява спасылкі бясьпекі';
+$string['secure_icon_url_help'] = 'Падобна выяве спасылкі, але выкарыстоўваецца падчас бясьпечнага атрыманьня доступа да сайта праз SSl. Гэтае поле прадухіляе адлюстраваньне браўзарам папярэджваньня пра небясьпечную выяву.';
+$string['secure_launch_url'] = 'Спасылка бясьпечнага сродку';
+$string['secure_launch_url_help'] = 'Падобна спасылке сродку, але выкарыстоўваецца заміж, калі патрабуецца высокая бясьпека. Moodle будзе выкарыстоўваць бясьпечную спасылку сродку заміж простай спасылкі сродку, калі сайт Moodle даступны праз SSL, альбо калі ў канфігурацыі сродку ўсталяваны сталы запуск праз SSL.
 
-The tool URL may also be set to an https address to force launching through SSL, and this field may be left blank.';
+Таксама ў спасылку сродку льга ўвесьці https-адрас дзеля прымусовага запуска праз SSL, а гэтае поле льга пакінуць пустым.';
 $string['selectcontent'] = 'Абраць зьмесьціва';
-$string['send'] = 'Send';
-$string['services'] = 'Services';
-$string['services_help'] = 'Select those services which you wish to offer to the tool provider.  More than one service can be selected.';
-$string['setupoptions'] = 'Set-up options';
-$string['share_email'] = 'Share launcher\'s email with the tool';
-$string['share_email_admin'] = 'Share launcher\'s email with tool';
-$string['share_email_admin_help'] = 'Specify whether the e-mail address of the user launching the tool will be shared with the tool provider.
-The tool provider may need launcher\'s e-mail addresses to distinguish users with the same name in the UI, or send e-mails
-to users based on actions within the tool.';
-$string['share_email_help'] = 'Specify whether the e-mail address of the user launching the tool will be shared with the tool provider.
+$string['send'] = 'Адправіць';
+$string['services'] = 'Сэрвісы';
+$string['services_help'] = 'Абярыце тыя сэрвісы, якія жадаеце прапанаваць дастаўніку сродку. Льга абраць адразу некалькі сэрвісаў.';
+$string['setupoptions'] = 'Опцыі наладкі';
+$string['share_email'] = 'Падзяліцца імэйлам запусьніка со сродкам';
+$string['share_email_admin'] = 'Падзяліцца імэйлам запусьніка со сродкам';
+$string['share_email_admin_help'] = 'Вызначце, ці трэба дзяліцца імэйлам карыстальніка, што запісьціў сродак, з дастаўнікам сродку.
 
-The tool provider may need launcher\'s email addresses to distinguish users with the same name, or send emails to users based on actions within the tool.
+Дастаўніку сродку могуць спатрэбіцца імэйлы карыстальнікаў, што запусьцілі сродак, дзеля адрозьненьня карыстальнікаў
+з аднолькавымі імёнамі ў карыстальніцкім інтэрфэйсе або адпраўленьня імэйлаў карыстальнікам, што ажыцявілі дзеяньні ў сродке.';
+$string['share_email_help'] = 'Вызначце, ці трэба дзяліцца імэйлам карыстальніка, што запісьціў сродак, з дастаўнікам сродку.
 
-Note that this setting may be overridden in the tool configuration.';
+Дастаўніку сродку могуць спатрэбіцца імэйлы карыстальнікаў, што запусьцілі сродак, дзеля адрозьненьня карыстальнікаў з аднолькавымі імёнамі ў карыстальніцкім інтэрфэйсе або адпраўленьня імэйлаў карыстальнікам, што ажыцявілі дзеяньні ў сродке.
+
+Зьвярніце ўвагу, што гэтая налада можа быць перавызначана ўва канфігурацыі сродку.';
 $string['share_name'] = 'Share launcher\'s name with the tool';
 $string['share_name_admin'] = 'Share launcher\'s name with tool';
 $string['share_name_admin_help'] = 'Specify whether the full name of the user launching the tool should be shared with the tool provider.
@@ -466,13 +467,13 @@ $string['share_name_help'] = 'Specify whether the full name of the user launchin
 
 The tool provider may need launchers\' names to show meaningful information within the tool.
 
-Note that this setting may be overridden in the tool configuration.';
+Зьвярніце ўвагу, што гэтая налада можа быць перавызначана ўва канфігурацыі сродку.';
 $string['share_roster'] = 'Allow the tool to access this course\'s roster';
 $string['share_roster_admin'] = 'Tool may access course roster';
 $string['share_roster_admin_help'] = 'Specify whether the tool can access the list of users enrolled in courses from which this tool is launched.';
 $string['share_roster_help'] = 'Specify whether the tool can access the list of users enrolled in this course.
 
-Note that this setting may be overridden in the tool configuration.';
+Зьвярніце ўвагу, што гэтая налада можа быць перавызначана ўва канфігурацыі сродку.';
 $string['show_in_course_activity_chooser'] = 'Show in activity chooser and as a preconfigured tool';
 $string['show_in_course_lti1'] = 'Tool configuration usage';
 $string['show_in_course_lti1_help'] = 'This tool may be shown in the activity chooser for a teacher to select to add to a course. Alternatively, it may be shown in the preconfigured tool drop-down menu when adding an external tool to a course. A further option is for the tool configuration to only be used if the exact tool URL is entered when adding an external tool to a course.';
@@ -533,7 +534,7 @@ $string['tooltypedeleted'] = 'Preconfigured tool deleted';
 $string['tooltypenotdeleted'] = 'Could not delete preconfigured tool';
 $string['tooltypes'] = 'Tools';
 $string['tooltypeupdated'] = 'Preconfigured tool updated';
-$string['toolurl'] = 'Tool URL';
+$string['toolurl'] = 'Спасылка сродку';
 $string['toolurl_contentitemselectionrequest'] = 'Content Selection URL';
 $string['toolurl_contentitemselectionrequest_help'] = 'The Content Selection URL will be used to launch the content selection page from the tool provider. If it is empty, the Tool URL will be used';
 $string['toolurl_help'] = 'The tool URL is used to match tool URLs to the correct tool configuration. Prefixing the URL with http(s) is optional.
