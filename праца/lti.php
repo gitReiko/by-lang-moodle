@@ -459,59 +459,59 @@ $string['share_email_help'] = 'Вызначце, ці трэба дзяліцц�
 Дастаўніку сродку могуць спатрэбіцца імэйлы карыстальнікаў, што запусьцілі сродак, дзеля адрозьненьня карыстальнікаў з аднолькавымі імёнамі ў карыстальніцкім інтэрфэйсе або адпраўленьня імэйлаў карыстальнікам, што ажыцявілі дзеяньні ў сродке.
 
 Зьвярніце ўвагу, што гэтая налада можа быць перавызначана ўва канфігурацыі сродку.';
-$string['share_name'] = 'Share launcher\'s name with the tool';
-$string['share_name_admin'] = 'Share launcher\'s name with tool';
-$string['share_name_admin_help'] = 'Specify whether the full name of the user launching the tool should be shared with the tool provider.
-The tool provider may need launchers\' names to show meaningful information within the tool.';
-$string['share_name_help'] = 'Specify whether the full name of the user launching the tool should be shared with the tool provider.
+$string['share_name'] = 'Дзяліцца імём запускальніка са сродкам';
+$string['share_name_admin'] = 'Дзяліцца імём запускальніка са сродкам';
+$string['share_name_admin_help'] = 'Вызначце, ці варта дзяліцца поўным імём карыстальніка, што запусьціў сродак, з дастаўнікам сродку.
+Дастаўніку сродку можа спатрэбіцца імя запускальніка дзеля адлюстраваньня важнай інфармацыі ў сродке.';
+$string['share_name_help'] = 'Вызначце, ці варта дзяліцца поўным імём карыстальніка, што запусьціў сродак, з дастаўнікам сродку.
 
-The tool provider may need launchers\' names to show meaningful information within the tool.
-
-Зьвярніце ўвагу, што гэтая налада можа быць перавызначана ўва канфігурацыі сродку.';
-$string['share_roster'] = 'Allow the tool to access this course\'s roster';
-$string['share_roster_admin'] = 'Tool may access course roster';
-$string['share_roster_admin_help'] = 'Specify whether the tool can access the list of users enrolled in courses from which this tool is launched.';
-$string['share_roster_help'] = 'Specify whether the tool can access the list of users enrolled in this course.
+Дастаўніку сродку можа спатрэбіцца імя запускальніка дзеля адлюстраваньня важнай інфармацыі ў сродке.
 
 Зьвярніце ўвагу, што гэтая налада можа быць перавызначана ўва канфігурацыі сродку.';
-$string['show_in_course_activity_chooser'] = 'Show in activity chooser and as a preconfigured tool';
-$string['show_in_course_lti1'] = 'Tool configuration usage';
-$string['show_in_course_lti1_help'] = 'This tool may be shown in the activity chooser for a teacher to select to add to a course. Alternatively, it may be shown in the preconfigured tool drop-down menu when adding an external tool to a course. A further option is for the tool configuration to only be used if the exact tool URL is entered when adding an external tool to a course.';
-$string['show_in_course_lti2'] = 'Tool configuration usage';
-$string['show_in_course_lti2_help'] = 'This tool can be shown in the activity chooser for a teacher to select to add to a course or in the preconfigured tool drop-down menu when adding an external tool to a course.';
-$string['show_in_course_no'] = 'Do not show; use only when a matching tool URL is entered';
-$string['show_in_course_preconfigured'] = 'Show as preconfigured tool when adding an external tool';
-$string['sitehost'] = 'Site hostname';
-$string['siteid'] = 'Site ID';
-$string['size'] = 'Size parameters';
-$string['submission'] = 'Submission';
-$string['submissions'] = 'Submissions';
-$string['submissionsfor'] = 'Submissions for {$a}';
-$string['subplugintype_ltiresource'] = 'LTI service resource';
-$string['subplugintype_ltiresource_plural'] = 'LTI service resources';
-$string['subplugintype_ltiservice'] = 'LTI service';
-$string['subplugintype_ltiservice_plural'] = 'LTI services';
-$string['subplugintype_ltisource'] = 'LTI source';
-$string['subplugintype_ltisource_plural'] = 'LTI sources';
-$string['successfullycreatedtooltype'] = 'Successfully created new tool!';
-$string['successfullyfetchedtoolconfigurationfromcontent'] = 'Successfully fetched tool configuration from the selected content.';
-$string['toggle_debug_data'] = 'Toggle debug data';
-$string['tool_config_not_found'] = 'Tool configuration not found for this URL.';
-$string['tool_settings'] = 'Tool settings';
-$string['tooldescription'] = 'Tool description';
-$string['tooldescription_help'] = 'The description of the tool that will be displayed to teachers in the activity list.
+$string['share_roster'] = 'Дазволіць сродку доступ да ўдзельнікаў курса';
+$string['share_roster_admin'] = 'Сродак можа атрымаць доступ да ўдзельнікаў курса';
+$string['share_roster_admin_help'] = 'Вызначце, ці можа сродак атрымаць доступ да сьпіса карыстальнікаў, залічанных у курсы, зь якіх запускаецца гэты сродак.';
+$string['share_roster_help'] = 'Вызначце, ці можа сродак атрымаць доступ да сьпіса карыстальнікаў, залічанных у гэты курс.
 
-This should describe what the tool is for and what it does and any additional information the teacher may need to know.';
-$string['tooldetailsaccesstokenurl'] = 'Access token URL';
-$string['tooldetailsauthrequesturl'] = 'Authentication request URL';
-$string['tooldetailsclientid'] = 'Client ID';
-$string['tooldetailsdeploymentid'] = 'Deployment ID';
-$string['tooldetailsmailtosubject'] = 'LTI tool configuration';
-$string['tooldetailsmodalemail'] = 'Email';
-$string['tooldetailsmodallink'] = 'View configuration details';
-$string['tooldetailsmodaltitle'] = 'Tool configuration details';
-$string['tooldetailsplatformid'] = 'Platform ID';
-$string['tooldetailspublickeyseturl'] = 'Public keyset URL';
+Зьвярніце ўвагу, што гэтая налада можа быць перавызначана ўва канфігурацыі сродку.';
+$string['show_in_course_activity_chooser'] = 'Паказваць у выбарніке актыўнасьці ў якасьці загадзя сканфігураванага сродку';
+$string['show_in_course_lti1'] = 'Выкарыстаньне канфігурацыі сродку';
+$string['show_in_course_lti1_help'] = 'Гэты сродак можа быць адлюстраваны ў выбарніке актыўнасьцяў, каб настаўнік мог яго абраць дзеля даданьня ў курс. Альтэрнатыўна, яго льга паказваць у выпадным меню загадзя сканфігураваных сродкаў падчас даданьня вонкавага сродку ў курс. Яшчэ адна опцыя - выкарыстаньне канфігурацыі сродку толькі падчас даданьня вонкавага сродку ў курс і дакладнага ўводу спасылкі сродку.';
+$string['show_in_course_lti2'] = 'Выкарыстаньне канфігурацыі сродку';
+$string['show_in_course_lti2_help'] = 'Гэты сродак льга паказаць у выбарніке актыўнасьцяў, каб настаўнік мог яго абраць дзеля даданьня ў курс, альбо яго льга паказаць у выпадным меню загадзя сканфігураваных сродкаў падчас даданьня вонкавага сродку ў курс.';
+$string['show_in_course_no'] = 'Не паказваць, выкарыстоўваць толькі пры дакладным супадзеньні спасылкі сродку';
+$string['show_in_course_preconfigured'] = 'Паказваць у якасьці загадзя сканфігураванаго сродку падчас даданьня вонкавага сродку';
+$string['sitehost'] = 'Назва хаста сайта';
+$string['siteid'] = 'ID сайта';
+$string['size'] = 'Параметры памеру';
+$string['submission'] = 'Адпраўленьне';
+$string['submissions'] = 'Адпраўленьні';
+$string['submissionsfor'] = 'Адпраўленьні для {$a}';
+$string['subplugintype_ltiresource'] = 'Рэсурс LTI-сэрвісу';
+$string['subplugintype_ltiresource_plural'] = 'Рэсурсы LTI-сэрвісу';
+$string['subplugintype_ltiservice'] = 'LTI-сэрвіс';
+$string['subplugintype_ltiservice_plural'] = 'LTI-сэрвісы';
+$string['subplugintype_ltisource'] = 'LTI-крыніца';
+$string['subplugintype_ltisource_plural'] = 'LTI-крыніцы';
+$string['successfullycreatedtooltype'] = 'Новы сродак пасьпяхова створаны!';
+$string['successfullyfetchedtoolconfigurationfromcontent'] = 'Пасьпяховае атрыманьне канфігурацыі сродку з абранага зьмесьціва.';
+$string['toggle_debug_data'] = 'Уключыць/адключыць адладку дадзеных';
+$string['tool_config_not_found'] = 'Для гэтай спасылкі ня знойдзена канфігурацыя сродку.';
+$string['tool_settings'] = 'Налады сродку';
+$string['tooldescription'] = 'Апісаньне сродку';
+$string['tooldescription_help'] = 'Апісаньне сродку, што будзе паказана настаўнікам у сьпісе актыўнасьцяў.
+
+Яно мусіць апісваць прызначэньне сродку, яго працу, а таксама ўсякую іншую інфармацыю, патрэбную настаўніку.';
+$string['tooldetailsaccesstokenurl'] = 'Спасылка на токен доступу';
+$string['tooldetailsauthrequesturl'] = 'Спасылка на запыт аўтэнтыфікацыі';
+$string['tooldetailsclientid'] = 'ID кліента';
+$string['tooldetailsdeploymentid'] = 'ID разгорткі (deployment)';
+$string['tooldetailsmailtosubject'] = 'Канфігурацыя LTI-сродку';
+$string['tooldetailsmodalemail'] = 'Імэйл';
+$string['tooldetailsmodallink'] = 'Праглядзець дэталі канфігурацыі';
+$string['tooldetailsmodaltitle'] = 'Дэталі канфігурацыі сродку';
+$string['tooldetailsplatformid'] = 'ID платформы';
+$string['tooldetailspublickeyseturl'] = 'Спасылка на публічны набор ключоў';
 $string['toolisbeingused'] = 'This tool is being used {$a} times';
 $string['toolisnotbeingused'] = 'This tool has not yet been used';
 $string['toolproxy'] = 'External tool registrations';

@@ -88,6 +88,7 @@ jump = скок (занятак)
 label = пазнака (Track)
 Label = Цэтлік (мод)
 Latest announcements = Апошнія аб\'явы
+launcher = запускальнік
 layout = макет
 lesson = занятак
 locked = заблакавана
