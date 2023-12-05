@@ -36,7 +36,7 @@ $string['accept_grades_help'] = 'Вызначце, ці можа дастаўн�
 Частка дастаўнікаў падтрымлівае перадачу адзнак назад у Moodle на грунце дзеяньняў, выкананых у сродке, такім чынам ствараючы больш інтэграваны досьвед.
 
 Памятайце, што гэтыя налады льга перавызначыць ў канфігурацыі сродку.';
-$string['accepted'] = 'Прыняты';
+$string['accepted'] = 'Прынятыя';
 $string['action'] = 'Дзеяньне';
 $string['activate'] = 'Актываваць';
 $string['activatetoadddescription'] = 'Вы мусіце актываваць гэты сродак, каб мець магчымасьць дадаць апісаньне.';
@@ -84,7 +84,7 @@ $string['configpreferwidth'] = 'Стандартная пераважная шы
 $string['configresourceurl'] = 'Стандартная спасылка рэсурсу';
 $string['configtoolurl'] = 'Стандартная спасылка вонкавага сродку';
 $string['configtypes'] = 'Уключыць LTI дадаткі';
-$string['configured'] = 'Сканфігуравана';
+$string['configured'] = 'Сканфігураваныя';
 $string['confirmtoolactivation'] = 'Вы ўпэўненыя, што жадаеце актываваць гэты сродак?';
 $string['contentitem'] = 'Паведамленьне Прадмета-Зьмесьціва';
 $string['contentitem_deeplinking'] = 'Падтрымлівае Глыбокае Спасыланьне (Паведамленьне Прадмета-Зьмесьціва)';
@@ -512,34 +512,34 @@ $string['tooldetailsmodallink'] = 'Праглядзець дэталі канф�
 $string['tooldetailsmodaltitle'] = 'Дэталі канфігурацыі сродку';
 $string['tooldetailsplatformid'] = 'ID платформы';
 $string['tooldetailspublickeyseturl'] = 'Спасылка на публічны набор ключоў';
-$string['toolisbeingused'] = 'This tool is being used {$a} times';
-$string['toolisnotbeingused'] = 'This tool has not yet been used';
-$string['toolproxy'] = 'External tool registrations';
-$string['toolproxy_help'] = 'External tool registrations allow Moodle site administrators to configure external tools from a tool proxy obtained from a tool provider supporting LTI 2.0. A registration URL provided by the tool provider is all that is required to initiate the process. The capabilities and services offered to the tool provider are selected when configuring a new registration.
+$string['toolisbeingused'] = 'Гэты сродак быў выкарыстаны {$a} разоў';
+$string['toolisnotbeingused'] = 'Гэты сродак пакуль не выкарыстоўваўся';
+$string['toolproxy'] = 'Рэгістрацыі вонкавых сродкаў';
+$string['toolproxy_help'] = 'Рэгістрацыі вонкавых сродкаў дазваляюць адміністратарам сайту Moodle наладжваць вонкавыя сродкі з проксі-сродкаў, атрыманых ад дастаўнікаў сродку, што падтрымліваюць LTI 2.0. Дзеля пачатку працэсу досыць увесьці рэгістрацыйную спасылку, прапанаваную дастаўнікам сродку. Здольнасьці і сэрвісы, прапанаваныя дастаўнікам сродку, абіраюцца падчас наладкі новай канфігурацыі.
 
-Tool registrations listed on this page are separated into four categories:
+Рэгістрацыі сродку, пералічаныя на гэтай старонцы, падзелены на чатыры катэгорыі:
 
-* **Configured** - These tool registrations have been set up but the registration process has not yet been started.
-* **Чакаючыя** - The registration process for these tool registrations has been started but has not completed. Open and save the settings to move it
-back to the \'Configured\' category.
-* **Accepted** - These tool registrations have been approved; the resources specified in the tool proxy will appear on the preconfigured tools page
-with an initial status of \'Чакаючыя\'.
-* **Адхіленыя** - These tool registrations are ones which were Адхіленыя during the registration process. Open and save the settings to move it
-back to the \'Configured\' category so the registration process can be restarted.';
-$string['toolproxyregistration'] = 'External tool registration';
-$string['toolregistration'] = 'External tool registration';
-$string['toolsetup'] = 'External tool configuration';
-$string['tooltypeadded'] = 'Preconfigured tool added';
-$string['tooltypedeleted'] = 'Preconfigured tool deleted';
-$string['tooltypenotdeleted'] = 'Could not delete preconfigured tool';
-$string['tooltypes'] = 'Tools';
-$string['tooltypeupdated'] = 'Preconfigured tool updated';
+* **Сканфігураваныя** - Гэтыя рэгістрацыі сродку гатовыя, але працэс рэгістрацыі пакуль не пачаўся.
+* **Чакаючыя** - Працэс рэгістрацыі гэтых рэгістрацыяў сродку пачаўся, але ня быў завершаны. Адкрыйце і захавайце налады,
+каб перасунуць іх назад у катэгорыю \'Сканфігураваныя\'.
+* **Прынятыя** - Гэтыя рэгістрацыі сродкаў былі ўхваленыя; рэсурсы, вызначаныя ў проксі-сродку, з\'явяцца на старонцы
+загадзя сканфігураваных сродкаў з пачатковым статусам \'Чакаючыя\'.
+* **Адхіленыя** - Гэтыя рэгістрацыі сродкаў былі адхілены ў працэсе рэгістрацыі. Адкрыйце і захавайце налады, каб перасунуць іх назад у
+катэгорыю \'Сканфігураваныя\', такім чынам льга пачаць наноў працэс рэгістрацыі.';
+$string['toolproxyregistration'] = 'Рэгістрацыя вонкавых сродкаў';
+$string['toolregistration'] = 'Рэгістрацыя вонкавых сродкаў';
+$string['toolsetup'] = 'Канфігурацыя вонкавых сродкаў';
+$string['tooltypeadded'] = 'Загадзя сканфігураваны сродак даданы';
+$string['tooltypedeleted'] = 'Загадзя сканфігураваны сродак выдалены';
+$string['tooltypenotdeleted'] = 'Нельга выдаліць загадзя сканфігураваны сродак';
+$string['tooltypes'] = 'Сродкі';
+$string['tooltypeupdated'] = 'Загадзя сканфігураваны сродак абноўлены';
 $string['toolurl'] = 'Спасылка сродку';
-$string['toolurl_contentitemselectionrequest'] = 'Content Selection URL';
-$string['toolurl_contentitemselectionrequest_help'] = 'The Content Selection URL will be used to launch the content selection page from the tool provider. If it is empty, the Tool URL will be used';
-$string['toolurl_help'] = 'The tool URL is used to match tool URLs to the correct tool configuration. Prefixing the URL with http(s) is optional.
+$string['toolurl_contentitemselectionrequest'] = 'Спасылка Абраньня Зьмесьціва';
+$string['toolurl_contentitemselectionrequest_help'] = 'Спасылка Абраньня Зьмесьціва будзе выкарыстоўвацца дзеля запуску старонцы абраньня зьмесьціва ад дастаўніка сродку. Калі спасылка адсутнічае, будзе выкарыстоўвацца Спасылка сродку';
+$string['toolurl_help'] = 'Спасылка сродку выкарыстоўваецца дзеля супастаўленьня спасылак сродку са слушнай канфігурацыяй сродку. Прэфікс спасылкі http(s) неабавязковы.
 
-Additionally, the base URL is used as the tool URL if a tool URL is not specified in the external tool instance.
+Дадаткова, базавая спасылка выкарыстоўваецца ў якасьці спасылкі сродку, калі спасылка сродку ня вызначана ўва экзэмпляры вонкавага сродку.
 
 For example, a base URL of *tool.com* would match the following:
 
