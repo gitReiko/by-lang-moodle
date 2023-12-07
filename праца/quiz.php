@@ -25,19 +25,19 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['accessnoticesheader'] = 'You can preview this quiz, but if this were a real attempt, you would be blocked because:';
-$string['action'] = 'Action';
-$string['activityoverview'] = 'You have quizzes that are due';
-$string['adaptive'] = 'Adaptive mode';
-$string['adaptive_help'] = 'If enabled, multiple responses to a question are allowed within the same attempt at the quiz. So for example if a response is marked as incorrect, the student will be allowed to try again immediately. However, depending on the "Apply penalties" setting, a penalty will usually be subtracted for each wrong attempt.';
-$string['add'] = 'Add';
-$string['addaquestion'] = 'a new question';
-$string['addarandomquestion'] = 'a random question';
-$string['addarandomquestion_help'] = 'When a random question is added, it results in a randomly-chosen question from the category being inserted into the quiz. This means that different students are likely to get a different selection of questions, and when a quiz allows multiple attempts then each attempt is likely to contain a new selection of questions.';
-$string['addarandomselectedquestion'] = 'Add a random selected question ...';
-$string['addasection'] = 'a new section heading';
-$string['adddescriptionlabel'] = 'Add a description item';
-$string['addingquestion'] = 'Adding a question';
+$string['accessnoticesheader'] = 'Вы можаце папярэдне праглядзець гэты тэст, але пры рэальнай спробе, вы былі б заблакаваны за:';
+$string['action'] = 'Дзеяньне';
+$string['activityoverview'] = 'Вы маеце тэсты, якія трэба выканаць да';
+$string['adaptive'] = 'Адаптыўны рэжым';
+$string['adaptive_help'] = 'Калі гэтая функцыя ўключана, дапускаецца некалькі водгукаў на пытаньне ў межах адной спробы выкананьня тэсту. Таму, напрыклад, калі водгук адзначаны як хібны, студэнту будзе дазволена неадкладна паспрабаваць наноў. Але згодна з наладай "Ужыць штрафы", за кожную хібную спробу звычайна будзе вылічвацца штраф.';
+$string['add'] = 'Дадаць';
+$string['addaquestion'] = 'новае пытаньне';
+$string['addarandomquestion'] = 'выпадковае пытаньне';
+$string['addarandomquestion_help'] = 'Падчас выкарыстаньня выпадковага пытаньня ў тэст будзе ўстаўляцца выпадкова абранае пытаньне з пэўнай катэгорыі. То бок розныя студэнты, хутчэй за ўсё, атрымаюць розныя выбаркі пытаньняў, а калі тэст дазваляе некалькі спробаў, то кожная спроба, хутчэй за ўсё, будзе складацца з новай выбаркі пытаньняў.';
+$string['addarandomselectedquestion'] = 'Дадаць выпадкова абранае пытаньне ...';
+$string['addasection'] = 'загаловак новага падзелу';
+$string['adddescriptionlabel'] = 'Дадаць прадмет апісаньня';
+$string['addingquestion'] = 'Даданьне пытаньня';
 $string['addingquestions'] = '<p>This side of the page is where you manage your database of questions. Questions are stored in categories to help you keep them organised, and can be used by any quiz in your course or even other courses if you choose to \'publish\' them.</p>
 <p>After you select or create a question category you will be able to create or edit questions. You can select any of these questions to add to your quiz over on the other side of this page.</p>';
 $string['addmoreoverallfeedbacks'] = 'Add {no} more feedback fields';
@@ -684,7 +684,7 @@ $string['parentcategory'] = 'Parent category';
 $string['parsingquestions'] = 'Parsing questions from import file.';
 $string['partiallycorrect'] = 'Partially correct';
 $string['penalty'] = 'Penalty';
-$string['penaltyscheme'] = 'Apply penalties';
+$string['penaltyscheme'] = 'Ужыць штрафы';
 $string['penaltyscheme_help'] = 'If enabled, a penalty is subtracted from the final mark for a question for a wrong response. The amount of penalty is specified in the question settings. This setting only applies if adaptive mode is enabled.';
 $string['percentcorrect'] = 'Percent correct';
 $string['pleaseclose'] = 'Your request has been processed. You can now close this window';
