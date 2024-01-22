@@ -153,6 +153,7 @@ share = апублічыць
 sharing = супольнага выкарыстаньня (question)
 Short answer = кароткі адказ (пытаньне)
 shortcuts = хуткія выявы
+Slot = слот
 Starred = Упадабанае
 Submissions = прадстаўленьне
 submit = адправіць

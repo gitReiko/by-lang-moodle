@@ -305,101 +305,101 @@ $string['editingquiz_help'] = 'Падчас стварэньня новага т
 * Выпадковыя пытаньні. Студэнт атрымлівае розныя пытаньні штораз, калі намагаецца выканаць спробу тэста. Розныя студэнты могуць атрымаць розныя пытаньні';
 $string['editingquiz_link'] = 'mod/quiz/edit';
 $string['editingquizx'] = 'Рэдагоўны тэст: {$a}';
-$string['editmaxmark'] = 'Edit maximum mark';
-$string['editoverride'] = 'Edit override';
-$string['editqcats'] = 'Edit questions categories';
-$string['editquestion'] = 'Edit question';
-$string['editquestions'] = 'Edit questions';
+$string['editmaxmark'] = 'Рэдагаваць максімальную адзнаку';
+$string['editoverride'] = 'Рэдагаваць перавызначэньне';
+$string['editqcats'] = 'Рэдагаваць катэгорыі пытаньняў';
+$string['editquestion'] = 'Рэдагаваць пытаньне';
+$string['editquestions'] = 'Рэдагаваць пытаньні';
 $string['editquiz'] = 'Рэдагаваць тэст';
-$string['editquizquestions'] = 'Edit quiz questions';
-$string['emailconfirmautosubmitsmall'] = 'Thank you for submitting your answers to \'{$a->quizname}\'';
-$string['emailconfirmbody'] = 'Hi {$a->username},
+$string['editquizquestions'] = 'Рэдагаваць пытаньні тэсту';
+$string['emailconfirmautosubmitsmall'] = 'Дзякуй за вашыя адпраўленыя адказы на \'{$a->quizname}\'';
+$string['emailconfirmbody'] = 'Вітаем {$a->username},
 
-Thank you for submitting your answers to \'{$a->quizname}\' in course \'{$a->coursename}\' at {$a->submissiontime}.
+Дзякуй за вашыя адпраўленыя адказы на \'{$a->quizname}\' з курса \'{$a->coursename}\' ({$a->submissiontime}).
 
-This message confirms that your answers have been saved.
+Гэтае паведамленьне праўдзіць, што вашыя адказы былі захаваныя.
 
-You can access this quiz at {$a->quizurl}.';
-$string['emailconfirmbodyautosubmit'] = 'Hi {$a->username},
+Вы можаце атрымаць доступ у тэст па спасылцы {$a->quizurl}.';
+$string['emailconfirmbodyautosubmit'] = 'Вітаем {$a->username},
 
-The time for the quiz \'{$a->quizname}\' in the course \'{$a->coursename}\' expired. Your answers were submitted automatically at {$a->submissiontime}.
+Час на выкананьне тэсту \'{$a->quizname}\' у курсе \'{$a->coursename}\' скончыўся. Вашыя адказы былі аўтаматычна адпраўлены ({$a->submissiontime}).
 
-This message confirms that your answers have been saved.
+Гэтае паведамленьне праўдзіць, што вашыя адказы былі захаваныя.
 
-You can access this quiz at {$a->quizurl}.';
-$string['emailconfirmsmall'] = 'Thank you for submitting your answers to \'{$a->quizname}\'';
-$string['emailconfirmsubject'] = 'Submission confirmation: {$a->quizname}';
-$string['emailmanualgradedbody'] = 'Hi {$a->studentname},
+Вы можаце атрымаць доступ у тэст па спасылцы {$a->quizurl}.';
+$string['emailconfirmsmall'] = 'Дзякуй за вашыя адпраўленыя адказы на \'{$a->quizname}\'';
+$string['emailconfirmsubject'] = 'Пацьверджаньне адпраўленьня: {$a->quizname}';
+$string['emailmanualgradedbody'] = 'Вітаем {$a->studentname},
 
-Your answers to \'{$a->quizname}\' in course \'{$a->coursename}\' at {$a->attempttimefinish} have now been graded.
+Вашыя адказы на \'{$a->quizname}\' у курсе \'{$a->coursename}\' былі ацэнены ({$a->attempttimefinish}).
 
-You will be able to view your score and feedback by visiting \'{$a->quizurl}\' and reviewing your attempt.';
-$string['emailmanualgradedsubject'] = 'Your attempt at {$a->quizname} has been graded';
-$string['emailnotifybody'] = 'Hi {$a->username},
+Вы можаце праглядзець адзнаку, водгук і сваю спробу па спасылцы \'{$a->quizurl}\'.';
+$string['emailmanualgradedsubject'] = 'Вашая спроба выкананьня {$a->quizname} была ацэнена';
+$string['emailnotifybody'] = 'Вітаем {$a->username},
 
-{$a->studentname} has completed \'{$a->quizname}\' ({$a->quizurl}) in course \'{$a->coursename}\'.
+{$a->studentname} выканаў(ла) \'{$a->quizname}\' ({$a->quizurl}) у курсе \'{$a->coursename}\'.
 
-You can review this attempt at {$a->quizreviewurl}.';
-$string['emailnotifysmall'] = '{$a->studentname} has completed {$a->quizname}. See {$a->quizreviewurl}';
-$string['emailnotifysubject'] = '{$a->studentname} has completed {$a->quizname}';
-$string['emailoverduebody'] = 'Hi {$a->studentname},
+Вы можаце аглядзець гэтую спробу па спасылцы {$a->quizreviewurl}.';
+$string['emailnotifysmall'] = '{$a->studentname} выканаў(ла) {$a->quizname}. Доступ па спасылцы {$a->quizreviewurl}';
+$string['emailnotifysubject'] = '{$a->studentname} выканаў(ла) {$a->quizname}';
+$string['emailoverduebody'] = 'Вітаем {$a->studentname},
 
-You started an attempt at \'{$a->quizname}\' in course \'{$a->coursename}\', but you never submitted it. It should have been submitted by {$a->attemptduedate}.
+Вы пачалі спробу выкананьня \'{$a->quizname}\' у курсе \'{$a->coursename}\', але не адправілі яе. Спробу трэба адправіць да {$a->attemptduedate}.
 
-If you would still like to submit this attempt, please go to {$a->attemptsummaryurl} and click the submit button. You must do this before {$a->attemptgraceend} otherwise your attempt will not be counted.';
-$string['emailoverduesmall'] = 'You did not submit your attempt at {$a->quizname}. Please go to {$a->attemptsummaryurl} before {$a->attemptgraceend} if you would still like to submit.';
-$string['emailoverduesubject'] = 'Attempt now overdue: {$a->quizname}';
-$string['empty'] = 'Empty';
-$string['enabled'] = 'Enabled';
-$string['endtest'] = 'Finish attempt ...';
-$string['erroraccessingreport'] = 'You cannot access this report';
-$string['errorinquestion'] = 'Error in question';
-$string['errormissingquestion'] = 'Error: The system is missing the question with id {$a}';
-$string['errornotnumbers'] = 'Error - answers must be numeric';
-$string['errorunexpectedevent'] = 'Unexpected event code {$a->event} found for question {$a->questionid} in attempt {$a->attemptid}.';
-$string['essay'] = 'Essay';
-$string['essayquestions'] = 'Questions';
-$string['eventattemptautosaved'] = 'Quiz attempt auto-saved';
-$string['eventattemptdeleted'] = 'Quiz attempt deleted';
-$string['eventattemptmanualgradingcomplete'] = 'Quiz attempt manual grading complete';
-$string['eventattemptpreviewstarted'] = 'Quiz attempt preview started';
-$string['eventattemptquestionrestarted'] = 'Quiz attempt question restarted';
-$string['eventattemptreviewed'] = 'Quiz attempt reviewed';
-$string['eventattemptsummaryviewed'] = 'Quiz attempt summary viewed';
-$string['eventattemptupdated'] = 'Quiz attempt updated';
-$string['eventattemptviewed'] = 'Quiz attempt viewed';
-$string['eventeditpageviewed'] = 'Quiz edit page viewed';
-$string['eventoverridecreated'] = 'Quiz override created';
-$string['eventoverridedeleted'] = 'Quiz override deleted';
-$string['eventoverrideupdated'] = 'Quiz override updated';
-$string['eventpagebreakcreated'] = 'Page break created';
-$string['eventpagebreakdeleted'] = 'Page break deleted';
-$string['eventquestionmanuallygraded'] = 'Question manually graded';
-$string['eventquizattemptabandoned'] = 'Quiz attempt abandoned';
-$string['eventquizattemptregraded'] = 'Quiz attempt regraded';
-$string['eventquizattemptstarted'] = 'Quiz attempt started';
-$string['eventquizattemptsubmitted'] = 'Quiz attempt submitted';
-$string['eventquizattempttimelimitexceeded'] = 'Quiz attempt time limit exceeded';
-$string['eventquizgradeupdated'] = 'Quiz grade updated';
-$string['eventquizrepaginated'] = 'Quiz re-paginated';
-$string['eventreportviewed'] = 'Quiz report viewed';
-$string['eventsectionbreakcreated'] = 'Section break created';
-$string['eventsectionbreakdeleted'] = 'Section break deleted';
-$string['eventsectionshuffleupdated'] = 'Section shuffle updated';
-$string['eventsectiontitleupdated'] = 'Section title updated';
-$string['eventslotcreated'] = 'Slot created';
-$string['eventslotdeleted'] = 'Slot deleted';
-$string['eventslotmarkupdated'] = 'Slot mark updated';
-$string['eventslotmoved'] = 'Slot moved';
-$string['eventslotrequirepreviousupdated'] = 'Slot require previous updated';
-$string['everynquestions'] = 'Every {$a} questions';
-$string['everyquestion'] = 'Every question';
-$string['everythingon'] = 'Everything on';
-$string['existingcategory'] = 'Existing category';
-$string['exportcategory'] = 'export category';
-$string['exporterror'] = 'An error occurred during export processing';
-$string['exportingquestions'] = 'Questions are being exported to file';
-$string['exportname'] = 'File name';
+Калі вы дагэтуль жадаеце адправіць гэтую спробу, перайдзіце па спасылцы {$a->attemptsummaryurl} і націсьніце кнопку адправіць. Вы мусіце зрабіць тое да {$a->attemptgraceend}, альбо спроба ня будзе залічана.';
+$string['emailoverduesmall'] = 'Вы не адправілі сваю спробу ў {$a->quizname}. Калі ласка, перайдзіце па спасылцы {$a->attemptsummaryurl} да {$a->attemptgraceend}, калі вы дагэтуль жадаеце яе адправіць.';
+$string['emailoverduesubject'] = 'Спроба ўжо пратэрмінавана: {$a->quizname}';
+$string['empty'] = 'Пуста';
+$string['enabled'] = 'Уключана';
+$string['endtest'] = 'Скончыць спробы ...';
+$string['erroraccessingreport'] = 'Вы ня маеце даступу да гэтай справаздачы';
+$string['errorinquestion'] = 'Памылка ў пытаньні';
+$string['errormissingquestion'] = 'Памылка: У сістэме адсутнічае пытаньне з ідэнтыфікатарам {$a}';
+$string['errornotnumbers'] = 'Памылка - адказы мусяць быць лічбавымі';
+$string['errorunexpectedevent'] = 'Нечаканы код падзеі {$a->event} знойдзены для пытаньня {$a->questionid} у спробе {$a->attemptid}.';
+$string['essay'] = 'Эсэ';
+$string['essayquestions'] = 'Пытаньні';
+$string['eventattemptautosaved'] = 'Спроба выкананьня тэсту аўтаматычна захавана';
+$string['eventattemptdeleted'] = 'Спроба выкананьня тэсту выдалена';
+$string['eventattemptmanualgradingcomplete'] = 'Выканана ручное ацэньваньне спробы выкананьня тэсту';
+$string['eventattemptpreviewstarted'] = 'Пачаты прадагляд спробы выкананьня тэсту';
+$string['eventattemptquestionrestarted'] = 'Пачата наноў спроба выкананьня пытаньня тэсту';
+$string['eventattemptreviewed'] = 'Агляд спробы выкананьня тэсту';
+$string['eventattemptsummaryviewed'] = 'Прагледжаны агляд спробы выкананьня тэсту';
+$string['eventattemptupdated'] = 'Абноўлена спроба выкананьня тэсту';
+$string['eventattemptviewed'] = 'Прагледжана спроба выкананьня тэсту';
+$string['eventeditpageviewed'] = 'Прагледжана старонка рэдагаваньня тэсту';
+$string['eventoverridecreated'] = 'Створана перавызначэньне тэсту';
+$string['eventoverridedeleted'] = 'Выдалена перавызначэньне тэсту';
+$string['eventoverrideupdated'] = 'Абноўлена перавызначэньне тэсту';
+$string['eventpagebreakcreated'] = 'Створаны разрыў старонкі';
+$string['eventpagebreakdeleted'] = 'Выдалены разрыў старонкі';
+$string['eventquestionmanuallygraded'] = 'Пытаньне ўручную ацэнена';
+$string['eventquizattemptabandoned'] = 'Спроба выкананьня тэсту закінута';
+$string['eventquizattemptregraded'] = 'Спроба выкананьня тэсту пераацэнена';
+$string['eventquizattemptstarted'] = 'Спроба выкананьня тэсту пачата';
+$string['eventquizattemptsubmitted'] = 'Спроба выкананьня тэсту адпраўлена';
+$string['eventquizattempttimelimitexceeded'] = 'Пратэрмінаваны ліміт выкананьня спробы тэсту';
+$string['eventquizgradeupdated'] = 'Абноўлена адзнака тэсту';
+$string['eventquizrepaginated'] = 'Зьменены старонкі тэсту';
+$string['eventreportviewed'] = 'Справаздача тэсту прагледжана';
+$string['eventsectionbreakcreated'] = 'Разрыў падзелу створаны';
+$string['eventsectionbreakdeleted'] = 'Разрыў падзелу выдалены';
+$string['eventsectionshuffleupdated'] = 'Перамешваньне падзелу абноўлена';
+$string['eventsectiontitleupdated'] = 'Назва падзелу абноўлена';
+$string['eventslotcreated'] = 'Слот створаны';
+$string['eventslotdeleted'] = 'Слот выдалены';
+$string['eventslotmarkupdated'] = 'Абноўлена адзнака слота';
+$string['eventslotmoved'] = 'Слот перасунуты';
+$string['eventslotrequirepreviousupdated'] = 'Слот патрабуе папярэдняе абнаўленьне';
+$string['everynquestions'] = 'Кожныя {$a} пытаньня(ў)';
+$string['everyquestion'] = 'Кожнае пытаньне';
+$string['everythingon'] = 'Усё ў';
+$string['existingcategory'] = 'Існая катэгорыя';
+$string['exportcategory'] = 'катэгорыя экспарту';
+$string['exporterror'] = 'Узьнікла памылка падчас апрацоўкі экспарту';
+$string['exportingquestions'] = 'Пытаньні экспартуюцца ў файл';
+$string['exportname'] = 'Назва файлу';
 $string['exportquestions'] = 'Export questions to file';
 $string['extraattemptrestrictions'] = 'Extra restrictions on attempts';
 $string['false'] = 'False';
