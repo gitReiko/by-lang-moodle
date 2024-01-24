@@ -414,39 +414,39 @@ $string['fileformat'] = 'Фармат файлу';
 $string['fillcorrect'] = 'Запоўніце слушнае';
 $string['filloutnumericalanswer'] = 'Трэба забясьпечыць прынамсі адзін магчымы адказ і допуск. Першы адпаведны адказ будзе выкарыстаны для вызначэньня адзнакі і водгуку. Калі напрыканцы вы пакінеце водгук без адказу, ён будзе паказаны студэнтам, чый адказ не супаў з ніводным іншым адказам.';
 $string['filloutoneanswer'] = 'Вы мусіце пакінуць прынамсі адзін магчымы адказ. Адказы пакінутыя пыстымі ня будуць выкарыстоўвацца. \'*\' льга выкарыстоўваць у якасьці падстаўнога знака для адпаведнасьці ўсякаму знаку. Першы адпаведны адказ будзе выкарыстаны для вызначэньня адзнакі і водгуку.';
-$string['filloutthreequestions'] = 'You must provide at least three questions with matching answers. You can provide extra wrong answers by giving an answer with a blank question. Entries where both the question and the answer are blank will be ignored.';
-$string['fillouttwochoices'] = 'You must fill out at least two choices.  Choices left blank will not be used.';
-$string['finishattemptdots'] = 'Finish attempt...';
-$string['finishreview'] = 'Finish review';
-$string['forceregeneration'] = 'force regeneration';
-$string['formatnotfound'] = 'Import/export format {$a} not found';
-$string['formulaerror'] = 'Formula errors!';
-$string['fractionsaddwrong'] = 'The positive grades you have chosen do not add up to 100%<br />Instead, they add up to {$a}%<br />Do you want to go back and fix this question?';
-$string['fractionsnomax'] = 'One of the answers should be 100%, so that it is<br />possible to get a full grade for this question.<br />Do you want to go back and fix this question?';
-$string['fromfile'] = 'from file:';
-$string['functiondisabledbysecuremode'] = 'That functionality is currently disabled';
-$string['generalfeedback'] = 'General feedback';
-$string['generalfeedback_help'] = 'General feedback is text which is shown after a question has been attempted. Unlike feedback for a specific question which depends on the response given, the same general feedback is always shown.';
-$string['gobacktoquiz'] = 'Go back';
-$string['graceperiod'] = 'Submission grace period';
-$string['graceperiod_desc'] = 'If what to do when the time expires is set to \'There is a grace period...\', then this is the default amount of extra time that is allowed.';
-$string['graceperiod_help'] = 'If what to do when the time expires is set to \'There is a grace period...\', then this is the amount of extra time that is allowed.';
-$string['graceperiodmin'] = 'Last submission grace period';
-$string['graceperiodmin_desc'] = 'There is a potential problem right at the end of the quiz. On the one hand, we want to let students continue working right up until the last second - with the help of the timer that automatically submits the quiz when time runs out. On the other hand, the server may then be overloaded, and take some time to get to process the responses. Therefore, we will accept responses for up to this long after time expires, so they are not penalised for the server being slow. However, the student could cheat and get this many seconds to answer the quiz. You have to make a trade-off based on how much you trust the performance of your server during quizzes.';
-$string['graceperiodtoosmall'] = 'The grace period must be more than {$a}.';
-$string['grade'] = 'Grade';
-$string['gradeall'] = 'Grade all';
-$string['gradeaverage'] = 'Average grade';
-$string['gradeboundary'] = 'Grade boundary';
-$string['gradeessays'] = 'Grade essays';
-$string['gradehighest'] = 'Highest grade';
-$string['grademethod'] = 'Grading method';
-$string['grademethod_help'] = 'When multiple attempts are allowed, the following methods are available for calculating the final quiz grade:
+$string['filloutthreequestions'] = 'Вы мусіце пакінуць прынамсі тры пытаньня з адпаведнымі адказамі. Вы можаце пакінуць дадатковыя хібныя адказы, падаўшы адказ з пустым пытаньнем. Запісы, у якіх адначасова няма адказу і пытаньня, будуць ігнаравацца.';
+$string['fillouttwochoices'] = 'Вы мусіце запоўніць прынамсі два абраньня. Пустыя выбары ня будуць выкарыстоўвацца.';
+$string['finishattemptdots'] = 'Скончыць спробу...';
+$string['finishreview'] = 'Скончыць агляд';
+$string['forceregeneration'] = 'прымусова зьгенераваць наноў';
+$string['formatnotfound'] = 'Фармат імпарту/экспарту {$a} ня знойдзены';
+$string['formulaerror'] = 'Памылкі ў формуле!';
+$string['fractionsaddwrong'] = 'Абраныя вамі станоўчыя адзнакі не складваюцца ў 100%<br />Заміж гэтага яны складваюцца ў {$a}%<br />Жадаеце вярнуцца і выправіць гэтае пытаньне?';
+$string['fractionsnomax'] = 'Адзін адказ мусіць быць 100%, каб было льга <br />атрымаць поўную адзнаку за гэтае пытаньне.<br />Жадаеце вярнуцца і выправіць гэтае пытаньне?';
+$string['fromfile'] = 'з файлу:';
+$string['functiondisabledbysecuremode'] = 'Зараз гэтая функцыя адключана';
+$string['generalfeedback'] = 'Агульны водгук';
+$string['generalfeedback_help'] = 'Агульны водгук - гэта тэкст, які адлюстроўваецца пасьля спрабаваньня выкананьня пытаньня. У адрозьненьні ад водгука пэўнага пытаньня, залежнага ад пададзенага водкліча, агульны водгук заўжды адлюстроўваецца.';
+$string['gobacktoquiz'] = 'Вярнуцца';
+$string['graceperiod'] = 'Тэрмін адкладаньня адпраўленьня';
+$string['graceperiod_desc'] = 'Калі для налады \'што рабіць пасьля сканчэньня часу\' усталявана значэньне \'Маецца тэрмін адкладаньня...\', тэрмін адкладаньня вызначае стандартную колькасьць дазволенага часу.';
+$string['graceperiod_help'] = 'Калі для налады \'што рабіць пасьля сканчэньня часу\' усталявана значэньне \'Маецца тэрмін адкладаньня...\', тэрмін адкладаньня вызначае стандартную колькасьць дазволенага часу.';
+$string['graceperiodmin'] = 'Тэрмін адкладаньня апошняга адпраўленьня';
+$string['graceperiodmin_desc'] = 'Напрыканцы тэставаньня ўзьнікае патэнцыйная праблема. З аднога боку, вы жадаеце, каб студэнты працягвалі працаваць да апошняй сякунды па таймеры, які аўтаматычна адпраўляе тэсты на праверку па сканчэньні часу. Зь іншага боку, сэрвер можа быць перагружаным, і яму спатрэбіцца нейкі час на апрацоўку водклічаў. Таму трэба прыймаць водклічы да сканчэньня гэтага часу, каб не пакараць студэнтаў за павольную працу сэрвера. Вядома, студэнт можа схітраваць, каб атрымаць некалі дадатковых сякундаў на адказ. Вы мусіце знайсьці кампраміс, сыходзячы з прадукцыйнасьці свайго сэрвера падчас тэставаньня.';
+$string['graceperiodtoosmall'] = 'Тэрмін адкладаньня мусіць быць болей за {$a}.';
+$string['grade'] = 'Адзнака';
+$string['gradeall'] = 'Ацаніць усё';
+$string['gradeaverage'] = 'Сярэдняя адзнака';
+$string['gradeboundary'] = 'Мяжа адзнакі';
+$string['gradeessays'] = 'Ацаніць эсэ';
+$string['gradehighest'] = 'Найвысокая адзнака';
+$string['grademethod'] = 'Метад ацэньваньня';
+$string['grademethod_help'] = 'Калі дазволена некалькі спробаў, трэба абраць адзін з даступных метадаў разьліку выніковай адзнакі:
 
-* Highest grade of all attempts
-* Average (mean) grade of all attempts
-* First attempt (all other attempts are ignored)
-* Last attempt (all other attempts are ignored)';
+* Найвысокая адзнака з усіх спроб
+* Прыблізная сярэдняя адзнака з усіх спроб
+* Першая спроба (усе іншыя спробы ігнаруюцца)
+* Апошняя спроба (усе іншыя спробы ігнаруюцца)';
 $string['gradesdeleted'] = 'Quiz grades deleted';
 $string['gradesofar'] = '{$a->method}: {$a->mygrade} / {$a->quizgrade}.';
 $string['gradetopassmustbeset'] = 'Grade to pass cannot be zero as this quiz has its completion method set to require passing grade. Please set a non-zero value.';

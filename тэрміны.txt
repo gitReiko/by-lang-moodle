@@ -24,6 +24,7 @@ calculation = разьлік
 capability = здольнасьць
 chapter = глава (кнігі)
 Checkbox = Сьцяжок
+choice = выбар
 clipboard = буфер абмену
 cloze question = закрытае пытаньне
 Cognitive depth = глыбіні пазнаваньня
