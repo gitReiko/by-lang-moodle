@@ -232,7 +232,7 @@ $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cog
 $string['indicator:socialbreadth'] = 'Сацыяльнасьць слоўніка';
 $string['indicator:socialbreadth_help'] = 'Гэты паказьнік заснаваны на сацыяльнай шырыні, якую дасягнуў студэнт у актыўнасьці-Слоўніке.';
 $string['indicator:socialbreadthdef'] = 'Сацыяльнасьць слоўніка';
-$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцю-Слоўнікам у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел)';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцю-Слоўнікам у аналізаваны тэрмін (Роўні = Адсутнасьць удзелу, Самотны удзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
 $string['isglobal'] = 'Слоўнік з\'яўляецца глабальным?';
 $string['isglobal_help'] = 'Глабальны слоўнік захоўвае запісы, на якія ствараюцца аўтаспасылкі па ўсім сайце, а ня толькі ў курсе, дзе знаходзіцца слоўнік. Зрабіць слоўнік глабальным здольныя толькі адміністратары.';

@@ -41,7 +41,7 @@ $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cog
 $string['indicator:socialbreadth'] = 'Сацыяльнасьць цэтліка';
 $string['indicator:socialbreadth_help'] = 'Гэты паказьнік заснаваны на сацыяльнай шырыні, якую дасягнуў студэнт у рэсурсе-Цэтліке.';
 $string['indicator:socialbreadthdef'] = 'Сацыяльнасьць цэтліка';
-$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай рэсурсам-Цэтлікам у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел)';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай рэсурсам-Цэтлікам у аналізаваны тэрмін (Роўні = Адсутнасьць удзелу, Самотны удзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
 $string['label:addinstance'] = 'Дадаць новы цэтлік';
 $string['label:view'] = 'Праглядзець цэтлік';

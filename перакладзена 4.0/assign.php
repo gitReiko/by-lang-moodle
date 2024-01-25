@@ -322,7 +322,7 @@ $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cog
 $string['indicator:socialbreadth'] = 'Сацыяльнасьць заданьня';
 $string['indicator:socialbreadth_help'] = 'Гэты паказьнік згрунтаваны на сацыяльнай шырыні, якую дасягнуў студэнт ў актыўнасьці-заданьні.';
 $string['indicator:socialbreadthdef'] = 'Сацыяльнасьць заданьня';
-$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцямі-заданьнямі ў аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел, Сумесны ўдзел)';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцямі-заданьнямі ў аналізаваны тэрмін (Роўні = Адсутнасьць удзелу, Самотны удзел, Сумесны ўдзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
 $string['instructionfiles'] = 'Файлы інструкцыяў';
 $string['introattachments'] = 'Дадатковыя файлы';

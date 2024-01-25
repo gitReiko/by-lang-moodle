@@ -54,7 +54,7 @@ $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cog
 $string['indicator:socialbreadth'] = 'Сацыяльнасьць спасылкі';
 $string['indicator:socialbreadth_help'] = 'Гэты паказьнік заснаваны на сацыяльнай шырыні, якую дасягнуў студэнт у рэсурсе-Спасылцы.';
 $string['indicator:socialbreadthdef'] = 'Сацыяльнасьць спасылкі';
-$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай рэсурсам-Спасылкай у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел)';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай рэсурсам-Спасылкай у аналізаваны тэрмін (Роўні = Адсутнасьць удзелу, Самотны удзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
 $string['invalidstoredurl'] = 'Нельга адлюстраваць гэты рэсурс, спасылка хібная.';
 $string['invalidurl'] = 'Уведзеная спасылка хібная.';

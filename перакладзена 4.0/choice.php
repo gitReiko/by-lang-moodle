@@ -78,7 +78,7 @@ $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cog
 $string['indicator:socialbreadth'] = 'Сацыяльнасьць выбару';
 $string['indicator:socialbreadth_help'] = 'Гэты паказьнік заснаваны на сацыяльнай шырыні, якую дасягнуў студэнт у актыўнасьці-Выбары.';
 $string['indicator:socialbreadthdef'] = 'Сацыяльнасьць выбару';
-$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцю-Выбарам у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел, Удзел зь іншымі)';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцю-Выбарам у аналізаваны тэрмін (Роўні = Адсутнасьць удзелу, Самотны удзел, Удзел зь іншымі)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
 $string['limit'] = 'Ліміт';
 $string['limita'] = 'Ліміт: {$a}';

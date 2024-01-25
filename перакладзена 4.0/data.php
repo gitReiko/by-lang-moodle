@@ -224,7 +224,7 @@ $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cog
 $string['indicator:socialbreadth'] = 'Сацыяльнасьць базы дадзеных';
 $string['indicator:socialbreadth_help'] = 'Гэты паказьнік заснаваны на глыбіні пазнаваньня, якую дасягнуў студэнт ува актыўнасьці База Дадзеных.';
 $string['indicator:socialbreadthdef'] = 'Сацыяльнасьць базы дадзеных';
-$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцю Базай Дадзеных у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел)';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцю Базай Дадзеных у аналізаваны тэрмін (Роўні = Адсутнасьць удзелу, Самотны удзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
 $string['insufficiententries'] = 'дзеля прагляду гэтай базы дадзеных патрабуецца болей запісаў';
 $string['intro'] = 'Апісаньне';

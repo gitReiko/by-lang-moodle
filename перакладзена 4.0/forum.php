@@ -382,7 +382,7 @@ $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cog
 $string['indicator:socialbreadth'] = 'Сацыяльнасьць форума';
 $string['indicator:socialbreadth_help'] = 'Гэты паказьнік заснаваны на сацыяльнай шырыні, якую дасягнуў студэнт у актыўнасьці-Форуме.';
 $string['indicator:socialbreadthdef'] = 'Сацыяльнасьць форума';
-$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцю-Форумам у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел, Сумесны зь іншымі ўдзел';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцю-Форумам у аналізаваны тэрмін (Роўні = Адсутнасьць удзелу, Самотны удзел, Сумесны зь іншымі ўдзел';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
 $string['inforum'] = 'у {$a}';
 $string['inreplyto'] = 'У адказ на {$a}';

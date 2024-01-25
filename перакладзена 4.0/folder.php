@@ -49,7 +49,7 @@ $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cog
 $string['indicator:socialbreadth'] = 'Сацыяльнасьць тэчкі';
 $string['indicator:socialbreadth_help'] = 'Гэты паказьнік згрунтаваны на сацыяльнай шырыні, якую дасягнуў студэнт ў рэсурсе-тэчцы.';
 $string['indicator:socialbreadthdef'] = 'Сацыяльнасьць тэчкі';
-$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай рэсурсам-тэчкай у аналізаваны тэрмін (Роўні = Без удзельнікаў, Самотны удзел)';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай рэсурсам-тэчкай у аналізаваны тэрмін (Роўні = Адсутнасьць удзелу, Самотны удзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
 $string['maxsizetodownload'] = 'Максімальны памер спампоўкі тэчцы (MB)';
 $string['maxsizetodownload_help'] = 'Максімальны памер тэчцы, які можа быць спампаваны ў форме zip-файла. Калі ўсталяваны нуль, памер тэчкі не абмежаваны.';
