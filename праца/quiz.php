@@ -495,76 +495,76 @@ $string['indicator:socialbreadth_help'] = 'Гэты паказьнік згру�
 $string['indicator:socialbreadthdef'] = 'Сацыяльнасьць тэсту';
 $string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай актыўнасьцямі-тэстамі ў аналізаваны тэрмін (Роўні = Адсутнасьць удзелу, Самотны удзел, Сумесны ўдзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
-$string['indivresp'] = 'Responses of individuals to each item';
-$string['info'] = 'Info';
-$string['infoshort'] = 'i';
-$string['initialnumfeedbacks'] = 'Initial number of overall feedback fields';
-$string['initialnumfeedbacks_desc'] = 'When creating a new quiz, provide this many blank overall feedback boxes. Once the quiz has been created, the form shows the number of fields required for the number of feedbacks in the quiz. The setting must be at least 1.';
-$string['inprogress'] = 'In progress';
-$string['introduction'] = 'Description';
-$string['invalidattemptid'] = 'No such attempt ID exists';
-$string['invalidcategory'] = 'Category ID is invalid';
-$string['invalidoverrideid'] = 'Invalid override id';
-$string['invalidquestionid'] = 'Invalid question id';
-$string['invalidquizid'] = 'Invalid quiz ID';
-$string['invalidrandomslot'] = 'Invalid random question slot id.';
-$string['invalidsource'] = 'The source is not accepted as valid.';
-$string['invalidsourcetype'] = 'Invalid source type.';
-$string['invalidstateid'] = 'Invalid state id';
-$string['lastanswer'] = 'Your last answer was';
-$string['layout'] = 'Layout';
-$string['layoutasshown'] = 'Page layout as shown.';
-$string['layoutasshownwithpages'] = 'Page layout as shown. <small>(Automatic new page every {$a} questions.)</small>';
-$string['layoutshuffledandpaged'] = 'Questions randomly shuffled with {$a} questions per page.';
-$string['layoutshuffledsinglepage'] = 'Questions randomly shuffled, all on one page.';
-$string['legacyquizaccessrulescron'] = 'Legacy cron quiz access rules';
-$string['legacyquizreportscron'] = 'Legacy cron quiz reports';
-$string['link'] = 'Link';
-$string['listitems'] = 'Listing of items in quiz';
-$string['literal'] = 'Literal';
-$string['loadingquestionsfailed'] = 'Loading questions failed: {$a}';
-$string['makecopy'] = 'Save as new question';
-$string['managetypes'] = 'Manage question types and servers';
-$string['manualgradequestion'] = 'Manually grade question {$a->question} in {$a->quiz} by {$a->user}';
-$string['manualgrading'] = 'Grading';
-$string['mark'] = 'Submit';
-$string['markall'] = 'Submit page';
-$string['marks'] = 'Marks';
-$string['marks_help'] = 'The numerical marks for each question, and the overall attempt score.';
-$string['match'] = 'Matching';
-$string['matchanswer'] = 'Matching answer';
-$string['matchanswerno'] = 'Matching answer {$a}';
-$string['max'] = 'Max';
-$string['maxmark'] = 'Maximum mark';
-$string['messageprovider:attempt_grading_complete'] = 'Notification that your attempt has been graded';
-$string['messageprovider:attempt_overdue'] = 'Warning when your quiz attempt becomes overdue';
-$string['messageprovider:confirmation'] = 'Confirmation of your own quiz submissions';
-$string['messageprovider:submission'] = 'Notification of your students\' quiz submissions';
-$string['min'] = 'Min';
-$string['minutes'] = 'Minutes';
-$string['missingcorrectanswer'] = 'Correct answer must be specified';
-$string['missingitemtypename'] = 'Missing name';
-$string['missingquestion'] = 'This question no longer seems to exist';
-$string['modulename'] = 'Quiz';
-$string['modulename_help'] = 'The quiz activity enables a teacher to create quizzes comprising questions of various types, including multiple choice, matching, short-answer and numerical.
+$string['indivresp'] = 'Водклічы асоб на кожны прадмет';
+$string['info'] = 'Інфа';
+$string['infoshort'] = 'і';
+$string['initialnumfeedbacks'] = 'Пачатковая колькасьць палёў для агульных водгукаў';
+$string['initialnumfeedbacks_desc'] = 'Вызначце колькасьць пустых палёў для агульных водгукаў падчас стварэньня новага тэста. Пасьля стварэньня тэста ў форме адлюстроўваецца калькасьць палёў, неабходная для колькасьці водгукаў у тэсьце. Налада мусіць мець значэньне прынамсі 1.';
+$string['inprogress'] = 'У прагрэсе';
+$string['introduction'] = 'Апісаньне';
+$string['invalidattemptid'] = 'ID такой спробы не існуе';
+$string['invalidcategory'] = 'Хібны ID катэгорыі';
+$string['invalidoverrideid'] = 'Хібны id перавызначэньня';
+$string['invalidquestionid'] = 'Хібны id пытаньня';
+$string['invalidquizid'] = 'Хібны id тэста';
+$string['invalidrandomslot'] = 'Хібны id слота выпадковага пытаньня.';
+$string['invalidsource'] = 'Крыніца не прыймаецца як валідная.';
+$string['invalidsourcetype'] = 'Хібны тып крыніцы.';
+$string['invalidstateid'] = 'Хібны статус id';
+$string['lastanswer'] = 'Вашы апошні адказ быў';
+$string['layout'] = 'Макет';
+$string['layoutasshown'] = 'Макет старонкі як паказаны.';
+$string['layoutasshownwithpages'] = 'Макет старонкі як паказаны. <small>(Аўтаматычна новая старонка кожныя {$a} пытаньняў.)</small>';
+$string['layoutshuffledandpaged'] = 'Пытаньні перамешваюцца ў выпадкова, па {$a} пытаньняў на старонцы.';
+$string['layoutshuffledsinglepage'] = 'Пытаньні перамешваюцца ў выпадкова, усе на адной старонцы.';
+$string['legacyquizaccessrulescron'] = 'Састарэлыя правілы доступу да тэста cron';
+$string['legacyquizreportscron'] = 'Састарэлыя справаздачы да тэсту cron';
+$string['link'] = 'Спасылка';
+$string['listitems'] = 'Сьпіс прадметаў у тэсьце';
+$string['literal'] = 'Літаральна';
+$string['loadingquestionsfailed'] = 'Памылка загрузкі пытаньняў: {$a}';
+$string['makecopy'] = 'Захаваць як новае пытаньне';
+$string['managetypes'] = 'Кіраваньне тыпамі і сэрверамі пытаньняў';
+$string['manualgradequestion'] = 'Ручное ацэньваньне пытаньня {$a->question} у {$a->quiz} ад {$a->user}';
+$string['manualgrading'] = 'Ацэньваньне';
+$string['mark'] = 'Адправіць';
+$string['markall'] = 'Адправіць старонку';
+$string['marks'] = 'Адзнакі';
+$string['marks_help'] = 'Лічбавыя адзнакі за кожнае пытаньне і агульны бал за спробу.';
+$string['match'] = 'Адпаведнасьць';
+$string['matchanswer'] = 'Адпаведны адказ';
+$string['matchanswerno'] = 'Адпаведны адказ {$a}';
+$string['max'] = 'Макс';
+$string['maxmark'] = 'Максімальная адзнака';
+$string['messageprovider:attempt_grading_complete'] = 'Абвестка пра ацэньваньне вашай спробы';
+$string['messageprovider:attempt_overdue'] = 'Папярэджваньне пра пратэрмінаваньне вашай спробы';
+$string['messageprovider:confirmation'] = 'Пацьверджаньне пра вашае ўласнае адпраўленьне тэсту';
+$string['messageprovider:submission'] = 'Абвестка пра вашую студэнцкую адпраўку тэста';
+$string['min'] = 'Мін';
+$string['minutes'] = 'Хвілін';
+$string['missingcorrectanswer'] = 'Слушны адказ мусіць быць вызначаны';
+$string['missingitemtypename'] = 'Адсутнічае назва';
+$string['missingquestion'] = 'Здаецца, пытаньне болей не існуе';
+$string['modulename'] = 'Тэст';
+$string['modulename_help'] = 'Актыўнасьць-тэст дазваляе настаўніку ствараць тэсты з розных тыпаў пытаньняў: множны выбар, адпаведнасьць, кароткі адказ і лічбавы.
 
-The teacher can allow the quiz to be attempted multiple times, with the questions shuffled or randomly selected from the question bank. A time limit may be set.
+Настаўнік можа дазволіць некалькі спробаў выкананьня тэсту з перамешанымі ці выпадкова абранымі пытаньнямі з банку пытаньняў. Льга ўсталяваць абмежаваньне па часе.
 
-Each attempt is marked automatically, with the exception of essay questions, and the grade is recorded in the gradebook.
+Кожная спроба ацэньваецца аўтаматычна, за выняткам пытаньняў-эсэ. Адзнакі захоўваюцца ва журнал адзнак.
 
-The teacher can choose when and if hints, feedback and correct answers are shown to students.
+Настаўнік можа абіраць, калі і дзе паказваць студэнтам падказкі, водгукі і слушныя адказы.
 
-Quizzes may be used
+Тэсты льга выкарыстоўваць дзеля
 
-* As course exams
-* As mini tests for reading assignments or at the end of a topic
-* As exam practice using questions from past exams
-* To deliver immediate feedback about performance
-* For self-assessment';
+* экзаменаў па курсу
+* міні-тэстаў, што кантралююць чытаньне заданьняў ці засваеньне тэмаў
+* экзаменацыйнай практыкі, з выкарыстаньнем мінулых пытаньняў
+* атрыманьня неадкладнага водгука пра вынікі працы
+* самаацэнкі';
 $string['modulename_link'] = 'mod/quiz/view';
-$string['modulenameplural'] = 'Quizzes';
-$string['moveselectedonpage'] = 'Move selected questions to page: {$a}';
-$string['multichoice'] = 'Multiple choice';
+$string['modulenameplural'] = 'Тэсты';
+$string['moveselectedonpage'] = 'Перасунуць абраныя пытаньні на старонку: {$a}';
+$string['multichoice'] = 'Множны выбар';
 $string['multipleanswers'] = 'Choose at least one answer.';
 $string['mustbesubmittedby'] = 'This attempt must be submitted by {$a}.';
 $string['name'] = 'Name';
@@ -623,7 +623,7 @@ $string['notyourattempt'] = 'This is not your attempt!';
 $string['noview'] = 'Logged-in user is not allowed to view this quiz';
 $string['numattempts'] = '{$a->studentnum} {$a->studentstring} have made {$a->attemptnum} attempts';
 $string['numberabbr'] = '#';
-$string['numerical'] = 'Numerical';
+$string['numerical'] = 'Лічбавы';
 $string['numquestionsx'] = 'Questions: {$a}';
 $string['oneminute'] = '1 minute';
 $string['onlyteachersexport'] = 'Only teachers can export questions';
