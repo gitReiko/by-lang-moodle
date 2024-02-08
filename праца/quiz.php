@@ -69,7 +69,7 @@ $string['afternquestions'] = 'Праз кожныя {$a} пытаньні(яў)'
 $string['age'] = 'узрост';
 $string['allattempts'] = 'Усе спробы';
 $string['allinone'] = 'Неабмежавана';
-$string['allowreview'] = 'Дазволіць агляд';
+$string['allowreview'] = 'Дазволіць прагляд';
 $string['alreadysubmitted'] = 'Здаецца, вы ўжо адправілі гэтую спробу';
 $string['alternativeunits'] = 'Альтэрнатыўныя адзінкі';
 $string['alwaysavailable'] = 'Заўжды даступна';
@@ -104,8 +104,8 @@ $string['attemptlast'] = 'Апошняя спроба';
 $string['attemptnumber'] = 'Спроба';
 $string['attemptquiz'] = 'Паспрабаваць выканаць тэст';
 $string['attemptquiznow'] = 'Паспрабаваць выканаць тэст зараз';
-$string['attemptreviewtitle'] = '{$a}: Агляд спробы';
-$string['attemptreviewtitlepaged'] = '{$a->name}: Агляд спробы (старонка {$a->currentpage} з {$a->totalpages})';
+$string['attemptreviewtitle'] = '{$a}: Прагляд спробы';
+$string['attemptreviewtitlepaged'] = '{$a->name}: Прагляд спробы (старонка {$a->currentpage} з {$a->totalpages})';
 $string['attempts'] = 'Спробы';
 $string['attempts_help'] = 'Агульная колькасьць дазволеных спроб (ня колькасьць дадатковых спроб).';
 $string['attemptsallowed'] = 'Дазволена спробаў';
@@ -152,7 +152,7 @@ $string['cannotopen'] = 'Нельга аткрыць файл экспарту (
 $string['cannotremoveallsectionslots'] = 'Вы абралі ўсе пытаньні пад загалоўкам падзелу \'{$a}\'. Нельга выдаляць усе пытаньні пэўнага падзелу.';
 $string['cannotremoveslots'] = 'Нельга выдаліць пытаньні';
 $string['cannotrestore'] = 'Нельга аднавіць сэсіі пытаньняў';
-$string['cannotreviewopen'] = 'Нельга аглядзець гэтую спробу, бо яна дагэтуль адкрыта.';
+$string['cannotreviewopen'] = 'Нельга праглядзець гэтую спробу, бо яна дагэтуль адкрыта.';
 $string['cannotsavelayout'] = 'Нельга захаваць макет';
 $string['cannotsavenumberofquestion'] = 'Нельга захаваць колькасьць пытаньняў на старонцы';
 $string['cannotsavequestion'] = 'Нельга захаваць сьпіс пытаньняў';
@@ -181,7 +181,7 @@ $string['close'] = 'Закрыць акно';
 $string['closebeforeopen'] = 'Нельга абнавіць тэст. Вы вызначылі дату закрыцьця раней за дату адкрыцьця.';
 $string['closed'] = 'Закрыта';
 $string['closepreview'] = 'Закрыць прадпрагляд';
-$string['closereview'] = 'Закрыць агляд';
+$string['closereview'] = 'Закрыць прагляд';
 $string['comment'] = 'Каментар';
 $string['commentorgrade'] = 'Зрабіць каментар ці перавызначыць адзнаку';
 $string['comments'] = 'Каментары';
@@ -220,7 +220,7 @@ $string['configpenaltyscheme'] = 'Штраф, што адымаецца за к�
 $string['configpopup'] = 'Прымусіць спробу адкрывацца ўва ўсплыўным акне і выкарыстоўвакі хітрыкі JavaScript дзеля абмежаваньня капіяваньня і ўстаўкі падчас выкананьня спробы тэсту.';
 $string['configrequirepassword'] = 'Студэнты мусяць увесьці гэты пароль дзеля атрыманьня спробы выкананьня тэсту.';
 $string['configrequiresubnet'] = 'Студэнты могуць спрабаваць выканаць тэст толькі з вызначаных кампутараў.';
-$string['configreviewoptions'] = 'Гэтыя опцыі кантралююць інфармацыю, якую могуць бачыць карыстальнікі падчас агляду спробы тэсту ці справаздач тэсту.';
+$string['configreviewoptions'] = 'Гэтыя опцыі кантралююць інфармацыю, якую могуць бачыць карыстальнікі падчас прагляду спробы тэсту ці справаздач тэсту.';
 $string['configshowblocks'] = 'Паказваць блокі падчас выкананьня спробы тэсту.';
 $string['configshowuserpicture'] = 'Паказваць выяву карыстальніка на экране падчас выкананьня спробаў.';
 $string['configshufflewithin'] = 'Калі ўключыць гэтую опцыю, часткі, што складаюць асобныя пытаньні, будуць выпадковым чынам перамешвацца штораз пасьля распачынаньня студэнтам новай спробы выкананьня тэста, пры ўмове ўключэньня гэтай опцыі ў наладах пытаньняў.';
@@ -339,7 +339,7 @@ $string['emailnotifybody'] = 'Вітаем {$a->username},
 
 {$a->studentname} выканаў(ла) \'{$a->quizname}\' ({$a->quizurl}) у курсе \'{$a->coursename}\'.
 
-Вы можаце аглядзець гэтую спробу па спасылцы {$a->quizreviewurl}.';
+Вы можаце праглядзець гэтую спробу па спасылцы {$a->quizreviewurl}.';
 $string['emailnotifysmall'] = '{$a->studentname} выканаў(ла) {$a->quizname}. Доступ па спасылцы {$a->quizreviewurl}';
 $string['emailnotifysubject'] = '{$a->studentname} выканаў(ла) {$a->quizname}';
 $string['emailoverduebody'] = 'Вітаем {$a->studentname},
@@ -417,7 +417,7 @@ $string['filloutoneanswer'] = 'Вы мусіце пакінуць прынамс
 $string['filloutthreequestions'] = 'Вы мусіце пакінуць прынамсі тры пытаньня з адпаведнымі адказамі. Вы можаце пакінуць дадатковыя хібныя адказы, падаўшы адказ з пустым пытаньнем. Запісы, у якіх адначасова няма адказу і пытаньня, будуць ігнаравацца.';
 $string['fillouttwochoices'] = 'Вы мусіце запоўніць прынамсі два абраньня. Пустыя выбары ня будуць выкарыстоўвацца.';
 $string['finishattemptdots'] = 'Скончыць спробу...';
-$string['finishreview'] = 'Скончыць агляд';
+$string['finishreview'] = 'Скончыць прагляд';
 $string['forceregeneration'] = 'прымусова зьгенераваць наноў';
 $string['formatnotfound'] = 'Фармат імпарту/экспарту {$a} ня знойдзены';
 $string['formulaerror'] = 'Памылкі ў формуле!';
@@ -675,7 +675,7 @@ $string['overrideusereventname'] = '{$a->quiz} - Перавызначэньне'
 $string['page-mod-quiz-attempt'] = 'Старонка спробы тэсту';
 $string['page-mod-quiz-edit'] = 'Старонка рэдагаваньня тэсту';
 $string['page-mod-quiz-report'] = 'Усякая старонка справаздачы тэсту';
-$string['page-mod-quiz-review'] = 'Старонка агляду спробы тэсту';
+$string['page-mod-quiz-review'] = 'Старонка прагляду спробы тэсту';
 $string['page-mod-quiz-summary'] = 'Старонка вынікаў спробы тэсту';
 $string['page-mod-quiz-view'] = 'Старонка інфармацыі пра тэст';
 $string['page-mod-quiz-x'] = 'Усякая старонка модуля тэст';
@@ -878,37 +878,37 @@ $string['reportuserswithorwithout'] = 'залічаныя карыстальні
 $string['reportuserswithout'] = 'залічаныя карыстальнікі, якія не спрабавалі выканаць тэст';
 $string['reportwhattoinclude'] = 'Што ўключаць у справаздачу';
 $string['requirepassword'] = 'Патрабаваць пароль';
-$string['requirepassword_help'] = 'If a password is specified, a student must enter it in order to attempt the quiz.';
-$string['requiresubnet'] = 'Require network address';
-$string['requiresubnet_help'] = 'Quiz access may be restricted to particular subnets on the LAN or Internet by specifying a comma-separated list of partial or full IP address numbers. This can be useful for an invigilated (proctored) quiz, to ensure that only people in a certain location can access the quiz.';
-$string['response'] = 'Response';
-$string['responses'] = 'Responses';
-$string['results'] = 'Results';
-$string['returnattempt'] = 'Return to attempt';
-$string['reuseifpossible'] = 'reuse previously removed';
-$string['reverttodefaults'] = 'Revert to quiz defaults';
-$string['review'] = 'Review';
-$string['reviewafter'] = 'Allow review after quiz is closed';
-$string['reviewalways'] = 'Allow review at any time';
-$string['reviewattempt'] = 'Review attempt';
-$string['reviewbefore'] = 'Allow review while quiz is open';
-$string['reviewclosed'] = 'After the quiz is closed';
-$string['reviewduring'] = 'During the attempt';
-$string['reviewimmediately'] = 'Immediately after the attempt';
-$string['reviewnever'] = 'Never allow review';
-$string['reviewofquestion'] = 'Review of question {$a->question} in {$a->quiz} by {$a->user}';
-$string['reviewopen'] = 'Later, while the quiz is still open';
-$string['reviewoptions'] = 'Students may review';
-$string['reviewoptionsheading'] = 'Review options';
-$string['reviewoptionsheading_help'] = 'These options control what information students can see when they review a quiz attempt or look at the quiz reports.
+$string['requirepassword_help'] = 'Калі пароль вызначаны, студэнт мусіць увесьці яго, каб паспрабаваць выканаць тэст.';
+$string['requiresubnet'] = 'Патрабаваць сеткавы адрас';
+$string['requiresubnet_help'] = 'Доступ да тэста льга абмежаваць падсеткамі Інтэрнэт ці LAN, шляхам вызначэньня частковых ці поўных IP-адрасоў, падзеленых коскамі. Гэтая налада можа быць карыснай падчас ажыцяўленьня кантраляванага тэставаньня (практорынга). Яна дазваляе абмежаваць доступ да тэста пэўным месцам правядзеньня.';
+$string['response'] = 'Водкліч';
+$string['responses'] = 'Водклічы';
+$string['results'] = 'Вынікі';
+$string['returnattempt'] = 'Вярнуцца да спробы выкананьня';
+$string['reuseifpossible'] = 'паўторнае выкарыстаньне раней выдаленага';
+$string['reverttodefaults'] = 'Вярнуць стандартныя налады тэсту';
+$string['review'] = 'Прагляд';
+$string['reviewafter'] = 'Дазволіць прагляд пасьля закрыцьця тэста';
+$string['reviewalways'] = 'Дазволіць прагляд у любы час';
+$string['reviewattempt'] = 'Праглядзець спробу выкананьня';
+$string['reviewbefore'] = 'Дазволіць прагляд пакуль тэст адкрыты';
+$string['reviewclosed'] = 'Пасьля закрыцьця тэсту';
+$string['reviewduring'] = 'Падчас спрабаваньня';
+$string['reviewimmediately'] = 'Неадкладна пасьля спрабаваньня';
+$string['reviewnever'] = 'Ніколі не дазваляць прагляд';
+$string['reviewofquestion'] = 'Прагляд пытаньня {$a->question} у {$a->quiz} ад {$a->user}';
+$string['reviewopen'] = 'Пазьней, пакуль тэст адкрыты';
+$string['reviewoptions'] = 'Студэнты могуць праглядваць';
+$string['reviewoptionsheading'] = 'Опцыі праглядваньня';
+$string['reviewoptionsheading_help'] = 'Наступныя опцыі кантралююць, што студэнты змогуць убачыць падчас прагляду спробаў выкананьня тэсту ці ў справаздачах тэсту.
 
-**During the attempt** settings are only relevant for some behaviours, like \'interactive with multiple tries\', which may display feedback during the attempt.
+**Падчас спрабаваньня** settings are only relevant for some behaviours, like \'interactive with multiple tries\', which may display feedback during the attempt.
 
-**Immediately after the attempt** settings apply for the first two minutes after \'Submit all and finish\' is clicked.
+**Неадкладна пасьля спрабаваньня** settings apply for the first two minutes after \'Submit all and finish\' is clicked.
 
-**Later, while the quiz is still open** settings apply after this, and before the quiz close date.
+**Пазьней, пакуль тэст адкрыты** settings apply after this, and before the quiz close date.
 
-**After the quiz is closed** settings apply after the quiz close date has passed. If the quiz does not have a close date, this state is never reached.';
+**Пасьля закрыцьця тэсту** settings apply after the quiz close date has passed. If the quiz does not have a close date, this state is never reached.';
 $string['reviewoverallfeedback'] = 'Overall feedback';
 $string['reviewoverallfeedback_help'] = 'The feedback given at the end of the attempt, depending on the student\'s total mark.';
 $string['reviewresponse'] = 'Review response';
