@@ -247,6 +247,29 @@ mod_workshop ---------------------
 ||   ||   ||
 \/   \/   \/
 
+qbank_bulkmove ------------------- 100%
+qbank_columnsortorder ------------ 100%
+qbank_comment --------------------
+qbank_customfields ---------------
+qbank_deletequestion -------------
+qbank_editquestion ---------------
+qbank_exportquestions ------------
+qbank_exporttoxml ----------------
+qbank_history --------------------
+qbank_importquestions ------------
+qbank_managecategories -----------
+qbank_previewquestion ------------
+qbank_statistics -----------------
+qbank_tagquestion ----------------
+qbank_usage ----------------------
+qbank_viewcreator ----------------
+qbank_viewquestionname -----------
+qbank_viewquestiontext -----------
+qbank_viewquestiontype -----------
+
+||   ||   ||
+\/   \/   \/
+
 quizaccess_securewindow ---------- 100%
 
 
