@@ -25,10 +25,10 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['close_history'] = 'Close';
-$string['history_action'] = 'History';
-$string['history_header'] = 'Question history';
-$string['pluginname'] = 'Question history';
-$string['privacy:metadata'] = 'The Question history question bank plugin does not store any personal data.';
-$string['questionversiondata'] = 'v{$a}';
-$string['questionversionnumber'] = 'Version';
+$string['close_history'] = 'Закрыць';
+$string['history_action'] = 'Гісторыя';
+$string['history_header'] = 'Гісторыя пытаньня';
+$string['pluginname'] = 'Гісторыя пытаньня';
+$string['privacy:metadata'] = 'Плагін банка пытаньняў Гісторыя пытаньня не захоўвае аніякіх асабістых дадзеных.';
+$string['questionversiondata'] = 'в{$a}';
+$string['questionversionnumber'] = 'Версія';

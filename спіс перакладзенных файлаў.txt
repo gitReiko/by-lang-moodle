@@ -249,17 +249,17 @@ mod_workshop ---------------------
 
 qbank_bulkmove ------------------- 100%
 qbank_columnsortorder ------------ 100%
-qbank_comment --------------------
-qbank_customfields ---------------
-qbank_deletequestion -------------
-qbank_editquestion ---------------
-qbank_exportquestions ------------
-qbank_exporttoxml ----------------
-qbank_history --------------------
-qbank_importquestions ------------
-qbank_managecategories -----------
-qbank_previewquestion ------------
-qbank_statistics -----------------
+qbank_comment -------------------- 100%
+qbank_customfields --------------- 100%
+qbank_deletequestion ------------- 100%
+qbank_editquestion --------------- 100%
+qbank_exportquestions ------------ 100%
+qbank_exporttoxml ---------------- 100%
+qbank_history -------------------- 100%
+qbank_importquestions ------------ 100%
+qbank_managecategories ----------- 100%
+qbank_previewquestion ------------ 100%
+qbank_statistics ----------------- 100%
 qbank_tagquestion ----------------
 qbank_usage ----------------------
 qbank_viewcreator ----------------

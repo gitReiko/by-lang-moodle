@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['deletequestion'] = 'Delete selected question';
-$string['pluginname'] = 'Delete question';
-$string['privacy:metadata'] = 'The Delete question question bank plugin does not store any personal data.';
+$string['deletequestion'] = 'Выдаліць абраныя пытаньні';
+$string['pluginname'] = 'Выдаліць пытаньне';
+$string['privacy:metadata'] = 'Плагін банка пытаньняў Выдаліць пытаньне не захоўвае аніякіх асабістых дадзеных.';

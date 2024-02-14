@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'qbank_exportquestions', language 'en', version '4.0'.
+ * Strings for component 'qbank_editquestion', language 'en', version '4.0'.
  *
- * @package     qbank_exportquestions
+ * @package     qbank_editquestion
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,5 +25,13 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Export questions';
-$string['privacy:metadata'] = 'The Export questions question bank plugin does not store any personal data.';
+$string['pluginname'] = 'Рэдагаваць пытаньні';
+$string['privacy:metadata'] = 'Плагін банка пытаньняў Рэдагаваць пытаньні не захоўвае аніякіх асабістых дадзеных.';
+$string['questionstatus'] = 'Статус';
+$string['questionstatusdraft'] = 'Чарнавое';
+$string['questionstatusheader'] = 'Зьмяніць статус пытаньня';
+$string['questionstatushidden'] = 'Схаванае';
+$string['questionstatusready'] = 'Гатовае';
+$string['status'] = 'Статус пытаньня';
+$string['unrecognizedstatus'] = 'Невядомы статус';
+$string['versioninfo'] = 'Версія';

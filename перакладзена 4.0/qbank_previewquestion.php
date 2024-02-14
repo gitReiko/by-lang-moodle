@@ -25,12 +25,12 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Preview question';
-$string['previewoptions'] = 'Preview options';
-$string['privacy:metadata'] = 'The Preview question question bank plugin does not store any personal data.';
-$string['questionversion'] = 'Question version';
-$string['tagclosebutton'] = 'Close';
-$string['tagerror'] = 'No question was found with following tags: {$a}. Please change or remove tags filtering.';
-$string['tagsnotfound'] = 'Tags not found';
-$string['versiontitle'] = 'Version {$a}';
-$string['versiontitlelatest'] = 'Version {$a} (latest)';
+$string['pluginname'] = 'Прадпрагляд пытаньня';
+$string['previewoptions'] = 'Опцыі прадпрагляду';
+$string['privacy:metadata'] = 'Плагін банка пытаньняў Прадпрагляд пытаньня не захоўвае аніякіх асабістых дадзеных.';
+$string['questionversion'] = 'Версія пытаньня';
+$string['tagclosebutton'] = 'Закрыць';
+$string['tagerror'] = 'Пытаньні з наступнымі тэгамі ня знойдзены: {$a}. Калі ласка, зьмяніце ці выдаліце тэгі фільтраваньня.';
+$string['tagsnotfound'] = 'Тэгі ня знойдзены';
+$string['versiontitle'] = 'Версія {$a}';
+$string['versiontitlelatest'] = 'Версія {$a} (апошняя)';

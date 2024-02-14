@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Export to XML';
-$string['privacy:metadata'] = 'The Export to xml question bank plugin does not store any personal data.';
+$string['pluginname'] = 'Экспартаваць у XML';
+$string['privacy:metadata'] = 'Плагін банка пытаньняў Экспартаваць у XML не захоўвае аніякіх асабістых дадзеных.';

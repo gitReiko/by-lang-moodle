@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'qbank_managecategories', language 'en', version '4.0'.
+ * Strings for component 'qbank_importquestions', language 'en', version '4.0'.
  *
- * @package     qbank_managecategories
+ * @package     qbank_importquestions
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Manage categories';
-$string['privacy:metadata'] = 'The Manage categories question bank plugin does not store any personal data.';
+$string['pluginname'] = 'Імпартаваць пытаньні';
+$string['privacy:metadata'] = 'Плагін банка пытаньняў Імпартаваць пытаньні імпартуе пытаньні з файлу ў адпаведнасьці з фарматам файлу.';

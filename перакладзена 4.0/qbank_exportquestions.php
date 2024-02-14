@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'qbank_importquestions', language 'en', version '4.0'.
+ * Strings for component 'qbank_exportquestions', language 'en', version '4.0'.
  *
- * @package     qbank_importquestions
+ * @package     qbank_exportquestions
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Import questions';
-$string['privacy:metadata'] = 'The Import questions question bank plugin imports questions from a file according to the selected file format.';
+$string['pluginname'] = 'Экспартаваць пытаньні';
+$string['privacy:metadata'] = 'Плагін банка пытаньняў Экспартаваць пытаньні не захоўвае аніякіх асабістых дадзеных.';
