@@ -266,6 +266,17 @@ qbank_viewcreator ---------------- 100%
 qbank_viewquestionname ----------- 100%
 qbank_viewquestiontext ----------- 100%
 qbank_viewquestiontype ----------- 100%
+qbehaviour_adaptive --------------
+qbehaviour_adaptivenopenalty -----
+qbehaviour_deferredcbm -----------
+qbehaviour_deferredfeedback ------
+qbehaviour_immediatecbm ----------
+qbehaviour_immediatefeedback -----
+qbehaviour_informationitem -------
+qbehaviour_interactive -----------
+qbehaviour_interactivecountback --
+qbehaviour_manualgraded ----------
+qbehaviour_missing ---------------
 
 ||   ||   ||
 \/   \/   \/
