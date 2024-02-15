@@ -260,12 +260,12 @@ qbank_importquestions ------------ 100%
 qbank_managecategories ----------- 100%
 qbank_previewquestion ------------ 100%
 qbank_statistics ----------------- 100%
-qbank_tagquestion ----------------
-qbank_usage ----------------------
-qbank_viewcreator ----------------
-qbank_viewquestionname -----------
-qbank_viewquestiontext -----------
-qbank_viewquestiontype -----------
+qbank_tagquestion ---------------- 100%
+qbank_usage ---------------------- 100%
+qbank_viewcreator ---------------- 100%
+qbank_viewquestionname ----------- 100%
+qbank_viewquestiontext ----------- 100%
+qbank_viewquestiontype ----------- 100%
 
 ||   ||   ||
 \/   \/   \/

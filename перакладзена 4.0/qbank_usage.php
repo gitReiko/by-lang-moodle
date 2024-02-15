@@ -25,14 +25,14 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['attempts'] = 'Attempts';
-$string['coursename'] = 'Course name';
-$string['modulename'] = 'Activity name';
-$string['pluginname'] = 'Question usage';
-$string['privacy:metadata'] = 'The Question usage question bank plugin does not store any personal data.';
-$string['questionusage'] = 'Usage';
-$string['questionusage_help'] = 'The number of quizzes in which the question is used, with a link to open a window listing the quizzes and the number of attempts.';
-$string['questionusageversion'] = 'v{$a}';
-$string['state'] = 'State';
-$string['usageheader'] = 'Question usage';
-$string['versions'] = 'Version';
+$string['attempts'] = 'Спробы';
+$string['coursename'] = 'Назва курса';
+$string['modulename'] = 'Назва актыўнасьці';
+$string['pluginname'] = 'Выкарыстаньне пытаньня';
+$string['privacy:metadata'] = 'Плагін банка пытаньняў Выкарыстаньне пытаньня не захоўвае аніякіх асабістых дадзеных.';
+$string['questionusage'] = 'Выкарыстаньне';
+$string['questionusage_help'] = 'Колькасьць тэстаў, у якіх выкарыстоўваецца гэтае пытаньне, са спасылкай, што адкрывае акно са сьпісам тэстаў і колькасьцю спробаў.';
+$string['questionusageversion'] = 'в{$a}';
+$string['state'] = 'Статус';
+$string['usageheader'] = 'Выкарыстаньне пытаньня';
+$string['versions'] = 'Версія';

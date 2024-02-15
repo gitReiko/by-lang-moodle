@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'qbank_viewquestionname', language 'en', version '4.0'.
+ * Strings for component 'qbank_viewquestiontype', language 'en', version '4.0'.
  *
- * @package     qbank_viewquestionname
+ * @package     qbank_viewquestiontype
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'View question name';
-$string['privacy:metadata'] = 'The View question name question bank plugin does not store any personal data.';
+$string['pluginname'] = 'Праглядзець тып пытаньня';
+$string['privacy:metadata'] = 'Плагін банка пытаньняў Праглядзець тып пытаньня не захоўвае аніякіх асабістых дадзеных.';
