@@ -25,40 +25,40 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['accuracy'] = 'Accuracy';
-$string['accuracyandbonus'] = 'Accuracy + Bonus';
-$string['assumingcertainty'] = 'You did not select a certainty. Assuming: {$a}.';
-$string['averagecbmmark'] = 'Average CBM mark';
-$string['basemark'] = 'Base mark {$a}';
-$string['breakdownbycertainty'] = 'Break-down by certainty';
-$string['cbmbonus'] = 'CBM bonus';
-$string['cbmgradeexplanation'] = 'For CBM, the grade above is shown relative to the maximum for all correct at C=1.';
-$string['cbmgrades'] = 'CBM grades';
-$string['cbmgrades_help'] = 'With Certainty Based Marking (CBM) getting every question correct with C=1 (low certainty) gives a grade of 100%. Grades may be as high as 300% if every question is correct with C=3 (high certainty). Misconceptions (confident wrong responses) lower grades much more than wrong responses that are acknowledged to be uncertain. This may even lead to negative overall grades.
+$string['accuracy'] = 'Дакладнасьць';
+$string['accuracyandbonus'] = 'Дакладнасьць + Бонус';
+$string['assumingcertainty'] = 'Вы не абралі ўпэўненасьць. Сумаваньне: {$a}.';
+$string['averagecbmmark'] = 'Сярэдняя CBM-адзнака';
+$string['basemark'] = 'Базавая адзнака {$a}';
+$string['breakdownbycertainty'] = 'Разьбіўка па ўпэўненасьці';
+$string['cbmbonus'] = 'CBM-бонус';
+$string['cbmgradeexplanation'] = 'Для CBM, вышэйшая адзнака ўказана ў дачыненьні да максімальнай для ўсіх слушнай адзнакі C=1.';
+$string['cbmgrades'] = 'CBM-адзнакі';
+$string['cbmgrades_help'] = 'Падчас выкарыстаньня Ацэньваньня на Грунце Ўпэўненасьці (Certainty Based Marking, CBM) слушнае выкананьне кожнага пытаньня з C=1 (нізкая ўпэўненасьць) дае адзнаку 100%. Адзнакі могуць дасягаць 300%, калі кожнае пытаньне будзе слушным з C=3 (высокая ўпэўненасьць). Памылкі (упэўнена хібныя адказы) зьніжаюць адзнаку значна болей за хібныя водклічы, прызнаныя няўпэўненымі. Гэта можа нават прывесьці да адмоўных агульных адзнак.
 
-**Accuracy** is the % correct ignoring certainty but weighted for the maximum mark of each question. Successfully distinguishing more and less reliable responses gives a better grade than selecting the same certainty for each question. This is reflected in the **CBM Bonus**. **Accuracy** + **CBM Bonus** is a better measure of knowledge than **Accuracy**. Misconceptions can lead to a negative bonus, a warning to look carefully at what is and is not known.';
+**Дакладнасьць** - гэта % слушных адказаў без уліка ўпэўненасьці, але з улікам максімальнай адзнакі за кожнае пытаньне. Пасьпяховае падзяленьне больш-меней надзейных водклічаў дае больш высокую адзнаку за абраньне аднолькавай ўпэўненасьці для кожнага пытаньня. Гэтае адлюстроўваецца ў **CBM-Бонусе**. **Дакладнасьць** + **CBM-Бонус** - гэта больш дакладнае ацэньваньне ведаў за **Дакладнасьць**. Памылкі могуць прывесьці да адмоўнага бонуса - папярэджваньне пра неабходнасьць уважлівага вывучэньня вядомага і не вядомага.';
 $string['cbmgrades_link'] = 'qbehaviour/deferredcbm/certaintygrade';
-$string['cbmmark'] = 'CBM mark {$a}';
-$string['certainty'] = 'Certainty';
-$string['certainty-1'] = 'No Idea';
-$string['certainty1'] = 'C=1 (Unsure: <67%)';
-$string['certainty2'] = 'C=2 (Mid: >67%)';
-$string['certainty3'] = 'C=3 (Quite sure: >80%)';
-$string['certainty_help'] = 'Certainty-based marking requires you to indicate how reliable you think your answer is. The available levels are:
+$string['cbmmark'] = 'CBM-адзнака {$a}';
+$string['certainty'] = 'Упэўненасьць';
+$string['certainty-1'] = 'Невядома';
+$string['certainty1'] = 'C=1 (Неўпэўнена: <67%)';
+$string['certainty2'] = 'C=2 (Сярэдзіна: >67%)';
+$string['certainty3'] = 'C=3 (Досыць ўпэўнена: >80%)';
+$string['certainty_help'] = 'Ацэньваньне на грунце ўпэўненасьці патрабуе ад вас вызначэньня ступені надзейнасьці вашага адказу, на вашы погляд. Даступны наступныя роўні:
 
-Certainty level     | C=1 (Unsure) | C=2 (Mid) | C=3 (Quite sure)
+Ровень упэўненасьці     | C=1 (Неўпэўнена) | C=2 (Сярэдзіна) | C=3 (Досыць ўпэўнена)
 ------------------- | ------------ | --------- | ----------------
-Mark if correct     |   1          |    2      |      3
-Mark if wrong       |   0          |   -2      |     -6
-Probability correct |  <67%        | 67-80%    |    >80%
+Адзнака слушная     |   1          |    2      |      3
+Адзнака хібная      |   0          |   -2      |     -6
+Верагодна слушная   |  <67%        | 67-80%    |    >80%
 
-Best marks are gained by acknowledging uncertainty. For example, if you think there is more than a 1 in 3 chance of being wrong, you should enter C=1 and avoid the risk of a negative mark.';
+Лепшыя адзнакі льга атрымаць, вызнаўшы няўпэўненасьць. Напрыклад, калі вы лічыце, што верагоднасьць памылкі болей за 1 да 3, увядзіце C=1, каб пазьбегнуць рызыкі атрыманьня адмоўнай адзнакі.';
 $string['certainty_link'] = 'qbehaviour/deferredcbm/certainty';
-$string['certaintyshort-1'] = 'No Idea';
+$string['certaintyshort-1'] = 'Невядома';
 $string['certaintyshort1'] = 'C=1';
 $string['certaintyshort2'] = 'C=2';
 $string['certaintyshort3'] = 'C=3';
-$string['dontknow'] = 'No idea';
+$string['dontknow'] = 'Невядома';
 $string['foransweredquestions'] = 'Results for just the {$a} answered questions';
 $string['forentirequiz'] = 'Results for the whole quiz ({$a} questions)';
 $string['howcertainareyou'] = 'Certainty{$a->help}: {$a->choices}';

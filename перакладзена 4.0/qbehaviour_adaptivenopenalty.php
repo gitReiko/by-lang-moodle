@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Adaptive mode (no penalties)';
-$string['privacy:metadata'] = 'The Adaptive mode (no penalties) question behaviour plugin does not store any personal data.';
+$string['pluginname'] = 'Адаптыўны рэжым (бяз штрафаў)';
+$string['privacy:metadata'] = 'Плагін паводзінаў пытаньняў Адаптыўны рэжым (бяз штрафаў) не захоўвае аніякіх асабістых дадзеных.';
