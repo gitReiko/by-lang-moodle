@@ -268,11 +268,11 @@ qbank_viewquestiontext ----------- 100%
 qbank_viewquestiontype ----------- 100%
 qbehaviour_adaptive -------------- 100%
 qbehaviour_adaptivenopenalty ----- 100%
-qbehaviour_deferredcbm -----------
-qbehaviour_deferredfeedback ------
-qbehaviour_immediatecbm ----------
-qbehaviour_immediatefeedback -----
-qbehaviour_informationitem -------
+qbehaviour_deferredcbm ----------- 100%
+qbehaviour_deferredfeedback ------ 100%
+qbehaviour_immediatecbm ---------- 100%
+qbehaviour_immediatefeedback ----- 100%
+qbehaviour_informationitem ------- 100%
 qbehaviour_interactive -----------
 qbehaviour_interactivecountback --
 qbehaviour_manualgraded ----------

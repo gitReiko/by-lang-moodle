@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['notcomplete'] = 'Not complete';
-$string['pluginname'] = 'Immediate feedback';
-$string['privacy:metadata'] = 'The Immediate feedback question behaviour plugin does not store any personal data.';
+$string['notcomplete'] = 'Не выканана';
+$string['pluginname'] = 'Неадкладны водгук';
+$string['privacy:metadata'] = 'Плагін паводзінаў пытаньняў Неадкладны водгук не захоўвае аніякіх асабістых дадзеных.';

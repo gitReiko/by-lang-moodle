@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Deferred feedback';
-$string['privacy:metadata'] = 'The Deferred feedback behaviour plugin does not store any personal data.';
+$string['pluginname'] = 'Адкладзены водгук';
+$string['privacy:metadata'] = 'Плагін паводзінаў пытаньняў Адкладзены водгук не захоўвае аніякіх асабістых дадзеных.';

@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'qbehaviour_informationitem', language 'en', version '4.0'.
+ * Strings for component 'qbehaviour_immediatecbm', language 'en', version '4.0'.
  *
- * @package     qbehaviour_informationitem
+ * @package     qbehaviour_immediatecbm
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Behaviour for information items';
-$string['privacy:metadata'] = 'The Information items question behaviour plugin does not store any personal data.';
-$string['seen'] = 'Seen';
+$string['pleaseselectacertainty'] = 'Калі ласка, абярыце ўпэўненасьць.';
+$string['pluginname'] = 'Неадкладны водгук з CBM';
+$string['privacy:metadata'] = 'Плагін паводзінаў пытаньняў Неадкладны водгук з CBM не захоўвае аніякіх асабістых дадзеных.';
