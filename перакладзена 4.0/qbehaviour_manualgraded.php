@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'qbehaviour_missing', language 'en', version '4.0'.
+ * Strings for component 'qbehaviour_manualgraded', language 'en', version '4.0'.
  *
- * @package     qbehaviour_missing
+ * @package     qbehaviour_manualgraded
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,6 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Missing behaviour';
-$string['privacy:metadata'] = 'The Missing question behaviour plugin does not store any personal data.';
-$string['questionusedunknownmodel'] = 'This question was attempted with a behaviour that is not currently available. The question is being displayed as well as possible, but some parts may be missing or wrong.';
+$string['pluginname'] = 'Ручное ацэньваньне';
+$string['privacy:metadata'] = 'Плагін паводзінаў пытаньняў Ручное ацэньваньне не захоўвае аніякіх асабістых дадзеных.';

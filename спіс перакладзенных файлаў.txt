@@ -273,10 +273,10 @@ qbehaviour_deferredfeedback ------ 100%
 qbehaviour_immediatecbm ---------- 100%
 qbehaviour_immediatefeedback ----- 100%
 qbehaviour_informationitem ------- 100%
-qbehaviour_interactive -----------
-qbehaviour_interactivecountback --
-qbehaviour_manualgraded ----------
-qbehaviour_missing ---------------
+qbehaviour_interactive ----------- 100%
+qbehaviour_interactivecountback -- 100%
+qbehaviour_manualgraded ---------- 100%
+qbehaviour_missing --------------- 100%
 
 ||   ||   ||
 \/   \/   \/

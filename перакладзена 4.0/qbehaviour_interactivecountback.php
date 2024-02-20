@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'qbehaviour_interactive', language 'en', version '4.0'.
+ * Strings for component 'qbehaviour_interactivecountback', language 'en', version '4.0'.
  *
- * @package     qbehaviour_interactive
+ * @package     qbehaviour_interactivecountback
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,7 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Interactive with multiple tries';
-$string['privacy:metadata'] = 'The Interactive with multiple tries question behaviour plugin does not store any personal data.';
-$string['triesremaining'] = 'Tries remaining: {$a}';
-$string['tryagain'] = 'Try again';
+$string['pluginname'] = 'Інтэрактыўны з некалькімі спробамі (з дадатковай адзнакай за папярэднія спробы)';
+$string['privacy:metadata'] = 'Плагін паводзінаў пытаньняў Інтэрактыўны з некалькімі спробамі (з дадатковай адзнакай за папярэднія спробы) не захоўвае аніякіх асабістых дадзеных.';
