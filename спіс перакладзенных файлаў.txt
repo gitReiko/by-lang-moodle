@@ -280,10 +280,10 @@ qbehaviour_missing --------------- 100%
 qformat_aiken -------------------- 100%
 qformat_blackboard_six ----------- 100%
 qformat_gift --------------------- 100%
-qformat_missingword --------------
-qformat_multianswer --------------
-qformat_xhtml --------------------
-qformat_xml ----------------------
+qformat_missingword -------------- 100%
+qformat_multianswer -------------- 100%
+qformat_xhtml -------------------- 100%
+qformat_xml ---------------------- 100%
 
 ||   ||   ||
 \/   \/   \/

@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'qformat_missingword', language 'en', version '4.0'.
+ * Strings for component 'qformat_multianswer', language 'en', version '4.0'.
  *
- * @package     qformat_missingword
+ * @package     qformat_multianswer
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,10 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['beginanswernotfound'] = 'Could not find a required "{" character in imported file content.';
-$string['endanswernotfound'] = 'Could not find a required "}" character in imported file content.';
-$string['noanswerfound'] = 'No answers found in question';
-$string['pluginname'] = 'Missing word format';
-$string['pluginname_help'] = 'Missing word format enables questions to be imported via text file.';
-$string['pluginname_link'] = 'Missing word format';
-$string['privacy:metadata'] = 'The Missing word question format plugin does not store any personal data.';
+$string['pluginname'] = 'Убудаваныя адказы (Закрытыя)';
+$string['pluginname_help'] = 'Фармат убудаваных адказаў (закрытых) дазваляе імпартаваць ўрыўкі тэксту з убудаванымі ў іх пытаньнямі множны выбар альбо кароткі адказ.';
+$string['pluginname_link'] = 'question/type/multianswer';
+$string['privacy:metadata'] = 'Плагін фармату пытаньняў Убудаваныя адказы (Закрытыя) не захоўвае аніякіх асабістых дадзеных.';

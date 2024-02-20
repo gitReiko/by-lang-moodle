@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'qformat_multianswer', language 'en', version '4.0'.
+ * Strings for component 'qformat_xhtml', language 'en', version '4.0'.
  *
- * @package     qformat_multianswer
+ * @package     qformat_xhtml
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Embedded answers (Cloze)';
-$string['pluginname_help'] = 'Embedded answers (Cloze) format enables the import of a passage of text with questions such as multiple-choice and short answer embedded within it.';
-$string['pluginname_link'] = 'question/type/multianswer';
-$string['privacy:metadata'] = 'The Embedded answers question plugin does not store any personal data.';
+$string['pluginname'] = 'Фармат XHTML';
+$string['pluginname_help'] = 'Фармат XHTML дазваляе экспартаваць усе пытаньні катэгорыі як адну старонку ў строгім фармаце XHTML дзеля выкарыстаньня ў іншых дадатках.';
+$string['pluginname_link'] = 'qformat/xhtml';
+$string['privacy:metadata'] = 'Плагін фармату пытаньняў XHTML не захоўвае аніякіх асабістых дадзеных.';
