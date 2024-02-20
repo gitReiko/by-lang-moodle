@@ -25,10 +25,10 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Aiken format';
-$string['pluginname_help'] = 'This is a simple format for importing multiple choice questions from a text file.';
+$string['pluginname'] = 'Фармат Aiken';
+$string['pluginname_help'] = 'Гэта просты фармат імпартаваньня пытаньняў тыпу множны выбар з тэкставага файлу.';
 $string['pluginname_link'] = 'qformat/aiken';
-$string['privacy:metadata'] = 'The Aiken question format plugin does not store any personal data.';
-$string['questionmissinganswers'] = 'Question must have at least 2 answers on line {$a}';
-$string['questionnotcomplete'] = 'Question not completed before next question start on line {$a}';
-$string['questionnotstarted'] = 'Question not started on line {$a}';
+$string['privacy:metadata'] = 'Плагін фармату пытаньняў Aiken не захоўвае аніякіх асабістых дадзеных.';
+$string['questionmissinganswers'] = 'Пытаньне мусіць мець прынамсі 2 адказы. Радок {$a}';
+$string['questionnotcomplete'] = 'Пытаньне ня скончана да пачынаньня наступнага пытаньня. Радок {$a}';
+$string['questionnotstarted'] = 'Пытаньне не пачата. Радок {$a}';
