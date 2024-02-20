@@ -277,6 +277,13 @@ qbehaviour_interactive ----------- 100%
 qbehaviour_interactivecountback -- 100%
 qbehaviour_manualgraded ---------- 100%
 qbehaviour_missing --------------- 100%
+qformat_aiken --------------------
+qformat_blackboard_six -----------
+qformat_gift ---------------------
+qformat_missingword --------------
+qformat_multianswer --------------
+qformat_xhtml --------------------
+qformat_xml ----------------------
 
 ||   ||   ||
 \/   \/   \/
