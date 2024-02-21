@@ -284,6 +284,24 @@ qformat_missingword -------------- 100%
 qformat_multianswer -------------- 100%
 qformat_xhtml -------------------- 100%
 qformat_xml ---------------------- 100%
+qtype_calculated ----------------- 
+qtype_calculatedmulti ------------ 
+qtype_calculatedsimple ----------- 
+qtype_ddimageortext -------------- 
+qtype_ddmarker ------------------- 
+qtype_ddwtos --------------------- 
+qtype_description ---------------- 
+qtype_essay ---------------------- 
+qtype_gapselect ------------------ 
+qtype_match ---------------------- 
+qtype_missingtype ---------------- 
+qtype_multianswer ---------------- 
+qtype_multichoice ---------------- 
+qtype_numerical ------------------ 
+qtype_random --------------------- 
+qtype_randomsamatch -------------- 
+qtype_shortanswer ---------------- 
+qtype_truefalse ------------------ 
 
 ||   ||   ||
 \/   \/   \/
