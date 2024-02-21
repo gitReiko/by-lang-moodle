@@ -25,23 +25,23 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['additem'] = 'Add item';
-$string['addmoreanswerblanks'] = 'Add another answer blank.';
-$string['addsets'] = 'Add set(s)';
-$string['answerdisplay'] = 'Answer display';
-$string['answerformula'] = 'Answer  {$a} formula';
-$string['answerhdr'] = 'Answer';
-$string['answerstoleranceparam'] = 'Answers tolerance parameters';
+$string['additem'] = 'Дадаць прадмет';
+$string['addmoreanswerblanks'] = 'Дадаць яшчэ адзін бланк адказу.';
+$string['addsets'] = 'Дадаць набор(ы)';
+$string['answerdisplay'] = 'Адлюстраваньне адказаў';
+$string['answerformula'] = 'Формула адказу {$a}';
+$string['answerhdr'] = 'Адказ';
+$string['answerstoleranceparam'] = 'Параметры допускаў адказаў';
 $string['answerwithtolerance'] = '{$a->answer} (±{$a->tolerance} {$a->tolerancetype})';
-$string['anyvalue'] = 'Any value';
-$string['atleastoneanswer'] = 'You need to provide at least one answer.';
-$string['atleastonerealdataset'] = 'There should be at least one real dataset in question text';
-$string['atleastonewildcard'] = 'There should be at least one wild card in answer formula or question text';
-$string['calcdistribution'] = 'Distribution';
-$string['calclength'] = 'Decimal places';
-$string['calcmax'] = 'Maximum';
-$string['calcmin'] = 'Minimum';
-$string['choosedatasetproperties'] = 'Choose wildcards dataset properties';
+$string['anyvalue'] = 'Ўсякае значэньне';
+$string['atleastoneanswer'] = 'Вы мусіце ўвесьці прынамсі адзін адказ.';
+$string['atleastonerealdataset'] = 'У тэксьце пытаньня мусіць мецца прынамсі адзін рэальны набор дадзеных';
+$string['atleastonewildcard'] = 'У формуле адказу мусіць мецца прынамсі адзін падстаўны знак';
+$string['calcdistribution'] = 'Дыстрыбуцыя';
+$string['calclength'] = 'Дзесяткавыя знакі';
+$string['calcmax'] = 'Максімум';
+$string['calcmin'] = 'Мінімум';
+$string['choosedatasetproperties'] = 'Абярыце ўласьцівасьці падстаўных знакаў набора дадзеных';
 $string['choosedatasetproperties_help'] = 'A dataset is a set of values inserted in place of a wildcard. You can create a private dataset for a specific question, or a shared dataset that can be used for other calculated questions within the category.';
 $string['correctanswerformula'] = 'Correct answer formula';
 $string['correctanswershows'] = 'Correct answer shows';
@@ -135,7 +135,7 @@ $string['synchronize'] = 'Synchronise the data from shared datasets with other q
 $string['synchronizeno'] = 'Do not synchronise';
 $string['synchronizeyes'] = 'Synchronise';
 $string['synchronizeyesdisplay'] = 'Synchronise and display the shared datasets name as prefix of the question name';
-$string['tolerance'] = 'Tolerance ±';
+$string['tolerance'] = 'Допускі ±';
 $string['tolerancetype'] = 'Type';
 $string['trueanswerinsidelimits'] = 'Correct answer : {$a->correct} inside limits of true value {$a->true}';
 $string['trueansweroutsidelimits'] = '<span class="error">ERROR Correct answer : {$a->correct} outside limits of true value {$a->true}</span>';

@@ -188,5 +188,6 @@ Username = логін
 value grade type = адзнака тыпу значэньне
 Verbose scales = Слоўны шкалы
 Warnings = папярэджаньні
+wildcard = падстаўныя знакі
 workflow state = статус працоўнага струменя
 workshop = майстэрня
