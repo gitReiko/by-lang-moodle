@@ -285,7 +285,7 @@ qformat_multianswer -------------- 100%
 qformat_xhtml -------------------- 100%
 qformat_xml ---------------------- 100%
 qtype_calculated ----------------- 100%
-qtype_calculatedmulti ------------ 
+qtype_calculatedmulti ------------ 100%
 qtype_calculatedsimple ----------- 
 qtype_ddimageortext -------------- 
 qtype_ddmarker ------------------- 

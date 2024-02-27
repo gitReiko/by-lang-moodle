@@ -20,6 +20,7 @@ book = кніга
 box = скрынка
 Bulk = масавы
 Cache = кэш
+Calculated = вылічвальнае (пытаньне)
 calculation = разьлік
 capability = здольнасьць
 chapter = глава (кнігі)
