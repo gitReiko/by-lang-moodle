@@ -284,7 +284,7 @@ qformat_missingword -------------- 100%
 qformat_multianswer -------------- 100%
 qformat_xhtml -------------------- 100%
 qformat_xml ---------------------- 100%
-qtype_calculated ----------------- 
+qtype_calculated ----------------- 100%
 qtype_calculatedmulti ------------ 
 qtype_calculatedsimple ----------- 
 qtype_ddimageortext -------------- 
