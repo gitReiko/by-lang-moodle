@@ -287,7 +287,7 @@ qformat_xml ---------------------- 100%
 qtype_calculated ----------------- 100%
 qtype_calculatedmulti ------------ 100%
 qtype_calculatedsimple ----------- 100%
-qtype_ddimageortext -------------- 
+qtype_ddimageortext -------------- 100%
 qtype_ddmarker ------------------- 
 qtype_ddwtos --------------------- 
 qtype_description ---------------- 
