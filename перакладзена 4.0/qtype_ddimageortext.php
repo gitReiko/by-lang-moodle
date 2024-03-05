@@ -28,7 +28,7 @@ defined('MOODLE_INTERNAL') || die();
 $string['addmoredropzones'] = 'Пустэчы дзеля {no} дадатковых вобласьцяў пакіданьня';
 $string['addmoreimages'] = 'Пустэчы дзеля {no} дадатковых рухомых прадметаў';
 $string['answer'] = 'Адказ';
-$string['bgimage'] = 'Выява фону';
+$string['bgimage'] = 'Фонавая выява';
 $string['blank'] = 'пуста';
 $string['correctansweris'] = 'Слушны адказ: {$a}';
 $string['deletedchoice'] = '[Выдалены выбар]';

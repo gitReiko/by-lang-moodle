@@ -25,39 +25,39 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['addmoreitems'] = 'Blanks for {no} more markers';
-$string['alttext'] = 'Alt text';
-$string['answer'] = 'Answer';
-$string['bgimage'] = 'Background image';
-$string['clearwrongparts'] = 'Move incorrectly placed markers back to default start position below image';
-$string['coords'] = 'Coordinates';
-$string['correctansweris'] = 'The correct answer is: {$a}';
-$string['draggableimage'] = 'Draggable image';
-$string['draggableitem'] = 'Draggable item';
-$string['draggableitemheader'] = 'Draggable item {$a}';
-$string['draggableitemtype'] = 'Type';
-$string['draggableword'] = 'Draggable text';
-$string['dropbackground'] = 'Background image for dragging markers onto';
-$string['dropzone'] = 'Drop zone {$a}';
-$string['dropzoneheader'] = 'Drop zones';
-$string['dropzones'] = 'Drop zones';
-$string['dropzones_help'] = 'Drop zones may be defined by coordinates, or dragged into position in the preview above.
+$string['addmoreitems'] = 'Пустэчы дзеля {no} новых маркераў';
+$string['alttext'] = 'Альтэрнатывны тэкст';
+$string['answer'] = 'Адказ';
+$string['bgimage'] = 'Фонавая выява';
+$string['clearwrongparts'] = 'Перасунуць хібна зьмесцаваныя маркеры назад на стандартныя стартавыя пазіцыі пад выявай';
+$string['coords'] = 'Каардынаты';
+$string['correctansweris'] = 'Слушны адказ: {$a}';
+$string['draggableimage'] = 'Рухомая выява';
+$string['draggableitem'] = 'Рухомы прадмет';
+$string['draggableitemheader'] = 'Рухомы прадмет {$a}';
+$string['draggableitemtype'] = 'Тып';
+$string['draggableword'] = 'Рухомы тэкст';
+$string['dropbackground'] = 'Фонавая выява дзеля рухомых маркераў';
+$string['dropzone'] = 'Зона пакіданьня {$a}';
+$string['dropzoneheader'] = 'Зоны пакіданьня';
+$string['dropzones'] = 'Зоны пакіданьня';
+$string['dropzones_help'] = 'Зоны пакіданьня могуць быць вызначаны каардынатамі альбо перасунуты ў патрэбнае месца ў рэжыме прадпрагляду.
 
-First selecting a shape (circle, rectangle or polygon) will add a new drop zone shape to the top left of the preview. It may be useful to minimise the Markers section so you can see the preview while editing the Drop zones.
+Пачатковае абраньне фігуры (кола, прастакутніка ці шматкутніка) дадасьць новую фігуру зоны пакіданьня ў левую верхнюю частку прадпрагляду. Мінімізаваньне падзелу Маркераў, можа здасьця карысным дзеля прагляду прадпрагляду падчас рэдагаваньня Зонаў пакіданьня.
 
-Editing a shape starts with a click on the shape in the preview to show the editing handles. You can move the shape using the center handle, or adjust the shape\'s dimensions with the vertex handles.
+Рэдагаваньне фігуры пачынаецца з націску па ёй у прадпраглядзе дзеля адлюстраваньня вагароў рэдагаваньня. Вы здольныя перасоўваць фігуру з дапамогай цэнтральнага вагара альбо зьмяняць памеры фігуры вяршыннымі вагарамі.
 
-For polygons only, holding the control button (command button on a Mac) while clicking on a vertex handle will add a new vertex to the polygon. Please keep a polygon shape as simple as possible, without crossing lines.
+Толькі дзеля шматкутнікаў, утрымлівая кнопку control (command на Mac) і націскаючы на вяршынны вагар, вы дадаеце новую вяршыню да шматкутніка. Калі ласка, захоўвайце як мага прасьцейшую форму шматкутніка, без скрыжаваных лініяў.
 
-For information the three shapes use coordinates in this way:
+Інфармацыя пра выкарыстаньне каардынат трыма фігурамі:
 
-* Circle: centre_x, centre_y; radius<br />for example: <code>80,100;50</code>
-* Rectangle: top_left_x, top_left_y; width, height<br />for example: <code>20,60;80,40</code>
-* Polygon: x1, y1; x2, y2; ...; xn, yn<br />for example: <code>20,60;100,60;20,100</code>
+* Кола: цэнтар_x, цэнтар_y; радыус<br />прыклад: <code>80,100;50</code>
+* Прастакутнік: верхні_левы_x, верхні_левы_y; шырыня, вышыня<br />прыклад: <code>20,60;80,40</code>
+* Шматкутнік: x1, y1; x2, y2; ...; xn, yn<br />прыклад: <code>20,60;100,60;20,100</code>
 
-Selecting a Marker text will add that text to the shape in the preview.';
-$string['followingarewrong'] = 'The following markers have been placed in the wrong area : {$a}.';
-$string['followingarewrongandhighlighted'] = 'The following markers were incorrectly placed :  {$a}. Highlighted marker(s) are now shown with the correct placement(s).<br /> Click on the marker to highlight the allowed area.';
+Абраньне тэкста Маркера дадасьць яго да фигуры ў прадпраглядзе.';
+$string['followingarewrong'] = 'Наступныя маркеры зьмесцаваны ў хібнай вобласьці : {$a}.';
+$string['followingarewrongandhighlighted'] = 'Наступныя маркеры зьмесцаваны ў хібнай вобласьці :  {$a}. Вылучаныя маркеры зараз адлюстроўваюцца са слушным месцаваньнем.<br /> Націсьніце па маркеру, каб вылучыць дазволеную вобласьць.';
 $string['formerror_nobgimage'] = 'You need to select an image to use as the background for the drag and drop area.';
 $string['formerror_noitemselected'] = 'You have specified a drop zone but not chosen a marker that must be dragged to the zone.';
 $string['formerror_nosemicolons'] = 'There are no semicolons in your coordinates string. Your coordinates for a {$a->shape} should be expressed as - {$a->coordsstring}.';
@@ -76,7 +76,7 @@ $string['markers'] = 'Markers';
 $string['nolabel'] = 'No label text';
 $string['noofdrags'] = 'Number';
 $string['pleasedragatleastonemarker'] = 'Your answer is not complete; you must place at least one marker on the image.';
-$string['pluginname'] = 'Drag and drop markers';
+$string['pluginname'] = 'Перасоўваньне маркераў';
 $string['pluginname_help'] = 'Drag and drop markers require the respondent to drag text labels and drop them into defined drop zones on a background image.';
 $string['pluginname_link'] = 'question/type/ddmarker';
 $string['pluginnameadding'] = 'Adding drag and drop markers';
