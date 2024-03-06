@@ -289,7 +289,7 @@ qtype_calculatedmulti ------------ 100%
 qtype_calculatedsimple ----------- 100%
 qtype_ddimageortext -------------- 100%
 qtype_ddmarker ------------------- 100%
-qtype_ddwtos --------------------- 
+qtype_ddwtos --------------------- 100%
 qtype_description ---------------- 
 qtype_essay ---------------------- 
 qtype_gapselect ------------------ 
