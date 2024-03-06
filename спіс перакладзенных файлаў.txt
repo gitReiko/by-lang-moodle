@@ -301,7 +301,7 @@ qtype_numerical ------------------
 qtype_random --------------------- 
 qtype_randomsamatch -------------- 
 qtype_shortanswer ---------------- 
-qtype_truefalse ------------------ 
+qtype_truefalse ------------------ 100%
 
 ||   ||   ||
 \/   \/   \/
