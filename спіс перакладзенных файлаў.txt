@@ -290,7 +290,7 @@ qtype_calculatedsimple ----------- 100%
 qtype_ddimageortext -------------- 100%
 qtype_ddmarker ------------------- 100%
 qtype_ddwtos --------------------- 100%
-qtype_description ---------------- 
+qtype_description ---------------- 100%
 qtype_essay ---------------------- 
 qtype_gapselect ------------------ 
 qtype_match ---------------------- 
