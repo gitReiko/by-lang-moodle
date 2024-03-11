@@ -291,7 +291,7 @@ qtype_ddimageortext -------------- 100%
 qtype_ddmarker ------------------- 100%
 qtype_ddwtos --------------------- 100%
 qtype_description ---------------- 100%
-qtype_essay ---------------------- 
+qtype_essay ---------------------- 100%
 qtype_gapselect ------------------ 
 qtype_match ---------------------- 
 qtype_missingtype ---------------- 
