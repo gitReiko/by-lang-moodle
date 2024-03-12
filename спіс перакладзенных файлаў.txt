@@ -292,7 +292,7 @@ qtype_ddmarker ------------------- 100%
 qtype_ddwtos --------------------- 100%
 qtype_description ---------------- 100%
 qtype_essay ---------------------- 100%
-qtype_gapselect ------------------ 
+qtype_gapselect ------------------ 100%
 qtype_match ---------------------- 
 qtype_missingtype ---------------- 
 qtype_multianswer ---------------- 
