@@ -294,13 +294,13 @@ qtype_description ---------------- 100%
 qtype_essay ---------------------- 100%
 qtype_gapselect ------------------ 100%
 qtype_match ---------------------- 
-qtype_missingtype ---------------- 
+qtype_missingtype ---------------- 100%
 qtype_multianswer ---------------- 
 qtype_multichoice ---------------- 
 qtype_numerical ------------------ 
 qtype_random --------------------- 
 qtype_randomsamatch -------------- 
-qtype_shortanswer ---------------- 
+qtype_shortanswer ---------------- 100%
 qtype_truefalse ------------------ 100%
 
 ||   ||   ||
