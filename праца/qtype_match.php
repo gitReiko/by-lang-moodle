@@ -25,19 +25,19 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['answer'] = 'Answer {$a}';
-$string['availablechoices'] = 'Available choices';
-$string['blanksforxmorequestions'] = 'Blanks for {no} more questions';
-$string['correctansweris'] = 'The correct answer is: {$a}';
-$string['deletedchoice'] = '[Deleted choice]';
-$string['deletedsubquestion'] = 'This part of the question was deleted after the attempt was started.';
-$string['filloutthreeqsandtwoas'] = 'You must provide at least two questions and three answers. You can provide extra wrong answers by giving an answer with a blank question. Entries where both the question and the answer are blank will be ignored.';
-$string['nomatchinganswer'] = 'You must specify an answer matching the question \'{$a}\'.';
-$string['nomatchinganswerforq'] = 'You must specify an answer for this question.';
-$string['notenoughqsandas'] = 'You must supply at least {$a->q} questions and {$a->a} answers.';
-$string['notenoughquestions'] = 'You must supply at least {$a} question and answer pairs.';
-$string['pleaseananswerallparts'] = 'Please answer all parts of the question.';
-$string['pluginname'] = 'Matching';
+$string['answer'] = 'Адказ {$a}';
+$string['availablechoices'] = 'Даступныя выбары';
+$string['blanksforxmorequestions'] = 'Пустэчы дзеля {no} дадатковых пытаньняў';
+$string['correctansweris'] = 'Слушны адказ: {$a}';
+$string['deletedchoice'] = '[Выдалены выбар]';
+$string['deletedsubquestion'] = 'Гэтая частка пытаньня была выдалена пасьля пачынаньня спробы.';
+$string['filloutthreeqsandtwoas'] = 'Вы мусіце падаць прынамсі два пытаньня і тры адказы. Вы можаце падаць дадатковыя хібныя адказы шляхам пакіданьня адказу на пустое пытаньне. Існасьці, што маюць пытаньне і адказ, будуць ігнаравацца.';
+$string['nomatchinganswer'] = 'Вы мусіце вызначыць адказ, што будзе адпавядаць пытаньню \'{$a}\'.';
+$string['nomatchinganswerforq'] = 'Вы мусіце вызначыць адказ на гэтае пытаньне.';
+$string['notenoughqsandas'] = 'Вы мусіце падаць прынамсі {$a->q} пытаньняў і {$a->a} адказаў.';
+$string['notenoughquestions'] = 'Вы мусіце падаць прынамсі {$a} пытаньняў і адказаў-пар.';
+$string['pleaseananswerallparts'] = 'Калі ласка, адкажыце на ўсе часткі пытаньня.';
+$string['pluginname'] = 'Адпаведнасьць';
 $string['pluginname_help'] = 'Matching questions require the respondent to correctly match a list of names or statements (questions) to another list of names or statements (answers).';
 $string['pluginname_link'] = 'question/type/match';
 $string['pluginnameadding'] = 'Adding a Matching question';
