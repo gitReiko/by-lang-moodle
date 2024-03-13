@@ -298,8 +298,8 @@ qtype_missingtype ---------------- 100%
 qtype_multianswer ---------------- 
 qtype_multichoice ---------------- 100%
 qtype_numerical ------------------ 
-qtype_random --------------------- 
-qtype_randomsamatch -------------- 
+qtype_random --------------------- 100%
+qtype_randomsamatch -------------- 100%
 qtype_shortanswer ---------------- 100%
 qtype_truefalse ------------------ 100%
 
