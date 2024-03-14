@@ -28,7 +28,7 @@ defined('MOODLE_INTERNAL') || die();
 $string['action'] = 'Дзеяньне';
 $string['addanotherhint'] = 'Дадаць яшчэ падказку';
 $string['addcategory'] = 'Дадаць катэгорыю';
-$string['addmorechoiceblanks'] = '{no} дадатковых месцаў для абраньня';
+$string['addmorechoiceblanks'] = 'Пустэчы дзеля {no} дадатковых выбараў';
 $string['adminreport'] = 'Справаздача пра магчымыя праблемы ў вашай базе дадзеных пытаньняў.';
 $string['advancedsearchoptions'] = 'Налады пошуку';
 $string['alltries'] = 'Усе спробы';

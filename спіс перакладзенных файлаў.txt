@@ -293,9 +293,9 @@ qtype_ddwtos --------------------- 100%
 qtype_description ---------------- 100%
 qtype_essay ---------------------- 100%
 qtype_gapselect ------------------ 100%
-qtype_match ---------------------- 
+qtype_match ---------------------- 100%
 qtype_missingtype ---------------- 100%
-qtype_multianswer ---------------- 
+qtype_multianswer ---------------- 100%
 qtype_multichoice ---------------- 100%
 qtype_numerical ------------------ 
 qtype_random --------------------- 100%
