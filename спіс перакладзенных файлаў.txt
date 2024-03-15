@@ -302,7 +302,7 @@ qtype_random --------------------- 100%
 qtype_randomsamatch -------------- 100%
 qtype_shortanswer ---------------- 100%
 qtype_truefalse ------------------ 100%
-quiz_grading --------------------- 
+quiz_grading --------------------- 100%
 quiz_overview -------------------- 
 quiz_responses ------------------- 
 quiz_statistics ------------------ 
