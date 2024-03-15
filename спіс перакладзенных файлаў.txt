@@ -297,7 +297,7 @@ qtype_match ---------------------- 100%
 qtype_missingtype ---------------- 100%
 qtype_multianswer ---------------- 100%
 qtype_multichoice ---------------- 100%
-qtype_numerical ------------------ 
+qtype_numerical ------------------ 100%
 qtype_random --------------------- 100%
 qtype_randomsamatch -------------- 100%
 qtype_shortanswer ---------------- 100%
