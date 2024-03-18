@@ -306,6 +306,15 @@ quiz_grading --------------------- 100%
 quiz_overview -------------------- 100%
 quiz_responses ------------------- 100%
 quiz_statistics ------------------ 100%
+quizaccess_delaybetweenattempts -- 
+quizaccess_ipaddress ------------- 
+quizaccess_numattempts ----------- 
+quizaccess_offlineattempts ------- 
+quizaccess_openclosedate --------- 
+quizaccess_password -------------- 
+quizaccess_seb ------------------- 
+quizaccess_securewindow ---------- 
+quizaccess_timelimit ------------- 
 
 ||   ||   ||
 \/   \/   \/
