@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'quizaccess_numattempts', language 'en', version '4.0'.
+ * Strings for component 'quizaccess_ipaddress', language 'en', version '4.0'.
  *
- * @package     quizaccess_numattempts
+ * @package     quizaccess_ipaddress
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['attemptsallowedn'] = 'Attempts allowed: {$a}';
-$string['pluginname'] = 'Number of attempts quiz access rule';
-$string['privacy:metadata'] = 'The Number of attempts quiz access rule plugin does not store any personal data.';
+$string['pluginname'] = 'Правіла доступу ў тэст IP-адрас';
+$string['privacy:metadata'] = 'Плагін правіла доступу ў тэст IP-адрас не захоўвае аніякіх асабістых дадзеных.';
+$string['subnetwrong'] = 'Доступ да гэтага тэсту магчымы толькі з пэўных месцаў, і гэты компьютер не ўваходзіць у сьпіс дазволеных.';

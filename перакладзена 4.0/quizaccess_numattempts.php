@@ -15,9 +15,9 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'quizaccess_delaybetweenattempts', language 'en', version '4.0'.
+ * Strings for component 'quizaccess_numattempts', language 'en', version '4.0'.
  *
- * @package     quizaccess_delaybetweenattempts
+ * @package     quizaccess_numattempts
  * @category    string
  * @copyright   1999 Martin Dougiamas and contributors
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -25,7 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Delay between attempts quiz access rule';
-$string['privacy:metadata'] = 'The Delay between attempts quiz access rule plugin does not store any personal data.';
-$string['youcannotwait'] = 'This quiz closes before you will be allowed to start another attempt.';
-$string['youmustwait'] = 'You must wait before you may re-attempt this quiz. You will be allowed to start another attempt after {$a}.';
+$string['attemptsallowedn'] = 'Дазволеныя спробы: {$a}';
+$string['pluginname'] = 'Правіла доступу ў тэст Колькасьць спробаў';
+$string['privacy:metadata'] = 'Плагін правіла доступу ў тэст Колькасьць спробаў не захоўвае аніякіх асабістых дадзеных.';
