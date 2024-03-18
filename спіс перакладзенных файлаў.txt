@@ -305,7 +305,7 @@ qtype_truefalse ------------------ 100%
 quiz_grading --------------------- 100%
 quiz_overview -------------------- 100%
 quiz_responses ------------------- 100%
-quiz_statistics ------------------ 
+quiz_statistics ------------------ 100%
 
 ||   ||   ||
 \/   \/   \/
