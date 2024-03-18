@@ -313,13 +313,8 @@ quizaccess_offlineattempts -------
 quizaccess_openclosedate --------- 
 quizaccess_password -------------- 
 quizaccess_seb ------------------- 
-quizaccess_securewindow ---------- 
-quizaccess_timelimit ------------- 
-
-||   ||   ||
-\/   \/   \/
-
 quizaccess_securewindow ---------- 100%
+quizaccess_timelimit ------------- 
 
 
 
