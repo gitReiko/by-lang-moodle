@@ -309,12 +309,12 @@ quiz_statistics ------------------ 100%
 quizaccess_delaybetweenattempts -- 100%
 quizaccess_ipaddress ------------- 100%
 quizaccess_numattempts ----------- 100%
-quizaccess_offlineattempts ------- 
+quizaccess_offlineattempts ------- 100%
 quizaccess_openclosedate --------- 100%
-quizaccess_password -------------- 
+quizaccess_password -------------- 100%
 quizaccess_seb ------------------- 
 quizaccess_securewindow ---------- 100%
-quizaccess_timelimit ------------- 
+quizaccess_timelimit ------------- 100%
 
 
 

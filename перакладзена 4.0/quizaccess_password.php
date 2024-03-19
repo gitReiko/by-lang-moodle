@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['passworderror'] = 'The password entered was incorrect';
-$string['pluginname'] = 'Password quiz access rule';
-$string['privacy:metadata'] = 'The Password quiz access rule plugin does not store any personal data.';
-$string['quizpassword'] = 'Quiz password';
-$string['requirepasswordmessage'] = 'To attempt this quiz you need to know the quiz password';
+$string['passworderror'] = 'Уведзены пароль апынуўся хібным';
+$string['pluginname'] = 'Правіла доступу ў тэст Пароль';
+$string['privacy:metadata'] = 'Плагін правіла доступу ў тэст Пароль не захоўвае аніякіх асабістых дадзеных.';
+$string['quizpassword'] = 'Пароль тэста';
+$string['requirepasswordmessage'] = 'Дзеля спрабаваньня выкананьня гэтага тэста вам трэба ведаць пароль тэста';
