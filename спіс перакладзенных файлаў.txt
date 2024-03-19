@@ -310,7 +310,7 @@ quizaccess_delaybetweenattempts -- 100%
 quizaccess_ipaddress ------------- 100%
 quizaccess_numattempts ----------- 100%
 quizaccess_offlineattempts ------- 
-quizaccess_openclosedate --------- 
+quizaccess_openclosedate --------- 100%
 quizaccess_password -------------- 
 quizaccess_seb ------------------- 
 quizaccess_securewindow ---------- 100%

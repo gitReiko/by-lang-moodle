@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['notavailable'] = 'This quiz is not currently available';
-$string['pluginname'] = 'Open and close date access rule';
-$string['privacy:metadata'] = 'The Open and close date quiz access rule plugin does not store any personal data.';
-$string['quiznotavailable'] = 'The quiz will not be available until {$a}';
+$string['notavailable'] = 'Гэты тэст зараз недаступны';
+$string['pluginname'] = 'Правіла доступу ў тэст Даты адкрыцьця і закрыцьця';
+$string['privacy:metadata'] = 'Плагін правіла доступу ў тэст Даты адкрыцьця і закрыцьця не захоўвае аніякіх асабістых дадзеных.';
+$string['quiznotavailable'] = 'Гэты тэст будзе недаступны да {$a}';
