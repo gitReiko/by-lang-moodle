@@ -98,15 +98,15 @@ $string['seb:manage_seb_filterembeddedcontent'] = 'Зьмена наладаў �
 $string['seb:manage_seb_linkquitseb'] = 'Зьмена наладаў тэсту SEB: Спасылка выхаду';
 $string['seb:manage_seb_muteonstartup'] = 'Зьмена наладаў тэсту SEB: Адключэньне гуку пасьля пачынаньня';
 $string['seb:manage_seb_quitpassword'] = 'Зьмена наладаў тэсту SEB: Пароль выхаду';
-$string['seb:manage_seb_regexallowed'] = 'Зьмена наладаў тэсту SEB: Дазволіць regex выразы';
-$string['seb:manage_seb_regexblocked'] = 'Зьмена наладаў тэсту SEB: Забараніць regex выразы';
+$string['seb:manage_seb_regexallowed'] = 'Зьмена наладаў тэсту SEB: Дазволены regex выразы';
+$string['seb:manage_seb_regexblocked'] = 'Зьмена наладаў тэсту SEB: Забаронены regex выразы';
 $string['seb:manage_seb_requiresafeexambrowser'] = 'Зьмена наладаў тэсту SEB: Патрабаваньне Safe Exam Browser';
 $string['seb:manage_seb_showkeyboardlayout'] = 'Зьмена наладаў тэсту SEB: Паказваць раскладку клавіятуры';
 $string['seb:manage_seb_showreloadbutton'] = 'Зьмена наладаў тэсту SEB: Паказваць кнопку перазагрузкі';
 $string['seb:manage_seb_showsebdownloadlink'] = 'Зьмена наладаў тэсту SEB: Паказваць спасылку спампоўкі';
-$string['seb:manage_seb_showsebtaskbar'] = 'Зьмена наладаў тэсту SEB: Паказваць панэль заданьняў';
+$string['seb:manage_seb_showsebtaskbar'] = 'Зьмена наладаў тэсту SEB: Паказваць панэль задач';
 $string['seb:manage_seb_showtime'] = 'Зьмена наладаў тэсту SEB: Паказваць час';
-$string['seb:manage_seb_showwificontrol'] = 'Зьмена наладаў тэсту SEB: Паказваць Wi-Fi кантроль';
+$string['seb:manage_seb_showwificontrol'] = 'Зьмена наладаў тэсту SEB: Паказваць кантроль Wi-Fi';
 $string['seb:manage_seb_templateid'] = 'Зьмена наладаў тэсту SEB: Абраны SEB шаблон';
 $string['seb:manage_seb_userconfirmquit'] = 'Зьмена наладаў тэсту SEB: Пацьверджаньне выхаду';
 $string['seb:managetemplates'] = 'Кіраваньне канфігурацыйнымі SEB шаблонамі';
@@ -131,7 +131,7 @@ $string['seb_filterembeddedcontent_help'] = 'Калі ўключана, убуд
 $string['seb_help'] = 'Наладзіць тэст на выкарыстаньне Safe Exam Browser.';
 $string['seb_linkquitseb'] = 'Паказваць кнопку выхаду з Safe Exam Browser з сканфігураванай тут спасылкай выхаду';
 $string['seb_linkquitseb_help'] = 'У гэтае поле льга ўвесьці спасылку выхаду з SEB. Яна будзе выкарыстоўвацца ў кнопцы "Выйсьці з Safe Exam Browser" на старонцы, якая з\'явіцца пасьля адпраўленьня экзамену. Пасьля націску па кнопцы ці спасылцы, якуя вы зьмесцавалі дзе жадалі, льга выйсьці з SEB без патрэбы ўводу пароля выхаду. Калі спасылка не ўведзена, тады кнопка "Выйсьці з Safe Exam Browser" ня з\'яўляецца і няма ўсталяванай спасылкі выхаду з SEB.';
-$string['seb_managetemplates'] = 'Кіраваць ўаблонамі Safe Exam Browser';
+$string['seb_managetemplates'] = 'Кіраваць шаблонамі Safe Exam Browser';
 $string['seb_muteonstartup'] = 'Адключваць гук пасьля пачынаньня';
 $string['seb_muteonstartup_help'] = 'Уключэньне пачаткова адключае гук пасьля стартаваньня SEB.';
 $string['seb_quitpassword'] = 'Пароль выхаду';
@@ -140,58 +140,58 @@ $string['seb_regexallowed'] = 'Дазволіць regex выразы';
 $string['seb_regexallowed_help'] = 'Тэкставае поле, якое ўтрымлівае выразы фільтраваньня дзеля дазволеных спасылак у фармаце рэгулярных выразаў (regex).';
 $string['seb_regexblocked'] = 'Забараніць regex выразы';
 $string['seb_regexblocked_help'] = 'Тэкставае поле, якое ўтрымлівае выразы фільтраваньня дзеля забароненых спасылак у фармаце рэгулярных выразаў (regex).';
-$string['seb_requiresafeexambrowser'] = 'Require the use of Safe Exam Browser';
-$string['seb_requiresafeexambrowser_help'] = 'If enabled, students can only attempt the quiz using the Safe Exam Browser.
-The available options are:
+$string['seb_requiresafeexambrowser'] = 'Патрабаваць выкарыстаньне Safe Exam Browser';
+$string['seb_requiresafeexambrowser_help'] = 'Калі ўключана, студэнты могуць спрабаваць выконваць тэст выключна праз Safe Exam Browser.
+Даступна некалькі опцыяў:
 
-* No
-<br/>Safe Exam Browser is not required to attempt the quiz.
-* Yes – Use an existing template
-<br/>A template for the configuration of Safe Exam Browser can be used. Templates are managed in the site administration. Your manual settings overwrite the settings in the template.
-* Yes – Configure manually
-<br/>No template for the configuration of Safe Exam Browser will be used. You can configure Safe Exam Browser manually.
-* Yes – Upload my own config
-<br/>You can upload your own Safe Exam Browser configuration file. All manual settings and the use of templates will be disabled.
-* Yes – Use SEB client config
-<br/>No configurations of Safe Exam Browser are on the Moodle side. The quiz can be attempted with any configuration of Safe Exam Browser.';
-$string['seb_showkeyboardlayout'] = 'Show keyboard layout';
-$string['seb_showkeyboardlayout_help'] = 'If enabled, the current keyboard layout is shown in the SEB task bar. It allows you to switch to other keyboard layouts, which have been enabled in the operating system.';
-$string['seb_showreloadbutton'] = 'Show reload button';
-$string['seb_showreloadbutton_help'] = 'If enabled, a reload button is displayed in the SEB task bar, allowing the current web page to be reloaded.';
-$string['seb_showsebdownloadlink'] = 'Show Safe Exam Browser download button';
-$string['seb_showsebdownloadlink_help'] = 'If enabled, a button for Safe Exam Browser download will be shown on the quiz start page.';
-$string['seb_showsebtaskbar'] = 'Show SEB task bar';
-$string['seb_showsebtaskbar_help'] = 'If enabled, a task bar appears at the bottom of the SEB browser window. The task bar is required to display items such as Wi-Fi control, reload button, time and keyboard layout.';
-$string['seb_showtime'] = 'Show time';
-$string['seb_showtime_help'] = 'If enabled, the current time is displayed in the SEB task bar.';
-$string['seb_showwificontrol'] = 'Show Wi-Fi control';
-$string['seb_showwificontrol_help'] = 'If enabled, a Wi-Fi control button appears in the SEB task bar. The button allows users to reconnect to Wi-Fi networks which have previously been connected to.';
-$string['seb_templateid'] = 'Safe Exam Browser config template';
-$string['seb_templateid_help'] = 'The settings in the selected config template will be used for the configuration of the Safe Exam Browser while attempting the quiz. You may overwrite the settings in the template with your manual settings.';
-$string['seb_use_client'] = 'Yes – Use SEB client config';
-$string['seb_use_manually'] = 'Yes – Configure manually';
-$string['seb_use_template'] = 'Yes – Use an existing template';
-$string['seb_use_upload'] = 'Yes – Upload my own config';
-$string['seb_userconfirmquit'] = 'Ask user to confirm quitting';
-$string['seb_userconfirmquit_help'] = 'If enabled, users have to confirm quitting of SEB when a quit link is detected.';
-$string['sebdownloadbutton'] = 'Download Safe Exam Browser';
-$string['seblinkbutton'] = 'Launch Safe Exam Browser';
-$string['sebrequired'] = 'This quiz has been configured so that students may only attempt it using the Safe Exam Browser.';
-$string['setting:autoreconfigureseb'] = 'Auto-configure SEB';
-$string['setting:autoreconfigureseb_desc'] = 'If enabled, users who navigate to the quiz using the Safe Exam Browser will be automatically forced to reconfigure their Safe Exam Browser.';
-$string['setting:displayblocksbeforestart'] = 'Display blocks before starting quiz';
-$string['setting:displayblocksbeforestart_desc'] = 'If enabled, blocks will be displayed before a user attempts the quiz.';
-$string['setting:displayblockswhenfinished'] = 'Display blocks after finishing quiz';
-$string['setting:displayblockswhenfinished_desc'] = 'If enabled, blocks will be displayed after a user has finished their quiz attempt.';
-$string['setting:downloadlink'] = 'Safe Exam Browser download link';
-$string['setting:downloadlink_desc'] = 'URL for downloading the Safe Exam Browser application.';
-$string['setting:quizpasswordrequired'] = 'Quiz password required';
-$string['setting:quizpasswordrequired_desc'] = 'If enabled, all quizzes that require the Safe Exam Browser must have a quiz password set.';
-$string['setting:showhttplink'] = 'Show http:// link';
-$string['setting:showseblink'] = 'Show seb:// link';
-$string['setting:showseblinks'] = 'Show Safe Exam Browser config links';
-$string['setting:showseblinks_desc'] = 'Whether to show links for a user to access the Safe Exam Browser configuration file when access to the quiz is prevented. Note that seb:// links may not work in every browser.';
-$string['setting:supportedversions'] = 'Please note that the following minimum versions of the Safe Exam Browser client are required to use the config key feature: macOS - 2.1.5pre2, Windows - 3.0, iOS - 2.1.14.';
-$string['settingsfrozen'] = 'Due to there being at least one quiz attempt, the Safe Exam Browser settings can no longer be updated.';
-$string['unknown_reason'] = 'Unknown reason';
-$string['used'] = 'In use';
+* Не
+<br/>Safe Exam Browser не патрэбен дзеля спрабаваньня выкананьня тэсту.
+* Так – Выкарыстоўваць існы шаблон
+<br/>Дзеля наладжаньня Safe Exam Browser льга выкарыстоўваць шаблон. Кіраваньне шаблонамі ажыцяўляецца праз адміністраваньне сайту. Вашыя ручныя налады перавызначаюць налады ў шаблоне.
+* Так – Наладзіць уручную
+<br/>Шаблон дзеля наладжваньня Safe Exam Browser ня будзе выкарыстоўвацца. Вы можаце наладзіць Safe Exam Browser уручную.
+* Так – Запампаваць маю ўласную канфігурацыю
+<br/>Вы можаце запампаваць свой ўласны канфігурацыйны файл Safe Exam Browser. Усе ручныя налады і выкарыстаньне шаблонаў будзе адключана.
+* Так – Выкарыстоўваць канфігурацыю кліента SEB
+<br/>На баку Moodle ня будуць выкарыстоўвацца канфігурацыі Safe Exam Browser. Тэст льга паспрабаваць выканаць з любой канфігурацыяй Safe Exam Browser.';
+$string['seb_showkeyboardlayout'] = 'Паказваць раскладку клавіятуры';
+$string['seb_showkeyboardlayout_help'] = 'Калі ўключана, цяперашняя раскладка клавіятуры паказваецца ў панэлі задач SEB. Яна дазваляе пераключацца на іншыя раскладкі клавіятуры, што былі ўключаны ў аперацыйнай сістэме.';
+$string['seb_showreloadbutton'] = 'Паказваць кнопку перазагрузкі';
+$string['seb_showreloadbutton_help'] = 'Калі ўключана, кнопка перазагрузкі будзе паказвацца на панэлі задач SEB, дазваляе цяперашняй ўэб-странцы перазагружацца.';
+$string['seb_showsebdownloadlink'] = 'Паказваць кнопку спампоўкі Safe Exam Browser';
+$string['seb_showsebdownloadlink_help'] = 'Калі ўключана, кнопка спампоўкі Safe Exam Browser будзе паказвацца на старонцы пачынаньня тэсту.';
+$string['seb_showsebtaskbar'] = 'Паказваць панэль задач';
+$string['seb_showsebtaskbar_help'] = 'Калі ўключана, будзе паказвацца панэль задач унізе акна браўзара SEB. Панэль задач неабходна дзеля адлюстраваньня наступных элементаў: кантроль Wi-Fi, кнопка перазагрузкі, час і раскладка клавіятуры.';
+$string['seb_showtime'] = 'Паказваць час';
+$string['seb_showtime_help'] = 'Калі ўключана, цяперашні час будзе адлюстроўвацца на панэлі задач SEB.';
+$string['seb_showwificontrol'] = 'Паказваць кантроль Wi-Fi';
+$string['seb_showwificontrol_help'] = 'Калі ўключана, кнопка кантролю Wi-Fi будзе паказвацца на панэлі задач SEB. Кнопка дазваляе карыстальнікам паўторна далучацца да сетак Wi-Fi, да якіх раней далучаліся.';
+$string['seb_templateid'] = 'Канфігурацыйны шаблон Safe Exam Browser';
+$string['seb_templateid_help'] = 'Налады з абранага канфігурацыйнага шаблону будуць выкарыстоўвацца дзеля наладжваньня Safe Exam Browser падчас спрабаваньня выкананьня тэсту. Вы можаце перавызначаць налады шаблона праз вашыя ручныя налады.';
+$string['seb_use_client'] = 'Так – Выкарыстоўваць канфігурацыю кліента SEB';
+$string['seb_use_manually'] = 'Так – Наладзіць уручную';
+$string['seb_use_template'] = 'Так – Выкарыстоўваць існы шаблон';
+$string['seb_use_upload'] = 'Так – Запампаваць маю ўласную канфігурацыю';
+$string['seb_userconfirmquit'] = 'Запытваць у карыстальніка пацьверджаньне выхаду';
+$string['seb_userconfirmquit_help'] = 'Калі ўключана, карыстальнікі мусяць пацьвердзіць выхад з SEB, калі спасылка выхаду выяўлена.';
+$string['sebdownloadbutton'] = 'Спампаваць Safe Exam Browser';
+$string['seblinkbutton'] = 'Запусьціць Safe Exam Browser';
+$string['sebrequired'] = 'Гэты тэст наладжаны такім чынам, што студэнты могуць спрабаваць выконваць яго толькі праз Safe Exam Browser.';
+$string['setting:autoreconfigureseb'] = 'Аўтаканфігураваньне SEB';
+$string['setting:autoreconfigureseb_desc'] = 'Калі ўключана, Safe Exam Browser карыстальнікаў, што перайшлі да тэста праз Safe Exam Browser, будзе аўтаматычна сканфігураваны.';
+$string['setting:displayblocksbeforestart'] = 'Паказваць блокі перад пачынаньнем тэста';
+$string['setting:displayblocksbeforestart_desc'] = 'Калі ўключана, блокі будуць адлюстрованы да пачынаньня спробы выкананьня тэста карыстальнікам.';
+$string['setting:displayblockswhenfinished'] = 'Паказваць блокі пасьля выкананьня тэста';
+$string['setting:displayblockswhenfinished_desc'] = 'Калі ўключана, блокі будуць адлюстрованы пасьля спробы выкананьня тэста карыстальнікам.';
+$string['setting:downloadlink'] = 'Спасылка спампаваньня Safe Exam Browser';
+$string['setting:downloadlink_desc'] = 'Спасылка дзеля спампаваньня дадатка Safe Exam Browser.';
+$string['setting:quizpasswordrequired'] = 'Патрабаваць пароль да тэсту';
+$string['setting:quizpasswordrequired_desc'] = 'Калі ўключана, усе тэсты, што працуюць праз Safe Exam Browser, мусяць мець усталяваны пароль тэсту.';
+$string['setting:showhttplink'] = 'Паказваць спасылку http://';
+$string['setting:showseblink'] = 'Паказваць спасылку seb://';
+$string['setting:showseblinks'] = 'Паказваць спасылкі канфігураваньня Safe Exam Browser';
+$string['setting:showseblinks_desc'] = 'Ці трэба паказваць спасылкі доступа да канфігурацыйнага файлу Safe Exam Browser для карыстальнікаў, калі доступ да тэсту прадухілены. Зьвярніце ўвагу, спасылкі seb:// могуць працаваць не ва ўсіх браўзарах.';
+$string['setting:supportedversions'] = 'Зьвярніце ўвагу, дзеля выкарыстаньня функцыі канфігурацыйнага ключа патрабуюцца наступныя мінімальныі версіі кліента Safe Exam Browser: macOS - 2.1.5pre2, Windows - 3.0, iOS - 2.1.14.';
+$string['settingsfrozen'] = 'Пасьля пачынаньня хоць якой спробы выкананьня тэсту, налады Safe Exam Browser болей нельга зьмяняць.';
+$string['unknown_reason'] = 'Невядомая прычына';
+$string['used'] = 'Выкарыстоўвацца';
