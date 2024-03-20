@@ -4,6 +4,7 @@ announcements = аб\'явы аб\'яваў
 Answer = адказ (question)
 appearance = выгляд
 area = вобласьць
+assessment = ацэньванне (workshop)
 assign = заданьне (калі актыўнасьць)
 assign = прызначаць
 assignment = заданьне
