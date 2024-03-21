@@ -126,6 +126,7 @@ overall grade = агульная адзнака
 overridden (grade) = перавызначаная
 Page = Старонка (мод)
 pass grade = прахадная адзнака
+peer assessment = калегійнае ацэньваньне
 Pending = у чарзе
 Permalink = сталая спасылка
 permission = дазвол
