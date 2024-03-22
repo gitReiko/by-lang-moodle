@@ -212,41 +212,41 @@ $string['latesubmissionsallowed'] = 'Позьнія адпраўленьні д�
 $string['legacyallocationplugincron'] = 'Прызначэньне спадкаемнага cron майстэрні';
 $string['maxbytes'] = 'Максімальны памер укладаньня адпраўленьня';
 $string['modulename'] = 'Майстэрня';
-$string['modulename_help'] = 'The workshop activity module enables the collection, review and peer assessment of students\' work.
+$string['modulename_help'] = 'Модуль актыўнасьць-майстэрня дазваляе зьбіраць, рэцэнзаваць і калегіяльна ацэньваць студэнцкія працы.
 
-Students can submit any digital content (files), such as word-processed documents or spreadsheets and can also type text directly into a field using the text editor.
+Студэнты могуць адпраўляць любы лічбавы кантэнт (файлы), напрыклад, word-дакументы і excel-табліцы, а таксама друкаваць тэкст непасрэдна ў поле з дапамогай тэкставага рэдактара.
 
-Submissions are assessed using a multi-criteria assessment form defined by the teacher. The process of peer assessment and understanding the assessment form can be practised in advance with example submissions provided by the teacher, together with a reference assessment. Students are given the opportunity to assess one or more of their peers\' submissions. Submissions and reviewers may be anonymous if required.
+Адпраўленьні ацэньваюцца з дапамогай шматкратнай формы ацэньваньня, вызначанай настаўнікам. Працэс калегіяльнага ацэньваньня і разуменьня формы ацэньваньня льга адпрацаваць загадзя, з дапамогай прыкладных ацэньваньняў, паданых настаўнікам, ды эталоннага ацэньваньня. Студэнтам забясьпечваецца магчымасьць ацэньваньня аднога ці некалькіх адпраўленьняў ад іхніх калегаў. Адпраўленьні і рэцэнзіі могуць быць ананімнымі, калі спатрэбіцца.
 
-Students obtain two grades in a workshop activity - a grade for their submission and a grade for their assessment of their peers\' submissions. Both grades are recorded in the gradebook.';
+Студэнты атрымліваюць дзьве адзнакі ўва актыўнасьці-майстэрні: адзнаку за сваё адпраўленьне і адзнаку за іхнія калегійныя ацэньваньні адпраўленьняў сваіх калегаў. Абедзьве адзнакі запісваюцца ў журнал адзнак.';
 $string['modulename_link'] = 'mod/workshop/view';
-$string['modulenameplural'] = 'Workshops';
-$string['myassessments'] = 'My assessments';
-$string['mysubmission'] = 'My submission';
-$string['nattachments'] = 'Maximum number of submission attachments';
-$string['noexamples'] = 'No examples yet in this workshop';
-$string['noexamplesformready'] = 'You must define the assessment form before providing example submissions';
-$string['nogradeyet'] = 'No grade yet';
-$string['nosubmissionfound'] = 'No submission found for this user';
-$string['nosubmissions'] = 'No submissions yet in this workshop';
-$string['nosubmissiontype'] = 'At least one submission type must be available';
-$string['notassessed'] = 'Not assessed yet';
-$string['nothingfound'] = 'Nothing to display';
-$string['nothingtoreview'] = 'Nothing to review';
-$string['notoverridden'] = 'Not overridden';
-$string['noworkshops'] = 'There are no workshops in this course';
-$string['noyoursubmission'] = 'You have not submitted your work yet';
+$string['modulenameplural'] = 'Майстэрні';
+$string['myassessments'] = 'Мае ацэньваньні';
+$string['mysubmission'] = 'Маё адпраўленьне';
+$string['nattachments'] = 'Максімальная колькасьць укладаньняў ува адпраўленьні';
+$string['noexamples'] = 'У гэтай майстэрні дагэтуль няма прыкладаў';
+$string['noexamplesformready'] = 'Вы мусіце вызначыць форму ацэньваньня, перш чым падаваць прыкладныя адпраўленьні';
+$string['nogradeyet'] = 'Пакуль няма адзнакі';
+$string['nosubmissionfound'] = 'Адпраўленьні для гэтага карыстальніка ня знойдзены';
+$string['nosubmissions'] = 'У гэтай майстэрні пакуль няма адпраўленьняў';
+$string['nosubmissiontype'] = 'Прынамсі адзін тып адпраўленьня мусіць быць даступны';
+$string['notassessed'] = 'Пакуль не ацэнена';
+$string['nothingfound'] = 'Няма чаго паказваць';
+$string['nothingtoreview'] = 'Няма чаго рэцэнзаваць';
+$string['notoverridden'] = 'Не перавызначана';
+$string['noworkshops'] = 'У гэтым курсе няма майстэрняў';
+$string['noyoursubmission'] = 'Вы дагэтуль не адправілі сваю працу';
 $string['nullgrade'] = '-';
-$string['overallfeedback'] = 'Overall feedback';
-$string['overallfeedbackfiles'] = 'Maximum number of overall feedback attachments';
-$string['overallfeedbackmaxbytes'] = 'Maximum overall feedback attachment size';
-$string['overallfeedbackmode'] = 'Overall feedback mode';
-$string['overallfeedbackmode_0'] = 'Disabled';
-$string['overallfeedbackmode_1'] = 'Enabled and optional';
-$string['overallfeedbackmode_2'] = 'Enabled and required';
-$string['overallfeedbackmode_help'] = 'If enabled, a text field is displayed at the bottom of the assessment form. Reviewers can put the overall assessment of the submission there, or provide additional explanation of their assessment.';
-$string['page-mod-workshop-x'] = 'Any workshop module page';
-$string['participant'] = 'Participant';
+$string['overallfeedback'] = 'Выніковы водгук';
+$string['overallfeedbackfiles'] = 'Максімальная колькасьць укладаньняў у выніковым водгуке';
+$string['overallfeedbackmaxbytes'] = 'Максімальны памер укладаньня ў выніковым водгуке';
+$string['overallfeedbackmode'] = 'Рэжым выніковага водгука';
+$string['overallfeedbackmode_0'] = 'Адключаны';
+$string['overallfeedbackmode_1'] = 'Уключаны і неабавязковы';
+$string['overallfeedbackmode_2'] = 'Уключаны і абавязковы';
+$string['overallfeedbackmode_help'] = 'Калі ўключана, у ніжняй частцы формы ацэньваньня адлюстроўваецца тэкставае поле. Рэцэнзенты могуць тут пакідаць выніковы водгук ацэньваньня ці падаваць дадатковыя тлумачэньні іхняга ацэньваньня.';
+$string['page-mod-workshop-x'] = 'Усякая старонка модуля-майстэрні';
+$string['participant'] = 'Удзельнік';
 $string['participantrevierof'] = 'Participant is reviewer of';
 $string['participantreviewedby'] = 'Participant is reviewed by';
 $string['phaseassessment'] = 'Assessment phase';
