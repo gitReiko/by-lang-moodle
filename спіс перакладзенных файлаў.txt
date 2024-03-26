@@ -319,7 +319,7 @@ quizaccess_timelimit ------------- 100%
 ||   ||   ||
 \/   \/   \/
 
-workshopallocation_manual -------- 
+workshopallocation_manual -------- 100%
 workshopallocation_random -------- 
 workshopallocation_scheduled ----- 
 workshopeval_best ---------------- 
