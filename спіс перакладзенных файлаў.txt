@@ -316,5 +316,14 @@ quizaccess_seb ------------------- 100%
 quizaccess_securewindow ---------- 100%
 quizaccess_timelimit ------------- 100%
 
+||   ||   ||
+\/   \/   \/
 
-
+workshopallocation_manual -------- 
+workshopallocation_random -------- 
+workshopallocation_scheduled ----- 
+workshopeval_best ---------------- 
+workshopform_accumulative -------- 
+workshopform_comments ------------ 
+workshopform_numerrors ----------- 
+workshopform_rubric -------------- 
