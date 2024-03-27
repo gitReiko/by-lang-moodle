@@ -321,9 +321,9 @@ quizaccess_timelimit ------------- 100%
 
 workshopallocation_manual -------- 100%
 workshopallocation_random -------- 100%
-workshopallocation_scheduled ----- 
+workshopallocation_scheduled ----- 100%
 workshopeval_best ---------------- 100%
-workshopform_accumulative -------- 
+workshopform_accumulative -------- 100%
 workshopform_comments ------------ 100%
-workshopform_numerrors ----------- 
+workshopform_numerrors ----------- 100%
 workshopform_rubric -------------- 100%
