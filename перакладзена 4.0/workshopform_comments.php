@@ -25,9 +25,9 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['addmoredimensions'] = 'Blanks for {$a} more aspects';
-$string['dimensioncommentfor'] = 'Comment for {$a}';
-$string['dimensiondescription'] = 'Description';
-$string['dimensionnumber'] = 'Aspect {$a}';
-$string['pluginname'] = 'Comments';
-$string['privacy:metadata'] = 'The Comments grading plugin only stores the details of the assessment form. Actual personal data of how the form has been filled are stored by the Workshop module itself and are attached to exported assessments.';
+$string['addmoredimensions'] = 'Пустэчы дзеля {$a} дадатковых асьпектаў';
+$string['dimensioncommentfor'] = 'Каментар для {$a}';
+$string['dimensiondescription'] = 'Апісаньне';
+$string['dimensionnumber'] = 'Асьпект {$a}';
+$string['pluginname'] = 'Каментары';
+$string['privacy:metadata'] = 'Плагін ацэньваньня Каментары захоўвае толькі дадзеныя пра форму ацэньваньня. Актуальныя асабістыя дадзеныя пра тое, як была запоўнена форма, захоўваюцца ў модуле Майстэрня і далучаюцца да экспартаваных ацэньваньняў.';
