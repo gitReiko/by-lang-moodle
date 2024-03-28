@@ -137,6 +137,7 @@ plugins = плагін
 points = балы (grade)
 portfolio = партфоліа
 post = пост, паста, пасты, посьціць, запошчаны (форум і блог)
+Preset = прадусталёўка
 Privacy = Прыватнасьць
 processing = апрацоўка
 question = пытаньне

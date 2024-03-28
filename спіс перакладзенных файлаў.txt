@@ -319,8 +319,8 @@ quizaccess_timelimit ------------- 100%
 ||   ||   ||
 \/   \/   \/
 
-theme_boost
-theme_classic
+theme_boost ---------------------- 
+theme_classic -------------------- 100%
 
 ||   ||   ||
 \/   \/   \/
