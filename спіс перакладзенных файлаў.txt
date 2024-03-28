@@ -319,6 +319,12 @@ quizaccess_timelimit ------------- 100%
 ||   ||   ||
 \/   \/   \/
 
+theme_boost
+theme_classic
+
+||   ||   ||
+\/   \/   \/
+
 workshopallocation_manual -------- 100%
 workshopallocation_random -------- 100%
 workshopallocation_scheduled ----- 100%
