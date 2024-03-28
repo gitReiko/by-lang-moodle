@@ -35,7 +35,7 @@ $string['preset_desc'] = 'Абярыце прадусталёўку, каб ца
 $string['presetfiles'] = 'Дадатковыя файлы прадусталёўкі тэмы';
 $string['presetfiles_desc'] = 'Файлы прадусталёўкі льга выкарыстоўваць для кардынальнай зьмены выгляду тэмы. Праглядзіце <a href="https://docs.moodle.org/dev/Boost_Presets">Прадусталёўкі Boost</a>, каб атрымаць інфармацыю пра стварэньне і публікаваньне сваіх уласных файлаў прадусталёўкі, ды праглядзіце <a href="https://archive.moodle.net/boost">Рэпазытар прадусталёвак</a>, каб праглядзець прадусталёўкі, апублікаваныя іншымі карыстальнікамі.';
 $string['privacy:metadata'] = 'Клясічная тэма не захоўвае аніякіх асабістых дадзеных.';
-$string['region-side-post'] = 'Права';
-$string['region-side-pre'] = 'Лева';
+$string['region-side-post'] = 'Справа';
+$string['region-side-pre'] = 'Зьлева';
 $string['sitetitle'] = 'Назва сайту';
 $string['totop'] = 'Уверх';

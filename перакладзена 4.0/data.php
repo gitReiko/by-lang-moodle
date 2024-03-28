@@ -194,7 +194,7 @@ $string['file'] = 'Файл';
 $string['fileencoding'] = 'Кадаваньне';
 $string['filesnotgenerated'] = 'Не ўсе файлы былі згенераваны: {$a}';
 $string['filtername'] = 'Аўтаспасыланьне базы дадзеных';
-$string['footer'] = 'Спод';
+$string['footer'] = 'Ніжні калонтытул';
 $string['forcelinkname'] = 'Прымусовая назва для спасыланьня';
 $string['foundnorecords'] = 'Запісы ня знойдзены (<a href="{$a->reseturl}">Скінуць фільтры</a>)';
 $string['foundrecords'] = 'Знойдзеныя запісы: {$a->num}/{$a->max} (<a href="{$a->reseturl}">Скінуць фільтры</a>)';

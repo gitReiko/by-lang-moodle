@@ -25,10 +25,10 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['activitychooseractivefooter'] = 'Спод выбарніка актыўнасьці';
-$string['activitychooseractivefooter_desc'] = 'Выбарнік актыўнасьці можа падтрымліваць плагіны, якія дадаюць прадметы ў спод.';
+$string['activitychooseractivefooter'] = 'Ніжні калонтытул выбарніка актыўнасьці';
+$string['activitychooseractivefooter_desc'] = 'Выбарнік актыўнасьці можа падтрымліваць плагіны, якія дадаюць прадметы ў ніжні калонтытул.';
 $string['activitychoosercategory'] = 'Выбарнік актыўнасьці';
-$string['activitychooserhidefooter'] = 'Бяз споду';
+$string['activitychooserhidefooter'] = 'Бяз ніжняга калонтытула';
 $string['activitychooserrecommendations'] = 'Рэкамендаваныя актыўнасьці';
 $string['activitychoosersettings'] = 'Налады выбарніка актыўнасьці';
 $string['activitychoosertabmode'] = 'Укладкі выбарніка актыўнасьці';

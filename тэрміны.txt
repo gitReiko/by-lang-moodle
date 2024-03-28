@@ -74,6 +74,7 @@ files manager = кіраўнік файлаў
 filter = фільтар
 Final grade = Выніковая адзнака
 Folder = Тэчка (мод)
+footer = ніжні калонтытул
 footer = спод
 General feedback = агульны водгук (тэст)
 glossary = слоўнік
