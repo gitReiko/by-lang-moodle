@@ -20,7 +20,7 @@ core_comment --------------------- 100%
 core_competency ------------------
 core_completion ------------------ 100%
 core_contentbank -----------------
-core_countries -------------------
+core_countries ------------------- 100%
 core_course ---------------------- 100%
 core_courseformat ---------------- 100%
 core_currencies ------------------
