@@ -148,52 +148,52 @@ $string['exit'] = 'Выйсьці з курса';
 $string['exitactivity'] = 'Выйсьці з актыўнасьці';
 $string['expired'] = 'Прабачце, гэтая актыўнасьць закрыта з {$a} і болей не даступна';
 $string['external'] = 'Абнавіць час вонкавых пакетаў';
-$string['failed'] = 'Няўдача';
-$string['finishscorm'] = 'If you have finished viewing this resource, {$a}';
-$string['finishscormlinkname'] = 'click here to return to the course page';
-$string['firstaccess'] = 'First access';
-$string['firstattempt'] = 'First attempt';
-$string['floating'] = 'Floating';
-$string['forceattemptalways'] = 'Always';
-$string['forceattemptoncomplete'] = 'When previous attempt completed, passed or failed';
-$string['forcecompleted'] = 'Force completed';
-$string['forcecompleted_help'] = 'If enabled, the status of the current attempt is forced to "completed". (Only applicable to SCORM 1.2 packages.)';
-$string['forcecompleteddesc'] = 'This preference sets the default value for the force completed setting';
-$string['forcejavascript'] = 'Force users to enable JavaScript';
-$string['forcejavascript_desc'] = 'If enabled (recommended) this prevents access to SCORM objects when JavaScript is not supported/enabled in a users browser. If disabled the user may view the SCORM but API communication will fail and no grade information will be saved.';
-$string['forcejavascriptmessage'] = 'JavaScript is required to view this object, please enable JavaScript in your browser and try again.';
-$string['forcenewattempts'] = 'Force new attempt';
-$string['forcenewattempts_help'] = 'There are 3 options:
+$string['failed'] = 'Правалена';
+$string['finishscorm'] = 'Калі вы скончылі прагляд гэтага рэсурса, {$a}';
+$string['finishscormlinkname'] = 'націсьніце тут, каб вярнуцца на старонку курса';
+$string['firstaccess'] = 'Першы доступ';
+$string['firstattempt'] = 'Першая спроба';
+$string['floating'] = 'Плывучая';
+$string['forceattemptalways'] = 'Заўжды';
+$string['forceattemptoncomplete'] = 'Калі папярэдняя спроба выканана, пройдзена ці правалена';
+$string['forcecompleted'] = 'Прымусова выканана';
+$string['forcecompleted_help'] = 'Калі ўключана, статус цяперашняй спробы прымусова "выкананы" (Дастасоўна толькі да пакетаў SCORM 1.2).';
+$string['forcecompleteddesc'] = 'Гэтая перавага ўсталёўвае стандартнае значэньне для налады прымусовага выкананьня';
+$string['forcejavascript'] = 'Прымусіць карыстальнікаў уключаць JavaScript';
+$string['forcejavascript_desc'] = 'Калі ўключана (рэкамендуецца), яна прадухіляе доступ да SCORM-аб\'ектаў, калі JavaScript выключаны альбо не падтрымліваецца браўзарам карыстальніка. Калі адключана, карыстальнік можа праглядаць SCORM, але камунікаваньне з API будзе парушана і інфармацыя пра адзнакі ня будзе захавана.';
+$string['forcejavascriptmessage'] = 'Дзеля прагляду гэтага аб\'екту патрабуецца JavaScript, калі ласка, уключыце JavaScript у вашым браўзары і паўтарыце спробу.';
+$string['forcenewattempts'] = 'Прымусіць пачаць новую спробу';
+$string['forcenewattempts_help'] = 'Маецца 3 опцыі:
 
-* No - If a previous attempt is completed, passed or failed, the student will be provided with the option to enter in review mode or start a new attempt.
-* When previous attempt completed, passed or failed - This relies on the SCORM package setting the status of \'completed\', \'passed\' or \'failed\'.
-* Always - Each re-entry to the SCORM activity will generate a new attempt and the student will not be returned to the same point they reached in their previous attempt.';
-$string['found'] = 'Manifest found';
-$string['frameheight'] = 'The height of the stage frame or window.';
-$string['framewidth'] = 'The width of the stage frame or window.';
-$string['fromleft'] = 'From left';
-$string['fromtop'] = 'From top';
-$string['fullscreen'] = 'Fill the whole screen';
-$string['general'] = 'General data';
-$string['gradeaverage'] = 'Average grade';
-$string['gradeforattempt'] = 'Grade for attempt';
-$string['gradehighest'] = 'Highest grade';
-$string['grademethod'] = 'Grading method';
-$string['grademethod_help'] = 'The grading method defines how the grade for a single attempt of the activity is determined.
+* Не - Калі папярэдняя спроба выканана, пройдзена ці правалена, студэнту будзе падана магчымасьць перайсьці ў рэжым прагляду ці пачаць новую спробу.
+* Калі папярэдняя спроба выканана, пройдзена ці правалена. Гэта залежыць ад таго, ці ўсталюе SCORM-пакет статус \'выканана\', \'пройдзена\' альбо \'правалена\'.
+* Заўжды - Падчас кожнага новага ўвахода ў SCORM-актыўнасьць будзе стварацца новая спроба, і студэнт ня будзе вяртацца ў кропку, якой дасягнуў падчас папярэдняй спробы.';
+$string['found'] = 'Маніфест знойдзены';
+$string['frameheight'] = 'Вышыня фрэйму альбо акна.';
+$string['framewidth'] = 'Шырыня фрэйму альбо акна.';
+$string['fromleft'] = 'Злева';
+$string['fromtop'] = 'Справа';
+$string['fullscreen'] = 'Запоўніць увесь экран';
+$string['general'] = 'Агульныя дадзеныя';
+$string['gradeaverage'] = 'Сярэдняя адзнака';
+$string['gradeforattempt'] = 'Адзнака за спробу';
+$string['gradehighest'] = 'Найвысокая адзнака';
+$string['grademethod'] = 'Метад ацэньваньня';
+$string['grademethod_help'] = 'Метад ацэньваньня вызначае, як вызначаецца адзнака за адну спробу выкананьня актыўнасьці.
 
-There are 4 grading methods:
+Маецца 4 метаду ацэньваньня:
 
-* Learning objects - The number of completed/passed learning objects
-* Highest grade - The highest score obtained in all passed learning objects
-* Average grade - The mean of all the scores
-* Sum grade - The sum of all the scores';
-$string['grademethoddesc'] = 'The grading method defines how the grade for a single attempt of the activity is determined.';
-$string['gradereported'] = 'Grade reported';
-$string['gradescoes'] = 'Learning objects';
-$string['gradesettings'] = 'Grade settings';
-$string['gradesum'] = 'Sum grade';
-$string['height'] = 'Height';
-$string['hidden'] = 'Hidden';
+* Навучальныя аб\'екты - Колькасьць выкананых/пройдзеных навучальных аб\'ектаў
+* Найвысокая адзнака - Найвысокі бал, атрыманы за ўсе пройдзеныя навучальныя аб\'екты
+* Сярэдняя адзнака - Сярэняя з усіх балаў
+* Сума адзнак - Сума ўсіх балаў';
+$string['grademethoddesc'] = 'Метад ацэньваньня вызначае, як вызначаецца адзнака за адну спробу выкананьня актыўнасьці.';
+$string['gradereported'] = 'Адзнака перадана';
+$string['gradescoes'] = 'Навучальныя аб\'екты';
+$string['gradesettings'] = 'Налады ацэньваньня';
+$string['gradesum'] = 'Сума адзнак';
+$string['height'] = 'Вышыня';
+$string['hidden'] = 'Схавана';
 $string['hidebrowse'] = 'Disable preview mode';
 $string['hidebrowse_help'] = 'Preview mode allows a student to browse an activity before attempting it. If preview mode is disabled, the preview button is hidden.';
 $string['hidebrowsedesc'] = 'Preview mode allows a student to browse an activity before attempting it.';
@@ -265,7 +265,7 @@ There are 3 options:
 
 * No - Navigation buttons are not shown
 * Under content - Navigation buttons are shown below the SCORM package content
-* Floating - Navigation buttons are shown floating, with the position from the top and from the left determined by the package.';
+* Плывучая - Navigation buttons are shown floating, with the position from the top and from the left determined by the package.';
 $string['navdesc'] = 'This setting specifies whether to show or hide navigation buttons and their position.';
 $string['navigation'] = 'Navigation';
 $string['navpositionleft'] = 'Position of navigation buttons from left in pixels.';
@@ -308,7 +308,7 @@ $string['packageurl'] = 'URL';
 $string['packageurl_help'] = 'This setting enables a URL for the SCORM package to be specified, rather than choosing a file via the file picker.';
 $string['page-mod-scorm-x'] = 'Any SCORM module page';
 $string['pagesize'] = 'Page size';
-$string['passed'] = 'Passed';
+$string['passed'] = 'Пройдзена';
 $string['php5'] = 'PHP 5 (DOMXML native library)';
 $string['pluginadministration'] = 'SCORM package administration';
 $string['pluginname'] = 'SCORM-пакет';
