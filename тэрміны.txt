@@ -126,6 +126,7 @@ overall feedback = выніковы водгук (тэст)
 overall grade = агульная адзнака
 overridden (grade) = перавызначаная
 Page = Старонка (мод)
+Pass = прайсьці (scorm)
 pass grade = прахадная адзнака
 peer assessment = калегійнае ацэньваньне
 Pending = у чарзе
