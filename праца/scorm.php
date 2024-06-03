@@ -194,82 +194,82 @@ $string['gradesettings'] = 'Налады ацэньваньня';
 $string['gradesum'] = 'Сума адзнак';
 $string['height'] = 'Вышыня';
 $string['hidden'] = 'Схавана';
-$string['hidebrowse'] = 'Disable preview mode';
-$string['hidebrowse_help'] = 'Preview mode allows a student to browse an activity before attempting it. If preview mode is disabled, the preview button is hidden.';
-$string['hidebrowsedesc'] = 'Preview mode allows a student to browse an activity before attempting it.';
-$string['hideexit'] = 'Hide exit link';
-$string['hidereview'] = 'Hide review button';
-$string['hidetoc'] = 'Display course structure in player';
-$string['hidetoc_help'] = 'How the table of contents is displayed in the SCORM player';
-$string['hidetocdesc'] = 'This setting specifies how the table of contents is displayed in the SCORM player.';
-$string['highestattempt'] = 'Highest attempt';
-$string['identifier'] = 'Question identifier';
-$string['incomplete'] = 'Incomplete';
-$string['indicator:cognitivedepth'] = 'SCORM cognitive';
-$string['indicator:cognitivedepth_help'] = 'This indicator is based on the cognitive depth reached by the student in a SCORM activity.';
-$string['indicator:cognitivedepthdef'] = 'SCORM cognitive';
-$string['indicator:cognitivedepthdef_help'] = 'The participant has reached this percentage of the cognitive engagement offered by the SCORM activities during this analysis interval (Levels = No view, View, Submit, View feedback)';
+$string['hidebrowse'] = 'Адключыць рэжым прадпрагляду';
+$string['hidebrowse_help'] = 'Рэжым прадпрагляду дазваляе студэнту праглядаць актыўнасьць да спрабаваньня выкананьня. Калі рэжым прадпрагляду адключаны, кнопка прадпрагляду схаваная.';
+$string['hidebrowsedesc'] = 'Рэжым прадпрагляду дазваляе студэнту праглядаць актыўнасьць да спрабаваньня выкананьня.';
+$string['hideexit'] = 'Схаваць спасылку выхаду';
+$string['hidereview'] = 'Схаваць кнопку агляду';
+$string['hidetoc'] = 'Адлюстроўваць структуру курса ў прайгравальніке';
+$string['hidetoc_help'] = 'Шлях адлюстраваньня зьместу ў SCORM-прайгравальніке';
+$string['hidetocdesc'] = 'Гэтая налада вызначае шлях адлюстраваньня зьместу ў SCORM-прайгравальніке.';
+$string['highestattempt'] = 'Найвысокая спроба';
+$string['identifier'] = 'Ідэнтыфікатар пытаньня';
+$string['incomplete'] = 'Нявыканана';
+$string['indicator:cognitivedepth'] = 'Пазнаваньне SCORM';
+$string['indicator:cognitivedepth_help'] = 'Гэты паказьнік згрунтаваны на глыбіні пазнаваньня, якую дасягнуў студэнт ўва SCORM-актыўнасьці.';
+$string['indicator:cognitivedepthdef'] = 'Пазнаваньне SCORM';
+$string['indicator:cognitivedepthdef_help'] = 'Удзельнік дасягную гэтага адсотку пазнавальнага ўцягненьня, прапанаваны SCORM-актыўнасьцямі ў аналізаваны тэрмін (Роўні = Без прагляду, Прагляд, Адпраўка, Прагляд водгуку)';
 $string['indicator:cognitivedepthdef_link'] = 'Learning_analytics_indicators#Cognitive_depth';
-$string['indicator:socialbreadth'] = 'SCORM social';
-$string['indicator:socialbreadth_help'] = 'This indicator is based on the social breadth reached by the student in a SCORM activity.';
-$string['indicator:socialbreadthdef'] = 'SCORM social';
-$string['indicator:socialbreadthdef_help'] = 'The participant has reached this percentage of the social engagement offered by the SCORM activities during this analysis interval (Levels = No participation, Participant alone)';
+$string['indicator:socialbreadth'] = 'Сацыяльнасьць SCORM';
+$string['indicator:socialbreadth_help'] = 'Гэты паказьнік згрунтаваны на сацыяльнай шырыні, якую дасягнуў студэнт ўва SCORM-актыўнасьці.';
+$string['indicator:socialbreadthdef'] = 'Сацыяльнасьць SCORM';
+$string['indicator:socialbreadthdef_help'] = 'Удзельнік дасягную гэтага адсотку сацыяльнай шырыні, прапанаванай SCORM-актыўнасьцямі ў аналізаваны тэрмін (Роўні = Адсутнасьць удзелу, Самотны удзел)';
 $string['indicator:socialbreadthdef_link'] = 'Learning_analytics_indicators#Social_breadth';
-$string['info'] = 'Info';
-$string['interactions'] = 'Interactions';
-$string['invalidactivity'] = 'SCORM activity is incorrect';
-$string['invalidhacpsession'] = 'Invalid HACP session';
-$string['invalidmanifestname'] = 'Only imsmanifest.xml or .zip files may be selected';
-$string['invalidmanifestresource'] = 'WARNING: The following resources were referenced in your manifest but couldn\'t be found:';
-$string['invalidstatus'] = 'Invalid status';
-$string['invalidurl'] = 'Invalid URL specified';
-$string['invalidurlhttpcheck'] = 'Invalid URL specified. Debug message:<pre>{$a->cmsg}</pre>';
-$string['last'] = 'Last accessed on';
-$string['lastaccess'] = 'Last access';
-$string['lastattempt'] = 'Last completed attempt';
-$string['lastattemptlock'] = 'Lock after final attempt';
-$string['lastattemptlock_help'] = 'If enabled, a student is prevented from launching the SCORM player after using up all their allocated attempts.';
-$string['lastattemptlockdesc'] = 'If enabled, a student is prevented from launching the SCORM player after using up all their allocated attempts.';
-$string['location'] = 'Show the location bar';
-$string['masteryoverride'] = 'Mastery score overrides status';
-$string['masteryoverride_help'] = 'If enabled and a mastery score is provided, when LMSFinish is called and a raw score has been set, status will be recalculated using the raw score and mastery score and any status provided by the SCORM (including "incomplete") will be overridden.';
-$string['masteryoverridedesc'] = 'This preference sets the default for the mastery score override setting';
-$string['max'] = 'Max score';
-$string['maximumattempts'] = 'Number of attempts';
-$string['maximumattempts_help'] = 'This setting enables the number of attempts to be restricted. It is only applicable for SCORM 1.2 and AICC packages.';
-$string['maximumattemptsdesc'] = 'This preference sets the default maximum attempts for an activity';
-$string['maximumgradedesc'] = 'This preference sets the default maximum grade for an activity';
-$string['menubar'] = 'Show the menu bar';
-$string['min'] = 'Minimum score';
-$string['missing_attribute'] = 'Missing attribute {$a->attr} in tag {$a->tag}';
-$string['missing_tag'] = 'Missing tag {$a->tag}';
-$string['missingparam'] = 'A required parameter is missing or wrong';
-$string['mode'] = 'Mode';
-$string['modulename'] = 'SCORM package';
-$string['modulename_help'] = 'A SCORM package is a collection of files which are packaged according to an agreed standard for learning objects. The SCORM activity module enables SCORM or AICC packages to be uploaded as a zip file and added to a course.
+$string['info'] = 'Інфа';
+$string['interactions'] = 'Узаемадзеяньні';
+$string['invalidactivity'] = 'SCORM-актыўнасьць хібная';
+$string['invalidhacpsession'] = 'Хібная HACP-сесія';
+$string['invalidmanifestname'] = 'Льга абраць толькі файлы imsmanifest.xml ці .zip';
+$string['invalidmanifestresource'] = 'УВАГА: На наступныя рэсурсы маюцца спасылкі ў вашым маніфесьце, але яны ня знойдзены:';
+$string['invalidstatus'] = 'Хібны статус';
+$string['invalidurl'] = 'Вызначана хібная спасылка';
+$string['invalidurlhttpcheck'] = 'Вызначана хібная спасылка. Адладкавае паведамленьне:<pre>{$a->cmsg}</pre>';
+$string['last'] = 'Апошні доступ';
+$string['lastaccess'] = 'Апошні доступ';
+$string['lastattempt'] = 'Апошняя выкананая спроба';
+$string['lastattemptlock'] = 'Блакаваньне пасьля апошняй спробы';
+$string['lastattemptlock_help'] = 'Калі ўключана, студэнт ня зможа запусьціць SCORM-прайгравальнік пасьля выкарыстаньня ўсіх сваіх прапанаваных спробаў.';
+$string['lastattemptlockdesc'] = 'Калі ўключана, студэнт ня зможа запусьціць SCORM-прайгравальнік пасьля выкарыстаньня ўсіх сваіх прапанаваных спробаў.';
+$string['location'] = 'Паказаць радок месцаваньня';
+$string['masteryoverride'] = 'Майстарскі бал перавызначае статус';
+$string['masteryoverride_help'] = 'Калі ўключана і майстарскі бал паданы, падчас LMSFinish і ўсталёўкі чарнавога балу статус будзе пераразьлічаны з выкарыстаньнем сырога балу і майстарскага балу, а ўсякі статус, паданы SCORM (у тым ліку "нявыканана"), будзе скасаваны.';
+$string['masteryoverridedesc'] = 'Гэтая перавага ўсталёўвае стандартнае значэньне для майстэрскага балу перавызначэньня налады';
+$string['max'] = 'Максімальны бал';
+$string['maximumattempts'] = 'Колькасьць спробаў';
+$string['maximumattempts_help'] = 'Гэтая налада дазваляе абмежаваць колькасьць спробаў. Яна ўжывальная толькі для SCORM 1.2 і AICC-пакетаў.';
+$string['maximumattemptsdesc'] = 'Гэтая перавага ўсталёўвае стандартную максімальную колькасьць спробаў для актыўнасьці';
+$string['maximumgradedesc'] = 'Гэтая перавага ўсталёўвае стандартны максімальны бал за актыўнасьць';
+$string['menubar'] = 'Паказаць радок меню';
+$string['min'] = 'Мінімальны бал';
+$string['missing_attribute'] = 'Адсутны атрыбут {$a->attr} у тэге {$a->tag}';
+$string['missing_tag'] = 'Адсутны тэг {$a->tag}';
+$string['missingparam'] = 'Адсутнічае ці хібны патрэбны параметр';
+$string['mode'] = 'Рэжым';
+$string['modulename'] = 'SCORM-пакет';
+$string['modulename_help'] = 'SCORM-пакет - гэта калекцыя файлаў, упакаваная ў адпаведнасьці з узгодненым стандартам для навучальных аб\'ектаў. Модуль SCORM-актыўнасьці дазваляе запампоўваць SCORM- ці AICC-пакеты ў фармаце zip-файла і дадаваць іх у курс.
 
-Content is usually displayed over several pages, with navigation between the pages. There are various options for displaying content in a pop-up window, with a table of contents, with navigation buttons etc. SCORM activities generally include questions, with grades being recorded in the gradebook.
+Зьмесьціва звычайна адлюстроўваецца на некалькіх старонках з навігацыяй паміж імі. Існуюць розныя опцыі адлюстрованьня зьмесьціва ўва ўсплыўным акне: са зьместам, кнопкамі навігацыі і г.д. SCORM-актыўнасьць звычайна мае пытаньні, адзнакі за якія запісваюцца ў журнал адзнак.
 
-SCORM activities may be used
+SCORM-актыўнасьць льга выкарыстоўваць
 
-* For presenting multimedia content and animations
-* As an assessment tool';
+* Для прэзентаваньня мультымедыя зьмесьціва і анімацыяў
+* Як прыладу для ацэньваньня';
 $string['modulename_link'] = 'mod/scorm/view';
-$string['modulenameplural'] = 'SCORM packages';
-$string['myaiccsessions'] = 'My AICC sessions';
-$string['myattempts'] = 'My attempts';
-$string['nav'] = 'Show Navigation';
-$string['nav_help'] = 'This setting specifies whether to show or hide the navigation buttons and their position.
+$string['modulenameplural'] = 'SCORM-пакеты';
+$string['myaiccsessions'] = 'Мае AICC-сесіі';
+$string['myattempts'] = 'Мае спробы';
+$string['nav'] = 'Паказаць навігацыю';
+$string['nav_help'] = 'Гэтая налада вызначае ці трэба паказваць навігацыю, яе становішча.
 
-There are 3 options:
+Маецца 3 опцыі:
 
-* No - Navigation buttons are not shown
-* Under content - Navigation buttons are shown below the SCORM package content
-* Плывучая - Navigation buttons are shown floating, with the position from the top and from the left determined by the package.';
-$string['navdesc'] = 'This setting specifies whether to show or hide navigation buttons and their position.';
-$string['navigation'] = 'Navigation';
-$string['navpositionleft'] = 'Position of navigation buttons from left in pixels.';
-$string['navpositiontop'] = 'Position of navigation buttons from top in pixels.';
+* Не - Кнопкі навігацыі схаваныя
+* Пад зьмесьцівам - Кнопкі навігацыі паказаны пад зьмесьцівам SCORM-пакету
+* Плывучая - Кнопкі навігацыі адлюстроўваюцца плывучымі, а іх становішча зьверху і зьлева вызначаецца пакетам.';
+$string['navdesc'] = 'Гэтая налада вызначае ці трэба паказаць кнопкі навігацыі і іхняе становішча.';
+$string['navigation'] = 'Навігацыя';
+$string['navpositionleft'] = 'Становішча кнопак навігацыі зьлева ў пікселях.';
+$string['navpositiontop'] = 'Становішча кнопак навігацыі зьверху ў пікселях.';
 $string['networkdropped'] = 'The SCORM player has determined that your Internet connection is unreliable or has been interrupted. If you continue in this SCORM activity, your progress may not be saved.<br />
 You should exit the activity now, and return when you have a dependable Internet connection.';
 $string['newattempt'] = 'Start a new attempt';
@@ -347,8 +347,8 @@ $string['repositorynotsupported'] = 'This repository does not support linking di
 $string['response'] = 'Response';
 $string['result'] = 'Result';
 $string['results'] = 'Results';
-$string['review'] = 'Review';
-$string['reviewmode'] = 'Review mode';
+$string['review'] = 'Агляд';
+$string['reviewmode'] = 'Рэжым агляду';
 $string['rightanswer'] = 'Right answer';
 $string['scoes'] = 'Learning objects';
 $string['score'] = 'Score';
@@ -434,7 +434,7 @@ $string['typeaiccurl'] = 'External AICC URL';
 $string['typeexternal'] = 'External SCORM manifest';
 $string['typelocal'] = 'Uploaded package';
 $string['typelocalsync'] = 'Downloaded package';
-$string['undercontent'] = 'Under content';
+$string['undercontent'] = 'Пад зьмесьцівам';
 $string['unziperror'] = 'An error occurs during package unzip';
 $string['updatefreq'] = 'Auto-update frequency';
 $string['updatefreq_error'] = 'Auto-update frequency can only be set when the package file is hosted externally';
