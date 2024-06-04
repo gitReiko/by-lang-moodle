@@ -60,11 +60,11 @@ $string['attemptstatusmy'] = 'Толькі прыладавая';
 $string['attemptsx'] = '{$a} спробаў';
 $string['attr_error'] = 'Дрэннае значэньне для атрыбута ({$a->attr}) у тэге {$a->tag}.';
 $string['autocommit'] = 'Аўтазьдзяйсьненьне';
-$string['autocommit_help'] = 'Калі ўключана, SCORM-дадзеныя аўтаматычна захоўваюцца ў базе дадзеных. Карысна для SCORM-аб\'ектаў, якія не захоўваюць свае дадзеныя рэгулярна.';
+$string['autocommit_help'] = 'Калі ўключана, SCORM-дадзеныя аўтаматычна захоўваюцца ў базе дадзеных. Карысна для SCORM-мэтаў, якія не захоўваюць свае дадзеныя рэгулярна.';
 $string['autocommitdesc'] = 'Аўтаматычнае захаваньне SCORM-дадзеных, калі SCORM-пакет не захоўвае іх.';
 $string['autocontinue'] = 'Аўтапрацяг';
-$string['autocontinue_help'] = 'Калі ўключана, наступныя вучэбныя аб\'екты запускаюцца аўтаматычна, у адваротным чыне трэба выкарыстоўваць кнопку Працягнуць.';
-$string['autocontinuedesc'] = 'Калі ўключана, наступныя вучэбныя аб\'екты запускаюцца аўтаматычна, у адваротным чыне трэба выкарыстоўваць кнопку Працягнуць.';
+$string['autocontinue_help'] = 'Калі ўключана, наступныя навучальныя мэты запускаюцца аўтаматычна, у адваротным чыне трэба выкарыстоўваць кнопку Працягнуць.';
+$string['autocontinuedesc'] = 'Калі ўключана, наступныя навучальныя мэты запускаюцца аўтаматычна, у адваротным чыне трэба выкарыстоўваць кнопку Працягнуць.';
 $string['averageattempt'] = 'Сярэднія спробы';
 $string['badarchive'] = 'Вы мусіце падаць слушны zip-файл';
 $string['badimsmanifestlocation'] = 'Быў знойдзены imsmanifest.xml файл, але ён не знаходзіцца ў корні вашага zip-файла, калі ласка, перапакуйце вашы SCORM';
@@ -160,8 +160,8 @@ $string['forcecompleted'] = 'Прымусова выканана';
 $string['forcecompleted_help'] = 'Калі ўключана, статус цяперашняй спробы прымусова "выкананы" (Дастасоўна толькі да пакетаў SCORM 1.2).';
 $string['forcecompleteddesc'] = 'Гэтая перавага ўсталёўвае стандартнае значэньне для налады прымусовага выкананьня';
 $string['forcejavascript'] = 'Прымусіць карыстальнікаў уключаць JavaScript';
-$string['forcejavascript_desc'] = 'Калі ўключана (рэкамендуецца), яна прадухіляе доступ да SCORM-аб\'ектаў, калі JavaScript выключаны альбо не падтрымліваецца браўзарам карыстальніка. Калі адключана, карыстальнік можа праглядаць SCORM, але камунікаваньне з API будзе парушана і інфармацыя пра адзнакі ня будзе захавана.';
-$string['forcejavascriptmessage'] = 'Дзеля прагляду гэтага аб\'екту патрабуецца JavaScript, калі ласка, уключыце JavaScript у вашым браўзары і паўтарыце спробу.';
+$string['forcejavascript_desc'] = 'Калі ўключана (рэкамендуецца), яна прадухіляе доступ да SCORM-мэтаў, калі JavaScript выключаны альбо не падтрымліваецца браўзарам карыстальніка. Калі адключана, карыстальнік можа праглядаць SCORM, але камунікаваньне з API будзе парушана і інфармацыя пра адзнакі ня будзе захавана.';
+$string['forcejavascriptmessage'] = 'Дзеля прагляду гэтай мэты патрабуецца JavaScript, калі ласка, уключыце JavaScript у вашым браўзары і паўтарыце спробу.';
 $string['forcenewattempts'] = 'Прымусіць пачаць новую спробу';
 $string['forcenewattempts_help'] = 'Маецца 3 опцыі:
 
@@ -183,13 +183,13 @@ $string['grademethod_help'] = 'Метад ацэньваньня вызнача�
 
 Маецца 4 метаду ацэньваньня:
 
-* Навучальныя аб\'екты - Колькасьць выкананых/пройдзеных навучальных аб\'ектаў
-* Найвысокая адзнака - Найвысокі бал, атрыманы за ўсе пройдзеныя навучальныя аб\'екты
+* Навучальныя мэты - Колькасьць выкананых/пройдзеных навучальных мэтаў
+* Найвысокая адзнака - Найвысокі бал, атрыманы за ўсе пройдзеныя навучальныя мэты
 * Сярэдняя адзнака - Сярэняя з усіх балаў
 * Сума адзнак - Сума ўсіх балаў';
 $string['grademethoddesc'] = 'Метад ацэньваньня вызначае, як вызначаецца адзнака за адну спробу выкананьня актыўнасьці.';
 $string['gradereported'] = 'Адзнака перадана';
-$string['gradescoes'] = 'Навучальныя аб\'екты';
+$string['gradescoes'] = 'Навучальныя мэты';
 $string['gradesettings'] = 'Налады ацэньваньня';
 $string['gradesum'] = 'Сума адзнак';
 $string['height'] = 'Вышыня';
@@ -246,7 +246,7 @@ $string['missing_tag'] = 'Адсутны тэг {$a->tag}';
 $string['missingparam'] = 'Адсутнічае ці хібны патрэбны параметр';
 $string['mode'] = 'Рэжым';
 $string['modulename'] = 'SCORM-пакет';
-$string['modulename_help'] = 'SCORM-пакет - гэта калекцыя файлаў, упакаваная ў адпаведнасьці з узгодненым стандартам для навучальных аб\'ектаў. Модуль SCORM-актыўнасьці дазваляе запампоўваць SCORM- ці AICC-пакеты ў фармаце zip-файла і дадаваць іх у курс.
+$string['modulename_help'] = 'SCORM-пакет - гэта калекцыя файлаў, упакаваная ў адпаведнасьці з узгодненым стандартам для навучальных мэтаў. Модуль SCORM-актыўнасьці дазваляе запампоўваць SCORM- ці AICC-пакеты ў фармаце zip-файла і дадаваць іх у курс.
 
 Зьмесьціва звычайна адлюстроўваецца на некалькіх старонках з навігацыяй паміж імі. Існуюць розныя опцыі адлюстрованьня зьмесьціва ўва ўсплыўным акне: са зьместам, кнопкамі навігацыі і г.д. SCORM-актыўнасьць звычайна мае пытаньні, адзнакі за якія запісваюцца ў журнал адзнак.
 
@@ -270,37 +270,36 @@ $string['navdesc'] = 'Гэтая налада вызначае ці трэба �
 $string['navigation'] = 'Навігацыя';
 $string['navpositionleft'] = 'Становішча кнопак навігацыі зьлева ў пікселях.';
 $string['navpositiontop'] = 'Становішча кнопак навігацыі зьверху ў пікселях.';
-$string['networkdropped'] = 'The SCORM player has determined that your Internet connection is unreliable or has been interrupted. If you continue in this SCORM activity, your progress may not be saved.<br />
-You should exit the activity now, and return when you have a dependable Internet connection.';
-$string['newattempt'] = 'Start a new attempt';
-$string['next'] = 'Continue';
-$string['no_attributes'] = 'Tag {$a->tag} must have attributes';
-$string['no_children'] = 'Tag {$a->tag} must have children';
-$string['noactivity'] = 'Nothing to report';
-$string['noattemptsallowed'] = 'Number of attempts allowed';
-$string['noattemptsmade'] = 'Number of attempts you have made';
-$string['nolimit'] = 'Unlimited attempts';
-$string['nomanifest'] = 'Incorrect file package - missing imsmanifest.xml or AICC structure';
-$string['noprerequisites'] = 'Sorry but you don\'t have the required prerequisites to access this activity.';
-$string['noreports'] = 'No report to display';
-$string['normal'] = 'Normal';
-$string['noscriptnoscorm'] = 'Your browser does not support JavaScript or it has JavaScript support disabled. This SCORM package may not play or save data correctly.';
-$string['not_corr_type'] = 'Type mismatch for tag {$a->tag}';
-$string['notattempted'] = 'Not attempted';
-$string['notopenyet'] = 'Sorry, this activity is not available until {$a}';
-$string['objectives'] = 'Objectives';
-$string['openafterclose'] = 'You have specified an open date after the close date';
-$string['optallstudents'] = 'all users';
-$string['optattemptsonly'] = 'users with attempts only';
-$string['options'] = 'Options (Prevented by some browsers)';
-$string['optionsadv'] = 'Options (Advanced)';
-$string['optionsadv_desc'] = 'If checked the width and height will be listed as advanced settings.';
-$string['optnoattemptsonly'] = 'users with no attempts only';
-$string['organization'] = 'Organisation';
-$string['organizations'] = 'Organisations';
-$string['othersettings'] = 'Additional settings';
-$string['package'] = 'Package file';
-$string['package_help'] = 'The package file is a zip (or pif) file containing SCORM/AICC course definition files.';
+$string['networkdropped'] = 'SCORM-прайгравальнік вызначыў, што вашае далучэньне да Інтэрнэту ненадзейнае альбо пярэрвана. Калі вы працягнеце выкананьне гэтай SCORM-актыўнасьці, вашы прагрэс можа не захавацца.<br />Вы мусіце выйсьці з актыўнасьці зараз і вярнуцца, калі вы будзеце мець надзейнае далучэньне да Інтэрнэту.';
+$string['newattempt'] = 'Пачаць новую спробу';
+$string['next'] = 'Працягнуць';
+$string['no_attributes'] = 'Тэг {$a->tag} мусіць мець атрыбуты';
+$string['no_children'] = 'Тэг {$a->tag} мусіць мець дзяцей';
+$string['noactivity'] = 'Няма пра што здаваць справаздачу';
+$string['noattemptsallowed'] = 'Колькасьць дазволеных спробаў';
+$string['noattemptsmade'] = 'Колькасьць, зробленых вамі, спробаў';
+$string['nolimit'] = 'Бясконцыя спробы';
+$string['nomanifest'] = 'Хібны файл пакету - адсутнічае imsmanifest.xml альбо структура AICC';
+$string['noprerequisites'] = 'Прабачце, аде вы ня маеце патрэбных умоваў для доступа к гэтай актыўнасьці.';
+$string['noreports'] = 'Няма справаздачы для паказу';
+$string['normal'] = 'Нармальна';
+$string['noscriptnoscorm'] = 'Вашы браўзар не падтрымлівае JavaScript альбо ў ім адключана JavaScript падтрымка. Гэты SCORM-пакет можа не прайгравацца альбо захоўваць дадзеныя належным чынам.';
+$string['not_corr_type'] = 'Неадпаведнасьць тыпу для тэга {$a->tag}';
+$string['notattempted'] = 'Спробы ня зроблены';
+$string['notopenyet'] = 'Прабачце, гэтая актыўнасьць недаступная да {$a}';
+$string['objectives'] = 'Мэты';
+$string['openafterclose'] = 'Вы вызначылі дату адкрыцьця пазьней даты закрыцьця';
+$string['optallstudents'] = 'усе карыстальнікі';
+$string['optattemptsonly'] = 'толькі карыстальнікі са спробамі';
+$string['options'] = 'Опцыі (Не падтрымлівае частка браўзараў)';
+$string['optionsadv'] = 'Опцыі (Прасунутыя)';
+$string['optionsadv_desc'] = 'Калі ўключана, шырыня і вышыня будуць у сьпісе прасунутых наладаў.';
+$string['optnoattemptsonly'] = 'толькі карыстальнікі бяз спробаў';
+$string['organization'] = 'Арганізацыя';
+$string['organizations'] = 'Арганізацыі';
+$string['othersettings'] = 'Дадатковыя налады';
+$string['package'] = 'Файл пакету';
+$string['package_help'] = 'Файл пакету - гэта zip-файл (альбо pif-файл), які ўтрымлівае SCORM/AICC-файлы вызначэньня курса.';
 $string['packagedir'] = 'Filesystem error: Can\'t create package directory';
 $string['packagefile'] = 'No package file specified';
 $string['packagehdr'] = 'Package';
@@ -350,7 +349,7 @@ $string['results'] = 'Results';
 $string['review'] = 'Агляд';
 $string['reviewmode'] = 'Рэжым агляду';
 $string['rightanswer'] = 'Right answer';
-$string['scoes'] = 'Learning objects';
+$string['scoes'] = 'Навучальныя мэты';
 $string['score'] = 'Score';
 $string['scorm:addinstance'] = 'Add a new SCORM package';
 $string['scorm:deleteownresponses'] = 'Delete own attempts';
@@ -381,11 +380,11 @@ $string['selectnone'] = 'Deselect all';
 $string['show'] = 'Show';
 $string['sided'] = 'To the side';
 $string['skipview'] = 'Student skip content structure page';
-$string['skipview_help'] = 'This setting specifies whether the content structure page should ever be skipped (not displayed). If the package contains only one learning object, the content structure page can always be skipped.';
+$string['skipview_help'] = 'This setting specifies whether the content structure page should ever be skipped (not displayed). If the package contains only one learning мэты, the content structure page can always be skipped.';
 $string['skipviewdesc'] = 'This preference sets the default for when to skip content structure for a page';
-$string['slashargs'] = 'WARNING: slash arguments is disabled on this site and objects may not function as expected!';
+$string['slashargs'] = 'WARNING: slash arguments is disabled on this site and мэты may not function as expected!';
 $string['stagesize'] = 'Stage size';
-$string['stagesize_help'] = 'These two settings specify the frame/window width and height for the learning objects.';
+$string['stagesize_help'] = 'These two settings specify the frame/window width and height for the learning мэты.';
 $string['started'] = 'Started on';
 $string['status'] = 'Status';
 $string['statusbar'] = 'Show the status bar';
