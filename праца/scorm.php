@@ -367,35 +367,35 @@ $string['scormresponsedeleted'] = 'Выдаленыя спробы карыст�
 $string['scormstandard'] = 'Стандартны рэжым SCORM';
 $string['scormstandarddesc'] = 'Калі адключана, Moodle дазваляе SCORM-пакетам 1.2 захоўваць болей за дазволенае сьпецыфікацыяй, і выкарыстоўвае налады фармату поўнага імя Moodle падчас перадачы імён карыстальнікаў у SCORM-пакет.';
 $string['scormtype'] = 'Тып';
-$string['scormtype_help'] = 'This setting determines how the package is included in the course. There are up to 4 options:
+$string['scormtype_help'] = 'Гэтая налада вызначае, якім чынам пакет будзе даданы ў курс. Льга абраць 4 опцыі:
 
-* Uploaded package - Enables a SCORM package to be chosen via the file picker
-* External SCORM manifest - Enables an imsmanifest.xml URL to be specified. Note: If the URL has a different domain name than your site, then "Downloaded package" is a better option, since otherwise grades are not saved.
-* Downloaded package - Enables a package URL to be specified. The package will be unzipped and saved locally, and updated when the external SCORM package is updated.
-* External AICC URL - this URL is the launch URL for a single AICC Activity.  A psuedo package will be constructed around this.';
-$string['scrollbars'] = 'Allow the window to be scrolled';
-$string['search:activity'] = 'SCORM package - activity information';
-$string['selectall'] = 'Select all';
-$string['selectnone'] = 'Deselect all';
-$string['show'] = 'Show';
-$string['sided'] = 'To the side';
-$string['skipview'] = 'Student skip content structure page';
-$string['skipview_help'] = 'This setting specifies whether the content structure page should ever be skipped (not displayed). If the package contains only one learning мэты, the content structure page can always be skipped.';
-$string['skipviewdesc'] = 'This preference sets the default for when to skip content structure for a page';
-$string['slashargs'] = 'WARNING: slash arguments is disabled on this site and мэты may not function as expected!';
-$string['stagesize'] = 'Stage size';
-$string['stagesize_help'] = 'These two settings specify the frame/window width and height for the learning мэты.';
-$string['started'] = 'Started on';
-$string['status'] = 'Status';
-$string['statusbar'] = 'Show the status bar';
-$string['student_response'] = 'Response';
-$string['subplugintype_scormreport'] = 'Report';
-$string['subplugintype_scormreport_plural'] = 'Reports';
-$string['suspended'] = 'Suspended';
-$string['syntax'] = 'Syntax error';
-$string['tag_error'] = 'Unknown tag ({$a->tag}) with this content: {$a->value}';
-$string['time'] = 'Time';
-$string['title'] = 'Title';
+* Запампаваны пакет - Дазваляе абраць SCORM-пакет праз абіральнік файлаў
+* Вонкавы SCORM-маніфест - Дазваляе вызначыць спасылку на imsmanifest.xml. Нататка: Калі спасылка мае адрозны дамен ад дамену вашага сайту, лепей абраць "Спампаваны пакет", бо ў адрозным выпадку адзнакі ня будуць захоўвацца.
+* Спампаваны пакет - Дазваляе вызначыць спасылку на пакет. Пакет будзе распакаваны і захаваны лакальна, а потым абноўлены падчас абнаўленьня вонкавага SCORM-пакету.
+* Вонкавая AICC-спасылка - Гэтая спасылка - спасылка запуску адной AICC-актыўнасьці. Дзеля гэтага будзе створаны псеўдапакет.';
+$string['scrollbars'] = 'Дазволіць прагортку вакна';
+$string['search:activity'] = 'SCORM-пакет - інфармацыя пра актыўнасьць';
+$string['selectall'] = 'Абраць усё';
+$string['selectnone'] = 'Скасаваць усё абраньне';
+$string['show'] = 'Паказаць';
+$string['sided'] = 'Убок';
+$string['skipview'] = 'Пропуск студэнтам старонкі структуры зьмесьціва';
+$string['skipview_help'] = 'Гэтая налада вызначае, ці варта прапускаць (не адлюстроўваць) старонку структуры зьмесьціва. Калі пакет утрымлівае толькі адну навучальную мэту, старонку структуры зьмесьціва льга заўжды прапускаць.';
+$string['skipviewdesc'] = 'Гэтая перавага вызначае стандартнае значэньне дзеля пропуску старонкі структуры зьмесьціва';
+$string['slashargs'] = 'УВАГА: на гэтым сайце адключаны слэш-аргументы, таму мэты могуць функцыянаваць не чаканым чынам!';
+$string['stagesize'] = 'Памер фрэйму';
+$string['stagesize_help'] = 'Гэныя дзьве налады вызначаюць вышыню и шырыню фрэйма/акна навучальнай мэты.';
+$string['started'] = 'Пачатак';
+$string['status'] = 'Статус';
+$string['statusbar'] = 'Паказваць радок статусу';
+$string['student_response'] = 'Водкліч';
+$string['subplugintype_scormreport'] = 'Справаздача';
+$string['subplugintype_scormreport_plural'] = 'Справаздачы';
+$string['suspended'] = 'Заблакавана';
+$string['syntax'] = 'Сінтаксічная памылка';
+$string['tag_error'] = 'Невядомы тэг ({$a->tag}) у гэтым зьмесьціве: {$a->value}';
+$string['time'] = 'Час';
+$string['title'] = 'Назва';
 $string['toc'] = 'TOC';
 $string['too_many_attributes'] = 'Tag {$a->tag} has too many attributes';
 $string['too_many_children'] = 'Tag {$a->tag} has too many children';
@@ -429,10 +429,10 @@ $string['tracktype_help'] = 'Type of the question, for example "choice" or "shor
 $string['trackweight'] = 'Weight';
 $string['trackweight_help'] = 'Weight assigned to the question when calculating score.';
 $string['type'] = 'Type';
-$string['typeaiccurl'] = 'External AICC URL';
-$string['typeexternal'] = 'External SCORM manifest';
-$string['typelocal'] = 'Uploaded package';
-$string['typelocalsync'] = 'Downloaded package';
+$string['typeaiccurl'] = 'Вонкавая AICC-спасылка';
+$string['typeexternal'] = 'Вонкавы SCORM-маніфест';
+$string['typelocal'] = 'Запампаваны пакет';
+$string['typelocalsync'] = 'Спампаваны пакет';
 $string['undercontent'] = 'Пад зьмесьцівам';
 $string['unziperror'] = 'An error occurs during package unzip';
 $string['updatefreq'] = 'Auto-update frequency';
