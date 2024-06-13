@@ -154,6 +154,9 @@ datafield_url -------------------- 100%
 ||   ||   ||
 \/   \/   \/
 
+editor_atto ---------------------- 
+editor_textarea ------------------ 
+editor_tiny ---------------------- 
 enrol_category ------------------- 100%
 enrol_cohort --------------------- 100%
 ||   ||   ||
@@ -247,6 +250,12 @@ mod_workshop --------------------- 100%
 ||   ||   ||
 \/   \/   \/
 
+profilefield_checkbox ------------ 
+profilefield_datetime ------------ 
+profilefield_menu ---------------- 
+profilefield_social -------------- 
+profilefield_text ---------------- 
+profilefield_textarea ------------ 
 qbank_bulkmove ------------------- 100%
 qbank_columnsortorder ------------ 100%
 qbank_comment -------------------- 100%
@@ -315,6 +324,14 @@ quizaccess_password -------------- 100%
 quizaccess_seb ------------------- 100%
 quizaccess_securewindow ---------- 100%
 quizaccess_timelimit ------------- 100%
+
+||   ||   ||
+\/   \/   \/
+
+scormreport_basic ----------------- 
+scormreport_graphs ---------------- 
+scormreport_interactions ---------- 
+scormreport_objectives ------------ 
 
 ||   ||   ||
 \/   \/   \/
