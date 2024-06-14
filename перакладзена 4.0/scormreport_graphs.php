@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['invaliddata'] = 'Not enough data';
-$string['participants'] = 'Number of participants';
-$string['percent'] = 'Percent(%) secured';
-$string['pluginname'] = 'Graph report';
-$string['privacy:metadata'] = 'The Graph report only shows data stored in other locations.';
+$string['invaliddata'] = 'Бракуе дадзеных';
+$string['participants'] = 'Колькасьць удзельнікаў';
+$string['percent'] = 'Адсотак(%) бясьпечнасьці';
+$string['pluginname'] = 'Графічная справаздача';
+$string['privacy:metadata'] = 'Графічная справаздача толькі адлюстроўвае дадзеныя, што захоўваюцца ў іншых месцах.';

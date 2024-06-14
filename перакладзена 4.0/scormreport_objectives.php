@@ -25,10 +25,10 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['objectivescore'] = 'Show objective score';
-$string['objectivex'] = 'Objective {$a}';
-$string['pluginname'] = 'Objectives report';
-$string['privacy:metadata:preference:scorm_report_objectives_score'] = 'Whether to display the objective score in the SCORM report';
-$string['privacy:metadata:preference:scorm_report_pagesize'] = 'Number of users to display in the SCORM reports';
-$string['score'] = 'score';
-$string['status'] = 'status';
+$string['objectivescore'] = 'Паказаць бал мэты';
+$string['objectivex'] = 'Мэта {$a}';
+$string['pluginname'] = 'Справаздача мэтаў';
+$string['privacy:metadata:preference:scorm_report_objectives_score'] = 'Ці трэба адлюстроўваць бал мэты ў SCORM-справаздачы';
+$string['privacy:metadata:preference:scorm_report_pagesize'] = 'Колькасьць карыстальнікаў для адлюстраваньня ў SCORM-справаздачах';
+$string['score'] = 'бал';
+$string['status'] = 'статус';

@@ -328,10 +328,10 @@ quizaccess_timelimit ------------- 100%
 ||   ||   ||
 \/   \/   \/
 
-scormreport_basic ----------------- 
-scormreport_graphs ---------------- 
-scormreport_interactions ---------- 
-scormreport_objectives ------------ 
+scormreport_basic ----------------- 100%
+scormreport_graphs ---------------- 100%
+scormreport_interactions ---------- 100%
+scormreport_objectives ------------ 100%
 
 ||   ||   ||
 \/   \/   \/
