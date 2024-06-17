@@ -155,7 +155,7 @@ datafield_url -------------------- 100%
 \/   \/   \/
 
 editor_atto ---------------------- 
-editor_textarea ------------------ 
+editor_textarea ------------------ 100%
 editor_tiny ---------------------- 
 enrol_category ------------------- 100%
 enrol_cohort --------------------- 100%

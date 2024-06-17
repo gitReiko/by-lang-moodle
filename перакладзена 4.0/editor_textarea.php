@@ -25,5 +25,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Plain text area';
-$string['privacy:metadata'] = 'The Plain text area editor plugin does not store any personal data.';
+$string['pluginname'] = 'Вобласьць простага тэксту';
+$string['privacy:metadata'] = 'Плагін рэдактару Вобласьць простага тэксту не захоўвае аніякіх асабістых дадзеных.';
