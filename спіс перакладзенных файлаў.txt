@@ -24,7 +24,7 @@ core_countries ------------------- 100%
 core_course ---------------------- 100%
 core_courseformat ---------------- 100%
 core_currencies ------------------
-core_customfield -----------------
+core_customfield ----------------- 100%
 core_dbtransfer ------------------
 core_debug -----------------------
 core_editor ---------------------- 100%
@@ -156,7 +156,7 @@ datafield_url -------------------- 100%
 
 editor_atto ---------------------- 100%
 editor_textarea ------------------ 100%
-editor_tiny ---------------------- 
+editor_tiny ---------------------- 100%
 enrol_category ------------------- 100%
 enrol_cohort --------------------- 100%
 ||   ||   ||
