@@ -25,9 +25,9 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Text input';
-$string['privacy:metadata:profilefield_text:data'] = 'Text input user profile field user data';
-$string['privacy:metadata:profilefield_text:dataformat'] = 'The format of Text input user profile field user data';
-$string['privacy:metadata:profilefield_text:fieldid'] = 'The ID of the profile field';
-$string['privacy:metadata:profilefield_text:tableexplanation'] = 'Additional profile data';
-$string['privacy:metadata:profilefield_text:userid'] = 'The ID of the user whose data is stored by the Text input user profile field';
+$string['pluginname'] = 'Увод тэксту';
+$string['privacy:metadata:profilefield_text:data'] = 'Дадзеныя ўводу тэксту карыстальніцкага поля профілю';
+$string['privacy:metadata:profilefield_text:dataformat'] = 'Дадзеныя фармату тэкставага ўводу карыстальніцкага поля профілю';
+$string['privacy:metadata:profilefield_text:fieldid'] = 'ID поля профілю';
+$string['privacy:metadata:profilefield_text:tableexplanation'] = 'Дадатковыя дадзеныя профілю';
+$string['privacy:metadata:profilefield_text:userid'] = 'ID карыстальніка чые дадзеныя захоўваюцца карыстальніцкім полем профілю Ўвод тэксту';

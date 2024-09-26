@@ -25,9 +25,9 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Drop-down menu';
-$string['privacy:metadata:profilefield_menu:data'] = 'Drop-down menu user profile field user data';
-$string['privacy:metadata:profilefield_menu:dataformat'] = 'The format of the drop-down menu user profile field user data';
-$string['privacy:metadata:profilefield_menu:fieldid'] = 'The ID of the profile field';
-$string['privacy:metadata:profilefield_menu:tableexplanation'] = 'Additional profile data';
-$string['privacy:metadata:profilefield_menu:userid'] = 'The ID of the user whose data is stored by the drop-down menu user profile field';
+$string['pluginname'] = 'Выпадное меню';
+$string['privacy:metadata:profilefield_menu:data'] = 'Дадзеныя выпаднога меню карыстальніцкага поля профілю';
+$string['privacy:metadata:profilefield_menu:dataformat'] = 'Дадзеныя фармату выпаднога меню карыстальніцкага поля профілю';
+$string['privacy:metadata:profilefield_menu:fieldid'] = 'ID поля профілю';
+$string['privacy:metadata:profilefield_menu:tableexplanation'] = 'Дадатковыя дадзеныя профілю';
+$string['privacy:metadata:profilefield_menu:userid'] = 'ID карыстальніка чые дадзеныя захоўваюцца карыстальніцкім полем профілю Выпадное меню';

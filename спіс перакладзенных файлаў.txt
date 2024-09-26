@@ -250,12 +250,12 @@ mod_workshop --------------------- 100%
 ||   ||   ||
 \/   \/   \/
 
-profilefield_checkbox ------------ 
-profilefield_datetime ------------ 
-profilefield_menu ---------------- 
-profilefield_social -------------- 
-profilefield_text ---------------- 
-profilefield_textarea ------------ 
+profilefield_checkbox ------------ 100%
+profilefield_datetime ------------ 100%
+profilefield_menu ---------------- 100%
+profilefield_social -------------- 100%
+profilefield_text ---------------- 100%
+profilefield_textarea ------------ 100%
 qbank_bulkmove ------------------- 100%
 qbank_columnsortorder ------------ 100%
 qbank_comment -------------------- 100%
