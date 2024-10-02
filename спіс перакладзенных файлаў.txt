@@ -5,7 +5,7 @@ core_access ---------------------- 100%
 core_admin ----------------------- 
 core_adminpresets ----------------
 core_analytics -------------------
-core_antivirus -------------------
+core_antivirus ------------------- 100%
 core_auth ------------------------
 core_availability ---------------- 100%
 core_backup ----------------------
