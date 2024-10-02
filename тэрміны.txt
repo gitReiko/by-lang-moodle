@@ -1,3 +1,4 @@
+Accounts = акаўнт
 Advanced = прасунуты
 Allocated Marker = Разьмеркаваная пазнака
 announcements = аб\'явы аб\'яваў

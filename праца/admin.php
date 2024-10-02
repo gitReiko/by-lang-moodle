@@ -25,10 +25,10 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['accessdenied'] = 'Access denied';
-$string['accounts'] = 'Accounts';
-$string['addcategory'] = 'Add a category';
-$string['additionalhtml'] = 'Additional HTML';
+$string['accessdenied'] = 'Доступ забаронены';
+$string['accounts'] = 'Акаўнты';
+$string['addcategory'] = 'Дадаць катэгорыю';
+$string['additionalhtml'] = 'Дадатковы HTML';
 $string['additionalhtml_desc'] = 'These settings allow you to specify HTML that you want added to every page. You can set HTML that will be added within the HEAD tag for the page, immediately after the BODY tag has been opened, or immediately before the body tag is closed.<br />Doing this allows you to add custom headers or footers on every page, or add support for services like Google Analytics very easily, independent of your chosen theme.';
 $string['additionalhtml_heading'] = 'Additional HTML to be added to every page.';
 $string['additionalhtmlfooter'] = 'Before BODY is closed';
