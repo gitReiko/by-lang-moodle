@@ -1,0 +1,2 @@
+Force Login = Прымусовы Ўваход
+Publish as LTI tool = Публікаваць як LTI сродак
