@@ -91,6 +91,7 @@ icons = выявы
 images = выява
 Insight = прадказаньне
 insights = асьвятленьні
+Instances = Асобнікі
 jobs = працы (крон)
 jump = скок (занятак)
 label = пазнака (Track)
